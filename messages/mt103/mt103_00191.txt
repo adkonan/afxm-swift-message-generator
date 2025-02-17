@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240917BFSWUS33XXXXXXXN}{3:{121:f5e24cf6-df2a-4528-a3c1-8a75ee7e28e5}}{4:
+:20:REF-38529
+:23B:CRED
+:32A:240917CNY365160.00
+:50K:/OC4722932
+Williams LLC
+143 Sawyer Fords New Andrewmouth, KS 91546
+:57A:BFSWUS33XXX
+:59:/BEN53777453085293
+Thomas, Browning and Peters
+2822 Williams Gateway Suite 143 Susanberg, GA 19006
+:70:INV A3B0EDDE0063 Heart another choice leg likely suffer guy however.
+:71A:OUR
+-}{5:{CHK:9ca9a72d42}}

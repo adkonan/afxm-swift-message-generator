@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241205ECOCGHANXXXXXXXN}{3:{121:e701667c-c1b0-4482-8d84-a5a8349bdf62}}{4:
+:20:REF-43789
+:23B:CRED
+:32A:241205AUD366727.00
+:50K:/OC7986114
+Gutierrez, Hoffman and Jones
+609 Lisa Fork Candaceborough, MA 43047
+:57A:ECOCGHANXXX
+:59:/BEN65177024446649
+Mckenzie, Hicks and Morton
+828 Cochran Squares East Tyler, NV 14674
+:70:INV A5FBDEFDBF74 Loss soon ok late significant market.
+:71A:OUR
+-}{5:{CHK:3db6c2ecf8}}

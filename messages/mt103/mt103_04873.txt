@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103241117ZURICHZCHXXXXXXXN}{3:{121:c1e67daf-f255-4a48-84d4-d35ac071a339}}{4:
+:20:REF-97743
+:23B:CRED
+:32A:241117CNY408572.00
+:50K:/OC7464196
+Wright, Cisneros and Garcia
+917 Odom Extension Roblesburgh, RI 69579
+:57A:ZURICHZCHXXX
+:59:/BEN56226609784582
+Lee, Keller and Guzman
+964 Victor Gateway West Seanchester, OK 68516
+:70:INV A50FC2C47F34 Produce bring along part summer.
+:71A:OUR
+-}{5:{CHK:dd97610ad4}}

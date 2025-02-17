@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103240319STANKEKEXXXXXXXN}{3:{121:7b4827d7-95df-422a-a204-6b2ff9d2de49}}{4:
+:20:REF-20633
+:23B:CRED
+:32A:240319GBP407632.00
+:50K:/OC4353250
+Wiggins, Mitchell and Hughes
+58333 Stone Falls Suite 506 Port Caitlinview, IL 70813
+:57A:STANKEKEXXX
+:59:/BEN85093824978134
+Ramirez Ltd
+2155 Kimberly Overpass Turnerside, CT 26631
+:70:INV FE2260F4FDD8 Several central lay front give central protect.
+:71A:OUR
+-}{5:{CHK:7f485a2fa6}}

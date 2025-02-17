@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240720BKBKPHMMXXXXXXXN}{3:{121:5cd217ae-4917-4b52-ac4b-e4ce8e3b59c4}}{4:
+:20:REF-71272
+:23B:CRED
+:32A:240720SGD246627.00
+:50K:/OC3423168
+Tran, Williams and Acosta
+9942 Barbara Brooks Brianberg, MP 99847
+:57A:BKBKPHMMXXX
+:59:/BEN65741054427616
+Cisneros, Webb and Wall
+44994 Pena Ways West Elizabeth, IN 35897
+:70:INV C53EE712DA81 Price yet recognize current remain cause.
+:71A:OUR
+-}{5:{CHK:cd35452f1f}}

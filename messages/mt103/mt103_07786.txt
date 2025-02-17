@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240809ZURICHZCHXXXXXXXN}{3:{121:891c1546-175e-41d2-904a-c04353d03f90}}{4:
+:20:REF-46844
+:23B:CRED
+:32A:240809KPW36058.00
+:50K:/OC2772617
+Burke Inc
+3603 Ramirez Terrace Suite 984 North Anthonyside, PW 12097
+:57A:ZURICHZCHXXX
+:59:/BEN56933231964032
+Wright, Neal and Harrington
+4690 Russell Circle Apt. 794 South Darius, NY 66565
+:70:INV F346D4374984 Billion clearly statement political understand quality.
+:71A:OUR
+-}{5:{CHK:1e6ae9f004}}

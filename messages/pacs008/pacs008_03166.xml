@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>DTBKIDJAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BKCHHKHXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-79068</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.500468</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-79068</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.500469</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">482354.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Garcia, Doyle and Collins</Nm></Dbtr>
+            <Cdtr><Nm>Lewis-Morgan</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

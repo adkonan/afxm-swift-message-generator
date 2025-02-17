@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103241005SOGEFRPPXXXXXXXN}{3:{121:3af0d3e4-0dec-4d5a-8ce9-7b93bcf89df4}}{4:
+:20:REF-48509
+:23B:CRED
+:32A:241005USD105152.00
+:50K:/OC9057594
+Wilson, Bradley and Garner
+90628 Gutierrez Divide Suite 111 Greentown, ND 18743
+:57A:SOGEFRPPXXX
+:59:/BEN79035001181405
+Clark-Harvey
+79668 Eric Mountain Danchester, NE 98722
+:70:INV D86FCB583166 Blue describe attack artist growth.
+:71A:OUR
+-}{5:{CHK:7ec179f5c6}}

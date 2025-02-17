@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240305BKCHHKHXXXXXXXXN}{3:{121:753bdca2-c0a4-4b6d-970b-72960fbc8a61}}{4:
+:20:REF-31228
+:23B:CRED
+:32A:240305EUR96923.00
+:50K:/OC3142381
+Rice Ltd
+5507 Samantha Hills East Williamchester, CA 89444
+:57A:BKCHHKHXXXX
+:59:/BEN85445738202532
+West-Gonzalez
+924 Charles Divide Suite 923 Martinfurt, SC 95871
+:70:INV B7D268231231 Simple rest traditional kitchen customer charge middle.
+:71A:OUR
+-}{5:{CHK:650268853c}}

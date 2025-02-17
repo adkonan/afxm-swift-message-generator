@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BKBKPHMMXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BNPAFRPPXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-98924</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.194431</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-98924</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.194432</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">31744.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Neal Ltd</Nm></Dbtr>
+            <Cdtr><Nm>Hebert PLC</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BKCHHKHXXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BCAOAOAOXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-19497</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.765529</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-19497</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.765538</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CHF">117358.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>White-Beltran</Nm></Dbtr>
+            <Cdtr><Nm>Perez, Ellison and Daniel</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

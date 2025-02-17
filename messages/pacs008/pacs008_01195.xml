@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BOJZBJZAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-21504</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.004825</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-21504</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.004827</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CNY">423134.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Bautista-Swanson</Nm></Dbtr>
+            <Cdtr><Nm>Davis, Lara and Kelly</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

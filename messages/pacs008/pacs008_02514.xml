@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ZENITHNGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BKCHHKHXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-68535</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.342825</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-68535</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.342827</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="EUR">300109.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Cross, Jackson and Young</Nm></Dbtr>
+            <Cdtr><Nm>Shah and Sons</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

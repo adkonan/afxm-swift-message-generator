@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240810FBNINGLAXXXXXXXN}{3:{121:24db907d-00cd-4c99-986f-9d7c9eb203b2}}{4:
+:20:REF-64339
+:23B:CRED
+:32A:240810AUD2860.00
+:50K:/OC4401366
+Turner-Gould
+16636 Smith Estate Holmesshire, OH 27851
+:57A:FBNINGLAXXX
+:59:/BEN27890272712759
+Woods, Watts and Hicks
+37987 Santiago Cliff Lake Tracy, VI 59410
+:70:INV 8EF6AC43F20D Improve participant likely month relate agency specific.
+:71A:OUR
+-}{5:{CHK:a83909433c}}

@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103250106UBSWRIT2XXXXXXXN}{3:{121:aec9431b-4912-47ab-9b55-d33b1314c2cc}}{4:
+:20:REF-48942
+:23B:CRED
+:32A:250106GBP54524.00
+:50K:/OC3352387
+Dawson, Sherman and Kim
+76211 Moreno River East Seth, NC 80390
+:57A:UBSWRIT2XXX
+:59:/BEN98140497544647
+Contreras and Sons
+9324 Cooper Way Apt. 284 South Matthew, NV 04216
+:70:INV F8CCD692B733 Artist rate late federal pass similar beat.
+:71A:OUR
+-}{5:{CHK:d3a2be0f1b}}

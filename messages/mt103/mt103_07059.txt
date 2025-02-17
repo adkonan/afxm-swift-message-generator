@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240824ECOCMLABXXXXXXXN}{3:{121:73b662ce-2aad-4ca5-9b61-9544ac78d0d0}}{4:
+:20:REF-51724
+:23B:CRED
+:32A:240824SGD196312.00
+:50K:/OC9954756
+Chavez, Clark and Wheeler
+2427 Kennedy Crossing Apt. 265 Ramirezbury, MA 37972
+:57A:ECOCMLABXXX
+:59:/BEN64772685144821
+Pena, Sanders and Rowe
+868 Franklin Fork Suite 718 Lake Heidi, MP 02885
+:70:INV AD52B903A3A6 Industry receive bill environmental.
+:71A:OUR
+-}{5:{CHK:9d49b07c87}}

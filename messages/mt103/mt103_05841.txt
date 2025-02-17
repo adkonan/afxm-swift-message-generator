@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103241211BOJZBJZAXXXXXXXN}{3:{121:5472cdf3-ef27-4eed-99ec-1dd7c547f20c}}{4:
+:20:REF-62209
+:23B:CRED
+:32A:241211CHF442421.00
+:50K:/OC2265264
+Schroeder LLC
+706 Steve Divide Princeside, NV 97763
+:57A:BOJZBJZAXXX
+:59:/BEN67859595668994
+Mcdaniel-Oconnor
+20581 Rodriguez Forges Apt. 169 Kevinstad, NH 31790
+:70:INV 1C2C2681C05C Mother education capital your something whose break.
+:71A:OUR
+-}{5:{CHK:d4552bea60}}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-82616</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.345859</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-82616</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.345860</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="USD">483973.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Escobar, Bolton and Marquez</Nm></Dbtr>
+            <Cdtr><Nm>Fisher, Hall and Duran</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>FCMBNGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ZENITHNGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-65550</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.504898</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-65550</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.504899</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="GBP">343461.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Kennedy, Sanders and Carney</Nm></Dbtr>
+            <Cdtr><Nm>Hoffman, Zimmerman and Harrington</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

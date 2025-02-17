@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240415AFRIGHACXXXXXXXN}{3:{121:2b6cbc0a-a462-4d68-bba2-ac7a746fd9eb}}{4:
+:20:REF-44750
+:23B:CRED
+:32A:240415XAU429613.00
+:50K:/OC4177978
+Sanchez and Sons
+7212 Harrison Flats North Christopher, WY 20033
+:57A:AFRIGHACXXX
+:59:/BEN89201973525281
+Snow Inc
+678 English Falls Suite 307 Thomasstad, WV 52677
+:70:INV 663014CB406D Heavy short sometimes me must knowledge hair.
+:71A:OUR
+-}{5:{CHK:f2d91bee7c}}

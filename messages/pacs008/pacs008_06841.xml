@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>FCMBNGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>STANGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-84592</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.392142</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-84592</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.392145</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="JPY">22962.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Wright Group</Nm></Dbtr>
+            <Cdtr><Nm>Jackson, Mora and Sanders</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

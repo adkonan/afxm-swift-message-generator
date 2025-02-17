@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240527AFRIGHACXXXXXXXN}{3:{121:0d48fc3a-052c-44f1-a27b-be251e672f00}}{4:
+:20:REF-21327
+:23B:CRED
+:32A:240527SGD135054.00
+:50K:/OC5092338
+Knox Ltd
+34881 Crystal Cove Suite 924 Oconnellmouth, NM 59451
+:57A:AFRIGHACXXX
+:59:/BEN25815977244997
+Garner, Adams and Johnson
+53719 Kathleen Walk Suite 015 East Jennifer, ND 42381
+:70:INV D10A8B6C9037 Whose require though administration sound perform leader.
+:71A:OUR
+-}{5:{CHK:e2fff2ad8b}}

@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103250125FCMBNGLAXXXXXXXN}{3:{121:a19b547e-b369-4135-b2eb-ef1770c6acd6}}{4:
+:20:REF-38249
+:23B:CRED
+:32A:250125AUD424029.00
+:50K:/OC6593743
+Henderson, Reynolds and Gibson
+057 Brandon Roads Apt. 122 North Robert, MD 33723
+:57A:FCMBNGLAXXX
+:59:/BEN73554699840582
+Williamson, Parks and Hale
+230 Michael Place Suite 413 Valdezstad, MA 48767
+:70:INV 0FF2F5690D86 Hard pattern now result after magazine.
+:71A:OUR
+-}{5:{CHK:81c40adb25}}

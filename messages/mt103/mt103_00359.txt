@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240710NEDSZAJJXXXXXXXN}{3:{121:52a2fb65-beb6-48dd-bb70-b969abc46f6d}}{4:
+:20:REF-19113
+:23B:CRED
+:32A:240710EUR376192.00
+:50K:/OC5140863
+Cole-Stuart
+58535 Kenneth Radial Catherineland, AZ 50208
+:57A:NEDSZAJJXXX
+:59:/BEN28481202674989
+Collins, Moreno and Woodard
+35905 Norris Burgs Kevinmouth, IL 86121
+:70:INV B4263A937060 Eye certainly dream memory development size physical.
+:71A:OUR
+-}{5:{CHK:f0eea74f71}}

@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103250111DTBKIDJAXXXXXXXN}{3:{121:41c19e4f-cc65-41f4-a0ee-59d52411085e}}{4:
+:20:REF-79396
+:23B:CRED
+:32A:250111AUD302475.00
+:50K:/OC8011880
+Scott-Rivera
+198 Oscar Parkway Thomasmouth, AS 25852
+:57A:DTBKIDJAXXX
+:59:/BEN57568955990864
+Solomon, Martinez and Mason
+018 Alyssa Route Suite 486 Lindseytown, AL 01434
+:70:INV 1CD4913B93ED Time court involve event hospital have travel.
+:71A:OUR
+-}{5:{CHK:0136d0e546}}

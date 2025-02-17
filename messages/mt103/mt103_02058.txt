@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240417CITIUS33XXXXXXXN}{3:{121:b66daadf-2e89-4ca2-a8e4-89ba40c3a6f7}}{4:
+:20:REF-87085
+:23B:CRED
+:32A:240417SGD73255.00
+:50K:/OC3118217
+Beasley, Cook and Cooper
+645 Dana Club Fischerhaven, LA 76450
+:57A:CITIUS33XXX
+:59:/BEN78091124781120
+Smith and Sons
+38757 Mata Keys Sotofort, OH 51159
+:70:INV 52AEE8BB4FCD System animal assume everyone heart song become.
+:71A:OUR
+-}{5:{CHK:2d1138c979}}

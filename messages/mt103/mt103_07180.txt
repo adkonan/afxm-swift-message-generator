@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240307ECOCMLABXXXXXXXN}{3:{121:ebe6b5dd-3716-46f1-b56a-7b2be4335a3b}}{4:
+:20:REF-89640
+:23B:CRED
+:32A:240307SGD172844.00
+:50K:/OC1972912
+Estrada, Nash and Macias
+0393 Bates Park Suite 811 Lake Anna, AR 39534
+:57A:ECOCMLABXXX
+:59:/BEN52744515315037
+Kidd, Marshall and Jackson
+2007 Cook Turnpike Aaronside, WV 72721
+:70:INV 4875BF90DBF1 General also poor baby subject behind paper floor.
+:71A:OUR
+-}{5:{CHK:629cd134bb}}

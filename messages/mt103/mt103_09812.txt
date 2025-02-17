@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240413ECOCMLABXXXXXXXN}{3:{121:7fd82d2d-5468-4004-b669-e3c8f75fa51a}}{4:
+:20:REF-84092
+:23B:CRED
+:32A:240413KPW477515.00
+:50K:/OC2488764
+Pierce, Adams and Atkinson
+00873 Christina Landing Apt. 997 North Mackenzie, PW 46187
+:57A:ECOCMLABXXX
+:59:/BEN69618682799334
+Daniel Ltd
+2156 Holly Plaza Apt. 063 Floreston, TN 28475
+:70:INV 7A358355725B Fear chance or author leave perform know become.
+:71A:OUR
+-}{5:{CHK:eeec506211}}

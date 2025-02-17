@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240319RABONL2UXXXXXXXN}{3:{121:70cf3e4a-deb6-4197-b7ee-9a76faa144de}}{4:
+:20:REF-61159
+:23B:CRED
+:32A:240319CAD1052.48
+:50K:/OC5236188
+Williams, Gutierrez and Meyer
+780 Tony Plaza Suite 165 West Gary, SD 46284
+:57A:RABONL2UXXX
+:59:/BEN24142492170604
+Griffin Inc
+5955 Beck Brook Lake Kathleenberg, MI 27221
+:70:INV 79DFEA7BE8E3 Knowledge artist structure executive audience toward.
+:71A:OUR
+-}{5:{CHK:2b9248dfcb}}

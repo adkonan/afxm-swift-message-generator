@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103241209BOFAUS3NXXXXXXXN}{3:{121:bca1b02d-2c28-4c8f-8951-14a1f450c2ee}}{4:
+:20:REF-39142
+:23B:CRED
+:32A:241209XAG324263.00
+:50K:/OC9860606
+Charles, Rogers and Phillips
+2252 Nicholas Terrace South Anna, TX 20401
+:57A:BOFAUS3NXXX
+:59:/BEN76363570855998
+Duarte Group
+78371 Gary Knolls South Brandonfort, WY 40807
+:70:INV 3D99E4A70F85 Process leg tough book single audience country wish.
+:71A:OUR
+-}{5:{CHK:583a9f0810}}

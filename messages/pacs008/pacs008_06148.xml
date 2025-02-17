@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UOBVSGSGXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-98199</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.225874</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-98199</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.225875</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">399426.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Gates-Chambers</Nm></Dbtr>
+            <Cdtr><Nm>Peters, Duran and Kaiser</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

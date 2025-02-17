@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240821ABSAZAJJXXXXXXXN}{3:{121:aa4bcae9-14a7-4606-a9b1-49d65e744308}}{4:
+:20:REF-18261
+:23B:CRED
+:32A:240821SGD2964.00
+:50K:/OC9972495
+Smith, Edwards and Zavala
+USS Brown FPO AA 65126
+:57A:ABSAZAJJXXX
+:59:/BEN89855801047209
+Brown, Haley and Davis
+28538 Curtis Rapid Christopherborough, CO 11112
+:70:INV 8DE14B57CBBC Cold management camera out system meeting radio.
+:71A:OUR
+-}{5:{CHK:7ca5cce972}}

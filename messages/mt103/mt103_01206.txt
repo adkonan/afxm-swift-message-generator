@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240807HSBCGB2LXXXXXXXN}{3:{121:79e05997-19e5-49b0-98fb-05bf16f9cf0f}}{4:
+:20:REF-97790
+:23B:CRED
+:32A:240807CNY333129.00
+:50K:/OC1465171
+Anderson, Allison and Glenn
+57714 Vanessa Common Kingchester, MA 84505
+:57A:HSBCGB2LXXX
+:59:/BEN40768729478461
+Joseph, Salazar and Smith
+3280 Greene Circle Marshallchester, LA 89971
+:70:INV ECFAD9795125 Recent their such create along win.
+:71A:OUR
+-}{5:{CHK:ad91175a0c}}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ECOCCIBAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BNPPIT2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-48289</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.026525</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-48289</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.026527</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SGD">248916.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Martin-Morales</Nm></Dbtr>
+            <Cdtr><Nm>Kelley, Morrison and Rivera</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

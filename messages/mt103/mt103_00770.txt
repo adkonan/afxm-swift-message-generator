@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240529BARCDEFFXXXXXXXN}{3:{121:7d60dc3e-5f8d-4f6a-babe-4132b7f9124b}}{4:
+:20:REF-52480
+:23B:CRED
+:32A:240529CHF1553000.00
+:50K:/OC8298889
+Lewis, Trujillo and Williams
+6357 Steven Coves Suite 159 East Troy, MH 38776
+:57A:BARCDEFFXXX
+:59:/BEN44581730069673
+Gutierrez, Nunez and Sellers
+USS Allen FPO AP 71756
+:70:INV 0083BBC899D2 Recognize south teacher particular because actually.
+:71A:OUR
+-}{5:{CHK:e465080a17}}

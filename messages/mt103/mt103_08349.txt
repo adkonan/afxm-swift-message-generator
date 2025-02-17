@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240901CIBCCATTXXXXXXXN}{3:{121:dfacf3da-1c04-4a83-9f51-92a92ac08c9c}}{4:
+:20:REF-28616
+:23B:CRED
+:32A:240901CNY220006.00
+:50K:/OC8653332
+Mitchell and Sons
+862 Perez Flats Suite 245 Robinsonville, TN 92525
+:57A:CIBCCATTXXX
+:59:/BEN99604442517170
+Jackson, Reyes and Jones
+8955 Hall Villages North Scotthaven, NY 65964
+:70:INV 199D9724C19D Drop at speak participant election Republican condition employee.
+:71A:OUR
+-}{5:{CHK:68de293f0e}}

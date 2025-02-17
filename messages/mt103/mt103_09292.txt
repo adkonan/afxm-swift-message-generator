@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240404CIBCCATTXXXXXXXN}{3:{121:e131907a-c6d9-4c2d-ab3f-278f6b894177}}{4:
+:20:REF-70590
+:23B:CRED
+:32A:240404CNY487577.00
+:50K:/OC2716395
+Valdez-Malone
+0238 Wallace Ramp Suite 762 South Laurenmouth, MA 30593
+:57A:CIBCCATTXXX
+:59:/BEN69268310925539
+Gallagher-Barker
+757 Jesse Flat New Allen, NC 35154
+:70:INV 01073C1F4593 Candidate my notice thousand politics green important purpose.
+:71A:OUR
+-}{5:{CHK:33dfb65933}}

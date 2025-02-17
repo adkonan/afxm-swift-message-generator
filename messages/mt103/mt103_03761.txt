@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240521DBSSSGSGXXXXXXXN}{3:{121:ab0780d7-e118-4dc6-a872-d2930208d193}}{4:
+:20:REF-30199
+:23B:CRED
+:32A:240521CAD226266.00
+:50K:/OC3589319
+Romero, Ramirez and Thomas
+96807 Campbell Shoal Burnetttown, NY 68715
+:57A:DBSSSGSGXXX
+:59:/BEN22507446008163
+Johnson-Shelton
+6213 Amy Glen Suite 947 West Tyler, NV 18099
+:70:INV C6B6240C8855 Information thought street industry through before who.
+:71A:OUR
+-}{5:{CHK:f5d9596fc2}}

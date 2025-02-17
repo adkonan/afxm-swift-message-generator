@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103250108BCAOAOAOXXXXXXXN}{3:{121:f304273c-da2a-4ed2-997e-31815c8ee1e0}}{4:
+:20:REF-83320
+:23B:CRED
+:32A:250108GBP878.14
+:50K:/OC9584443
+Dawson-Hoffman
+685 Andrade Mountain Apt. 639 West Jonathanburgh, LA 06353
+:57A:BCAOAOAOXXX
+:59:/BEN78189873745867
+Boyd Group
+933 Andrew Estate Suite 448 Melanieburgh, FM 21242
+:70:INV A0CA2549C7D9 Check ready face daughter present son.
+:71A:OUR
+-}{5:{CHK:ed258cb3b2}}

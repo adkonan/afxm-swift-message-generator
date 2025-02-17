@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240510NATXFRPPXXXXXXXN}{3:{121:f9969ad4-e710-403b-aa39-de5c8bba6964}}{4:
+:20:REF-44341
+:23B:CRED
+:32A:240510USD537480.00
+:50K:/OC9742693
+Carter, Williams and Wallace
+8002 James Stream New Amandaville, WY 39319
+:57A:NATXFRPPXXX
+:59:/BEN25915487148565
+Salas-Parrish
+8369 Christopher Street Apt. 954 North Karen, AZ 23457
+:70:INV 616C1E9CF0B5 Special hit interview reality cell network stock.
+:71A:OUR
+-}{5:{CHK:731757c8ff}}

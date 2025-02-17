@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240702AFRIGHACXXXXXXXN}{3:{121:c1497b08-cda9-4373-b8e2-75d13ced18ec}}{4:
+:20:REF-67594
+:23B:CRED
+:32A:240702CHF259610.00
+:50K:/OC6926391
+Buchanan, Owens and Young
+0719 Jessica Ridges Apt. 437 Smithside, AS 84533
+:57A:AFRIGHACXXX
+:59:/BEN90012452125212
+Lopez, Downs and Ochoa
+02006 Tracy Radial North Melvinville, WA 91104
+:70:INV B82F67857166 Center until situation success second.
+:71A:OUR
+-}{5:{CHK:f58d1431b9}}

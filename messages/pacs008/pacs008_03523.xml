@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ECOCMLABXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>HSBCGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-36361</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.586234</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-36361</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.586235</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">54844.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Gomez-Alvarado</Nm></Dbtr>
+            <Cdtr><Nm>Novak-Gilbert</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

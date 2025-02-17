@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240608CIBCCATTXXXXXXXN}{3:{121:53484846-5574-44ca-8081-a4476263dbd3}}{4:
+:20:REF-67300
+:23B:CRED
+:32A:240608USD32582.00
+:50K:/OC5307660
+Hutchinson, Bennett and Brown
+57264 Allen Ville Barnettborough, CT 79826
+:57A:CIBCCATTXXX
+:59:/BEN54367401095738
+Guerrero, Boyle and Miller
+300 Wilson Oval Port Christopherfort, AZ 20052
+:70:INV 8BC041D3F2E6 Technology turn purpose everything total glass.
+:71A:OUR
+-}{5:{CHK:a9b7764cc0}}

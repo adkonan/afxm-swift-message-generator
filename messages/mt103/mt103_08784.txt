@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103250102BNPAGB22XXXXXXXN}{3:{121:5d4d07ae-6b4e-4de1-adf4-9d67c8ab9036}}{4:
+:20:REF-58827
+:23B:CRED
+:32A:250102CHF80824.00
+:50K:/OC6148515
+Greene, Ho and Leon
+309 Brian Tunnel Suite 360 Gailtown, DE 28200
+:57A:BNPAGB22XXX
+:59:/BEN68576037465192
+Shepard, Henderson and Johnson
+7297 Michael Way Rodriguezberg, IL 04748
+:70:INV B2ECA9CF4631 Price continue we appear story.
+:71A:OUR
+-}{5:{CHK:06400bbb00}}

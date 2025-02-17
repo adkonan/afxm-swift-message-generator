@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103241101ZENITHNGLAXXXXXXXN}{3:{121:e21eee40-137e-4fe4-b048-b981111498bb}}{4:
+:20:REF-81547
+:23B:CRED
+:32A:241101CHF61048.00
+:50K:/OC1918082
+Jimenez-Vargas
+67292 Barton Burg Smithborough, WV 40831
+:57A:ZENITHNGLAXXX
+:59:/BEN72389269590400
+Mclaughlin, Carpenter and Baldwin
+727 Chan Heights South Patrick, MD 28510
+:70:INV 5427E73540A3 Step despite choice professional computer material system.
+:71A:OUR
+-}{5:{CHK:7f50b97f1d}}

@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240809ZENITHNGLAXXXXXXXN}{3:{121:ce229da2-bd3b-49e1-8986-c417acfc32d5}}{4:
+:20:REF-26119
+:23B:CRED
+:32A:240809JPY434636.00
+:50K:/OC3502476
+Becker and Sons
+2932 Preston Meadows Apt. 916 New Karenton, MO 83276
+:57A:ZENITHNGLAXXX
+:59:/BEN21747683969961
+Harrison, Palmer and Dillon
+80365 Mosley Junctions Greenstad, NY 47725
+:70:INV 29C6BF1B266F Current example always will subject man.
+:71A:OUR
+-}{5:{CHK:e50efeba08}}

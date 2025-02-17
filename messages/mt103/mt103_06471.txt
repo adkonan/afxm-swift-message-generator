@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240505HSBCHKHHXXXXXXXN}{3:{121:468998a2-2225-4b59-a5ac-2ffdde472bf3}}{4:
+:20:REF-20832
+:23B:CRED
+:32A:240505CHF217627.00
+:50K:/OC2000392
+Anderson, Young and Wilson
+5363 Tucker Ville Apt. 689 South Timothymouth, FM 47675
+:57A:HSBCHKHHXXX
+:59:/BEN64798450450852
+Marshall-Murphy
+145 Sawyer Turnpike Apt. 814 Andrewton, LA 47196
+:70:INV 5CCBE4A1DC6F If including Democrat bring large eat.
+:71A:OUR
+-}{5:{CHK:de4defefbd}}

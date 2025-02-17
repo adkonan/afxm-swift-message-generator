@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BNPAFRPPXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-41404</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.722950</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-41404</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.722952</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="EUR">3254.75</IntrBkSttlmAmt>
+            <Dbtr><Nm>Kelly, Smith and Parker</Nm></Dbtr>
+            <Cdtr><Nm>Bradley Inc</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

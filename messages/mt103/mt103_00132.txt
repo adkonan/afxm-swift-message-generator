@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240505STANKEKEXXXXXXXN}{3:{121:615da231-2483-4ab2-8618-ecc9d69d1071}}{4:
+:20:REF-61395
+:23B:CRED
+:32A:240505CNY3932.00
+:50K:/OC2641143
+Guzman, Thomas and Bond
+30085 Colon Turnpike Suite 813 West Scott, SD 79895
+:57A:STANKEKEXXX
+:59:/BEN42200518493812
+Lopez, Holmes and Irwin
+5026 Valentine Glens Suite 981 Newtonview, KS 41349
+:70:INV 727E622FA6C9 Any decision wonder you could song me.
+:71A:OUR
+-}{5:{CHK:8ddffb56ef}}

@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240322CHASUS33XXXXXXXN}{3:{121:24f3220b-6238-4717-b56d-850a36b346cf}}{4:
+:20:REF-91872
+:23B:CRED
+:32A:240322JPY35646.00
+:50K:/OC5165727
+Allen Inc
+6344 Jones Ways Suite 542 Martinezville, UT 10423
+:57A:CHASUS33XXX
+:59:/BEN20976683032120
+Evans, Brown and Smith
+716 Espinoza Field Kimberlyshire, MH 78849
+:70:INV FD8EBC1E73F4 Western specific fast window sister weight take.
+:71A:OUR
+-}{5:{CHK:8ccd4bb35d}}

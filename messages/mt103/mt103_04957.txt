@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103241212KFWDEFFXXXXXXXN}{3:{121:026dc12e-7eeb-4c42-90dd-4a5bbc90aa9b}}{4:
+:20:REF-79332
+:23B:CRED
+:32A:241212AUD2296670.00
+:50K:/OC3774549
+Beard Inc
+57370 Kayla Pines Suite 486 Lake Kathryn, AL 85667
+:57A:KFWDEFFXXX
+:59:/BEN24059592229385
+Hunt, Gutierrez and Benjamin
+3307 Paul Isle Colleenchester, UT 64019
+:70:INV BAFB46CC812C Customer perhaps player police use game rise.
+:71A:OUR
+-}{5:{CHK:83a1419337}}

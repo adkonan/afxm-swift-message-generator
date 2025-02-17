@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240731ICBKCNBJXXXXXXXN}{3:{121:eedf7ff3-5b34-4ceb-b88a-fced1222e8b6}}{4:
+:20:REF-27350
+:23B:CRED
+:32A:240731CAD2292430.00
+:50K:/OC8395457
+Young-Taylor
+991 Wong Squares Apt. 154 East Charleston, IA 21851
+:57A:ICBKCNBJXXX
+:59:/BEN35722754301453
+Myers-Smith
+114 Stanton Inlet Suite 331 New Michaelville, NH 70103
+:70:INV C08A9A0534F8 Morning might quite player much machine.
+:71A:OUR
+-}{5:{CHK:562468fe95}}

@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241108OCBCSGSGXXXXXXXN}{3:{121:a5809147-9114-45d1-a290-3a2f40c5f6d6}}{4:
+:20:REF-94350
+:23B:CRED
+:32A:241108EUR107383.00
+:50K:/OC5355198
+Bridges, Bell and Allen
+546 Vega Station Suite 955 South Stevenmouth, NJ 89808
+:57A:OCBCSGSGXXX
+:59:/BEN16779078781739
+Gonzalez Group
+64030 Savannah Villages Suite 118 Shannonberg, VA 73962
+:70:INV 70AEC5B2DAF1 Defense individual still long energy newspaper management.
+:71A:OUR
+-}{5:{CHK:fc2511c02d}}

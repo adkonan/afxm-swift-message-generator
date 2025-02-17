@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240529SCBLGB2LXXXXXXXN}{3:{121:872ebbd2-7796-4307-8b3f-51a0418bf679}}{4:
+:20:REF-67242
+:23B:CRED
+:32A:240529AUD394030.00
+:50K:/OC4621926
+Johnson-Greene
+22754 Nichols Turnpike East Scotthaven, NE 76246
+:57A:SCBLGB2LXXX
+:59:/BEN87424308922738
+Schroeder-Mclaughlin
+18346 Casey Trafficway North Marymouth, CO 65831
+:70:INV 4E1E45AAD8AF Send budget financial system what produce must.
+:71A:OUR
+-}{5:{CHK:fa37db97f9}}

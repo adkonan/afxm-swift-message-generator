@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240922INGBNL2AXXXXXXXN}{3:{121:0b7e57b8-82f5-440a-b1c9-d8c451c4291f}}{4:
+:20:REF-16765
+:23B:CRED
+:32A:240922AUD4602770.00
+:50K:/OC6759887
+Evans-Holmes
+6430 Sarah Views North Jennifermouth, UT 98953
+:57A:INGBNL2AXXX
+:59:/BEN80952313625337
+Miles, Sparks and Leblanc
+5883 Jessica Crossing Suite 824 West Brianmouth, MP 24936
+:70:INV FF07434E850F A television situation now public.
+:71A:OUR
+-}{5:{CHK:3042ffaaff}}

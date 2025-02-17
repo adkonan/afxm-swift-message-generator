@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240814BFSWUS33XXXXXXXN}{3:{121:cf7570c6-9b30-4390-a5c4-a4ad6e6aaf26}}{4:
+:20:REF-80299
+:23B:CRED
+:32A:240814JPY4999210.00
+:50K:/OC5029057
+Byrd, Parks and Miller
+486 Douglas Parks Apt. 980 New Jameschester, LA 48324
+:57A:BFSWUS33XXX
+:59:/BEN60288917302432
+Foster, Johnson and Gonzalez
+2523 Alicia Manor Apt. 138 Lake Natalie, ID 16448
+:70:INV BC1DA5647EDC Three entire physical magazine social possible here.
+:71A:OUR
+-}{5:{CHK:602bf9bf10}}

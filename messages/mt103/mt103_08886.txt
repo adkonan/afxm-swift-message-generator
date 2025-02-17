@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240420KFWDEFFXXXXXXXN}{3:{121:1162095e-c18e-4f28-937f-d72333f20375}}{4:
+:20:REF-85287
+:23B:CRED
+:32A:240420SGD267991.00
+:50K:/OC8427314
+Beasley, Watkins and Sloan
+531 Vincent Mount East Jenniferton, OK 44881
+:57A:KFWDEFFXXX
+:59:/BEN79303411457384
+Moss-Wright
+53768 Young Lights Apt. 190 Torresstad, KS 98662
+:70:INV 70321C6CC9C4 Peace agency enjoy shake important treatment.
+:71A:OUR
+-}{5:{CHK:7ebdfdc2fb}}

@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240713HSBCGB2LXXXXXXXN}{3:{121:9afab771-f097-417c-bee4-7bcba33e2cfd}}{4:
+:20:REF-93063
+:23B:CRED
+:32A:240713JPY4418.13
+:50K:/OC8443039
+Galvan PLC
+305 Christopher Ferry Terrybury, PW 32667
+:57A:HSBCGB2LXXX
+:59:/BEN53135674901093
+Hawkins-Carpenter
+831 Kelsey Streets Lake Mackenzie, TN 47071
+:70:INV 193330703B26 History serve safe everybody dog investment according campaign.
+:71A:OUR
+-}{5:{CHK:619153930e}}

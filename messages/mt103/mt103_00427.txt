@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240923SOGEFRPPXXXXXXXN}{3:{121:9f029535-c623-49a9-9627-04e271c16a1e}}{4:
+:20:REF-62033
+:23B:CRED
+:32A:240923CHF89442.00
+:50K:/OC6953003
+Weaver, James and Caldwell
+2277 Samantha Viaduct Apt. 924 Jodyside, WY 05173
+:57A:SOGEFRPPXXX
+:59:/BEN55672064434558
+Russell, Riddle and Hammond
+0991 Karina Keys Suite 381 Davisport, WI 91480
+:70:INV 042D696A0DDC Strategy cost important begin report coach indeed.
+:71A:OUR
+-}{5:{CHK:89fe08b4b3}}

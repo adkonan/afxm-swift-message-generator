@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103241121BNPPIT2LXXXXXXXN}{3:{121:5c7f97b2-85ea-4d34-80ff-d157930bbfb9}}{4:
+:20:REF-91327
+:23B:CRED
+:32A:241121AUD1604.13
+:50K:/OC1989051
+Klein, Mullen and Evans
+40888 Kim Lakes North Jamiefort, FM 77164
+:57A:BNPPIT2LXXX
+:59:/BEN51368346669792
+Carter and Sons
+49319 Steven Ways Patriciaport, AR 38095
+:70:INV 00C254FF7D8B Civil check building age capital tend reach.
+:71A:OUR
+-}{5:{CHK:8dac823f5c}}

@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240228BCAOAOAOXXXXXXXN}{3:{121:7e85fbaa-83ea-4e19-8738-c1129e54a080}}{4:
+:20:REF-90316
+:23B:CRED
+:32A:240228JPY1788320.00
+:50K:/OC2693610
+White, Sullivan and Scott
+11286 Angela Squares Suite 654 New Lorettaview, VA 24894
+:57A:BCAOAOAOXXX
+:59:/BEN97828019245266
+Marsh, Thomas and Solis
+149 Bentley Loaf Travisport, AL 61585
+:70:INV 10B9E79B11C5 Receive suddenly social baby agreement church smile become.
+:71A:OUR
+-}{5:{CHK:b4da985bde}}

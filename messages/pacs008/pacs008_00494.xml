@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CIBCCATTXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>NATXFRPPXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-45144</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:20.834974</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-45144</MsgId>
+            <CreDtTm>2025-02-17T14:38:20.834976</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="XDR">165896.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Martin, Baker and Morgan</Nm></Dbtr>
+            <Cdtr><Nm>Proctor LLC</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

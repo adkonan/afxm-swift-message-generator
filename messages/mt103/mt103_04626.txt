@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103241016MIZUJPJTXXXXXXXN}{3:{121:4f17be96-2f83-4855-839f-e3089b854661}}{4:
+:20:REF-19571
+:23B:CRED
+:32A:241016SGD3788.13
+:50K:/OC5625607
+Wilkins-Bennett
+118 Henry Walks Apt. 217 Hamptonchester, OH 22964
+:57A:MIZUJPJTXXX
+:59:/BEN90805523372854
+Henson, Bray and Zavala
+77171 Brooks Flats Melaniestad, AL 94994
+:70:INV 8E02C1EAA079 Reduce first eye themselves beat meet couple occur.
+:71A:OUR
+-}{5:{CHK:5b0a80ee1e}}

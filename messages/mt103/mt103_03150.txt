@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240831UOBVSGSGXXXXXXXN}{3:{121:9cf8c5ad-ccd1-4ffc-9342-9dfcc0b6b17e}}{4:
+:20:REF-36231
+:23B:CRED
+:32A:240831EUR123860.00
+:50K:/OC7200378
+Rhodes, Rodriguez and Carrillo
+67661 George Pines Suite 135 South Christinabury, NC 04513
+:57A:UOBVSGSGXXX
+:59:/BEN34189468700055
+Evans Group
+37526 David Plains Kellyburgh, MH 64105
+:70:INV 366FE497DC9D Listen surface knowledge add section.
+:71A:OUR
+-}{5:{CHK:3ed9e9be05}}

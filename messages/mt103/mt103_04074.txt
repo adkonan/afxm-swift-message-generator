@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241031HSBCHKHHXXXXXXXN}{3:{121:25ab7cec-8527-4b4f-ae92-e22caaab60cb}}{4:
+:20:REF-24514
+:23B:CRED
+:32A:241031CAD302369.00
+:50K:/OC7441864
+Coleman-Mccormick
+245 Gary Valleys Ericmouth, NM 21040
+:57A:HSBCHKHHXXX
+:59:/BEN48972590617282
+Guerra, Schmidt and George
+Unit 5399 Box 6272 DPO AE 55547
+:70:INV A269BBF4C36F Arrive myself American treatment character democratic big.
+:71A:OUR
+-}{5:{CHK:0d3939aa25}}

@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240329BNPAFRPPXXXXXXXN}{3:{121:95dc387c-dca8-4c11-bfd8-9a71be298600}}{4:
+:20:REF-54593
+:23B:CRED
+:32A:240329XAU478065.00
+:50K:/OC4729583
+Wright-Thomas
+2636 Charles Square Richardtown, NV 74331
+:57A:BNPAFRPPXXX
+:59:/BEN92102078325865
+Rogers, Richardson and Davis
+085 Rhonda Stream Lake Hunter, AK 72222
+:70:INV BA33A6F3E923 Skin wear pass large people mission building wait.
+:71A:OUR
+-}{5:{CHK:24a6f80de2}}

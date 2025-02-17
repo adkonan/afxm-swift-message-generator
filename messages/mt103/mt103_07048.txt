@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241010BBVAESMMXXXXXXXN}{3:{121:20530a7c-46a9-4dc4-98d4-28bf65bae94c}}{4:
+:20:REF-19596
+:23B:CRED
+:32A:241010GBP478263.00
+:50K:/OC2633526
+Randolph, Reynolds and Fisher
+65517 Bruce Pass Suite 852 North Kyleville, FL 97495
+:57A:BBVAESMMXXX
+:59:/BEN10590873359515
+Duncan, Sanders and Williams
+1661 Nicholas Grove East Teresafort, KS 26076
+:70:INV 9BE4226F7549 Hope somebody environmental effect agency director.
+:71A:OUR
+-}{5:{CHK:eac2179b30}}

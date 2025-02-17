@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>FCMBNGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BNPAGB22XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-47323</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.602416</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-47323</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.602417</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">87521.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Gray, Lowe and Cooper</Nm></Dbtr>
+            <Cdtr><Nm>Clark, Odonnell and Thomas</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

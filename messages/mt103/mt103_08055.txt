@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240830RABONL2UXXXXXXXN}{3:{121:beacfe0b-5834-4c33-bde1-bfc17fc3f61a}}{4:
+:20:REF-65386
+:23B:CRED
+:32A:240830SGD139556.00
+:50K:/OC6748388
+Martin, Williams and Greene
+88702 Rivera Dale Turnerborough, SD 39228
+:57A:RABONL2UXXX
+:59:/BEN58682621090591
+Foley, Dunn and Wise
+415 Hannah Ridges Apt. 859 Alexachester, SC 85501
+:70:INV C9F6D9DEA1DE Response measure those follow.
+:71A:OUR
+-}{5:{CHK:e2df2e23f9}}

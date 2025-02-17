@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240723ECOCCIBAXXXXXXXN}{3:{121:891e988f-585b-4eed-ba5f-68f5b9c13428}}{4:
+:20:REF-88981
+:23B:CRED
+:32A:240723CNY28426.00
+:50K:/OC7497272
+Snyder, Anderson and Mitchell
+571 Dillon Ways Suite 996 South Andrewport, UT 38332
+:57A:ECOCCIBAXXX
+:59:/BEN52311403475390
+Brooks and Sons
+USNV Jones FPO AP 98986
+:70:INV D7D4F9D006D4 Guy including training thank miss structure common.
+:71A:OUR
+-}{5:{CHK:dd17ae5e15}}

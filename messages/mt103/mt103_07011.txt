@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240715DEUTDEFFXXXXXXXN}{3:{121:11eefc01-d550-4f09-8137-8cc11d28f6d3}}{4:
+:20:REF-39783
+:23B:CRED
+:32A:240715EUR3154.00
+:50K:/OC7515655
+Hendricks-Mullins
+201 Hayes Street Apt. 765 New Roberttown, NH 98133
+:57A:DEUTDEFFXXX
+:59:/BEN76126636437481
+Brown-Gould
+3875 Evans Gateway Suite 353 Curtisland, MA 75561
+:70:INV 3C5B79B4A9E8 Region thought cup cell knowledge arm stage including.
+:71A:OUR
+-}{5:{CHK:c1fbfdd311}}

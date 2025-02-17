@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241018SOGEFRPPXXXXXXXN}{3:{121:73788b83-b843-46cb-8f4e-b08db475dff8}}{4:
+:20:REF-94339
+:23B:CRED
+:32A:241018USD81441.00
+:50K:/OC3069103
+Marsh, Rodriguez and Wong
+741 Janet Causeway North Nancy, CT 66243
+:57A:SOGEFRPPXXX
+:59:/BEN51588106840162
+Gibbs and Sons
+250 Merritt Motorway Suite 037 Ramirezshire, CO 32314
+:70:INV 75F408BA405B Figure American kid personal national.
+:71A:OUR
+-}{5:{CHK:f4651651fd}}

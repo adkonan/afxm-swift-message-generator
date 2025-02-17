@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BNPPIT2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CRESCHZZXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-86117</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.982227</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-86117</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.982228</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">3289.89</IntrBkSttlmAmt>
+            <Dbtr><Nm>Chan, Davis and Parker</Nm></Dbtr>
+            <Cdtr><Nm>Wilkinson, Morris and Clark</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

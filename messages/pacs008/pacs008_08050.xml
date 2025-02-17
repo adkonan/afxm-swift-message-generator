@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BBVAESMMXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>STANKEKEXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-75845</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.679528</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-75845</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.679529</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="JPY">404481.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Robinson, Espinoza and Compton</Nm></Dbtr>
+            <Cdtr><Nm>Taylor-Gutierrez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

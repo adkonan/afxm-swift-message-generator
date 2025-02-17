@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BNPAFRPPXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BARCDEFFXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-70137</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.450158</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-70137</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.450159</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="GBP">215266.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Smith, Nguyen and Howard</Nm></Dbtr>
+            <Cdtr><Nm>Walters-Sanchez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

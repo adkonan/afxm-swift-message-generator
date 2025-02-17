@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240731DBSAZAJJXXXXXXXN}{3:{121:f936392c-dba7-4f91-9147-42aea8ddddee}}{4:
+:20:REF-96611
+:23B:CRED
+:32A:240731GBP3597320.00
+:50K:/OC8587035
+Mcintosh, Marshall and Wilkinson
+800 Simmons Ranch West Robert, MH 10940
+:57A:DBSAZAJJXXX
+:59:/BEN18658079469981
+Powell, Reyes and Davis
+1888 Robertson Lake Suite 864 Danielsfort, LA 10871
+:70:INV 34DB6D570903 Central contain per.
+:71A:OUR
+-}{5:{CHK:af01b984de}}

@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103250207CRESIT2LXXXXXXXN}{3:{121:c19cfd78-a418-43cc-bd5f-4444058cd194}}{4:
+:20:REF-97856
+:23B:CRED
+:32A:250207CHF406654.00
+:50K:/OC8095165
+Peterson-Barnes
+98801 Taylor Street Davisburgh, AR 34627
+:57A:CRESIT2LXXX
+:59:/BEN45780257390472
+Cooper Ltd
+6659 Clark Villages Andrewfort, AK 26491
+:70:INV A78AA421BCCA They sometimes official order debate hit significant where.
+:71A:OUR
+-}{5:{CHK:c049a2adf2}}

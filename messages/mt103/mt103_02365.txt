@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103250112CITIUS33XXXXXXXN}{3:{121:f9caa782-0618-4bfa-adfc-a021e2973a24}}{4:
+:20:REF-16109
+:23B:CRED
+:32A:250112AUD3681.33
+:50K:/OC8885739
+Cooper Inc
+171 Virginia Springs Apt. 089 New Angelaview, PA 14243
+:57A:CITIUS33XXX
+:59:/BEN58457984326144
+Vega Inc
+0639 Diaz Canyon Apt. 124 Davidside, CT 44227
+:70:INV C5FCA827375A Forget big trouble figure care themselves policy sign.
+:71A:OUR
+-}{5:{CHK:675ec4b19d}}

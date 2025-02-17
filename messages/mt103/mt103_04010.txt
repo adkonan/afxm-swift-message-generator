@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240306STANKEKEXXXXXXXN}{3:{121:ebad6d6a-a5b3-43a2-887a-f710a7978547}}{4:
+:20:REF-44350
+:23B:CRED
+:32A:240306AUD330211.00
+:50K:/OC8834676
+Khan-Mendoza
+02278 Payne Shores Maldonadobury, CO 60889
+:57A:STANKEKEXXX
+:59:/BEN99590382589776
+Johnson, Gonzalez and Cooper
+19674 Mallory Islands Austintown, DC 32833
+:70:INV FF06E5491A14 Many soon item health like read and along.
+:71A:OUR
+-}{5:{CHK:a12a434be4}}

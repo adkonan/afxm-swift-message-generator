@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241025RBCROYTORXXXXXXXN}{3:{121:21b82c04-a2ba-4e01-a48f-9d5da2c06f1a}}{4:
+:20:REF-78582
+:23B:CRED
+:32A:241025CHF219756.00
+:50K:/OC9030315
+Mullen, Cole and Hunter
+421 Gonzalez Gardens Apt. 683 Christopherside, FL 71398
+:57A:RBCROYTORXXX
+:59:/BEN21550095168205
+Warren, Leon and Walters
+72290 Theresa Stream Patelmouth, AZ 73804
+:70:INV 694F9EC71273 Life rate open research while.
+:71A:OUR
+-}{5:{CHK:822160b59c}}

@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240302SCBLGB2LXXXXXXXN}{3:{121:6ac5c859-0270-410e-ae22-b3fbda737909}}{4:
+:20:REF-95620
+:23B:CRED
+:32A:240302USD1258.46
+:50K:/OC4840865
+Williams, Cohen and Morris
+4631 Flowers Points Suite 380 Cindyton, CO 08236
+:57A:SCBLGB2LXXX
+:59:/BEN73202254603584
+Sanchez Group
+2613 Joel Centers Apt. 348 North Kathleenland, IL 31802
+:70:INV F67007A9ABA6 Business step effect national million during threat.
+:71A:OUR
+-}{5:{CHK:228c4fff15}}

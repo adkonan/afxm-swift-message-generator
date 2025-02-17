@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240615CITIUS33XXXXXXXN}{3:{121:3cfd1f18-b789-47a3-b6e2-1d13749bd54d}}{4:
+:20:REF-82312
+:23B:CRED
+:32A:240615USD41458.00
+:50K:/OC3640861
+Howard-Lee
+6971 Carpenter Crossing Suite 741 Christopherchester, NY 92413
+:57A:CITIUS33XXX
+:59:/BEN83599678317781
+Brown, Bowen and Bennett
+73522 Flores Street North Brianbury, IN 20002
+:70:INV 8585915422D8 Company bring either too very also child read.
+:71A:OUR
+-}{5:{CHK:a83d5d3861}}

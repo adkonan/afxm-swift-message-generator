@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240911SCBLGB2LXXXXXXXN}{3:{121:2966ca9c-d9fa-4e52-b795-526f57d3028d}}{4:
+:20:REF-38068
+:23B:CRED
+:32A:240911GBP303486.00
+:50K:/OC7913189
+Martinez, Mathis and Dennis
+89990 Blankenship Corners Suite 307 Lake Stephaniemouth, AK 72814
+:57A:SCBLGB2LXXX
+:59:/BEN70287284161780
+Hamilton, Griffith and Parker
+PSC 0339, Box 9945 APO AE 21689
+:70:INV 82B947F1FC84 Suggest defense three management item set more daughter.
+:71A:OUR
+-}{5:{CHK:6bb4aa19b0}}

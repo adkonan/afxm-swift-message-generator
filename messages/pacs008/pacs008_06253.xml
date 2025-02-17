@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CRESIT2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UOBVSGSGXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-99402</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.250999</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-99402</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.251000</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CNY">326513.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Johnson, Hale and Price</Nm></Dbtr>
+            <Cdtr><Nm>Robinson, Bolton and Rivas</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

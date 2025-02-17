@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103250126BOMLMRUXXXXXXXXN}{3:{121:b8c1029f-fe9b-4e3c-b873-6e3655365fba}}{4:
+:20:REF-37603
+:23B:CRED
+:32A:250126AUD26390.00
+:50K:/OC8916524
+Singh Group
+818 Garcia Mountains Port Stephanieburgh, MP 25034
+:57A:BOMLMRUXXXX
+:59:/BEN50805205695107
+Nelson, Richard and Mann
+8130 Peterson Highway East Julie, DE 16449
+:70:INV 75B4EC7E659E Need business place man together picture trade.
+:71A:OUR
+-}{5:{CHK:a759cfc07e}}

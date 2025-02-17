@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240413CITIUS33XXXXXXXN}{3:{121:bb5dfd6c-900b-48c2-a034-f06d9ae4a142}}{4:
+:20:REF-78876
+:23B:CRED
+:32A:240413CHF58072.00
+:50K:/OC8534356
+Acosta, Wilson and Hull
+4672 Stephanie Alley East Kimberlyside, HI 02865
+:57A:CITIUS33XXX
+:59:/BEN18358909112794
+Moss PLC
+6275 Rachel Center Apt. 916 Robinsonland, RI 92314
+:70:INV D4956B5945FA Sense site important may table protect floor.
+:71A:OUR
+-}{5:{CHK:b54f5b917f}}

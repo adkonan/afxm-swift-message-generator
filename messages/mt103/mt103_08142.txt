@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240623BOFAUS3NXXXXXXXN}{3:{121:cb5dd225-f48e-44a4-8130-afa8b475027a}}{4:
+:20:REF-38306
+:23B:CRED
+:32A:240623EUR167420.00
+:50K:/OC4610322
+Reilly Inc
+3789 Bryant Plains Johnborough, KY 23059
+:57A:BOFAUS3NXXX
+:59:/BEN34225009184266
+Dawson, Turner and Rollins
+8842 Travis Turnpike Suite 782 North Danielle, PW 62573
+:70:INV 88A4F0F4B378 Happen rise audience analysis nice add recent.
+:71A:OUR
+-}{5:{CHK:21233bdbb3}}

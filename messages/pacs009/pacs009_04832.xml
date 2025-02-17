@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BOFAUS3NXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ZENITHNGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-13835</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:23.603135</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-13835</MsgId>
+            <CreDtTm>2025-02-17T14:38:23.603136</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="GBP">42053600.00</IntrBkSttlmAmt>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

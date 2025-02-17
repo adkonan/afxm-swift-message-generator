@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240619BARCDEFFXXXXXXXN}{3:{121:c56ff1ed-0b2e-494c-b672-28c87ea7ab2c}}{4:
+:20:REF-65568
+:23B:CRED
+:32A:240619AUD3809790.00
+:50K:/OC3685704
+Hernandez, Flowers and Mccall
+76701 Brown Mews Suite 107 Port Michaelborough, MD 18831
+:57A:BARCDEFFXXX
+:59:/BEN24585809186427
+Brown-Bauer
+9945 Ford Union Port Melissa, NH 53992
+:70:INV AE4D8F91BB7A Form stand black plan increase best.
+:71A:OUR
+-}{5:{CHK:97d56ba3d6}}

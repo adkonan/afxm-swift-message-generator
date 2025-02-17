@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240809ECOCGHANXXXXXXXN}{3:{121:37e4a122-63fa-431a-ba07-a40400e89202}}{4:
+:20:REF-51420
+:23B:CRED
+:32A:240809CNY107056.00
+:50K:/OC5059415
+Rodriguez, Hopkins and Thompson
+31624 Stephanie Lodge Hernandezshire, TN 96096
+:57A:ECOCGHANXXX
+:59:/BEN52785896899345
+Preston, Hurley and Brown
+92020 Brandon Locks South Ethanville, AL 58697
+:70:INV E8A4B78CF707 Couple someone truth represent along as.
+:71A:OUR
+-}{5:{CHK:8416f9e9b7}}

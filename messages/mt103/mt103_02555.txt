@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240811FIRNZAJJXXXXXXXN}{3:{121:564fe541-1468-4844-962e-e98c2a6fdba5}}{4:
+:20:REF-59949
+:23B:CRED
+:32A:240811USD178426.00
+:50K:/OC6953213
+Scott, Yang and Henderson
+034 Michael Course Suite 059 Stephaniemouth, NV 14403
+:57A:FIRNZAJJXXX
+:59:/BEN12962769154030
+Beasley-Hamilton
+77599 Ashley Plaza Apt. 889 Joshuastad, WI 64297
+:70:INV 4D78B71F144B Ever attorney big actually never significant.
+:71A:OUR
+-}{5:{CHK:82edf670e2}}

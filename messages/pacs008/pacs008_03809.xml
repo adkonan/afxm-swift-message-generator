@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>GTBINGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ZENITHNGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-14355</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.653672</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-14355</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.653673</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="EUR">307625.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Wilson, Gutierrez and Long</Nm></Dbtr>
+            <Cdtr><Nm>Murphy, Brown and Brady</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

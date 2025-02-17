@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240408RABONL2UXXXXXXXN}{3:{121:b0cda380-5723-4015-b81c-2fdef35e490d}}{4:
+:20:REF-56949
+:23B:CRED
+:32A:240408CAD97783.00
+:50K:/OC7227998
+Campbell, Smith and Douglas
+72794 Reyes Mill Suite 746 Julianview, IL 28561
+:57A:RABONL2UXXX
+:59:/BEN76204689500916
+Perez LLC
+898 Rivera Ridge Jacksonfurt, GA 04839
+:70:INV C5ABE222F3D1 Idea medical treatment write provide marriage table.
+:71A:OUR
+-}{5:{CHK:1adff9cf14}}

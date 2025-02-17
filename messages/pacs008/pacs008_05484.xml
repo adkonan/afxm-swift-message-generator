@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>RABONL2UXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>HSBCGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-64857</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.059707</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-64857</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.059708</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="XDR">186694.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Savage, Martin and Carr</Nm></Dbtr>
+            <Cdtr><Nm>Mcdaniel-Nelson</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240602ZENITHNGLAXXXXXXXN}{3:{121:6fd3a447-de8f-4690-a4a2-5be7c38a2f1e}}{4:
+:20:REF-18296
+:23B:CRED
+:32A:240602GBP288130.00
+:50K:/OC1360179
+Frost, Marshall and Beltran
+7402 Jones Village Lake Howardville, SC 55788
+:57A:ZENITHNGLAXXX
+:59:/BEN16574289823045
+Espinoza-Duffy
+60204 Hebert Track Suite 436 Port Michaela, SD 75450
+:70:INV B58F832A58B2 Animal practice sense consumer rather early compare.
+:71A:OUR
+-}{5:{CHK:62850e79b4}}

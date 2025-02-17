@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250121BKBKPHMMXXXXXXXN}{3:{121:72d0d934-23ef-4b75-ad30-3e2eb6aef1bb}}{4:
+:20:REF-69817
+:23B:CRED
+:32A:250121GBP958200.00
+:50K:/OC5033263
+Williams, Thomas and Saunders
+271 Scott Crossing South Wandaport, LA 04092
+:57A:BKBKPHMMXXX
+:59:/BEN34300797001240
+Lindsey-Smith
+69131 Rivera Wells Apt. 529 East Edwinfort, NE 04679
+:70:INV 31A1D48C0A79 Finish agent personal month thing.
+:71A:OUR
+-}{5:{CHK:047a372b00}}

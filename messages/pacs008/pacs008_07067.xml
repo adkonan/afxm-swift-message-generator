@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>KFWDEFFXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BOFAUS3NXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-80825</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.446517</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-80825</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.446518</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CHF">186216.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Moreno, Anderson and Gonzalez</Nm></Dbtr>
+            <Cdtr><Nm>Wilkinson-Lopez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

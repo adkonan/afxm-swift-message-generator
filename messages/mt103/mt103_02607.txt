@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240712DTBKIDJAXXXXXXXN}{3:{121:96215a24-532c-476c-976d-fb32063704cd}}{4:
+:20:REF-49491
+:23B:CRED
+:32A:240712JPY136618.00
+:50K:/OC3429790
+Garcia-Anderson
+871 Roth Harbors Rogerschester, AS 40605
+:57A:DTBKIDJAXXX
+:59:/BEN46700406353613
+Jones, Johnson and Allen
+137 Katelyn Motorway Martinmouth, IN 09880
+:70:INV 7596C7B6442B Begin between four away guess among present forward.
+:71A:OUR
+-}{5:{CHK:3f08c9318f}}

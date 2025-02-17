@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103250104BKBKPHMMXXXXXXXN}{3:{121:3ac37df5-ecb8-49da-a3c0-effc7bfdf5c5}}{4:
+:20:REF-86491
+:23B:CRED
+:32A:250104CAD487344.00
+:50K:/OC4623922
+Kaufman-Diaz
+4452 Williams Fort Barbaraview, NM 36393
+:57A:BKBKPHMMXXX
+:59:/BEN44843922059067
+Brown and Sons
+98664 Wright Heights New Tylerchester, VI 17217
+:70:INV 33C545051927 Personal huge newspaper mission admit.
+:71A:OUR
+-}{5:{CHK:97417e5f78}}

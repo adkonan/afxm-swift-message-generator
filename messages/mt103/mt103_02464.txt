@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240708ECOCMLABXXXXXXXN}{3:{121:5df08a04-6155-4515-b0ce-eca3861ccf4f}}{4:
+:20:REF-19690
+:23B:CRED
+:32A:240708XDR91357.00
+:50K:/OC3512092
+Swanson and Sons
+0482 Jennifer Crossing Apt. 519 South Juanhaven, AZ 15620
+:57A:ECOCMLABXXX
+:59:/BEN70846630138669
+Green, Mendez and Coleman
+3841 Michele Crossing Cordovastad, CA 55952
+:70:INV D8218BFAC285 Point billion peace southern hour all training.
+:71A:OUR
+-}{5:{CHK:c85b3f3027}}

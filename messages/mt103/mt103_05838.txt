@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103250104SMBCJPJTXXXXXXXN}{3:{121:cc49f6d9-5999-4150-a32b-285b91a53db9}}{4:
+:20:REF-74090
+:23B:CRED
+:32A:250104AUD183051.00
+:50K:/OC7928640
+Ward, Campos and Everett
+029 Deborah Center Suite 219 North Kim, GU 40867
+:57A:SMBCJPJTXXX
+:59:/BEN74046847814311
+Hamilton, Garcia and Rivera
+5440 Schmitt Brooks Ethanhaven, MI 94946
+:70:INV 07808B775606 Light wish employee western per learn total.
+:71A:OUR
+-}{5:{CHK:af7a33f936}}

@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240414RABONL2UXXXXXXXN}{3:{121:34dab1da-0f81-4938-8bd5-07a74a14bb41}}{4:
+:20:REF-36988
+:23B:CRED
+:32A:240414CAD106606.00
+:50K:/OC2034978
+Copeland-Baker
+9994 Bean Junctions West Christina, IN 74658
+:57A:RABONL2UXXX
+:59:/BEN92967732243805
+Brown and Sons
+2715 Hughes Mill Langhaven, WA 92016
+:70:INV 22D0FD835251 Shake agree business expert while everyone kitchen Democrat.
+:71A:OUR
+-}{5:{CHK:c2ac1088fe}}

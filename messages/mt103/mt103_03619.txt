@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240508BICIBFBFXXXXXXXN}{3:{121:1787b60e-c2e1-4514-ac97-bf035751a7fd}}{4:
+:20:REF-23728
+:23B:CRED
+:32A:240508AUD68806.00
+:50K:/OC4018764
+Sullivan, Morgan and Burton
+753 Becky Points Jessicafort, WA 68574
+:57A:BICIBFBFXXX
+:59:/BEN98587285851720
+Robinson PLC
+422 Jon Villages Apt. 841 Allisonfurt, AK 15779
+:70:INV 0F4F3D3DDE31 All second major performance begin produce put.
+:71A:OUR
+-}{5:{CHK:8e6bc1340e}}

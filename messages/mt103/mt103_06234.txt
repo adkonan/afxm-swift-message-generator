@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103250206SCBLGB2LXXXXXXXN}{3:{121:22b6c81d-14cb-4342-9cc7-5ff70bd2712e}}{4:
+:20:REF-91220
+:23B:CRED
+:32A:250206JPY149.93
+:50K:/OC6304643
+Jones, Cook and Maldonado
+94408 Perry Brooks Apt. 850 Lake Ruthville, TN 82932
+:57A:SCBLGB2LXXX
+:59:/BEN48739823360653
+Petersen, Lopez and Williams
+2098 Myers Rue Suite 334 Kristinmouth, LA 98831
+:70:INV 7491D776B259 Push her first brother lot central physical.
+:71A:OUR
+-}{5:{CHK:a2c3ba8be7}}

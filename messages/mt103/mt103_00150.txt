@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103241202HSBCGB2LXXXXXXXN}{3:{121:931f6149-9c7d-491d-b985-8ce4dbcbaa41}}{4:
+:20:REF-52669
+:23B:CRED
+:32A:241202EUR472240.00
+:50K:/OC2068575
+Cochran, Mcpherson and Ramirez
+30289 King Keys Fischerhaven, DE 97876
+:57A:HSBCGB2LXXX
+:59:/BEN33007373769926
+Romero-Hatfield
+2011 Nicole Pines Suite 387 East Kristenchester, OK 06945
+:70:INV C13AE7F81516 Action design nice recently piece member.
+:71A:OUR
+-}{5:{CHK:2a53e0ba85}}

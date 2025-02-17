@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241020BICIBFBFXXXXXXXN}{3:{121:d83c3b5f-75b0-4b86-bc3e-c6eb91ebc812}}{4:
+:20:REF-67113
+:23B:CRED
+:32A:241020AUD48903400.00
+:50K:/OC4899340
+Clark, Ward and Jones
+976 Owens Garden Smithmouth, MT 28608
+:57A:BICIBFBFXXX
+:59:/BEN71718935997146
+Ewing, Wade and Price
+60146 Elijah Causeway Blanchardtown, CT 14229
+:70:INV 9E164EA63E70 Market put hospital visit fine program success culture.
+:71A:OUR
+-}{5:{CHK:a7b65f82aa}}

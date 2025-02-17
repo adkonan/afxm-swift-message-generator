@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241102BFSWUS33XXXXXXXN}{3:{121:e5c6433a-12bd-4e2a-8aab-b01c31c48493}}{4:
+:20:REF-77316
+:23B:CRED
+:32A:241102CNY112955.00
+:50K:/OC7112226
+Collins, Cruz and Ferguson
+4572 Lowe Cliff West Elizabethton, DE 80918
+:57A:BFSWUS33XXX
+:59:/BEN91911578605256
+Garcia-Avila
+45448 Veronica Square North Kristinabury, SC 84742
+:70:INV C30AB4DCB6DD Speech spring tonight view environmental.
+:71A:OUR
+-}{5:{CHK:0aaf77b183}}

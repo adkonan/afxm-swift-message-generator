@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240326CITIUS33XXXXXXXN}{3:{121:3dd2a97e-4d87-47b3-9853-7a68aeb60ccf}}{4:
+:20:REF-17994
+:23B:CRED
+:32A:240326GBP56841.00
+:50K:/OC8872391
+Mcconnell-Washington
+20059 Bennett Club Smithmouth, GU 91857
+:57A:CITIUS33XXX
+:59:/BEN25182912382103
+Johnson-Holmes
+36420 Alexa Streets West Christopher, WY 81090
+:70:INV 4A924114AEC2 When heavy child no protect change space.
+:71A:OUR
+-}{5:{CHK:e606fb0b9e}}

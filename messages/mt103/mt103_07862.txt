@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240810ICBKCNBJXXXXXXXN}{3:{121:a299dab3-f69c-495b-bafe-1466689b162e}}{4:
+:20:REF-57034
+:23B:CRED
+:32A:240810SGD383900.00
+:50K:/OC1627841
+Morgan, Holmes and Johnson
+06722 Kenneth Islands Suite 015 Jenniferton, NC 90950
+:57A:ICBKCNBJXXX
+:59:/BEN70369463627314
+Cox, Miller and Garcia
+959 Stein Pines Apt. 425 Port Daniellehaven, DC 87995
+:70:INV 37333B578EED Worry ability seven five military child book.
+:71A:OUR
+-}{5:{CHK:3f7546f0b4}}

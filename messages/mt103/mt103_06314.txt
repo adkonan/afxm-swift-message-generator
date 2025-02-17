@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103241030INGBNL2AXXXXXXXN}{3:{121:d20ad29e-05c1-434f-a3b2-a6025fb2d7ad}}{4:
+:20:REF-59857
+:23B:CRED
+:32A:241030CAD401574.00
+:50K:/OC5955100
+Alexander, Martinez and Castro
+99053 Reynolds Branch Apt. 956 North Tracey, LA 36519
+:57A:INGBNL2AXXX
+:59:/BEN92896600773164
+Owens, Ross and Ramirez
+85016 Wilkerson Island Suite 526 Lake Andrew, VT 07591
+:70:INV A88575C3250D Forget arm sound likely account address speak.
+:71A:OUR
+-}{5:{CHK:22af97c422}}

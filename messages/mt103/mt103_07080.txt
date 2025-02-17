@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240707UBSWCHZHXXXXXXXN}{3:{121:11c6b783-2cad-4c2b-acb9-268ea6a9f43b}}{4:
+:20:REF-38200
+:23B:CRED
+:32A:240707CHF12270500.00
+:50K:/OC6060791
+Whitaker-Underwood
+4708 Christensen Mountain Suite 065 Thomasberg, WA 08344
+:57A:UBSWCHZHXXX
+:59:/BEN50387176572719
+Roy Ltd
+9282 Mathews Shoal Apt. 256 North Stephanie, VT 92794
+:70:INV 9BFEB8D1F4AB Main agreement yourself drug reflect writer land.
+:71A:OUR
+-}{5:{CHK:88ebf904af}}

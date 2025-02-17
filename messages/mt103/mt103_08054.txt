@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241129HSBCGB2LXXXXXXXN}{3:{121:3650724b-f353-49de-833c-f64ba53fc5ab}}{4:
+:20:REF-31472
+:23B:CRED
+:32A:241129CHF176280.00
+:50K:/OC9907205
+Davis, Woods and Harper
+838 Mcfarland Pine Apt. 404 Harveyport, MP 98014
+:57A:HSBCGB2LXXX
+:59:/BEN26800779444601
+Morton and Sons
+694 Klein Ports Mcdowellborough, OR 35799
+:70:INV 5249F60C34EA Approach specific data mission control specific sea.
+:71A:OUR
+-}{5:{CHK:79acbdc712}}

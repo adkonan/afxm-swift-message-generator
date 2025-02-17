@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241108HSBCHKHHXXXXXXXN}{3:{121:df7971c8-e692-435e-a230-e32ec036cd14}}{4:
+:20:REF-52100
+:23B:CRED
+:32A:241108CAD492907.00
+:50K:/OC2508894
+Moore, Greene and Morris
+83161 Jessica Extension Apt. 460 Fernandomouth, GU 53678
+:57A:HSBCHKHHXXX
+:59:/BEN42835233291285
+Potter, Freeman and Smith
+8015 Jennifer Fords Wheelerhaven, WI 32237
+:70:INV B30B89807A6D Participant blue yeah newspaper discover mission character.
+:71A:OUR
+-}{5:{CHK:e36413f69c}}

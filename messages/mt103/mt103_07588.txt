@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240615BBVAESMMXXXXXXXN}{3:{121:d487effa-e711-467e-8bcc-2cee09d664cf}}{4:
+:20:REF-40109
+:23B:CRED
+:32A:240615USD447798.00
+:50K:/OC2027584
+Combs, Wood and Larsen
+70208 White Harbors West Randall, MI 05615
+:57A:BBVAESMMXXX
+:59:/BEN92087047360347
+Lopez, Zimmerman and Ward
+65041 Brian Shoal Kaisermouth, CA 92889
+:70:INV 214AF6E3A529 Write adult finish coach among pay.
+:71A:OUR
+-}{5:{CHK:fddf0db241}}

@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240709BARCDEFFXXXXXXXN}{3:{121:b56165da-d7b6-47e5-a6e3-0110ccf1c741}}{4:
+:20:REF-39229
+:23B:CRED
+:32A:240709KPW3580.91
+:50K:/OC2441993
+Miller PLC
+26366 Johnson Mill Suite 181 Crystalland, DC 62059
+:57A:BARCDEFFXXX
+:59:/BEN81298798216976
+Turner-Stevens
+5111 Garcia Hollow Apt. 991 Kingchester, FM 74804
+:70:INV 936181B23886 Federal when increase responsibility east success police daughter.
+:71A:OUR
+-}{5:{CHK:4daf35b0f9}}

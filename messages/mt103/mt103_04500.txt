@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240403DEUTDEFFXXXXXXXN}{3:{121:f519bd6f-cc52-403e-bc99-ce603f550c6a}}{4:
+:20:REF-71440
+:23B:CRED
+:32A:240403AUD274121.00
+:50K:/OC1487770
+Warner, Mitchell and Patel
+673 Williams Field Apt. 565 Lake Deborah, NH 36049
+:57A:DEUTDEFFXXX
+:59:/BEN25865781137738
+Anderson, Wilson and Peterson
+90897 Christine Glen Suite 322 Carpenterville, CO 98900
+:70:INV F4538DB9BBEE Indicate group person happen.
+:71A:OUR
+-}{5:{CHK:3e9d1a1a09}}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>MIZUJPJTXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BMCECMRXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-16415</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.021532</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-16415</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.021533</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="XAG">77065.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Allen-Harris</Nm></Dbtr>
+            <Cdtr><Nm>Poole, Lutz and Hernandez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

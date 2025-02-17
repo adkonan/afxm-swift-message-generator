@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240629DBSAZAJJXXXXXXXN}{3:{121:83d8b707-f2d4-46c5-a265-708b149b5829}}{4:
+:20:REF-46546
+:23B:CRED
+:32A:240629JPY120241.00
+:50K:/OC3689079
+Jacobson, Reed and Valdez
+311 Emily Drive Laurenville, PA 88750
+:57A:DBSAZAJJXXX
+:59:/BEN53849139940738
+Johnson, Johnson and Berger
+7980 Jessica Burgs South Ernestberg, TN 56266
+:70:INV 396B9E8AD046 Particular oil subject start camera dog firm.
+:71A:OUR
+-}{5:{CHK:42e84fde8d}}

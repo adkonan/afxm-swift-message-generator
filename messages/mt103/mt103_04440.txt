@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241203NATXFRPPXXXXXXXN}{3:{121:f155beec-2a5d-413a-9a3e-94d7e3159ada}}{4:
+:20:REF-48129
+:23B:CRED
+:32A:241203CNY296088.00
+:50K:/OC8353933
+Aguirre Inc
+4012 Amy Hills Suite 137 Racheltown, NM 45523
+:57A:NATXFRPPXXX
+:59:/BEN65773417278583
+Poole, Miller and Johnson
+0563 Chang Dam Suite 798 South Andrew, TN 65566
+:70:INV 2906C9FEB064 Wear drug attention three someone local must kitchen.
+:71A:OUR
+-}{5:{CHK:c98a31e987}}

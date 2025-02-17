@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240810RABONL2UXXXXXXXN}{3:{121:9a78ab76-7863-465e-a069-a4ae40329a1e}}{4:
+:20:REF-47472
+:23B:CRED
+:32A:240810AUD365751.00
+:50K:/OC9954401
+Love, Cross and Smith
+3902 Troy Park Apt. 052 East Seanbury, KS 53157
+:57A:RABONL2UXXX
+:59:/BEN94195379836482
+Bennett, Jones and Cummings
+5073 Charles Spring Stephensmouth, UT 87148
+:70:INV 8DBFB080FB97 Level cause treatment positive half here pull minute.
+:71A:OUR
+-}{5:{CHK:444afbbb3e}}

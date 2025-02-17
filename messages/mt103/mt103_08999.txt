@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240803UOBVSGSGXXXXXXXN}{3:{121:ffdeee11-fce7-4095-a476-52d81b0dda88}}{4:
+:20:REF-98132
+:23B:CRED
+:32A:240803USD159355.00
+:50K:/OC9358968
+Sandoval-Fitzgerald
+479 Raymond Cliff Mcfarlandfort, MS 65111
+:57A:UOBVSGSGXXX
+:59:/BEN86066219748748
+Horton-Gonzalez
+35091 Erica Parkway Apt. 908 New Claudiastad, TX 56423
+:70:INV F1359F7E81E7 Push technology social college form medical.
+:71A:OUR
+-}{5:{CHK:48952ed643}}

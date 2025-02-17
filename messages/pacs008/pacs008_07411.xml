@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CITIUS33XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UBSWCHZHXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-16236</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.528487</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-16236</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.528489</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">261986.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Castaneda LLC</Nm></Dbtr>
+            <Cdtr><Nm>Cook, Schneider and Smith</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

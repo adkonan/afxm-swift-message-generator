@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240929CITIUS33XXXXXXXN}{3:{121:fd24f0d3-c0f7-4564-a4ff-92ee270356dd}}{4:
+:20:REF-28787
+:23B:CRED
+:32A:240929SGD292722.00
+:50K:/OC9874314
+Weeks, Jones and Webster
+93436 Jocelyn Curve Apt. 557 South Michael, KS 40922
+:57A:CITIUS33XXX
+:59:/BEN21227517618337
+Bryant, Garcia and Edwards
+83084 Garcia Radial Apt. 979 North Johnnyborough, WV 43335
+:70:INV 2655981AF7A1 Go feeling police else member true woman.
+:71A:OUR
+-}{5:{CHK:b542776685}}

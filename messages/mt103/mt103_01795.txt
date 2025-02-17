@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240730BKBKPHMMXXXXXXXN}{3:{121:c6d08cbb-0f0f-4e0a-8b86-739ef0d200ad}}{4:
+:20:REF-17634
+:23B:CRED
+:32A:240730SGD438237.00
+:50K:/OC7345356
+Hoffman-Simmons
+06858 April Forest North Tiffanyside, MS 01008
+:57A:BKBKPHMMXXX
+:59:/BEN45254994934622
+Dalton-Cox
+3161 Brooks Centers Suite 700 Fraziermouth, OR 51532
+:70:INV 5E11DD7D15E2 Address by themselves blood old public.
+:71A:OUR
+-}{5:{CHK:3ce35e5aaa}}

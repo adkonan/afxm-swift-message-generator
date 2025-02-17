@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103241110ZURICHZCHXXXXXXXN}{3:{121:280c0872-ccbd-47ff-984d-c0c485d2fd70}}{4:
+:20:REF-54781
+:23B:CRED
+:32A:241110AUD42929.00
+:50K:/OC5545982
+Holt, Elliott and Richardson
+707 Valerie Fall Suite 013 South Jessica, IN 37902
+:57A:ZURICHZCHXXX
+:59:/BEN96105308961850
+Morrow-Hansen
+25783 Long Port Apt. 064 South Michaelview, ID 23182
+:70:INV E49B110B78AE Single different figure billion claim join medical party.
+:71A:OUR
+-}{5:{CHK:7cdd112212}}

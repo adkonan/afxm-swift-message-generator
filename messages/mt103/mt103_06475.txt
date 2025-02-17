@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240318RABONL2UXXXXXXXN}{3:{121:8bb3a401-d976-4d8b-93de-0c0092174dce}}{4:
+:20:REF-81478
+:23B:CRED
+:32A:240318AUD46615.00
+:50K:/OC7063798
+Maldonado-Roberson
+632 Jason Place Suite 988 Mccormickberg, MN 35863
+:57A:RABONL2UXXX
+:59:/BEN44590227500460
+Brooks-Lutz
+8907 Sampson Inlet Suite 163 Port James, MN 28993
+:70:INV AA8C708D0F8C Station force data central attention structure point.
+:71A:OUR
+-}{5:{CHK:1987e91c59}}

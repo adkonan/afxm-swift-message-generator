@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103250127CITIUS33XXXXXXXN}{3:{121:5deea20d-ed5b-469b-a9c7-7ae6cf53c211}}{4:
+:20:REF-77986
+:23B:CRED
+:32A:250127CHF2871.02
+:50K:/OC9488402
+Willis, Adams and Patel
+62572 Hughes Mill New Sharimouth, ND 37157
+:57A:CITIUS33XXX
+:59:/BEN92476146023567
+Simmons, Middleton and Carroll
+4517 Danielle Summit Davisborough, GU 42519
+:70:INV 9B36E8000E3C Customer able production hot song sure.
+:71A:OUR
+-}{5:{CHK:f4753bd094}}

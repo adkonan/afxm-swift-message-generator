@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240616UBSWRIT2XXXXXXXN}{3:{121:db64012b-9cc5-4178-878a-9809643db11d}}{4:
+:20:REF-96740
+:23B:CRED
+:32A:240616CAD2969.24
+:50K:/OC6366970
+Moore, Collins and Carr
+958 Peters Row Apt. 222 Lake Donaldmouth, NH 82516
+:57A:UBSWRIT2XXX
+:59:/BEN85533191997657
+Leach-Fernandez
+212 Sharon Isle North Leslieville, WV 50277
+:70:INV C40096AEA0B9 Have early short community certain analysis.
+:71A:OUR
+-}{5:{CHK:a423ed268a}}

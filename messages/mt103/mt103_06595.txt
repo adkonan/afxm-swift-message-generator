@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103240626CITIUS33XXXXXXXN}{3:{121:bebfcde2-2f76-45e1-906c-0e7dd973ae62}}{4:
+:20:REF-84138
+:23B:CRED
+:32A:240626AUD355848.00
+:50K:/OC2358030
+Farrell, Farrell and Chapman
+9248 Sanchez Causeway Whiteport, ME 16155
+:57A:CITIUS33XXX
+:59:/BEN40214127432554
+Edwards-Oconnell
+4895 Erica Courts Suite 955 North Jonathanland, NE 40088
+:70:INV 0F3D739C15E1 Hotel dream left director individual.
+:71A:OUR
+-}{5:{CHK:4be7ac48cf}}

@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240504SMBCJPJTXXXXXXXN}{3:{121:0ca347ca-4f19-4e93-9557-6933527b7cd1}}{4:
+:20:REF-56279
+:23B:CRED
+:32A:240504GBP19335.00
+:50K:/OC6111728
+Phillips, Beard and Moreno
+921 Carter Glens North Renee, FL 75919
+:57A:SMBCJPJTXXX
+:59:/BEN55095568196138
+Aguilar, Gonzalez and Clark
+30015 Moss Mountains New Angela, MP 07585
+:70:INV EE2C5BDDB074 Determine truth management college price be expert brother.
+:71A:OUR
+-}{5:{CHK:228312ccac}}

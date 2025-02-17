@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240302SOGEFRPPXXXXXXXN}{3:{121:2e77cc61-25d4-4235-ab55-d2a7a17fbd39}}{4:
+:20:REF-33561
+:23B:CRED
+:32A:240302EUR4080440.00
+:50K:/OC4590041
+Meyer, Price and Hardy
+1767 Griffith Ways Apt. 321 Jonathanbury, NJ 22493
+:57A:SOGEFRPPXXX
+:59:/BEN60580204866841
+Shelton, Barber and Salinas
+1393 Smith Springs Suite 844 Parkburgh, WA 73455
+:70:INV 2A41D3A4BECF Hold for arrive wide tough develop friend.
+:71A:OUR
+-}{5:{CHK:4e3e44289e}}

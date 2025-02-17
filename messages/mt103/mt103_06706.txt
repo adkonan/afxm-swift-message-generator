@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240627BNPAGB22XXXXXXXN}{3:{121:87b9b04b-8e49-418e-87a3-da210cfef130}}{4:
+:20:REF-81686
+:23B:CRED
+:32A:240627XAU36083100.00
+:50K:/OC7724331
+Nguyen, Hall and Turner
+8116 Taylor Pine North Nicolestad, GA 71058
+:57A:BNPAGB22XXX
+:59:/BEN21572445267443
+Jones-Stanley
+947 Courtney Motorway New Vincent, DC 65215
+:70:INV 1399AB05BA8F Performance offer system improve say white provide worry.
+:71A:OUR
+-}{5:{CHK:daf89b1ad5}}

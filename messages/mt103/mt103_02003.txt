@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103240709CRESCHZZXXXXXXXN}{3:{121:baa44de3-ff0c-47d5-aca0-d58afa4aae67}}{4:
+:20:REF-18661
+:23B:CRED
+:32A:240709AUD3789.41
+:50K:/OC4603675
+Brown, Cook and Mcdowell
+69271 Rodriguez Freeway Suite 075 Lisaburgh, PR 85398
+:57A:CRESCHZZXXX
+:59:/BEN59305770665318
+Carter, Case and Francis
+763 Jennifer Grove Apt. 218 East Cristinabury, NM 15375
+:70:INV 0078DDBD475C Understand side consumer throughout cover early dark list.
+:71A:OUR
+-}{5:{CHK:b88057866c}}

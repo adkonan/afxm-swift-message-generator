@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103241119BOFAUS3NXXXXXXXN}{3:{121:fe4bdd66-38bd-44fd-8f59-0784c8fbe8b4}}{4:
+:20:REF-34274
+:23B:CRED
+:32A:241119AUD67904.00
+:50K:/OC5588562
+Bentley, Robinson and Olson
+8145 Khan Shore Scottport, MT 17706
+:57A:BOFAUS3NXXX
+:59:/BEN73847999896544
+Smith, Robinson and Carroll
+752 Wallace Mountain Victoriachester, PR 68586
+:70:INV 61454D51D696 Already during listen get avoid idea line.
+:71A:OUR
+-}{5:{CHK:97001d3ecf}}

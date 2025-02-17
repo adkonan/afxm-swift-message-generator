@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240311BBVAESMMXXXXXXXN}{3:{121:4dea88fe-49d5-4be2-8f47-e592e002758f}}{4:
+:20:REF-46074
+:23B:CRED
+:32A:240311IRR142196.00
+:50K:/OC1288941
+Gilmore-Miller
+66501 Mccarty Corners Suite 602 Mirandaton, RI 57070
+:57A:BBVAESMMXXX
+:59:/BEN91063852532820
+Blanchard, Maldonado and Wise
+0970 Ronald Fall Danside, OK 69871
+:70:INV 1777F071DA25 Oil appear the treat course ability artist.
+:71A:OUR
+-}{5:{CHK:f74d2974ff}}

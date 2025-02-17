@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240916BCAOAOAOXXXXXXXN}{3:{121:63ff25f4-84ac-4557-a6fa-bb66060df1d7}}{4:
+:20:REF-43526
+:23B:CRED
+:32A:240916CAD223426.00
+:50K:/OC6507004
+Greene Inc
+3884 Walker Villages Lyonsborough, CT 77534
+:57A:BCAOAOAOXXX
+:59:/BEN86142131430482
+Thompson, Crosby and Briggs
+929 Blackwell Inlet Suite 770 Williamtown, IL 51840
+:70:INV F9237E75E4B6 American thought case development at person.
+:71A:OUR
+-}{5:{CHK:3044fc3629}}

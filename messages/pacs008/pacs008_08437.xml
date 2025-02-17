@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>KFWDEFFXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CRESIT2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-13716</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:22.805252</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-13716</MsgId>
+            <CreDtTm>2025-02-17T14:38:22.805254</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="EUR">432714.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Kidd, Mueller and Hammond</Nm></Dbtr>
+            <Cdtr><Nm>Zuniga, Thomas and Martinez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

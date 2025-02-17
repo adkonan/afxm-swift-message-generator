@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103241209ABSAZAJJXXXXXXXN}{3:{121:a5bc7b93-eda8-4482-b7fc-054a45f51234}}{4:
+:20:REF-45447
+:23B:CRED
+:32A:241209CNY3430.69
+:50K:/OC8423522
+Jones LLC
+2854 Jessica Curve Teresaberg, DE 11302
+:57A:ABSAZAJJXXX
+:59:/BEN11698529173160
+Arnold, Kim and Smith
+853 Joanne Club Apt. 722 East Alanstad, PW 67121
+:70:INV EE8CB4819DB8 Law focus suddenly population walk in candidate him.
+:71A:OUR
+-}{5:{CHK:3cf4db0b7b}}

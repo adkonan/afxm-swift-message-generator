@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240621ABSAZAJJXXXXXXXN}{3:{121:005ebcdf-b2d1-4a18-b1ab-87ef9b48e293}}{4:
+:20:REF-11138
+:23B:CRED
+:32A:240621CAD396584.00
+:50K:/OC8012681
+Arnold-Baker
+206 Lawrence Lodge Estradachester, WI 12802
+:57A:ABSAZAJJXXX
+:59:/BEN65318715977699
+Houston PLC
+6572 Rodriguez Ports Davechester, MH 18879
+:70:INV 26D346A1CDCD Send remain there benefit hit foot soldier.
+:71A:OUR
+-}{5:{CHK:18a89cfdbc}}

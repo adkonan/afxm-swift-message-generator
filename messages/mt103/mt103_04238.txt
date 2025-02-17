@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240918BOJZBJZAXXXXXXXN}{3:{121:00f56b2a-44a2-4d74-9a03-ab2b8d09fda9}}{4:
+:20:REF-24954
+:23B:CRED
+:32A:240918EUR1327800.00
+:50K:/OC8081053
+Alvarado, Oconnor and Blanchard
+4876 Kimberly Ports Suite 277 Robersonside, OR 89929
+:57A:BOJZBJZAXXX
+:59:/BEN31914926607271
+Hart-Jimenez
+3538 Malone Loop Suite 026 South Albert, AK 37307
+:70:INV 9812DEE7F829 Product important manage article task month hot expert.
+:71A:OUR
+-}{5:{CHK:9617c3ee21}}

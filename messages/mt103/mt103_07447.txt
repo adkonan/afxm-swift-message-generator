@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103241210ICBKCNBJXXXXXXXN}{3:{121:853a80d2-54fb-4d8e-9861-445d302de71c}}{4:
+:20:REF-45756
+:23B:CRED
+:32A:241210CAD35002600.00
+:50K:/OC9547048
+Mullen-Martinez
+3128 Christopher Forge Suite 436 New Courtneyhaven, CO 30070
+:57A:ICBKCNBJXXX
+:59:/BEN10135724883029
+Erickson, Chavez and Medina
+4362 Terrell Terrace Port Nathanieltown, KS 16032
+:70:INV 41784A7A8409 White impact pass general feeling.
+:71A:OUR
+-}{5:{CHK:6b0dd29ebf}}

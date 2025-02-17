@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240221BOFAUS3NXXXXXXXN}{3:{121:b55beb8b-c976-41d1-8d5e-5ffb26039d2d}}{4:
+:20:REF-15024
+:23B:CRED
+:32A:240221CNY254892.00
+:50K:/OC1985999
+Lane, Acosta and Garcia
+5664 Kevin Brook Port Ashley, MH 70020
+:57A:BOFAUS3NXXX
+:59:/BEN66572393632786
+Shelton, Evans and Carpenter
+5676 Mckinney Trace Davidstad, ID 88715
+:70:INV D086BDF272A5 Option network guy opportunity indeed.
+:71A:OUR
+-}{5:{CHK:50cc7d423e}}

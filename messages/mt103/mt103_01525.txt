@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240311DBSAZAJJXXXXXXXN}{3:{121:9b164051-48b2-4bea-81b3-beeb531f5895}}{4:
+:20:REF-93220
+:23B:CRED
+:32A:240311XDR145544.00
+:50K:/OC3798327
+Holloway Inc
+95284 Michael Way Apt. 980 New Kimberlyfort, GA 91712
+:57A:DBSAZAJJXXX
+:59:/BEN32670391169695
+Hogan, Butler and Archer
+842 Jonathan Plaza Apt. 127 Codyville, SC 10652
+:70:INV 79204B2EB22C Though for morning behind begin situation no.
+:71A:OUR
+-}{5:{CHK:c794daa2bd}}

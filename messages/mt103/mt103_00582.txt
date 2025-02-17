@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240924ZURICHZCHXXXXXXXN}{3:{121:dece8856-6ecc-4fc5-920f-bfb306bc485a}}{4:
+:20:REF-70657
+:23B:CRED
+:32A:240924SGD367215.00
+:50K:/OC1760002
+Johnson-Woods
+605 Christopher Street Seanberg, MH 65629
+:57A:ZURICHZCHXXX
+:59:/BEN86434556575128
+Barker, Holden and Miller
+2748 Tyrone Springs Apt. 425 Lake Kathrynfurt, KS 80656
+:70:INV 50C1EFC498F6 Simply money pressure would accept among product through.
+:71A:OUR
+-}{5:{CHK:b4bca058f5}}

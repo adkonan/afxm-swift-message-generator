@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103241031BICIBFBFXXXXXXXN}{3:{121:be3563f5-b2c2-4999-9d74-beae86b219d1}}{4:
+:20:REF-23069
+:23B:CRED
+:32A:241031SGD34657.00
+:50K:/OC9844197
+Townsend, Reeves and Baldwin
+394 Robbins Estates Suite 226 Johnsonhaven, AS 20589
+:57A:BICIBFBFXXX
+:59:/BEN44155814561680
+Walker, Wilson and Garcia
+3715 Tiffany Circle South Cesar, UT 12714
+:70:INV A64BDFEAF0D2 Into key certain property which under heart.
+:71A:OUR
+-}{5:{CHK:ca4ac1851f}}

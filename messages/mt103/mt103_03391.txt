@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103240929CHASUS33XXXXXXXN}{3:{121:fa7dfc59-4115-4597-ba5b-8ebb2c54a371}}{4:
+:20:REF-61385
+:23B:CRED
+:32A:240929CHF127347.00
+:50K:/OC2836351
+Moore-Richardson
+417 Margaret Mountains Suite 359 South Paul, ND 11698
+:57A:CHASUS33XXX
+:59:/BEN16475831061008
+Jenkins, Maynard and Frye
+41126 Jennifer Village Lake Gregory, KS 93745
+:70:INV 5E05198CE4AC Through single lay wrong cause wall offer meet.
+:71A:OUR
+-}{5:{CHK:a21d271840}}

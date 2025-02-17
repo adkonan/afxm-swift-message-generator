@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241204RBCROYTORXXXXXXXN}{3:{121:fb30bb9e-e197-4e2f-8c96-12048cab24aa}}{4:
+:20:REF-16587
+:23B:CRED
+:32A:241204CHF487406.00
+:50K:/OC6661694
+Wolfe-Boyd
+3624 Chris Locks Suite 702 Cliffordville, NJ 10663
+:57A:RBCROYTORXXX
+:59:/BEN53972861188019
+Stevens, Hansen and Hahn
+00557 Williams Extension North Frederickmouth, TN 45520
+:70:INV B8E02BACDE81 For themselves full piece teacher it.
+:71A:OUR
+-}{5:{CHK:6a182a14ab}}

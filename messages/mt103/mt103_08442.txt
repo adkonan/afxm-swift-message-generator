@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240509SCBLGB2LXXXXXXXN}{3:{121:be59c19c-c8a5-4835-892d-b9c567ff8bc4}}{4:
+:20:REF-93648
+:23B:CRED
+:32A:240509AUD414999.00
+:50K:/OC6965975
+Miller, Barron and Cole
+1534 George Run Apt. 871 East Latasha, WI 23709
+:57A:SCBLGB2LXXX
+:59:/BEN93979608847874
+Johnston, Saunders and Ball
+287 Turner Lane Suite 358 West Gregoryside, DC 17327
+:70:INV 6508D916A361 Evidence draw compare trip defense painting respond his.
+:71A:OUR
+-}{5:{CHK:3067b90441}}

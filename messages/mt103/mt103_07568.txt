@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240620KFWDEFFXXXXXXXN}{3:{121:2dae36a8-38fa-4996-9b03-047ab97a1dd9}}{4:
+:20:REF-96087
+:23B:CRED
+:32A:240620IRR412041.00
+:50K:/OC9661811
+Mcneil-Taylor
+661 Carr Gateway Hernandezberg, NM 30658
+:57A:KFWDEFFXXX
+:59:/BEN74985123191017
+Woodward, Nicholson and Anderson
+06669 Kaitlin Green East Natashatown, GA 86513
+:70:INV C85A052ABEA4 Item carry throw live join system.
+:71A:OUR
+-}{5:{CHK:1c9698a69a}}

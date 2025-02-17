@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240809BARCGB22XXXXXXXN}{3:{121:333d4a0f-b34a-4f24-a16e-9ef636ccaa52}}{4:
+:20:REF-92436
+:23B:CRED
+:32A:240809SGD167667.00
+:50K:/OC6523828
+Garner-Coleman
+804 Courtney Fork Coopermouth, MD 70692
+:57A:BARCGB22XXX
+:59:/BEN24065518686811
+Smith, Avery and Gaines
+6430 Greg Mountains Apt. 399 South Davidborough, VA 27157
+:70:INV 43C25EB43870 Them tend quickly believe course author note him.
+:71A:OUR
+-}{5:{CHK:7dc579375d}}

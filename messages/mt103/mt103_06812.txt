@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240913STANGB2LXXXXXXXN}{3:{121:cbbd5421-4853-47a8-911b-a2d99ecaec8d}}{4:
+:20:REF-59193
+:23B:CRED
+:32A:240913CAD58339.00
+:50K:/OC3313798
+Robinson Group
+858 Emily Circles Muellerland, UT 24648
+:57A:STANGB2LXXX
+:59:/BEN32859530646070
+Chang Group
+13389 Krueger Hills Suite 715 Anthonyshire, VI 55935
+:70:INV 6401201B3603 Film successful record inside increase response campaign knowledge.
+:71A:OUR
+-}{5:{CHK:e724a3e7ad}}

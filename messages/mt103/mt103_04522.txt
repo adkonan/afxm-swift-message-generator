@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240910BOFAUS3NXXXXXXXN}{3:{121:beebf9bb-d238-4675-9722-e3b7a4e1fb3e}}{4:
+:20:REF-41999
+:23B:CRED
+:32A:240910AUD1257.63
+:50K:/OC1879885
+Thompson-Anderson
+7266 Neal Trafficway Apt. 358 Riveraview, WY 32060
+:57A:BOFAUS3NXXX
+:59:/BEN40947237040346
+Griffin Inc
+0216 Manning Flats Apt. 344 Fergusonland, MN 24720
+:70:INV 4E23084842A4 Machine interview cause mention understand cultural.
+:71A:OUR
+-}{5:{CHK:fd5e90f74f}}

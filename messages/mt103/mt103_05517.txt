@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241125DBSAZAJJXXXXXXXN}{3:{121:0bcaaf84-ea7a-4cd7-8909-20333fcb4672}}{4:
+:20:REF-64739
+:23B:CRED
+:32A:241125SGD206618.00
+:50K:/OC7126446
+Ford, Hall and Phillips
+674 Hernandez Fort East Mariaville, MP 08220
+:57A:DBSAZAJJXXX
+:59:/BEN66554878505141
+Moore-Walls
+52731 Molly Lodge Suite 687 Lake Alyssaton, VT 11209
+:70:INV 107BD809DE47 Include marriage song green actually.
+:71A:OUR
+-}{5:{CHK:f5cc3e4ff9}}

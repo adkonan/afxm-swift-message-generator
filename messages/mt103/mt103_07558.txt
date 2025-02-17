@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240529DBSSSGSGXXXXXXXN}{3:{121:2bd01dd0-b8dc-46e0-8c11-5eb177dbeb29}}{4:
+:20:REF-39885
+:23B:CRED
+:32A:240529JPY176022.00
+:50K:/OC6635410
+Tran PLC
+5321 Juan Cove West Jonathanville, NY 97326
+:57A:DBSSSGSGXXX
+:59:/BEN99231732619028
+Johnson, Long and Mcdonald
+001 Colleen Junctions Suite 504 Thompsonview, NC 04445
+:70:INV A4267999C2A9 Success road member course involve song.
+:71A:OUR
+-}{5:{CHK:af789043ce}}

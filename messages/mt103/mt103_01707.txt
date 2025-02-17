@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240526AFRIGHACXXXXXXXN}{3:{121:5a808e66-6abe-40c2-befc-d6e9f6afd40f}}{4:
+:20:REF-14777
+:23B:CRED
+:32A:240526CHF121812.00
+:50K:/OC2401939
+Whitaker-Farrell
+3491 Vargas Wells Apt. 555 Thomasville, NJ 06201
+:57A:AFRIGHACXXX
+:59:/BEN55029750224230
+Jarvis and Sons
+15156 Johnson Shore Apt. 415 West Angelaport, IL 85338
+:70:INV 269192FF43C1 Anything anyone data successful ask movement.
+:71A:OUR
+-}{5:{CHK:2fddd9611e}}

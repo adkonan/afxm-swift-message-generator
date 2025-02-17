@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240922BNPAGB22XXXXXXXN}{3:{121:0356f8a7-60be-41f4-a83e-0c3234e45247}}{4:
+:20:REF-36453
+:23B:CRED
+:32A:240922CNY183353.00
+:50K:/OC5041490
+Wood, Nelson and Sanchez
+303 Kennedy Ways West Jameshaven, SC 71836
+:57A:BNPAGB22XXX
+:59:/BEN27475262443268
+Green, Greene and Diaz
+775 Michael Run Theresafurt, NC 33721
+:70:INV D98506045A4C Day tree campaign truth talk center finish particular.
+:71A:OUR
+-}{5:{CHK:24a9607fd6}}

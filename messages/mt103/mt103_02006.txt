@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103250216ECOCGHANXXXXXXXN}{3:{121:58baa741-78b3-4fd1-acfa-c41489f47d3b}}{4:
+:20:REF-10950
+:23B:CRED
+:32A:250216USD316250.00
+:50K:/OC4566470
+Osborn Group
+403 Amanda Harbors Apt. 851 Lake William, VT 85127
+:57A:ECOCGHANXXX
+:59:/BEN45668801991060
+Johnson-Cortez
+53387 Matthew Causeway Rodriguezport, MD 10462
+:70:INV 578104E4338B Decade employee commercial enter beyond.
+:71A:OUR
+-}{5:{CHK:be3dfee80e}}

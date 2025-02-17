@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103241127CITIUS33XXXXXXXN}{3:{121:e8bb1def-385a-482d-89ca-4dc5a4f5688a}}{4:
+:20:REF-82680
+:23B:CRED
+:32A:241127EUR402803.00
+:50K:/OC5270177
+Barker, Chambers and Elliott
+130 Schmitt Branch Williamsland, NC 54827
+:57A:CITIUS33XXX
+:59:/BEN15987195140867
+Myers and Sons
+37821 Angela Ports Christopherborough, AL 26623
+:70:INV 7F23E0C2B6EC Film family describe care one.
+:71A:OUR
+-}{5:{CHK:7ef389081a}}

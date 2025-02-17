@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241226BICIBFBFXXXXXXXN}{3:{121:1a242643-5631-4ac9-b6af-d223fa69af78}}{4:
+:20:REF-89691
+:23B:CRED
+:32A:241226CAD33721.00
+:50K:/OC6586841
+Hutchinson, Solis and Ruiz
+898 Walker Pike Suite 588 South Johnathanville, FL 29444
+:57A:BICIBFBFXXX
+:59:/BEN42297120933658
+Mejia Group
+2216 Joseph Ports Suite 302 New Stevenland, HI 15754
+:70:INV E40F495F9851 Effect report difference father notice.
+:71A:OUR
+-}{5:{CHK:b453a50051}}

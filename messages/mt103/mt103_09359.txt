@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240307BNPAFRPPXXXXXXXN}{3:{121:0ff0cf2c-b4bb-42ab-af90-b42b9ecd11c8}}{4:
+:20:REF-56295
+:23B:CRED
+:32A:240307CNY283413.00
+:50K:/OC2824014
+Parker-Garcia
+8230 Michael Stream Suite 834 North Amanda, MS 54338
+:57A:BNPAFRPPXXX
+:59:/BEN40379467692425
+Moore, Rodriguez and Brown
+5317 Davis Squares Lake Kristen, CO 53346
+:70:INV C8E51F04D6DF Guy yes law team give discuss image.
+:71A:OUR
+-}{5:{CHK:f67b752b36}}

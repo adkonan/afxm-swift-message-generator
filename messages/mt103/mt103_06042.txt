@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103241214BNPPIT2LXXXXXXXN}{3:{121:bf9723dd-ec72-46a2-aafb-a6988bb04997}}{4:
+:20:REF-29390
+:23B:CRED
+:32A:241214SGD10327800.00
+:50K:/OC9495781
+Mckay-Harrison
+226 Graves Plain Apt. 214 Pamelaport, TN 36504
+:57A:BNPPIT2LXXX
+:59:/BEN70965319700776
+Brown, Cox and Simpson
+003 Hurley Glen Hernandezfurt, NY 92906
+:70:INV A41D923B8B29 Later social economy federal authority population opportunity.
+:71A:OUR
+-}{5:{CHK:3d74a88a38}}

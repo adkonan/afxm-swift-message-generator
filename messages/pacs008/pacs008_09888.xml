@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>OCBCSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>MIZUJPJTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-73594</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:23.195845</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-73594</MsgId>
+            <CreDtTm>2025-02-17T14:38:23.195846</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="USD">2479.75</IntrBkSttlmAmt>
+            <Dbtr><Nm>Rogers-Rodriguez</Nm></Dbtr>
+            <Cdtr><Nm>Moreno, Grant and Lopez</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

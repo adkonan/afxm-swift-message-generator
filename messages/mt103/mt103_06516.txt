@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240615RBCROYTORXXXXXXXN}{3:{121:21235baf-bd06-4b1f-8d5a-a4d5bcba8d93}}{4:
+:20:REF-56901
+:23B:CRED
+:32A:240615JPY397444.00
+:50K:/OC8401324
+Greene Ltd
+4930 Christopher View Port Kevin, MD 36998
+:57A:RBCROYTORXXX
+:59:/BEN95583032691811
+Fox, Hill and Roth
+7682 Johnny Ridges Hoffmanmouth, MI 85810
+:70:INV 2053779544E3 School rich practice reveal gun trouble condition.
+:71A:OUR
+-}{5:{CHK:33d621fd71}}

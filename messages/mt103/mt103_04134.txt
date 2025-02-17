@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240512UOBVSGSGXXXXXXXN}{3:{121:be17fdfc-fa93-4b3d-901a-5768d4ea5e96}}{4:
+:20:REF-72198
+:23B:CRED
+:32A:240512GBP3147.14
+:50K:/OC5058764
+Reyes Ltd
+288 Sanders Walk Suite 796 Ramirezborough, DE 29583
+:57A:UOBVSGSGXXX
+:59:/BEN65319977024858
+Keller-Stanley
+65366 Nguyen Garden Marshallville, TX 28570
+:70:INV FF1D032BE045 Step class authority about agency they music.
+:71A:OUR
+-}{5:{CHK:84f8e3a11d}}

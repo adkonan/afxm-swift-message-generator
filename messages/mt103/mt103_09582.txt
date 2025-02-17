@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241110RBCROYTORXXXXXXXN}{3:{121:4c52fcc6-7d47-4efb-8cbf-85fc455e68b1}}{4:
+:20:REF-80673
+:23B:CRED
+:32A:241110XDR498400.00
+:50K:/OC6657531
+Burnett, Brown and Black
+22234 Williams Path Taylormouth, ID 29783
+:57A:RBCROYTORXXX
+:59:/BEN65657675840082
+Brown PLC
+9201 Melissa Summit Suite 994 Lake Scott, WI 09697
+:70:INV 2C8074ADC317 Those want sign it enter option industry explain.
+:71A:OUR
+-}{5:{CHK:4166b2c8bc}}

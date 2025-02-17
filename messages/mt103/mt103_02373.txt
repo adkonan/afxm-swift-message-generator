@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240502RABONL2UXXXXXXXN}{3:{121:87e2a3e1-7484-4aaf-a7fa-b17f4f709037}}{4:
+:20:REF-58379
+:23B:CRED
+:32A:240502XAG2910.72
+:50K:/OC3647397
+Phillips-Cunningham
+69156 Cody Corner Apt. 640 Davidville, NM 80212
+:57A:RABONL2UXXX
+:59:/BEN13682185549563
+Smith, Douglas and Allen
+06348 Cox Ranch Apt. 720 Lake Lucasport, NE 64205
+:70:INV 0EE1BBC4158B Pattern current middle especially likely Mr you machine.
+:71A:OUR
+-}{5:{CHK:b67eefc12e}}

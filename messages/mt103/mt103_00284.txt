@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240612FBNINGLAXXXXXXXN}{3:{121:29d3f076-404e-48ce-a334-f6d08e58bad1}}{4:
+:20:REF-86679
+:23B:CRED
+:32A:240612CAD241818.00
+:50K:/OC8590728
+Cochran, Fitzgerald and Nelson
+2827 Laura Walks New Matthew, VT 83193
+:57A:FBNINGLAXXX
+:59:/BEN67437674024459
+Gallagher-Atkinson
+4066 Michael Spurs Suite 701 Andreaview, MH 01982
+:70:INV 5FC607A10F24 Worry half fire create wall far long among.
+:71A:OUR
+-}{5:{CHK:1e5dbf8c9b}}

@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240415ZURICHZCHXXXXXXXN}{3:{121:dd4673dc-a2e3-4fed-ac5e-aabc74af8a09}}{4:
+:20:REF-18175
+:23B:CRED
+:32A:240415GBP260306.00
+:50K:/OC1683053
+Wilson, Nunez and Becker
+001 Morales Forges Suite 057 Port Cassandra, MD 92943
+:57A:ZURICHZCHXXX
+:59:/BEN48754241761184
+Harris-Johnston
+USNV Taylor FPO AE 01884
+:70:INV 583110FA97CD Stop despite apply worry already increase.
+:71A:OUR
+-}{5:{CHK:ac61c5f8b4}}

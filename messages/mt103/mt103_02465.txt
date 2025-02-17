@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240516RABONL2UXXXXXXXN}{3:{121:4475c1cf-3613-4cb8-98ac-c2be34a8e442}}{4:
+:20:REF-57310
+:23B:CRED
+:32A:240516JPY154932.00
+:50K:/OC8191935
+Saunders, Grant and Garcia
+152 Lee Port Suite 196 New Samuelside, AL 22185
+:57A:RABONL2UXXX
+:59:/BEN26140002823592
+Morrison-Knapp
+45239 Michael Forge Apt. 559 Williammouth, NV 21727
+:70:INV F4106F0D7D77 Only build really clearly book character.
+:71A:OUR
+-}{5:{CHK:42fde606d1}}

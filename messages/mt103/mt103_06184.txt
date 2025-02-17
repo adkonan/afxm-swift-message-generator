@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103250105UBSWCHZHXXXXXXXN}{3:{121:c966e3a4-55e4-4068-bd88-04057af903a0}}{4:
+:20:REF-61524
+:23B:CRED
+:32A:250105KPW408448.00
+:50K:/OC9552049
+Hudson-Gutierrez
+9521 Mendez Shore North Alejandro, LA 68194
+:57A:UBSWCHZHXXX
+:59:/BEN22318147038953
+Johnson Inc
+342 Dawson Turnpike Suite 684 East Sheenamouth, IN 93630
+:70:INV DBF7F2FEA9BA Note physical reach since guess explain bit who.
+:71A:OUR
+-}{5:{CHK:652bfe09fa}}

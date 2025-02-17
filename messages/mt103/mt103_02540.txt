@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240227CRESCHZZXXXXXXXN}{3:{121:211b941b-eb2f-40c4-a40f-c52d29ffac7c}}{4:
+:20:REF-67848
+:23B:CRED
+:32A:240227GBP105859.00
+:50K:/OC1041608
+Evans-Clarke
+5348 Alicia Roads Kelseyport, MO 40496
+:57A:CRESCHZZXXX
+:59:/BEN81962198704151
+Johnson-Evans
+6934 Jessica Fields Suite 006 West Michelemouth, FM 76068
+:70:INV 42A7F279D2CB Able effort bar value call national somebody benefit.
+:71A:OUR
+-}{5:{CHK:6c373f4b28}}

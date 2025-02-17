@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240608BBVAESMMXXXXXXXN}{3:{121:fdd8f996-1c88-4f98-a3fa-8b17498bf7cc}}{4:
+:20:REF-81571
+:23B:CRED
+:32A:240608GBP240343.00
+:50K:/OC6186145
+Stewart, Hanson and Garner
+261 Heidi Parkway Port Elizabeth, WA 14612
+:57A:BBVAESMMXXX
+:59:/BEN32080740224265
+Huynh-Taylor
+4291 Natasha Vista Johnsontown, AR 60456
+:70:INV 13677E97BB07 Economy high vote economy make important property land.
+:71A:OUR
+-}{5:{CHK:6572b6f3f2}}

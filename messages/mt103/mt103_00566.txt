@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103241121BNPAGB22XXXXXXXN}{3:{121:17d95297-b999-4e35-b296-f9bc9abcb2f4}}{4:
+:20:REF-42032
+:23B:CRED
+:32A:241121EUR29172.00
+:50K:/OC7415625
+Walker, Mcguire and Jackson
+3441 Laurie Hollow Port Christopher, CT 49117
+:57A:BNPAGB22XXX
+:59:/BEN69695931699267
+Rice-Carter
+9579 Jacob Knoll North Mark, FM 96309
+:70:INV 4F3D537A6C8F Someone series know improve late six recently story.
+:71A:OUR
+-}{5:{CHK:b7f09d8ba6}}

@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240309MIZUJPJTXXXXXXXN}{3:{121:a75f718d-8b27-4406-aab9-fb196aeab4e3}}{4:
+:20:REF-90319
+:23B:CRED
+:32A:240309JPY280208.00
+:50K:/OC3352513
+Garcia-Goodman
+3487 Amanda Dam Suite 075 Wrightbury, IA 84516
+:57A:MIZUJPJTXXX
+:59:/BEN65004114146988
+Wolf-Hood
+943 Frazier Mountain Suite 793 Anthonyshire, FL 79287
+:70:INV 69A42654F76D History popular learn offer main help soon democratic.
+:71A:OUR
+-}{5:{CHK:f62f3afe79}}

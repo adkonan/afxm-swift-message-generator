@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240623ECOCMLABXXXXXXXN}{3:{121:e8bd9843-fc6e-4523-aa82-235b3710144a}}{4:
+:20:REF-16014
+:23B:CRED
+:32A:240623CHF33650200.00
+:50K:/OC3884347
+Davis, Knox and Mayo
+971 Kristen Shoal Suite 134 West Jenniferstad, AR 93475
+:57A:ECOCMLABXXX
+:59:/BEN86896296931446
+Henderson, Williams and Davis
+0417 Luna Walks Suite 301 New Adamchester, DE 81782
+:70:INV 19F501FDFAF0 Stop sort poor candidate chance.
+:71A:OUR
+-}{5:{CHK:c0dfece5c6}}

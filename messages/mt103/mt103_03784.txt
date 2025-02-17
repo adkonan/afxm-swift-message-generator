@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240220INGBNL2AXXXXXXXN}{3:{121:daee0c44-146f-41e1-8aba-e55d7ce35371}}{4:
+:20:REF-63366
+:23B:CRED
+:32A:240220GBP98058.00
+:50K:/OC1127865
+Kelley LLC
+144 Thomas Prairie Apt. 022 West Alex, WA 88499
+:57A:INGBNL2AXXX
+:59:/BEN41480458892937
+Kim, Baker and Larson
+669 Jackson Ridges Suite 651 South Jennifer, VI 86580
+:70:INV A306CD96E9C5 Husband write effect night contain learn interest.
+:71A:OUR
+-}{5:{CHK:28cfe59faa}}

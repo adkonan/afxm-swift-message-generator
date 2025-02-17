@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240405BKBKPHMMXXXXXXXN}{3:{121:ca41e2ef-56b7-4228-8bb8-d00a2ae8b546}}{4:
+:20:REF-13924
+:23B:CRED
+:32A:240405EUR60466.00
+:50K:/OC1301805
+Warren, Griffith and Griffith
+831 Hurst Gardens Apt. 684 Port Jonathanview, FM 91109
+:57A:BKBKPHMMXXX
+:59:/BEN82719277840922
+Parker Group
+USS Kelley FPO AP 74542
+:70:INV C3003201A904 Security work Congress whole late size allow.
+:71A:OUR
+-}{5:{CHK:bcb5fef8e4}}

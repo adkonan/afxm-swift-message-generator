@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240604MIZUJPJTXXXXXXXN}{3:{121:b283aa45-3604-418b-ad7e-61e5ddf2ce3c}}{4:
+:20:REF-99562
+:23B:CRED
+:32A:240604JPY106399.00
+:50K:/OC2167645
+Martin-Mathews
+657 Benson Plain Kimberlyborough, NC 59438
+:57A:MIZUJPJTXXX
+:59:/BEN56691106776610
+Bradley, Harmon and Wallace
+72329 Mitchell Haven Apt. 954 Mcdanielburgh, MN 43434
+:70:INV 3958EEB7E974 Off member really by like shake idea.
+:71A:OUR
+-}{5:{CHK:bee84e7065}}

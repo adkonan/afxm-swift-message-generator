@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>INGBNL2AXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-68112</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:20.832336</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-68112</MsgId>
+            <CreDtTm>2025-02-17T14:38:20.832337</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="USD">2776.27</IntrBkSttlmAmt>
+            <Dbtr><Nm>Barrett, Scott and Cain</Nm></Dbtr>
+            <Cdtr><Nm>Choi, Jones and Arellano</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

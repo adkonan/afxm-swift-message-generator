@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241019RBCROYTORXXXXXXXN}{3:{121:d7349c6e-f7ec-4c42-b3f9-4893ba27943f}}{4:
+:20:REF-41689
+:23B:CRED
+:32A:241019EUR320572.00
+:50K:/OC5447842
+Sandoval-Parker
+1239 Michael Extensions Suite 476 New Judy, NM 20794
+:57A:RBCROYTORXXX
+:59:/BEN32104836855725
+Hicks, Buckley and Rodriguez
+2583 Vanessa Ridge Port Sheilafort, AR 64361
+:70:INV CD0233BAA1D7 Someone seat still receive mouth federal.
+:71A:OUR
+-}{5:{CHK:aa1913af49}}

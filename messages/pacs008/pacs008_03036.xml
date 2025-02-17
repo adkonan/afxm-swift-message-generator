@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>NEDSZAJJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DTBKIDJAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-77341</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.469591</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-77341</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.469592</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="XAG">294888.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Moore and Sons</Nm></Dbtr>
+            <Cdtr><Nm>Hanson, Wheeler and Hill</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

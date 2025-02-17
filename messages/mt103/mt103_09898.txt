@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241211AFRIGHACXXXXXXXN}{3:{121:80f92e07-82f0-45e8-a4e7-0b9e15fa640b}}{4:
+:20:REF-85962
+:23B:CRED
+:32A:241211AUD488837.00
+:50K:/OC4315650
+Martinez, Hess and Stewart
+301 Harrison Ville Stewartfurt, KS 94882
+:57A:AFRIGHACXXX
+:59:/BEN74263071082448
+Evans, Moon and Dixon
+6381 Washington Curve Suite 397 Garybury, VT 68552
+:70:INV 7BB11D0535A3 Significant wall wonder seat manager leg training.
+:71A:OUR
+-}{5:{CHK:7f03ad2f6e}}

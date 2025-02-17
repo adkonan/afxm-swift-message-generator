@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103241018ECOCCIBAXXXXXXXN}{3:{121:252faadd-8274-493a-bc7a-818d01f21f53}}{4:
+:20:REF-39496
+:23B:CRED
+:32A:241018CHF334161.00
+:50K:/OC3140800
+White, Palmer and Burke
+637 Vazquez Lodge Apt. 568 Johnsonshire, GU 27526
+:57A:ECOCCIBAXXX
+:59:/BEN60116677163250
+Brown, Holmes and Wall
+86057 Jay Branch Apt. 915 Lake Brittany, IL 71011
+:70:INV C122E9B70C1A Hand nice among conference career debate.
+:71A:OUR
+-}{5:{CHK:5e2f3a2fbc}}

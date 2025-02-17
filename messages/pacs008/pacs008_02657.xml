@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>STANKEKEXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>SMBCJPJTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-89297</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-17T14:38:21.376726</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-89297</MsgId>
+            <CreDtTm>2025-02-17T14:38:21.376728</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SGD">46966400.00</IntrBkSttlmAmt>
+            <Dbtr><Nm>Walker, Hall and Allen</Nm></Dbtr>
+            <Cdtr><Nm>Butler, Sweeney and Nichols</Nm></Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

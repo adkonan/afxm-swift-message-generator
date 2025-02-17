@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241206UBSWCHZHXXXXXXXN}{3:{121:4d595ced-c1f5-49ad-a347-de6dd4c116f6}}{4:
+:20:REF-37907
+:23B:CRED
+:32A:241206JPY371133.00
+:50K:/OC3289479
+Sanders-Bowman
+88343 John Brooks Suite 745 Andrewmouth, AK 49623
+:57A:UBSWCHZHXXX
+:59:/BEN81270053938107
+Rodriguez, Trujillo and Martinez
+5753 Burns Bypass Apt. 327 West Julie, AS 98881
+:70:INV 4BF154DEFECD Choose difficult certainly free.
+:71A:OUR
+-}{5:{CHK:558ed5e0ed}}

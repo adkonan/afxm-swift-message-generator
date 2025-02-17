@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240809CITIUS33XXXXXXXN}{3:{121:547b2d3b-6797-40cd-b67b-df0babe8a3a1}}{4:
+:20:REF-75615
+:23B:CRED
+:32A:240809JPY37757.00
+:50K:/OC8845618
+Ryan, Lewis and Graham
+68940 John Place Apt. 872 West Paul, MS 70730
+:57A:CITIUS33XXX
+:59:/BEN83597906129624
+Cook, Bridges and Smith
+5952 Matthew Cape Suite 660 Dukeborough, NM 68423
+:70:INV 6297215AC1BF Ability rise then benefit the technology sure.
+:71A:OUR
+-}{5:{CHK:5a5688c7f2}}

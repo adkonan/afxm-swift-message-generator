@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240410HSBCGB2LXXXXXXXN}{3:{121:adb87151-5b53-40cc-a91e-8614eeb4a78c}}{4:
+:20:REF-14442
+:23B:CRED
+:32A:240410USD408431.00
+:50K:/OC4630397
+Mendez-Hudson
+69516 Chan Meadow Apt. 106 Port Michellemouth, SD 79325
+:57A:HSBCGB2LXXX
+:59:/BEN36731132801813
+Anderson, Brown and Curtis
+122 Ellison Mount Phillipfort, OK 89583
+:70:INV 1533FE15202C True memory memory create make explain whole.
+:71A:OUR
+-}{5:{CHK:c0b307d815}}

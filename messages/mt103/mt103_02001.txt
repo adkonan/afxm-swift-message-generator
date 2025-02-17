@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240325ECOCCIBAXXXXXXXN}{3:{121:9bd15ee3-f6ad-4ef1-b83e-c28fa2f9f312}}{4:
+:20:REF-77323
+:23B:CRED
+:32A:240325JPY337491.00
+:50K:/OC8343584
+Henderson, Ortiz and Smith
+319 Williams Shoal Suite 814 Lake Erin, FM 51690
+:57A:ECOCCIBAXXX
+:59:/BEN48367171516218
+Martinez-Thompson
+0876 Zavala Square New Rebeccaborough, MT 73307
+:70:INV 793936E63524 On high start suffer test note.
+:71A:OUR
+-}{5:{CHK:62a9f7fd66}}

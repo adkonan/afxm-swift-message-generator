@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241024AFRIGHACXXXXXXXN}{3:{121:3ab205dc-a79e-42f7-8b16-33f7ad7cb4fd}}{4:
+:20:REF-30947
+:23B:CRED
+:32A:241024CNY405739.00
+:50K:/OC3678578
+Thompson, Ortiz and Richardson
+207 Petty Tunnel Codyborough, PA 08300
+:57A:AFRIGHACXXX
+:59:/BEN92065399499537
+Rivas-Banks
+58254 Matthew Square Suite 474 Rachelland, NE 74662
+:70:INV F5099FEED481 Trouble once hold board more foreign.
+:71A:OUR
+-}{5:{CHK:619bc5294b}}

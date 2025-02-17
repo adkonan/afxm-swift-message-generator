@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240310CRESIT2LXXXXXXXN}{3:{121:c0cd2f94-7e42-49ef-bc72-6f724c05d2ae}}{4:
+:20:REF-91775
+:23B:CRED
+:32A:240310CHF221567.00
+:50K:/OC4795490
+Weaver, Ward and Smith
+922 Bradley Motorway Suite 121 Davidfurt, NC 73507
+:57A:CRESIT2LXXX
+:59:/BEN61671543911052
+Smith, Craig and Dean
+9579 Mayo Point Boyershire, ND 20114
+:70:INV 98BEC96D9D2A Professor everyone no from director necessary.
+:71A:OUR
+-}{5:{CHK:e1f1f9c796}}

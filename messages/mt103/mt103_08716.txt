@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240607INGBNL2AXXXXXXXN}{3:{121:884c517e-34bb-405b-a1f2-6bf29f134287}}{4:
+:20:REF-48984
+:23B:CRED
+:32A:240607CAD2307.33
+:50K:/OC6028538
+Nelson-Robinson
+16439 Daniel Manors Apt. 934 Lake Coreyfurt, SD 14919
+:57A:INGBNL2AXXX
+:59:/BEN64062127222418
+Rogers, Petersen and Brown
+7878 Nancy River Suite 376 Port Justinstad, FM 59038
+:70:INV BC99184D8708 Present often about artist policy cup role billion.
+:71A:OUR
+-}{5:{CHK:41244be8e1}}

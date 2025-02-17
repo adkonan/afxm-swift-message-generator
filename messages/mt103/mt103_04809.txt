@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103250127CITIUS33XXXXXXXN}{3:{121:1e02eb11-916f-4b1a-bed3-fce7e10a97e6}}{4:
+:20:REF-28285
+:23B:CRED
+:32A:250127USD155900.00
+:50K:/OC6468485
+Allen and Sons
+96239 Rivera Rapids Apt. 968 Anthonyside, NJ 90277
+:57A:CITIUS33XXX
+:59:/BEN99804966868844
+Bennett, Cole and Armstrong
+66541 William Neck West Vanessa, MI 97363
+:70:INV 8BABA6997F8E With human political marriage pass article.
+:71A:OUR
+-}{5:{CHK:37a15fe435}}

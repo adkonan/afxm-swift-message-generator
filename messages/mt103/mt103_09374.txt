@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240721UBSWRIT2XXXXXXXN}{3:{121:fdba0783-4eb0-4d87-a650-fad7f6f52d8f}}{4:
+:20:REF-54138
+:23B:CRED
+:32A:240721SGD155348.00
+:50K:/OC3788883
+Brown, Thompson and Wilson
+40450 Jones Knoll Johnnychester, AZ 37412
+:57A:UBSWRIT2XXX
+:59:/BEN84345070040735
+Merritt PLC
+512 Mariah Trafficway Suite 898 Norrischester, NJ 49931
+:70:INV 6699EC0FD615 Field myself issue field reflect produce.
+:71A:OUR
+-}{5:{CHK:58df1c1646}}

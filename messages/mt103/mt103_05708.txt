@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240509HSBCHKHHXXXXXXXN}{3:{121:76455cc6-12f6-4f8e-a686-d42bbb5f8eee}}{4:
+:20:REF-73327
+:23B:CRED
+:32A:240509EUR245177.00
+:50K:/OC4624298
+Williams, Nelson and Williams
+24463 Garcia Highway Apt. 609 Johnsonchester, MN 15868
+:57A:HSBCHKHHXXX
+:59:/BEN32930586397032
+Scott-Thomas
+2782 Robinson Circles North Laurenport, MD 97006
+:70:INV FD0466320292 Space own that exist executive decade down.
+:71A:OUR
+-}{5:{CHK:576a52f9ac}}

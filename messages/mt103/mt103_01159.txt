@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240706GTBINGLAXXXXXXXN}{3:{121:001a7432-c567-4331-a849-a4a415580779}}{4:
+:20:REF-60606
+:23B:CRED
+:32A:240706CHF8361.00
+:50K:/OC5572042
+Cobb, Smith and Porter
+7187 Richard Skyway Suite 812 Kevinmouth, CO 19933
+:57A:GTBINGLAXXX
+:59:/BEN79975697772494
+Torres, Wilcox and Torres
+31607 Eric Skyway New Brittanymouth, PA 42396
+:70:INV 7044E8AA8FB1 Traditional guess standard while statement.
+:71A:OUR
+-}{5:{CHK:e4f057baef}}

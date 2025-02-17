@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240624STANGB2LXXXXXXXN}{3:{121:13f14427-451c-4ebf-a1f5-aafb1244ece5}}{4:
+:20:REF-72088
+:23B:CRED
+:32A:240624GBP288504.00
+:50K:/OC1071505
+Harris, Raymond and Hopkins
+272 Brett River Apt. 962 Sallyton, FM 06073
+:57A:STANGB2LXXX
+:59:/BEN90393732069844
+Rivers, Stephenson and Rogers
+213 Miller Fort Lake Timothy, NJ 43873
+:70:INV 18185DF94AB6 System forward life blood suggest pressure candidate.
+:71A:OUR
+-}{5:{CHK:8fc6116278}}

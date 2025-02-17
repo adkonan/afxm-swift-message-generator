@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241026GTBINGLAXXXXXXXN}{3:{121:17ff4704-038c-46b1-a1a9-7d3702c82163}}{4:
+:20:REF-92090
+:23B:CRED
+:32A:241026USD452281.00
+:50K:/OC7011786
+Dunn-Baker
+553 Stein Flats West Brendabury, MA 60377
+:57A:GTBINGLAXXX
+:59:/BEN23906620346915
+Montgomery, Cooke and Douglas
+5621 Thomas Mission Apt. 707 Pagehaven, OK 71924
+:70:INV 152BA2EDBF63 Tough consumer well between between trip truth.
+:71A:OUR
+-}{5:{CHK:ebef1dab65}}

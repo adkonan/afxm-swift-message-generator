@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103241022ZURICHZCHXXXXXXXN}{3:{121:2cc54f8c-e6eb-4a7d-9179-ccb87b7268ed}}{4:
+:20:REF-36118
+:23B:CRED
+:32A:241022IRR183386.00
+:50K:/OC9864097
+Reynolds, Hawkins and Rhodes
+3248 Cannon Mission Charlesborough, MI 75037
+:57A:ZURICHZCHXXX
+:59:/BEN89604368768232
+Lane, Williams and Moore
+39990 Michael Junction Apt. 337 Smithland, GA 05018
+:70:INV 9D23049C7838 Interest behind people ahead.
+:71A:OUR
+-}{5:{CHK:705cde7b8f}}

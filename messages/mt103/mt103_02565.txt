@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240927BNPAFRPPXXXXXXXN}{3:{121:5c972910-3447-403d-a1dd-73372ac8a235}}{4:
+:20:REF-30390
+:23B:CRED
+:32A:240927SGD412996.00
+:50K:/OC8586456
+Adams, Frye and Anderson
+8515 Morrow Locks Teresaview, MH 54374
+:57A:BNPAFRPPXXX
+:59:/BEN20267629304820
+Fritz-Robertson
+47836 Harris Circle Suite 492 South Maryborough, VI 27256
+:70:INV 02BCFDCF0CC9 Material position continue bank claim data question.
+:71A:OUR
+-}{5:{CHK:e638cbcf24}}

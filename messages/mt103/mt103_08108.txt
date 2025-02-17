@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240730SCBLGB2LXXXXXXXN}{3:{121:0a2fc651-aaa6-46d6-b9c8-0de6a694b0dd}}{4:
+:20:REF-95088
+:23B:CRED
+:32A:240730USD181335.00
+:50K:/OC3991402
+Bradley LLC
+4757 Burton Drive Suite 504 Port Robertborough, LA 76446
+:57A:SCBLGB2LXXX
+:59:/BEN45698555329462
+Thompson, Wells and Morris
+0834 John Estate Wilsonhaven, GA 86474
+:70:INV 6EE9FE5CAD42 Environment black although develop wonder.
+:71A:OUR
+-}{5:{CHK:a51108f5db}}

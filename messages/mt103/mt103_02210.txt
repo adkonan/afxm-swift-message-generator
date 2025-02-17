@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240521HSBCHKHHXXXXXXXN}{3:{121:5c4158bc-2396-47a6-8a42-8a287c67f577}}{4:
+:20:REF-42720
+:23B:CRED
+:32A:240521CAD28990.00
+:50K:/OC2086242
+Rhodes, Scott and Massey
+529 Michael Turnpike Suite 698 East Jenniferchester, CT 00629
+:57A:HSBCHKHHXXX
+:59:/BEN84971813987689
+Rivera-Guerra
+033 Frazier Mission Apt. 056 Gravesbury, VT 47837
+:70:INV ABFA566D176C During single success writer again important until.
+:71A:OUR
+-}{5:{CHK:eed7369a31}}

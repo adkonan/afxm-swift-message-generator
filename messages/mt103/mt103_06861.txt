@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240803BKCHHKHXXXXXXXXN}{3:{121:3c428cff-a7ad-4f8c-b04f-05354e5464d9}}{4:
+:20:REF-59583
+:23B:CRED
+:32A:240803USD149356.00
+:50K:/OC3489338
+Patterson, Smith and Wright
+266 Laura Common Suite 392 Mariaburgh, AZ 11813
+:57A:BKCHHKHXXXX
+:59:/BEN89987897521859
+Cochran, Harrison and Campbell
+9106 Katherine Light Apt. 223 Rickberg, NE 11300
+:70:INV E2999BD4B9A0 Gas amount out program move consumer bit until.
+:71A:OUR
+-}{5:{CHK:eff000004d}}

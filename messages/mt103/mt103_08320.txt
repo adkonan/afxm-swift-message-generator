@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240326BOFAUS3NXXXXXXXN}{3:{121:6aa13143-2c07-44ed-91c6-5d5912eae2f4}}{4:
+:20:REF-32701
+:23B:CRED
+:32A:240326EUR457643.00
+:50K:/OC3788623
+Strickland-Moore
+6110 James Ways Chaseberg, IL 61925
+:57A:BOFAUS3NXXX
+:59:/BEN88010405323205
+Thomas-Thomas
+27723 Thomas Islands Lake Denisemouth, CA 27008
+:70:INV B05702018A27 Trip benefit look couple management nothing while.
+:71A:OUR
+-}{5:{CHK:ceebdbebc6}}

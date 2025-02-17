@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241109HSBCHKHHXXXXXXXN}{3:{121:3a23dbbb-022b-42b5-9ad8-54aa8dc767b3}}{4:
+:20:REF-20006
+:23B:CRED
+:32A:241109CNY27739800.00
+:50K:/OC2188277
+James-West
+6431 Keith Mountain Suite 755 Meganside, PA 94751
+:57A:HSBCHKHHXXX
+:59:/BEN39849918872055
+Gallegos-Young
+4009 Thomas Dale Suite 275 Lake Bradleystad, CA 36989
+:70:INV 04FDDD589616 Early central past son account return true heavy.
+:71A:OUR
+-}{5:{CHK:aaf1b9a8cc}}

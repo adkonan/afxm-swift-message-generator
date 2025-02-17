@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240719KFWDEFFXXXXXXXN}{3:{121:fa8bba31-a68f-4bd5-8c76-c0c54ea535ca}}{4:
+:20:REF-35896
+:23B:CRED
+:32A:240719CNY105944.00
+:50K:/OC9888710
+Kidd, Garcia and Pierce
+3710 Burton Summit Suite 568 Fletcherside, AZ 16099
+:57A:KFWDEFFXXX
+:59:/BEN85084227877220
+Jackson-Jackson
+4692 Jane Port Cynthiaberg, FL 32113
+:70:INV 2D8E7C7DF650 Past but shoulder south include dog idea.
+:71A:OUR
+-}{5:{CHK:76f06f639e}}

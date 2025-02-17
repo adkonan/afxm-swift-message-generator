@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240817CIBCCATTXXXXXXXN}{3:{121:a8efd064-f357-4ff2-9047-c571b93c47f5}}{4:
+:20:REF-72970
+:23B:CRED
+:32A:240817EUR49751500.00
+:50K:/OC1102892
+Houston, Simmons and Norton
+035 Amanda Glen Apt. 136 Hornmouth, IN 56838
+:57A:CIBCCATTXXX
+:59:/BEN37536468632129
+Lewis-Parker
+486 Amy Inlet Apt. 167 North Jamesville, NE 71167
+:70:INV 7628FEF4A406 Clearly whatever quickly bill suggest table approach.
+:71A:OUR
+-}{5:{CHK:64ac1e706d}}

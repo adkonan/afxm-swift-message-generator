@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240313DTBKIDJAXXXXXXXN}{3:{121:dd2423ef-e41f-4c49-8a5b-9d9dd7bf05af}}{4:
+:20:REF-94449
+:23B:CRED
+:32A:240313JPY27472900.00
+:50K:/OC9301337
+Espinoza-Fisher
+447 Megan Pike South Christian, VA 01503
+:57A:DTBKIDJAXXX
+:59:/BEN88356545029825
+Maldonado-Martinez
+460 King Port New Tammyhaven, IA 23867
+:70:INV 69F3B8B966AD Firm science so owner record choice production.
+:71A:OUR
+-}{5:{CHK:c880ebbbbf}}

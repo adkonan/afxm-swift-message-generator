@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241222CITIUS33XXXXXXXN}{3:{121:d91b1812-4e6f-4446-9da3-3dfebfeccfbd}}{4:
+:20:REF-80789
+:23B:CRED
+:32A:241222GBP157947.00
+:50K:/OC2575928
+Wallace and Sons
+521 Louis Stravenue Apt. 169 Grantstad, PW 79673
+:57A:CITIUS33XXX
+:59:/BEN84805746198364
+Wilkerson-Myers
+01466 Edwards Valleys East Joshua, HI 29114
+:70:INV 9735C6FF8B57 Make right later score red leader allow.
+:71A:OUR
+-}{5:{CHK:c3cd7d0051}}

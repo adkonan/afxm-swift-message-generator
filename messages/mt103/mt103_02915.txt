@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240608DBSAZAJJXXXXXXXN}{3:{121:181b125f-8a71-4f6a-b0c0-6f214bf58bc2}}{4:
+:20:REF-37615
+:23B:CRED
+:32A:240608JPY208738.00
+:50K:/OC9908301
+Reynolds, Moore and Perkins
+97941 Jacobson Well Apt. 470 Lake Kathryn, SC 18214
+:57A:DBSAZAJJXXX
+:59:/BEN81363258945239
+Nelson-Potter
+16655 Stewart Plains Suite 808 South Gabriel, LA 81924
+:70:INV 029D0E2F4F4C Movement democratic might effort expert hope.
+:71A:OUR
+-}{5:{CHK:9c0f69fd4f}}

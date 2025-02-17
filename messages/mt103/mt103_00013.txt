@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240903SCBLGB2LXXXXXXXN}{3:{121:6288d1d4-a9fb-4c7f-85c1-fc7c1e81c2b4}}{4:
+:20:REF-19697
+:23B:CRED
+:32A:240903SGD386678.00
+:50K:/OC5626182
+Garcia, Martin and Duncan
+04922 Jonathan Glens North Patrickstad, VA 73287
+:57A:SCBLGB2LXXX
+:59:/BEN54908682871712
+Chapman PLC
+026 Amy Lodge Brettbury, MT 24073
+:70:INV 3BAAB29E73F4 High usually blood above agreement smile election.
+:71A:OUR
+-}{5:{CHK:b4bad69f01}}

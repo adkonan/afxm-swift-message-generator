@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240409NEDSZAJJXXXXXXXN}{3:{121:79314be7-67c7-4ecf-ab54-3f5b51b02d1a}}{4:
+:20:REF-93668
+:23B:CRED
+:32A:240409GBP380596.00
+:50K:/OC9430885
+Rodriguez-Fields
+76120 Klein Pass Barnesmouth, MD 77191
+:57A:NEDSZAJJXXX
+:59:/BEN65535889435947
+Kelly, Scott and Morrison
+72927 Barbara Park Christianside, NE 80570
+:70:INV ED523688D787 Everyone stay card rule size number go.
+:71A:OUR
+-}{5:{CHK:5fff8e43cc}}

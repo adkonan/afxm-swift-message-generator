@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240506UOBVSGSGXXXXXXXN}{3:{121:e42309df-08b9-49f7-867d-4caf732b8b55}}{4:
+:20:REF-72676
+:23B:CRED
+:32A:240506AUD4350750.00
+:50K:/OC7605510
+Hale, Pittman and Foster
+70791 Knapp Road Apt. 756 Lake Christopher, MI 76377
+:57A:UOBVSGSGXXX
+:59:/BEN50558275592913
+Greene, Hodges and Yates
+06727 Molina Drive Suite 728 Danielfurt, IN 46518
+:70:INV 2B07C88B5CD1 Sea science determine spend stand agreement art.
+:71A:OUR
+-}{5:{CHK:a66ad223ef}}

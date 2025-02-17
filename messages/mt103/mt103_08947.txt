@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240731SCBLGB2LXXXXXXXN}{3:{121:2b7cdce8-bd2c-4f55-a6c6-5b2cf8514a25}}{4:
+:20:REF-69218
+:23B:CRED
+:32A:240731CNY89820.00
+:50K:/OC8890792
+Torres and Sons
+967 Bender Lock Suite 360 Lake Timothybury, LA 65360
+:57A:SCBLGB2LXXX
+:59:/BEN25874605677623
+Stewart-Ibarra
+363 Stacey Island Vegaland, SC 61397
+:70:INV 5AD4D113D945 Mouth though marriage society become success why.
+:71A:OUR
+-}{5:{CHK:1c65c42753}}

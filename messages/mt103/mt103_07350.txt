@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103241121OCBCSGSGXXXXXXXN}{3:{121:138a4f5d-34ad-475c-b27c-cd4efd20c0a1}}{4:
+:20:REF-97979
+:23B:CRED
+:32A:241121CNY63938.00
+:50K:/OC5485617
+Riley-Rios
+460 Conway Keys Apt. 561 Pamelabury, UT 84637
+:57A:OCBCSGSGXXX
+:59:/BEN82387036351658
+Soto, Caldwell and Delacruz
+466 Jeremy Locks Dianachester, OR 53851
+:70:INV 90EBBFE56750 Factor audience doctor true apply if.
+:71A:OUR
+-}{5:{CHK:c1aaf519d1}}

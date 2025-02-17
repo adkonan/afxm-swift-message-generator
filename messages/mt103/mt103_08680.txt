@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241020BCAOAOAOXXXXXXXN}{3:{121:b542bc9f-5cb4-467f-80d3-127af9829482}}{4:
+:20:REF-73607
+:23B:CRED
+:32A:241020GBP334269.00
+:50K:/OC8379126
+Chase-Barnes
+389 Alexander Plains North Jessicaside, AK 02537
+:57A:BCAOAOAOXXX
+:59:/BEN55026028705057
+Wright and Sons
+842 Joshua Highway Lake Christinastad, FM 89381
+:70:INV 650AF055F307 Same office gas Congress nearly simple and.
+:71A:OUR
+-}{5:{CHK:c342deffad}}

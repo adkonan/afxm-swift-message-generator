@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240520FIRNZAJJXXXXXXXN}{3:{121:2a0888ae-d911-4f6d-8a05-9a839bd8d290}}{4:
+:20:REF-32001
+:23B:CRED
+:32A:240520AUD450044.00
+:50K:/OC4099547
+Morgan, Morris and Taylor
+235 Nancy Extension Wrightchester, ME 29281
+:57A:FIRNZAJJXXX
+:59:/BEN70744993844648
+Stanley, David and Rivera
+051 Glenda Bridge East Sean, MD 94867
+:70:INV B7C1B37000C6 Allow drug yeah relationship increase board section.
+:71A:OUR
+-}{5:{CHK:af81c38e58}}

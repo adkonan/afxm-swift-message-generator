@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240310BARCGB22XXXXXXXN}{3:{121:f47a120c-d152-45ac-a78c-e1d321e552af}}{4:
+:20:REF-98530
+:23B:CRED
+:32A:240310CHF354993.00
+:50K:/OC4750404
+Copeland, Simpson and Carr
+142 Hall Meadow North Ericaland, MA 23549
+:57A:BARCGB22XXX
+:59:/BEN29413311607161
+Bradley Group
+699 Peterson Plaza Apt. 557 East Richardburgh, UT 16498
+:70:INV 0DDA5FE59FBC Approach structure number whether bag both possible leader.
+:71A:OUR
+-}{5:{CHK:b0f8c21f48}}

@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103241224NEDSZAJJXXXXXXXN}{3:{121:f158aac8-72ba-4407-8d36-3b89b40baffd}}{4:
+:20:REF-33311
+:23B:CRED
+:32A:241224JPY226705.00
+:50K:/OC9016804
+Hurley, Jones and Garcia
+82902 Harry Forges Apt. 960 East Tarafort, NJ 63615
+:57A:NEDSZAJJXXX
+:59:/BEN29647948211519
+Cooper Inc
+212 Jenny Stravenue Apt. 067 East James, PA 28818
+:70:INV F5AF60021876 Enter understand practice way resource laugh get.
+:71A:OUR
+-}{5:{CHK:642ac4db18}}

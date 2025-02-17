@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103241007ECOCGHANXXXXXXXN}{3:{121:bbe92aaf-ad04-4c84-af8e-5a8ee0d965bd}}{4:
+:20:REF-58202
+:23B:CRED
+:32A:241007AUD54249.00
+:50K:/OC3431849
+Miller-Leon
+49028 Smith Summit Apt. 259 Lake Marialand, MD 75585
+:57A:ECOCGHANXXX
+:59:/BEN24479774363064
+Erickson-Beltran
+547 Edward Stravenue Watsonchester, DC 74237
+:70:INV 3A3AB7D67550 Woman assume successful necessary west job explain.
+:71A:OUR
+-}{5:{CHK:4fb2898273}}

@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240413ICBKCNBJXXXXXXXN}{3:{121:8805c644-a1a3-4fa8-b7a6-d633bdba32d7}}{4:
+:20:REF-92431
+:23B:CRED
+:32A:240413CNY2914.69
+:50K:/OC9783470
+Odonnell-Thompson
+2835 Miles Cliff Apt. 998 West Alexanderhaven, AR 58549
+:57A:ICBKCNBJXXX
+:59:/BEN38351078498509
+Carlson-Smith
+043 Drake Course Stevensport, VA 46704
+:70:INV 4FC43C5CC849 Model national style store watch if walk.
+:71A:OUR
+-}{5:{CHK:4aa54a19e7}}

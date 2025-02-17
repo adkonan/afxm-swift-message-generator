@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240609HSBCHKHHXXXXXXXN}{3:{121:edc1ee60-c1de-4e12-8421-df66cb762f53}}{4:
+:20:REF-72554
+:23B:CRED
+:32A:240609XAU4072800.00
+:50K:/OC5174390
+Jimenez Group
+2895 Barton Gardens Apt. 326 North Phyllis, NV 36086
+:57A:HSBCHKHHXXX
+:59:/BEN70557729327862
+Johnson, Foster and Kelly
+47435 Oconnor Drive Lake Robertland, NJ 38038
+:70:INV A65D614159CE Sometimes form design suddenly enjoy five.
+:71A:OUR
+-}{5:{CHK:fc8aecc33b}}

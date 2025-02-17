@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103241004INGBNL2AXXXXXXXN}{3:{121:1880de40-7462-46de-847b-dffb86b6c7ad}}{4:
+:20:REF-65927
+:23B:CRED
+:32A:241004JPY142767.00
+:50K:/OC7324061
+Hall, Brown and Allen
+7270 Jose Falls North Davidmouth, MP 32015
+:57A:INGBNL2AXXX
+:59:/BEN57734855903084
+Martinez, Lawson and Robinson
+63750 Diaz Neck Suite 399 North Alexander, MO 68807
+:70:INV A3D95D3B3BC7 Speech claim fill practice better he.
+:71A:OUR
+-}{5:{CHK:bdc788f686}}

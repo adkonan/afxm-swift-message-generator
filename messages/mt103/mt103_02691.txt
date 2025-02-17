@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240324INGBNL2AXXXXXXXN}{3:{121:ab46a57f-c991-4152-8e8e-bcbc9c6e76ba}}{4:
+:20:REF-19435
+:23B:CRED
+:32A:240324XDR167336.00
+:50K:/OC3812261
+Reyes, Trevino and Vance
+707 Patterson Cliffs Suite 688 North Kathryn, NV 64749
+:57A:INGBNL2AXXX
+:59:/BEN85879064170593
+Lin-Parsons
+717 Stewart Springs Franklinland, GA 36805
+:70:INV 168DA00C9F81 Since thus political teach activity hit surface.
+:71A:OUR
+-}{5:{CHK:3482aaa45a}}

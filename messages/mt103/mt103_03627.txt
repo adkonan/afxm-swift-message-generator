@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240808FBNINGLAXXXXXXXN}{3:{121:1a18581e-980e-44bf-83b6-7c8986775f23}}{4:
+:20:REF-92584
+:23B:CRED
+:32A:240808CHF413454.00
+:50K:/OC5191542
+Ray, Carter and Alexander
+57293 Schroeder Mall Miachester, KY 25982
+:57A:FBNINGLAXXX
+:59:/BEN70932157548464
+Mclaughlin-Cook
+274 Smith Stravenue Suite 734 Williamshaven, VI 31513
+:70:INV DD959E001B8C Really find about suggest financial left.
+:71A:OUR
+-}{5:{CHK:6ed1c483dc}}

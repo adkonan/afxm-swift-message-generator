@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103250212CRESIT2LXXXXXXXN}{3:{121:f7762ee9-fa48-4cb4-a5ff-f6bcfb63d225}}{4:
+:20:REF-80632
+:23B:CRED
+:32A:250212CHF443603.00
+:50K:/OC6890457
+Guerra, Thomas and Smith
+63598 Johnson Spring Suite 128 West Katherineburgh, WY 84342
+:57A:CRESIT2LXXX
+:59:/BEN21356798518750
+Baker-Davis
+43408 David Mall Swansontown, CA 30699
+:70:INV 5C7ACC6DE0AB Consumer car role including national together.
+:71A:OUR
+-}{5:{CHK:f437489738}}

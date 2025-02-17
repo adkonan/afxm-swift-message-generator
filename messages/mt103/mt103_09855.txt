@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240909RBCROYTORXXXXXXXN}{3:{121:e1f6d9c1-d842-4651-9b89-e77f2554ebab}}{4:
+:20:REF-59247
+:23B:CRED
+:32A:240909CHF435765.00
+:50K:/OC1166866
+Serrano, Martinez and Mcintosh
+795 Christian Pike Suite 271 Ortizland, NV 11950
+:57A:RBCROYTORXXX
+:59:/BEN78668482338440
+Graham LLC
+5584 Rojas Turnpike Apt. 343 Emilyfurt, VT 68913
+:70:INV EB3F4EA68461 Star professor notice nation message energy reveal.
+:71A:OUR
+-}{5:{CHK:a9150f0683}}

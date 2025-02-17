@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240502STANKEKEXXXXXXXN}{3:{121:f0e4b2a2-28cb-483c-af12-0a6df6dc3ce9}}{4:
+:20:REF-73667
+:23B:CRED
+:32A:240502SGD3300.57
+:50K:/OC8912074
+Torres Group
+03960 Kayla Curve Apt. 011 Port Angela, GA 38998
+:57A:STANKEKEXXX
+:59:/BEN52296862919232
+Gallagher, Price and Rodriguez
+91927 Heather Street Apt. 197 West Jillview, TN 94332
+:70:INV E3058960FE2C Nature community single across court indicate.
+:71A:OUR
+-}{5:{CHK:5796c8ab33}}

@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240518OCBCSGSGXXXXXXXN}{3:{121:3cbe805d-383f-486f-833a-4a26cf68ec50}}{4:
+:20:REF-37077
+:23B:CRED
+:32A:240518EUR312156.00
+:50K:/OC6737802
+King, Thomas and Sanchez
+06577 Kathleen Manor Billshire, ID 16845
+:57A:OCBCSGSGXXX
+:59:/BEN29658376555316
+Johnson Group
+06511 Robinson Place Suite 621 West Jennifer, NC 78297
+:70:INV 205DF1EAEB30 Author street plant situation again share near race.
+:71A:OUR
+-}{5:{CHK:1d07ff12d7}}

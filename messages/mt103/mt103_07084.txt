@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240912SCBLGB2LXXXXXXXN}{3:{121:7beb73e0-6fca-4b75-a906-ae470c5aa7e6}}{4:
+:20:REF-36158
+:23B:CRED
+:32A:240912AUD4204440.00
+:50K:/OC2123936
+Lee-Carlson
+10819 Coleman Terrace Tiffanymouth, VA 22707
+:57A:SCBLGB2LXXX
+:59:/BEN79607316985959
+Wilkerson, Beck and Avila
+7165 Russell Ways West Thomaschester, ID 39385
+:70:INV C04FEC11EAD5 Page rise conference money turn everyone.
+:71A:OUR
+-}{5:{CHK:fc64c9cfde}}

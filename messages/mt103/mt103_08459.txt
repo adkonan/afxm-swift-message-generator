@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240707DEUTDEFFXXXXXXXN}{3:{121:3aadaed3-dd07-4fb0-9f81-feb2d12a6c9f}}{4:
+:20:REF-96523
+:23B:CRED
+:32A:240707CNY338672.00
+:50K:/OC6174666
+Lopez, Daniels and Olson
+05797 Chase Shoal Suite 016 Joshuahaven, IL 47718
+:57A:DEUTDEFFXXX
+:59:/BEN85322660984530
+Bates-Stevens
+787 Osborne Bypass North Crystal, NV 78540
+:70:INV AF5588FC0394 Class fine operation admit trial.
+:71A:OUR
+-}{5:{CHK:2ce2c5a568}}

@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103250201BNPAFRPPXXXXXXXN}{3:{121:351acb57-5f60-4ca0-82d8-8974ecb34c4a}}{4:
+:20:REF-84923
+:23B:CRED
+:32A:250201CHF425990.00
+:50K:/OC6860800
+Smith, Williams and Vance
+34024 Tiffany Club Buchananchester, NJ 59230
+:57A:BNPAFRPPXXX
+:59:/BEN80088103786940
+Ochoa, Garza and Simpson
+22977 Evan Knolls East Daniel, GU 90085
+:70:INV E2E2DA5FAE02 Remember fine bed administration process maintain.
+:71A:OUR
+-}{5:{CHK:59f520dc93}}

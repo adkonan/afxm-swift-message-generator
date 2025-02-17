@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240427CITIUS33XXXXXXXN}{3:{121:93d2d740-1653-4818-853e-cbbad09c6119}}{4:
+:20:REF-89319
+:23B:CRED
+:32A:240427CAD92040.00
+:50K:/OC8449401
+Henderson, Kelly and Murphy
+77199 Andrea Radial Rhondafurt, NE 04496
+:57A:CITIUS33XXX
+:59:/BEN96821652347397
+Valenzuela Ltd
+53323 Brown Junction Suite 552 Tuckerview, OH 29123
+:70:INV FD822F8085A1 Give picture do accept officer feeling watch huge.
+:71A:OUR
+-}{5:{CHK:af63c86b40}}

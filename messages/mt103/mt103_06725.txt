@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103241129BKBKPHMMXXXXXXXN}{3:{121:89b25011-545e-48a7-9250-191c3d2d0320}}{4:
+:20:REF-77479
+:23B:CRED
+:32A:241129IRR78850.00
+:50K:/OC9297215
+Grimes, Martinez and Williams
+585 Anderson Groves Ramirezside, ME 56655
+:57A:BKBKPHMMXXX
+:59:/BEN17850944746537
+Johnson, Martinez and Patterson
+982 Pearson Union Cruzview, AS 45720
+:70:INV 2686EAA298C7 Into camera fear road lose pull close.
+:71A:OUR
+-}{5:{CHK:1a22811e28}}

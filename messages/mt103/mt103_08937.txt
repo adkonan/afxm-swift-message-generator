@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103240413BOFAUS3NXXXXXXXN}{3:{121:6816ce14-8393-4d50-8d17-1bdcf341fe7c}}{4:
+:20:REF-44437
+:23B:CRED
+:32A:240413XDR634.42
+:50K:/OC5769077
+Ortega, Johnson and Jones
+073 Russell Tunnel Suite 342 Lutztown, WI 77043
+:57A:BOFAUS3NXXX
+:59:/BEN28940854478699
+Sutton-Burnett
+093 Stacy Glens Lake Jason, CT 72201
+:70:INV A44B579C7F69 Sister population main account remember protect rest.
+:71A:OUR
+-}{5:{CHK:02343c8574}}

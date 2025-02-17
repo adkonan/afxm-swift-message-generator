@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240708BOFAUS3NXXXXXXXN}{3:{121:6221b169-f3de-4cb5-830e-38bbae6dc12a}}{4:
+:20:REF-14164
+:23B:CRED
+:32A:240708JPY148943.00
+:50K:/OC3710014
+David Group
+841 Gary Mount Apt. 875 West Kimberlytown, MS 99225
+:57A:BOFAUS3NXXX
+:59:/BEN68165050093579
+Cooper, Johnson and Ortiz
+55343 Mcconnell Village Port Daniel, OR 05812
+:70:INV EEF2786552E8 Miss enough assume wait run measure relate.
+:71A:OUR
+-}{5:{CHK:0d74f99c8b}}

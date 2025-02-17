@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240705BKCHHKHXXXXXXXXN}{3:{121:003ef91e-63dd-4301-8879-ad43f08d1aa7}}{4:
+:20:REF-17535
+:23B:CRED
+:32A:240705JPY920340.00
+:50K:/OC2088148
+White-Mills
+5574 Smith Trafficway Davidtown, PA 91136
+:57A:BKCHHKHXXXX
+:59:/BEN85590460306628
+Rivera, Williams and Evans
+684 Clark Port Suite 504 Christopherburgh, DC 60495
+:70:INV 4AC5A020726A Loss maintain land position it system safe.
+:71A:OUR
+-}{5:{CHK:fc2317ab60}}

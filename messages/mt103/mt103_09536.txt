@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103241027ABSAZAJJXXXXXXXN}{3:{121:5e0b5584-7bbd-4f5e-a20e-e68dbdbe17ae}}{4:
+:20:REF-63627
+:23B:CRED
+:32A:241027SGD322788.00
+:50K:/OC7693442
+Taylor, Gibson and Trevino
+42432 Marquez Dale Apt. 835 South Stevenberg, TX 44956
+:57A:ABSAZAJJXXX
+:59:/BEN48070740267962
+Chavez, Wheeler and Taylor
+4279 Miguel Isle Apt. 485 Andreaton, ND 98539
+:70:INV 5E918F006768 Family Mr west account it.
+:71A:OUR
+-}{5:{CHK:4fb44dace4}}

@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240804DEUTDEFFXXXXXXXN}{3:{121:1c1d7508-1cbe-4db7-bd98-6064060a3aed}}{4:
+:20:REF-56043
+:23B:CRED
+:32A:240804JPY34234600.00
+:50K:/OC5616070
+Romero, Black and Rowe
+495 Brian Squares Apt. 464 Christinetown, KS 01983
+:57A:DEUTDEFFXXX
+:59:/BEN67744706546220
+Hale Group
+357 Steven Pass Hannahside, AR 83976
+:70:INV 21F4F41DEA6E Protect consider oil risk send present fly sell.
+:71A:OUR
+-}{5:{CHK:b6641bafc6}}

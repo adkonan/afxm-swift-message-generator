@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240221BMCECMRXXXXXXXXN}{3:{121:3a3d49a4-8eef-47c8-8c49-fec39fb45153}}{4:
+:20:REF-26573
+:23B:CRED
+:32A:240221GBP3339.95
+:50K:/OC7901375
+Tapia, Mitchell and Dixon
+7892 Vargas Stream Apt. 822 Loriview, KY 27931
+:57A:BMCECMRXXXX
+:59:/BEN39328611383284
+Garcia Ltd
+6068 Stephanie Crossing South Susanmouth, OH 72759
+:70:INV 21AD293F7E41 Hear rate like our pay per with carry.
+:71A:OUR
+-}{5:{CHK:d9e42ccaea}}

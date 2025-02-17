@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103240301DBSAZAJJXXXXXXXN}{3:{121:5b21f76a-ab9a-4555-be6e-b80d7e94acb9}}{4:
+:20:REF-72256
+:23B:CRED
+:32A:240301GBP8257.00
+:50K:/OC8377728
+Gonzalez, Fitzgerald and Mullins
+13816 Cunningham Glen Suite 752 East Kevinland, HI 09563
+:57A:DBSAZAJJXXX
+:59:/BEN42940834245767
+Callahan, Brown and Payne
+0665 Lopez Oval Briantown, AR 39700
+:70:INV 8EA114F90312 Bank share smile nor herself hospital focus.
+:71A:OUR
+-}{5:{CHK:209346de65}}

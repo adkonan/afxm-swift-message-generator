@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240603CRESCHZZXXXXXXXN}{3:{121:9f76929b-8c83-41eb-80c5-053b2ff14bfe}}{4:
+:20:REF-97587
+:23B:CRED
+:32A:240603JPY14395200.00
+:50K:/OC9603051
+Baxter, Mcmillan and Andrews
+3173 Rodgers Falls Apt. 719 Davidsonfurt, AR 87013
+:57A:CRESCHZZXXX
+:59:/BEN72106728797097
+Simon, Tucker and Medina
+708 Angela Station South Traceyfort, NM 51904
+:70:INV C8C094691758 Will relationship center relationship foot wall.
+:71A:OUR
+-}{5:{CHK:6fffb25d02}}

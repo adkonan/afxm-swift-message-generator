@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103250110UBSWRIT2XXXXXXXN}{3:{121:ae5dee4e-ba7d-4423-8420-7850684e2b80}}{4:
+:20:REF-18647
+:23B:CRED
+:32A:250110CHF165655.00
+:50K:/OC9973150
+Campbell Ltd
+9339 Becker Camp South Ronald, NY 66725
+:57A:UBSWRIT2XXX
+:59:/BEN23828935172862
+Garcia-Randall
+64227 Hood Creek Lake Glennchester, SD 11213
+:70:INV D736B5E1AEA9 Green standard throw purpose ground property born leg.
+:71A:OUR
+-}{5:{CHK:eee12cfcba}}

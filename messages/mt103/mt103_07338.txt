@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240424ZENITHNGLAXXXXXXXN}{3:{121:6885a4b8-97b8-4c0e-bb77-d27d50fa67f6}}{4:
+:20:REF-73208
+:23B:CRED
+:32A:240424SGD74750.00
+:50K:/OC1977279
+Garcia, Martin and Reid
+058 Tara Avenue Apt. 360 Justintown, NM 01232
+:57A:ZENITHNGLAXXX
+:59:/BEN47122921013725
+Rodriguez and Sons
+68132 Gonzalez View Lake Travis, FL 58055
+:70:INV F527DF284EAC Around media area candidate board make kid.
+:71A:OUR
+-}{5:{CHK:2cf4e7f3fe}}

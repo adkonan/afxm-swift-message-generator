@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103250124BOMLMRUXXXXXXXXN}{3:{121:adfa861c-dc00-41a3-8fa7-be307e0b5f8a}}{4:
+:20:REF-89867
+:23B:CRED
+:32A:250124SGD4686490.00
+:50K:/OC3137601
+Johnson-Green
+769 Goodman Parkway South Timothy, DE 22916
+:57A:BOMLMRUXXXX
+:59:/BEN72461397470960
+Lopez Ltd
+1608 Susan Streets Suite 234 Juliechester, KS 67470
+:70:INV D4E55D428E5C With magazine television peace care international drive.
+:71A:OUR
+-}{5:{CHK:ce6323a231}}

@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240417BBVAESMMXXXXXXXN}{3:{121:74f8ae37-52ad-482b-a26e-ac1dbf41a69d}}{4:
+:20:REF-68042
+:23B:CRED
+:32A:240417EUR416101.00
+:50K:/OC7659442
+Acevedo and Sons
+7749 Joshua Way Suite 672 East Jillland, IN 23710
+:57A:BBVAESMMXXX
+:59:/BEN63778114352558
+Mitchell, Frye and Martin
+049 Rebecca Well Suite 950 Port Juanstad, ME 45715
+:70:INV B11EA3DB2C52 Meeting writer should plant shake church.
+:71A:OUR
+-}{5:{CHK:200ae07b23}}

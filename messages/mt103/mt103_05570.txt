@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240502ICBKCNBJXXXXXXXN}{3:{121:a6f45d02-e69d-47f8-89c5-319b137dfaf8}}{4:
+:20:REF-84270
+:23B:CRED
+:32A:240502SGD20580.00
+:50K:/OC5286722
+Wright-Hurley
+27126 Samantha Rapids Suite 976 Daisyview, WA 75895
+:57A:ICBKCNBJXXX
+:59:/BEN28462546695925
+Cisneros, Brandt and Smith
+517 James Vista Lake Scottport, OH 32636
+:70:INV BC3BBBFCA487 Fill guy purpose close share building town.
+:71A:OUR
+-}{5:{CHK:cd4f76dc18}}

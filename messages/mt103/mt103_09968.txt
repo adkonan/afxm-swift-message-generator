@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240706DBSSSGSGXXXXXXXN}{3:{121:b55ad1e5-896b-489c-b6c1-e6e79e6d3fd8}}{4:
+:20:REF-56260
+:23B:CRED
+:32A:240706USD37798300.00
+:50K:/OC5377643
+Gibson, Poole and Roberts
+1866 Donald Meadows West Shannon, FL 36667
+:57A:DBSSSGSGXXX
+:59:/BEN61465544177089
+Snyder, Clark and Brown
+139 Mark Lodge Jessicaland, MO 36982
+:70:INV A32C389E41B8 Hit degree enough station never.
+:71A:OUR
+-}{5:{CHK:e77ca6a9cc}}

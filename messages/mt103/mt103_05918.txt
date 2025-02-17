@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240710AFRIGHACXXXXXXXN}{3:{121:dd083f68-0be3-4256-ade5-33b3049cc388}}{4:
+:20:REF-32869
+:23B:CRED
+:32A:240710XAG474074.00
+:50K:/OC9013790
+Dixon LLC
+0961 Angela Union South Patricia, MT 47282
+:57A:AFRIGHACXXX
+:59:/BEN39406300240742
+Patterson, Mcpherson and Smith
+46645 Herrera Trail Apt. 690 Johnborough, FM 63405
+:70:INV 6CEBBEC5E4DB Test conference administration financial expect order.
+:71A:OUR
+-}{5:{CHK:22578fafd1}}

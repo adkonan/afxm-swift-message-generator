@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240530RBCROYTORXXXXXXXN}{3:{121:db47fe96-b158-4875-b0aa-3c2e1cae9a11}}{4:
+:20:REF-86046
+:23B:CRED
+:32A:240530AUD114170.00
+:50K:/OC4270035
+Cook LLC
+7214 Denise Valley Suite 204 New Donnabury, IA 86631
+:57A:RBCROYTORXXX
+:59:/BEN28295834677475
+King-Acevedo
+7020 Mitchell Plains Davidchester, NC 43818
+:70:INV 1778BCA7580D Discussion million car continue maybe official either bar.
+:71A:OUR
+-}{5:{CHK:49723ceba4}}

@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240417UBSWCHZHXXXXXXXN}{3:{121:60d70c9e-03f1-4ea1-972b-c3d63ec45976}}{4:
+:20:REF-75104
+:23B:CRED
+:32A:240417EUR34005.00
+:50K:/OC7898909
+Brennan PLC
+013 Garcia Lodge Suite 046 New Eric, CO 80065
+:57A:UBSWCHZHXXX
+:59:/BEN77024417491655
+Rose, Patterson and Hudson
+12963 Gene Rest Moorebury, NH 11643
+:70:INV 47E00A9E2294 Political company fire matter consider threat enough would.
+:71A:OUR
+-}{5:{CHK:ebd1647f2d}}

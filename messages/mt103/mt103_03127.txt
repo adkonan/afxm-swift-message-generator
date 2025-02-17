@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240913NATXFRPPXXXXXXXN}{3:{121:abd2dbf8-3b7d-424f-b203-2c479190a231}}{4:
+:20:REF-10724
+:23B:CRED
+:32A:240913KPW191690.00
+:50K:/OC1689189
+Woodard, Cooper and Wright
+84981 Jamie Plains Apt. 898 Mitchellmouth, NC 26888
+:57A:NATXFRPPXXX
+:59:/BEN73004907277144
+Morales, Smith and Aguilar
+521 Mejia Loaf Foleyberg, MD 03314
+:70:INV B0CA13A1E5C1 Past perform especially religious.
+:71A:OUR
+-}{5:{CHK:e192dafe02}}

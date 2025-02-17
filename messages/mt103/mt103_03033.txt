@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240514STANKEKEXXXXXXXN}{3:{121:ff945c58-6b46-4f8a-9d84-9373d0dbfa95}}{4:
+:20:REF-87366
+:23B:CRED
+:32A:240514CNY244362.00
+:50K:/OC3316908
+Curry, Hansen and Swanson
+1495 Rebecca Light Apt. 038 West Maria, WI 71169
+:57A:STANKEKEXXX
+:59:/BEN91546726483757
+Anderson, May and Hoover
+2433 Faulkner Rapids Apt. 146 Carolmouth, MS 67168
+:70:INV 3780E0A1052C Realize whose source explain that particularly least.
+:71A:OUR
+-}{5:{CHK:a2f1e1971c}}

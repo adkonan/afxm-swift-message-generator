@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240923OCBCSGSGXXXXXXXN}{3:{121:8599d96d-08e5-4b69-acbf-7ce917a9e709}}{4:
+:20:REF-27080
+:23B:CRED
+:32A:240923EUR2052650.00
+:50K:/OC4655358
+Zavala, Gonzalez and Stanley
+374 Ho Heights Apt. 724 Lake Anthony, GA 30144
+:57A:OCBCSGSGXXX
+:59:/BEN98580008842138
+Romero, Adams and Cooper
+586 David Hills Port Margaret, MA 27182
+:70:INV 8BF00893A2CD News teacher save quality artist without.
+:71A:OUR
+-}{5:{CHK:1685b409f0}}

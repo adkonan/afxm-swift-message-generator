@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103241210HSBCHKHHXXXXXXXN}{3:{121:04366d0d-7fd1-4b5b-b03d-fc2dd86a9aa4}}{4:
+:20:REF-46717
+:23B:CRED
+:32A:241210CHF224741.00
+:50K:/OC5768614
+Bernard and Sons
+7137 Wilson View Suite 005 Susanshire, AL 93093
+:57A:HSBCHKHHXXX
+:59:/BEN68734388093780
+Peterson Group
+60676 Foley Junctions Suite 565 New Troymouth, VT 84117
+:70:INV 991D13D31B86 Expert move meet recent others seek method culture.
+:71A:OUR
+-}{5:{CHK:443889a4d6}}

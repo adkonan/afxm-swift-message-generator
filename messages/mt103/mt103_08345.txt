@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240330NATXFRPPXXXXXXXN}{3:{121:038f32d9-9ea5-4c82-a274-dc374e487fcb}}{4:
+:20:REF-71244
+:23B:CRED
+:32A:240330CHF39084300.00
+:50K:/OC1286733
+James, Riley and Allen
+8556 Whitney Forks Apt. 255 Benjaminville, WV 57912
+:57A:NATXFRPPXXX
+:59:/BEN62274854568776
+Rogers, Gonzalez and Mccarthy
+24181 Linda Summit New Emily, MD 48104
+:70:INV 4E02C8C07F82 Determine detail action service employee.
+:71A:OUR
+-}{5:{CHK:4df6aef457}}

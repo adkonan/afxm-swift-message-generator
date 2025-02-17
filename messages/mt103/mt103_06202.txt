@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103241219KFWDEFFXXXXXXXN}{3:{121:db42fb5b-8b2f-4328-b2df-4b166fc66ffc}}{4:
+:20:REF-85693
+:23B:CRED
+:32A:241219JPY7732.00
+:50K:/OC6461965
+Hale, Brown and Meyer
+858 Ford Point Suite 287 South Janet, AR 58809
+:57A:KFWDEFFXXX
+:59:/BEN35468935090127
+Pugh, King and Oliver
+5591 Pamela Ville West Markborough, OK 39339
+:70:INV 7FC85AACB38C Civil future anyone sort cause.
+:71A:OUR
+-}{5:{CHK:f7a60f9c2d}}

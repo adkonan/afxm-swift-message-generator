@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103241022DEUTDEFFXXXXXXXN}{3:{121:372868f0-cfc8-4ff6-a194-57940cecc006}}{4:
+:20:REF-51077
+:23B:CRED
+:32A:241022JPY219704.00
+:50K:/OC6466900
+Stanley, Garcia and Lane
+89652 Mcmillan Unions Jeremyport, MI 16671
+:57A:DEUTDEFFXXX
+:59:/BEN12817816094374
+Mcdonald and Sons
+863 Manuel Divide Suite 577 New Garyville, AS 00740
+:70:INV F63868397D70 Organization best actually reflect or act.
+:71A:OUR
+-}{5:{CHK:45b18f8a4e}}

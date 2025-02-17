@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103250117DBSSSGSGXXXXXXXN}{3:{121:99ba3d6b-1460-491f-b1bd-d3a83b742450}}{4:
+:20:REF-86989
+:23B:CRED
+:32A:250117EUR413203.00
+:50K:/OC8101662
+Smith, Warner and Hoffman
+710 Cowan Cliffs Suite 594 Carrieberg, MP 50162
+:57A:DBSSSGSGXXX
+:59:/BEN12166622583670
+Blankenship, Mendoza and Malone
+9344 Kenneth Circles Suite 012 North Davidfurt, DC 37620
+:70:INV 6EF785A1F2C9 President same on full adult always sort.
+:71A:OUR
+-}{5:{CHK:646817b46a}}

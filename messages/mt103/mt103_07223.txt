@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240421STANKEKEXXXXXXXN}{3:{121:b515add0-74b1-4e30-9d0d-d256af161b2e}}{4:
+:20:REF-60745
+:23B:CRED
+:32A:240421GBP334414.00
+:50K:/OC1840680
+Richardson, Jones and Lara
+4292 Roberto Overpass Apt. 425 South Dawnfurt, NH 48015
+:57A:STANKEKEXXX
+:59:/BEN96890829850931
+Jones, French and Gonzalez
+68455 Tyler Underpass Apt. 479 New Melissachester, LA 24756
+:70:INV F8DEBB428549 Own since field free cut air.
+:71A:OUR
+-}{5:{CHK:32d65c8fdb}}

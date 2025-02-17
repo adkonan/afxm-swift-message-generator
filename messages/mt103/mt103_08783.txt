@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240605BICIBFBFXXXXXXXN}{3:{121:dafec295-7f60-44f7-afa6-073db89c0296}}{4:
+:20:REF-73299
+:23B:CRED
+:32A:240605XAG255488.00
+:50K:/OC8213258
+Stevens, Green and Cook
+593 Tracy Place Lawrenceside, PA 30776
+:57A:BICIBFBFXXX
+:59:/BEN15722220339304
+Vasquez, Vance and Pena
+967 Harper Divide Apt. 973 Danaland, AL 58946
+:70:INV 45AD907FE709 Rest whether plant all leave central difference.
+:71A:OUR
+-}{5:{CHK:814c023220}}

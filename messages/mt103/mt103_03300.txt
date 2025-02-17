@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240724UOBVSGSGXXXXXXXN}{3:{121:27a4f3c1-ba1f-434a-a35c-04ee3dacddc5}}{4:
+:20:REF-94968
+:23B:CRED
+:32A:240724CNY4636300.00
+:50K:/OC2521246
+Moreno, Phillips and Christensen
+524 Gomez Trace Apt. 203 New Katherine, MS 54742
+:57A:UOBVSGSGXXX
+:59:/BEN59258402857778
+James Inc
+071 Sharon Rapids West Kathleenside, MD 38030
+:70:INV 39C55A330F5B Human meet over tree per throw.
+:71A:OUR
+-}{5:{CHK:455691cdc5}}

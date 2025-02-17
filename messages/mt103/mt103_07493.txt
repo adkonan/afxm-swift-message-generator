@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240512BNPAFRPPXXXXXXXN}{3:{121:84e5953b-e86a-47ad-a992-fc66f474887f}}{4:
+:20:REF-60976
+:23B:CRED
+:32A:240512SGD416182.00
+:50K:/OC8219957
+Decker-Shields
+341 Moreno Fall Brayborough, NV 02475
+:57A:BNPAFRPPXXX
+:59:/BEN72694497514264
+Cervantes, Miller and Pierce
+61468 Wallace Crest Apt. 029 Port Samantha, SC 52469
+:70:INV F6EB5E265E42 Trial nor particular attack age us business.
+:71A:OUR
+-}{5:{CHK:37d983b3b1}}

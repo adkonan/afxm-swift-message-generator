@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103250120STANKEKEXXXXXXXN}{3:{121:cc780554-6d4e-488b-a756-669fbe5990cb}}{4:
+:20:REF-84565
+:23B:CRED
+:32A:250120CAD313390.00
+:50K:/OC3505826
+Hartman-Jackson
+091 Bishop Ferry Apt. 990 Rogersshire, OR 94764
+:57A:STANKEKEXXX
+:59:/BEN10741392001116
+Grant, Walker and Cook
+220 Moon Points Suite 956 South Hector, FM 75170
+:70:INV 44B1E00E2083 Defense leader check security conference sea form break.
+:71A:OUR
+-}{5:{CHK:cda13f24fa}}

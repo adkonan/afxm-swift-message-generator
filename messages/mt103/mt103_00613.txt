@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240404ABSAZAJJXXXXXXXN}{3:{121:bc44b6ce-dc64-4958-a9bb-fbd6ed9eb196}}{4:
+:20:REF-12290
+:23B:CRED
+:32A:240404CHF153322.00
+:50K:/OC8957837
+Butler-Spencer
+460 Teresa Junctions Jessicaville, WI 11318
+:57A:ABSAZAJJXXX
+:59:/BEN87771450539674
+Wilson LLC
+56620 Tammy View Suite 069 Rasmussenside, NY 62188
+:70:INV 4CA240355EC8 Rock part nothing pull especially because sit.
+:71A:OUR
+-}{5:{CHK:cf5ab56a46}}

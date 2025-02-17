@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240610DEUTDEFFXXXXXXXN}{3:{121:ce30f7cf-e3f5-4679-8911-f6a16b2b9ce7}}{4:
+:20:REF-38594
+:23B:CRED
+:32A:240610CHF2998.34
+:50K:/OC8227406
+Gomez, Hall and Hunt
+906 Perry Spurs West Henry, SC 24314
+:57A:DEUTDEFFXXX
+:59:/BEN27577456349378
+Mann, Wallace and Ball
+882 Anderson Fields Suite 072 Martinezport, DC 15267
+:70:INV BEDE9C73CF5C Test page candidate gas perhaps practice expect.
+:71A:OUR
+-}{5:{CHK:4084b3069d}}

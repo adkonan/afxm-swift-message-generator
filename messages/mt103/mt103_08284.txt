@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240619FBNINGLAXXXXXXXN}{3:{121:ed43b5db-1bca-4ebc-9bce-acb3ab730c0c}}{4:
+:20:REF-88293
+:23B:CRED
+:32A:240619EUR321105.00
+:50K:/OC6555761
+Davis and Sons
+9565 Robert Hills East Kathleen, UT 32172
+:57A:FBNINGLAXXX
+:59:/BEN77160306094585
+Ortega, Donovan and Lopez
+1414 Russell Shores Apt. 328 East Jamie, TN 14714
+:70:INV 19EEFE3F52B2 Participant free war something soldier final we reflect.
+:71A:OUR
+-}{5:{CHK:96052c7bf8}}

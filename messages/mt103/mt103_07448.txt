@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103241203DTBKIDJAXXXXXXXN}{3:{121:231613f7-0a6b-45e2-8142-e22e7d0ba16e}}{4:
+:20:REF-70968
+:23B:CRED
+:32A:241203CHF135757.00
+:50K:/OC6427676
+Glass, Patel and Briggs
+4468 Hendricks Lodge Williammouth, WY 29617
+:57A:DTBKIDJAXXX
+:59:/BEN96647608781819
+Wilson, Murray and Romero
+9764 Joseph Throughway North Bryan, ME 85667
+:70:INV 53DF6391BF1C General expect wish figure big rate stand.
+:71A:OUR
+-}{5:{CHK:b071980e61}}

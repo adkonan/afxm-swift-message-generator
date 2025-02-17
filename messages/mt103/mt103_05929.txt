@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240814BOJZBJZAXXXXXXXN}{3:{121:61dafa0b-9697-4ac5-b2fb-f5c2a39791a9}}{4:
+:20:REF-54584
+:23B:CRED
+:32A:240814AUD4232400.00
+:50K:/OC5753193
+Jones, Martinez and Ryan
+905 Reese Locks New Jasonstad, AK 14987
+:57A:BOJZBJZAXXX
+:59:/BEN92770637877312
+Campbell Ltd
+3190 Kelly Overpass Suite 839 Amandaborough, AR 25493
+:70:INV 5C886C8161D9 Woman lot responsibility these together require north.
+:71A:OUR
+-}{5:{CHK:0162c194d0}}

@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240401BMCECMRXXXXXXXXN}{3:{121:a27ac28d-f67d-46bc-ae6f-a10df209ce37}}{4:
+:20:REF-60753
+:23B:CRED
+:32A:240401GBP413111.00
+:50K:/OC2821406
+Graves Ltd
+10210 Knight Tunnel Suite 815 Port Richard, VI 35532
+:57A:BMCECMRXXXX
+:59:/BEN65744755037811
+Griffith, Crawford and Vazquez
+050 Julie Run Suite 159 North Brian, OR 28382
+:70:INV E5E06F95401A Tv around far drug land law bed or.
+:71A:OUR
+-}{5:{CHK:720d8ded9f}}

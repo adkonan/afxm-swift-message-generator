@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241005SCBLGB2LXXXXXXXN}{3:{121:81a62271-a010-425b-8171-d3b042304512}}{4:
+:20:REF-62055
+:23B:CRED
+:32A:241005XAG132489.00
+:50K:/OC7730877
+Anderson, Robinson and Villegas
+42508 Sarah Spurs Robinsonfort, OR 15830
+:57A:SCBLGB2LXXX
+:59:/BEN24323537443219
+Johnson and Sons
+163 Moody Orchard Michelefurt, DC 65287
+:70:INV 3B6F7A666F14 None week direction describe have enjoy right natural.
+:71A:OUR
+-}{5:{CHK:752dea14ee}}

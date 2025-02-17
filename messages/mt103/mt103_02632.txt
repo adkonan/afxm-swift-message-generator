@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103241101BARCGB22XXXXXXXN}{3:{121:a52c4238-ad2f-404f-b982-0913173ba39c}}{4:
+:20:REF-74688
+:23B:CRED
+:32A:241101CAD34193700.00
+:50K:/OC6257942
+Gallagher, Singh and Frederick
+1011 Reese Forges South Samuelton, IN 93048
+:57A:BARCGB22XXX
+:59:/BEN70442693819474
+Lambert and Sons
+56383 Johnson Port West Susanberg, CO 30636
+:70:INV 33B759E4BB43 Collection trouble everyone today get edge.
+:71A:OUR
+-}{5:{CHK:534477ff1b}}

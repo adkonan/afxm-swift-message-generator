@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240919GTBINGLAXXXXXXXN}{3:{121:fdb7c454-bc7b-499a-a745-5d5cd40fde3a}}{4:
+:20:REF-86675
+:23B:CRED
+:32A:240919AUD480231.00
+:50K:/OC9587401
+Hanson Group
+73473 Yates Mills Suite 193 Joanneland, VT 96565
+:57A:GTBINGLAXXX
+:59:/BEN60289433692006
+Green, Thomas and Moore
+23712 Brett Walks Suite 729 South Jenniferstad, PR 62723
+:70:INV 9ED1E4A9FB50 Film yeah station establish action represent establish method.
+:71A:OUR
+-}{5:{CHK:b8377a9d84}}

@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240330CRESCHZZXXXXXXXN}{3:{121:ba3253c0-a0d6-40fa-9ca5-5affad35f911}}{4:
+:20:REF-64291
+:23B:CRED
+:32A:240330GBP3572020.00
+:50K:/OC4028039
+Harris LLC
+39352 Young Common Apt. 436 Jenkinsview, TN 80223
+:57A:CRESCHZZXXX
+:59:/BEN18705397673875
+Lowery, Morris and Johnson
+257 Richard Fort North Jeffreystad, CO 11886
+:70:INV 6D78AC0F7EDC Democratic special executive if nothing.
+:71A:OUR
+-}{5:{CHK:d5aadca492}}

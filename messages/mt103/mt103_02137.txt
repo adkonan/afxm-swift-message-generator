@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240309RBCROYTORXXXXXXXN}{3:{121:6613363e-24fb-4b42-b230-34f48770e35c}}{4:
+:20:REF-20505
+:23B:CRED
+:32A:240309USD159093.00
+:50K:/OC9300643
+Moore, Willis and Dixon
+06830 Jennifer Divide Suite 120 Huntville, LA 80964
+:57A:RBCROYTORXXX
+:59:/BEN72592052547221
+Nelson, Griffin and Mitchell
+25399 Moore Tunnel Suite 592 East Justinchester, MD 55235
+:70:INV 7E3C30EDA0DE Remain not into memory expect forget.
+:71A:OUR
+-}{5:{CHK:cbfea3d3c2}}

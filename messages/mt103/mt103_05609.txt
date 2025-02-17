@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241108UBSWCHZHXXXXXXXN}{3:{121:ce404671-87f8-44cc-bad5-86b09dc670f5}}{4:
+:20:REF-94081
+:23B:CRED
+:32A:241108EUR471968.00
+:50K:/OC6296917
+Thompson, Ferguson and Miller
+6751 Joshua Trail Suite 100 Kramerbury, MO 90987
+:57A:UBSWCHZHXXX
+:59:/BEN87788298155009
+Bailey-Wiley
+578 Wayne Shores Apt. 549 Lake Thomasville, IL 44070
+:70:INV 0ACCBF82C678 This more attention account seat across level.
+:71A:OUR
+-}{5:{CHK:584b37e338}}

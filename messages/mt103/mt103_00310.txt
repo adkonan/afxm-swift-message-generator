@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240908INGBNL2AXXXXXXXN}{3:{121:7aa49049-32ce-4243-9de4-d9fd4e1d70e4}}{4:
+:20:REF-55988
+:23B:CRED
+:32A:240908XDR151421.00
+:50K:/OC1093685
+Fitzgerald, Wright and Bradley
+86382 Susan Dale East Patty, OR 33384
+:57A:INGBNL2AXXX
+:59:/BEN81786526565048
+Moore-Hale
+2016 Elizabeth Club Apt. 031 Evanfort, AK 15363
+:70:INV 3BED278C1495 Yet boy individual theory election commercial break we.
+:71A:OUR
+-}{5:{CHK:5d25abcbdf}}

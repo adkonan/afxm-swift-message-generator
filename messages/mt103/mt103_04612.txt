@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103241112INGBNL2AXXXXXXXN}{3:{121:51d24340-15e3-4314-b7a5-04fc89aebb37}}{4:
+:20:REF-15132
+:23B:CRED
+:32A:241112USD358606.00
+:50K:/OC2582364
+Paul, Sosa and Miller
+886 Miller Skyway Suite 911 West Jeffreyland, MN 57460
+:57A:INGBNL2AXXX
+:59:/BEN72478609330661
+Thompson-Krause
+78154 Shari Plaza Suite 961 West Christian, MH 21346
+:70:INV 3CDCCEAFC7A9 Because thousand man sign here hair instead fund.
+:71A:OUR
+-}{5:{CHK:c4900526f0}}

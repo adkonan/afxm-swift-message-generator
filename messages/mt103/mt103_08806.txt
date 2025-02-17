@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240530DBSSSGSGXXXXXXXN}{3:{121:272d7cd4-4ffc-414b-82d5-bb898e2d117f}}{4:
+:20:REF-14774
+:23B:CRED
+:32A:240530CAD4151.13
+:50K:/OC6646033
+Gregory-Mueller
+7451 Matthew Parks Apt. 002 Lake Keithport, WA 84322
+:57A:DBSSSGSGXXX
+:59:/BEN41001369351076
+Greene Group
+4802 Maria Summit South Zacharyburgh, NV 43533
+:70:INV DF24E844A769 Cut worry wonder interesting window tonight deep.
+:71A:OUR
+-}{5:{CHK:48d602a5c4}}

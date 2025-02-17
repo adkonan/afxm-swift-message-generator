@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240710STANGB2LXXXXXXXN}{3:{121:9037f589-c7d4-4a5d-98f4-b34f060361ab}}{4:
+:20:REF-47079
+:23B:CRED
+:32A:240710EUR438868.00
+:50K:/OC4159585
+Gardner-Moon
+68691 Brenda Throughway South Charleshaven, VI 61908
+:57A:STANGB2LXXX
+:59:/BEN27896981356085
+Irwin-Hancock
+537 Francis Islands Lake Eric, KY 00531
+:70:INV 2EF458B2D9A5 Although one worker artist attorney in song book.
+:71A:OUR
+-}{5:{CHK:11a5eace54}}

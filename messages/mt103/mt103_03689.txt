@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240317ECOCGHANXXXXXXXN}{3:{121:ccea30e5-c3b4-4130-b684-1d8107a85c79}}{4:
+:20:REF-52345
+:23B:CRED
+:32A:240317AUD180621.00
+:50K:/OC2899820
+Harris-Campos
+97336 Brendan Circles Suite 639 South Patty, WV 76134
+:57A:ECOCGHANXXX
+:59:/BEN44934344676217
+Carlson-Moore
+4679 Christine Crossing Apt. 346 Nataliemouth, HI 22978
+:70:INV 0A82D609DE05 Wear three religious major attack example government.
+:71A:OUR
+-}{5:{CHK:6b45065a2a}}

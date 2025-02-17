@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103250115SMBCJPJTXXXXXXXN}{3:{121:102555b9-7ef0-4219-93ad-16cbf2aa9273}}{4:
+:20:REF-60840
+:23B:CRED
+:32A:250115JPY495830.00
+:50K:/OC3232532
+Stafford-Haynes
+413 James Wells Apt. 328 Brownside, VI 38409
+:57A:SMBCJPJTXXX
+:59:/BEN94006689929756
+Harrison Inc
+3127 Williams Mill Apt. 285 Samuelhaven, SC 83769
+:70:INV 842788F6FB17 Particular story party police shoulder organization couple prepare.
+:71A:OUR
+-}{5:{CHK:cdf82c99e1}}

@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240607CRESCHZZXXXXXXXN}{3:{121:668a99c1-c886-4bd8-9e89-2727e34d3e8a}}{4:
+:20:REF-32423
+:23B:CRED
+:32A:240607CAD231779.00
+:50K:/OC1169511
+Baker-Galvan
+2810 Gillespie Estates North Benjaminmouth, PR 18895
+:57A:CRESCHZZXXX
+:59:/BEN53225932153447
+Ray-Hicks
+11535 Elizabeth Knolls Apt. 209 South Williambury, TX 75543
+:70:INV 16E4DF711DC5 Education movement center with nearly Congress about place.
+:71A:OUR
+-}{5:{CHK:7056a88d27}}

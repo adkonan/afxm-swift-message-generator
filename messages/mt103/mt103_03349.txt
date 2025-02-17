@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240429GTBINGLAXXXXXXXN}{3:{121:6015401e-f0ca-44e3-92cb-6c50eb44f49f}}{4:
+:20:REF-42261
+:23B:CRED
+:32A:240429USD484326.00
+:50K:/OC6770946
+Miller, Smith and Gilbert
+14569 Maynard View Apt. 018 North Sherrimouth, KS 47026
+:57A:GTBINGLAXXX
+:59:/BEN43723748802822
+Kelly, Alexander and Edwards
+785 Fox Green Suite 546 Port Peterville, KS 28111
+:70:INV 8EA563FD6643 Station through own employee.
+:71A:OUR
+-}{5:{CHK:c05a80e7cb}}

@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240521BMCECMRXXXXXXXXN}{3:{121:8c4f99aa-718d-481c-8650-892ccf781333}}{4:
+:20:REF-89815
+:23B:CRED
+:32A:240521JPY394370.00
+:50K:/OC2650624
+Alexander, Turner and Davis
+15044 Green Inlet Aguilarburgh, MS 64504
+:57A:BMCECMRXXXX
+:59:/BEN84340077818014
+Garcia, Hardin and Freeman
+54347 Murillo Mountains Apt. 537 Evanston, AZ 25446
+:70:INV 8C0DE1E0751C Admit analysis if west expert compare yes.
+:71A:OUR
+-}{5:{CHK:c94fc737f2}}

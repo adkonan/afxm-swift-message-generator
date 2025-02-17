@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240715BOJZBJZAXXXXXXXN}{3:{121:0da46996-dae2-49c2-adb8-29a65dbd2a5f}}{4:
+:20:REF-31012
+:23B:CRED
+:32A:240715CNY319251.00
+:50K:/OC9437579
+Madden, Logan and Colon
+117 Stephen Lights Lake Alexanderfort, ND 49127
+:57A:BOJZBJZAXXX
+:59:/BEN26887671043646
+Jenkins, Smith and Davis
+528 Christopher Roads Apt. 588 Coltonstad, MS 74695
+:70:INV FE599421BF9F Structure soldier deep create.
+:71A:OUR
+-}{5:{CHK:61d035129d}}

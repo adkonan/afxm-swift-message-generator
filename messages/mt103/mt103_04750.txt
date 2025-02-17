@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240426GTBINGLAXXXXXXXN}{3:{121:0a2b9cd1-fc66-460d-81b5-be40eee1f610}}{4:
+:20:REF-59676
+:23B:CRED
+:32A:240426GBP318495.00
+:50K:/OC9019172
+Jordan, Jensen and Mccormick
+223 Obrien Extensions Arthurville, ID 73229
+:57A:GTBINGLAXXX
+:59:/BEN13140546481881
+Bird, Cole and Rios
+891 Moreno Skyway East Dawn, FL 58987
+:70:INV 7A4713B84D18 Economy quality every hard nice especially next.
+:71A:OUR
+-}{5:{CHK:2e9e7d5255}}

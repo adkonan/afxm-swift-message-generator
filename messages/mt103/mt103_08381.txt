@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103241021BMCECMRXXXXXXXXN}{3:{121:dddbea80-09aa-4859-aeaa-ff2bf4f62b10}}{4:
+:20:REF-13760
+:23B:CRED
+:32A:241021XAG12822.00
+:50K:/OC5967261
+Cooper, Collins and Morales
+7835 Lindsey Passage Jacobchester, GA 82492
+:57A:BMCECMRXXXX
+:59:/BEN42483727993582
+Hanson, Chaney and Suarez
+07008 Lauren Junction Wolfbury, AL 90066
+:70:INV 7EDE534E4993 Into generation thought room recognize but.
+:71A:OUR
+-}{5:{CHK:167b6619a7}}

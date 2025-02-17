@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240913BNPAGB22XXXXXXXN}{3:{121:dbee4921-cdb8-46bd-87b4-4f18ee368aa8}}{4:
+:20:REF-44098
+:23B:CRED
+:32A:240913CAD4863950.00
+:50K:/OC6083032
+Brown-Cook
+90578 Victoria Crossroad Apt. 778 Marychester, CA 72117
+:57A:BNPAGB22XXX
+:59:/BEN13306479353157
+Green Group
+94962 Richard Fork Apt. 844 Chapmanside, VI 26993
+:70:INV C804A9640EFB Financial edge entire life cold movie force people.
+:71A:OUR
+-}{5:{CHK:daa869d454}}

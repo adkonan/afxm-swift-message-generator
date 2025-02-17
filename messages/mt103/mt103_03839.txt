@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241010BFSWUS33XXXXXXXN}{3:{121:8fc06ed2-16cf-4526-a3db-013f27d414ec}}{4:
+:20:REF-49084
+:23B:CRED
+:32A:241010SGD369641.00
+:50K:/OC3631301
+Gross, Hernandez and Butler
+2137 Cynthia Throughway Grossview, OR 06131
+:57A:BFSWUS33XXX
+:59:/BEN65869567209414
+Swanson-Huynh
+1190 Tanya Light Apt. 835 Scottmouth, AL 33165
+:70:INV BA4307C56DDF Modern everyone possible lose yes truth.
+:71A:OUR
+-}{5:{CHK:87c9fb849a}}

@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240624SMBCJPJTXXXXXXXN}{3:{121:36c6aeb5-8d9e-4485-9ddc-3a3ad67a3047}}{4:
+:20:REF-63403
+:23B:CRED
+:32A:240624CNY40096.00
+:50K:/OC3300180
+Osborne, Collins and Harris
+574 Joseph Mountain Mackberg, MH 65089
+:57A:SMBCJPJTXXX
+:59:/BEN55603281676139
+Ramsey, Taylor and Luna
+340 Derrick Branch Oscarbury, TN 76197
+:70:INV 2CB098949F94 By ask serious industry reality.
+:71A:OUR
+-}{5:{CHK:75b49ee57f}}

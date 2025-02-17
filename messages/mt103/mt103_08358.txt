@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103250201BOMLMRUXXXXXXXXN}{3:{121:5311bba4-f967-410b-9967-266c4291613c}}{4:
+:20:REF-50338
+:23B:CRED
+:32A:250201AUD405323.00
+:50K:/OC2094774
+Bridges and Sons
+131 Cheryl Crescent Apt. 843 North Kellymouth, IN 28153
+:57A:BOMLMRUXXXX
+:59:/BEN93438809595724
+Richardson Group
+415 Kelly Neck Boltonport, OR 37042
+:70:INV B0DF18577FA6 Reveal similar television group ability son suddenly.
+:71A:OUR
+-}{5:{CHK:090ec99bbd}}

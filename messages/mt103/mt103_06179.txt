@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240314NEDSZAJJXXXXXXXN}{3:{121:1cc7da38-b207-4c11-bf2d-08641b2609cc}}{4:
+:20:REF-23884
+:23B:CRED
+:32A:240314GBP93374.00
+:50K:/OC7684511
+Burns, Fuller and Maynard
+4796 Wilkerson Spring Suite 148 Madisontown, NH 94680
+:57A:NEDSZAJJXXX
+:59:/BEN50221690264947
+Nash-Smith
+5759 Gonzalez Falls Suite 180 Carolstad, DC 77436
+:70:INV 98E9A456C296 Mention full gun help they world arrive.
+:71A:OUR
+-}{5:{CHK:ce89629ca7}}

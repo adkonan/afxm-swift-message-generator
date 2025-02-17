@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241024UBSWCHZHXXXXXXXN}{3:{121:c73bf1ac-7194-4cb1-aa96-0824a9354c8a}}{4:
+:20:REF-74868
+:23B:CRED
+:32A:241024AUD75279.00
+:50K:/OC6193009
+Jimenez, Li and Smith
+552 Jeremy Plains Lake Taylorburgh, MA 49525
+:57A:UBSWCHZHXXX
+:59:/BEN84240409324029
+Horton, Andrews and Fisher
+5231 Charles Vista Apt. 434 New Cynthiaside, FM 71544
+:70:INV A1A1A175BBF3 Start year rise media on central wait.
+:71A:OUR
+-}{5:{CHK:01d109dc4d}}

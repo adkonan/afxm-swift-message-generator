@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240810BKCHHKHXXXXXXXXN}{3:{121:a7204bed-7560-4ba7-a9e4-0b34eb781c2f}}{4:
+:20:REF-29414
+:23B:CRED
+:32A:240810CNY489589.00
+:50K:/OC7479886
+Jensen, Maldonado and Richardson
+124 Stewart Fields Suite 970 East Brandonhaven, DE 17939
+:57A:BKCHHKHXXXX
+:59:/BEN99186236052204
+Cole Ltd
+24154 Nelson Island Lake Sherry, UT 37754
+:70:INV 5C0544760FD1 Capital difficult do seek product.
+:71A:OUR
+-}{5:{CHK:5c4c07a75f}}

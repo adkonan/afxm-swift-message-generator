@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240801BBVAESMMXXXXXXXN}{3:{121:4f088ddc-6cb2-4f7d-8f8b-7c95f7174f25}}{4:
+:20:REF-46266
+:23B:CRED
+:32A:240801EUR204954.00
+:50K:/OC4795712
+Davis and Sons
+0744 Rodriguez Place East Davidville, UT 76731
+:57A:BBVAESMMXXX
+:59:/BEN69736444389169
+Jones-Townsend
+4054 Nathan Extension Avilaland, MS 79386
+:70:INV CC4B2FCCE919 Now experience factor dog network son face.
+:71A:OUR
+-}{5:{CHK:b0a49cff85}}

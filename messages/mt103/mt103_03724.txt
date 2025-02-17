@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103250119BKBKPHMMXXXXXXXN}{3:{121:0f78b065-04f9-41bf-89e6-dd2c29b301e4}}{4:
+:20:REF-51573
+:23B:CRED
+:32A:250119SGD31333000.00
+:50K:/OC6087019
+Jackson PLC
+92809 Sean Plain Apt. 533 Port Donaldberg, MN 40478
+:57A:BKBKPHMMXXX
+:59:/BEN69095945792252
+Jones, Jackson and Banks
+1482 Elizabeth Wall West Brianmouth, LA 85064
+:70:INV E1F625A2AE9E Everyone themselves artist democratic ball claim allow.
+:71A:OUR
+-}{5:{CHK:026eabbf06}}

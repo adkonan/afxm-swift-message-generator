@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240508INGBNL2AXXXXXXXN}{3:{121:eb3e63b0-1870-437d-aa4e-3f7c889c93a9}}{4:
+:20:REF-75928
+:23B:CRED
+:32A:240508GBP3266700.00
+:50K:/OC2890484
+Sanchez Ltd
+506 Rodney Estate Suite 806 Port Dwayneberg, IL 57209
+:57A:INGBNL2AXXX
+:59:/BEN20184956432818
+Christian LLC
+7168 Michelle Summit Suite 916 Meyerhaven, CT 41210
+:70:INV 7AD9BE2BC1B3 Detail approach adult right cultural region easy nearly.
+:71A:OUR
+-}{5:{CHK:721ba9ae0e}}

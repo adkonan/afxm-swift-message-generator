@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240623BKBKPHMMXXXXXXXN}{3:{121:138f4ea4-5c58-4b27-a5cc-df3a6f0014d1}}{4:
+:20:REF-55787
+:23B:CRED
+:32A:240623AUD3629700.00
+:50K:/OC7693591
+Byrd, Welch and Jenkins
+88473 Marshall Springs New Robintown, RI 19016
+:57A:BKBKPHMMXXX
+:59:/BEN23991568848084
+Thomas, Harper and Wilson
+943 Corey Neck Suite 057 Deborahland, DE 87621
+:70:INV 4580E6C05BC5 Father could unit there down not nation.
+:71A:OUR
+-}{5:{CHK:63eb06021b}}

@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240813UBSWCHZHXXXXXXXN}{3:{121:484e9307-b47e-42a1-8401-7b96b82e9705}}{4:
+:20:REF-51546
+:23B:CRED
+:32A:240813AUD368159.00
+:50K:/OC4421856
+Garcia, Kennedy and Fernandez
+7584 Johnston Springs Apt. 785 Joneschester, WA 74820
+:57A:UBSWCHZHXXX
+:59:/BEN76399984665842
+Woodard, Brooks and Davis
+059 Jay Junction New Edwardville, GU 20063
+:70:INV 7F2AB5523F82 Case performance cold join look relationship take.
+:71A:OUR
+-}{5:{CHK:383f3c831c}}

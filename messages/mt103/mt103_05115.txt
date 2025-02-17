@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240315BFSWUS33XXXXXXXN}{3:{121:06c0dca8-6cfd-4600-bbc8-d1f8e509418e}}{4:
+:20:REF-97814
+:23B:CRED
+:32A:240315SGD26645300.00
+:50K:/OC1735523
+Robertson, Hall and Hernandez
+6200 Harry Prairie Suite 633 Michaelmouth, AL 96970
+:57A:BFSWUS33XXX
+:59:/BEN36221253220399
+Martin-Smith
+003 Crystal Shoal Buchananbury, FL 05129
+:70:INV E91CA576B037 Day open trip effect his effort off.
+:71A:OUR
+-}{5:{CHK:fee9a6c6ca}}

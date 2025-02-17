@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240516INGBNL2AXXXXXXXN}{3:{121:1e84b557-aa70-443c-81f9-cdc074debe8c}}{4:
+:20:REF-45295
+:23B:CRED
+:32A:240516USD28343000.00
+:50K:/OC3688110
+Monroe, Garza and Silva
+594 Harris Pine Apt. 177 Elizabethfurt, CO 75482
+:57A:INGBNL2AXXX
+:59:/BEN81301902329535
+Finley LLC
+2557 Steven Centers North Candaceville, TN 82038
+:70:INV 0AFF9AB5E074 Prove whose house with player base century study.
+:71A:OUR
+-}{5:{CHK:4b8f0604a7}}

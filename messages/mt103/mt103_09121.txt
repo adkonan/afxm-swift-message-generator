@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240914STANGB2LXXXXXXXN}{3:{121:bf26f468-6148-4b9e-8490-e97438857215}}{4:
+:20:REF-85984
+:23B:CRED
+:32A:240914EUR396039.00
+:50K:/OC1330682
+Caldwell, Lopez and Miller
+847 Jodi Prairie Suite 846 Lake Robert, MO 64308
+:57A:STANGB2LXXX
+:59:/BEN47948077009865
+Wright, Cox and Erickson
+25912 Stephen Path Suite 142 Port Kimberlybury, CO 52222
+:70:INV 31CA000CF762 Parent special wish great career sound life support.
+:71A:OUR
+-}{5:{CHK:525bc57d9f}}

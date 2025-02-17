@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240821CHASUS33XXXXXXXN}{3:{121:eaac6729-73f5-46db-95da-61ce937b9e96}}{4:
+:20:REF-53099
+:23B:CRED
+:32A:240821AUD424640.00
+:50K:/OC1235474
+Bailey-Bennett
+25345 Rocha Mountains South Dominiquefort, MS 50741
+:57A:CHASUS33XXX
+:59:/BEN27851501212944
+Green LLC
+5163 Johnny Motorway South John, PW 63646
+:70:INV 7D574FD590C5 Treatment road mind either watch behavior institution.
+:71A:OUR
+-}{5:{CHK:89e0e9b8ea}}

@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240410NATXFRPPXXXXXXXN}{3:{121:31a66b10-6d55-4f5a-9f70-bbd848dbfa17}}{4:
+:20:REF-90135
+:23B:CRED
+:32A:240410CAD318549.00
+:50K:/OC5191047
+Hall, Sanchez and Grimes
+20248 Joseph Manor Apt. 434 Simmonsview, AK 97808
+:57A:NATXFRPPXXX
+:59:/BEN68261852099468
+Smith, Lopez and Green
+847 Williams Prairie Port Maxwell, TN 17601
+:70:INV 47FA1D0F47A6 Sign fact interesting same gas could.
+:71A:OUR
+-}{5:{CHK:c62abd5f80}}

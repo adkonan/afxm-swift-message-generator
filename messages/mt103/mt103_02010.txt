@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240821DBSSSGSGXXXXXXXN}{3:{121:e20076bc-c84f-47df-8264-7d3cab6532ed}}{4:
+:20:REF-36739
+:23B:CRED
+:32A:240821CHF38621.00
+:50K:/OC8675315
+Walker, Wilcox and Price
+78392 Lopez Land South Joseph, FL 27593
+:57A:DBSSSGSGXXX
+:59:/BEN98638295972405
+Coleman, Patterson and Gray
+5592 Phillips Views Suite 666 Christinemouth, FM 74897
+:70:INV 38D0D0854038 Bad citizen choice effect bar.
+:71A:OUR
+-}{5:{CHK:98549cf41a}}

@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103250127ICBKCNBJXXXXXXXN}{3:{121:4efaf55f-d9fd-4e05-86ed-4bed853835cf}}{4:
+:20:REF-84185
+:23B:CRED
+:32A:250127USD19337.00
+:50K:/OC9372757
+Coleman, Griffin and Lopez
+17716 Clark Neck Lake Norman, AK 74073
+:57A:ICBKCNBJXXX
+:59:/BEN14755214476103
+Norris Inc
+05872 Torres Corner Anthonychester, VT 28141
+:70:INV C6B042EA4BED Benefit money by charge simple because leave.
+:71A:OUR
+-}{5:{CHK:92331cf83e}}

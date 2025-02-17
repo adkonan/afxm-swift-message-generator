@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241103KFWDEFFXXXXXXXN}{3:{121:9d2b858a-bc48-474e-9fe9-66a2737811b1}}{4:
+:20:REF-52418
+:23B:CRED
+:32A:241103KPW48775.00
+:50K:/OC4241789
+Bender-Johnson
+04030 Carpenter Forges Apt. 656 Tiffanymouth, MH 89538
+:57A:KFWDEFFXXX
+:59:/BEN29981885255147
+Campbell, Shelton and Burke
+807 Vincent Motorway Maryview, PA 75707
+:70:INV 1129CCDA107A Later table business effort away rich.
+:71A:OUR
+-}{5:{CHK:a739ea6cf3}}

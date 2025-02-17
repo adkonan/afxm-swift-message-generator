@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103241107FIRNZAJJXXXXXXXN}{3:{121:98ab551e-5e8a-4af2-a48d-aecf13fbccae}}{4:
+:20:REF-90621
+:23B:CRED
+:32A:241107AUD332759.00
+:50K:/OC7894233
+Stokes-Harper
+9564 Edwin Prairie West Deborah, AL 33159
+:57A:FIRNZAJJXXX
+:59:/BEN81255331066481
+Baker, Mcdaniel and Craig
+53087 Alexander Village Apt. 055 Lake Christophermouth, WV 78054
+:70:INV D18587DBBC46 Action free whatever money color include.
+:71A:OUR
+-}{5:{CHK:d3ef9bf5bc}}

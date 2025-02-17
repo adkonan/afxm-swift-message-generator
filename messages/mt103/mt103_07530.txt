@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241204BCAOAOAOXXXXXXXN}{3:{121:1aee0061-1683-4f90-8ead-8b1e7e3a6f62}}{4:
+:20:REF-10240
+:23B:CRED
+:32A:241204USD467874.00
+:50K:/OC9536776
+Robbins, Munoz and Andersen
+259 Brianna Radial Whitestad, NY 94493
+:57A:BCAOAOAOXXX
+:59:/BEN34074270479444
+Rogers-Park
+35516 Danielle Ports Suite 157 Port Michele, RI 11523
+:70:INV BDD9199B9587 Claim summer lot management law heavy smile painting.
+:71A:OUR
+-}{5:{CHK:734a8b31a7}}

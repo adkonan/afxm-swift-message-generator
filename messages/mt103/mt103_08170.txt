@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240607ZENITHNGLAXXXXXXXN}{3:{121:e58a8235-4173-442c-a746-7df45e707172}}{4:
+:20:REF-87371
+:23B:CRED
+:32A:240607XDR1616350.00
+:50K:/OC8657119
+Kim, Reilly and Perez
+003 Yvonne Course Apt. 483 New Williamton, SC 64271
+:57A:ZENITHNGLAXXX
+:59:/BEN56796763959184
+Mcgee, Sanchez and Meyer
+7079 Greene Branch Suite 256 Wesleyburgh, NY 98565
+:70:INV FDF1D11B6C67 Drug head remember media activity history whether.
+:71A:OUR
+-}{5:{CHK:e69fe06451}}

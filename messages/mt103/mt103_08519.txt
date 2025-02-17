@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240531STANGB2LXXXXXXXN}{3:{121:6f96b8bd-edc1-49c5-a30c-2f3fb1ee83fb}}{4:
+:20:REF-38286
+:23B:CRED
+:32A:240531CAD3503590.00
+:50K:/OC4654204
+Simmons, Gonzalez and Hickman
+2161 Morris Mews West Jennifer, UT 76398
+:57A:STANGB2LXXX
+:59:/BEN35327957692085
+Garcia-Gibson
+4874 Michael Manor Suite 359 Jenniferfort, ID 40672
+:70:INV 0C94945EF863 Be drive listen study personal full data serious.
+:71A:OUR
+-}{5:{CHK:e5c919fc42}}

@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240821ECOCGHANXXXXXXXN}{3:{121:a4afa6fd-af09-400a-81f4-8b833c40996a}}{4:
+:20:REF-84709
+:23B:CRED
+:32A:240821EUR248095.00
+:50K:/OC9657821
+Arnold, Jackson and Cobb
+334 Dawn Divide Suite 191 Vanessashire, PW 34952
+:57A:ECOCGHANXXX
+:59:/BEN13966667374789
+Kramer, Myers and Clayton
+8448 George Mountain South Karenchester, NH 47495
+:70:INV 35919B1DA890 Life why develop civil usually out hundred.
+:71A:OUR
+-}{5:{CHK:3ad039365a}}

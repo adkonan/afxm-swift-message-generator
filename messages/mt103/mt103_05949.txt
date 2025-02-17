@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240614BARCDEFFXXXXXXXN}{3:{121:312070da-f67e-43b9-bdd8-b2cabbf517e2}}{4:
+:20:REF-78782
+:23B:CRED
+:32A:240614EUR121816.00
+:50K:/OC7787133
+Stark-Bates
+82214 Johnson Center Suite 903 Port Amybury, HI 33986
+:57A:BARCDEFFXXX
+:59:/BEN91771137041992
+Howard Ltd
+90944 Fernandez Circles Apt. 784 Lake Jennifer, NY 67555
+:70:INV 25FA18B61233 Indeed hour power hospital represent drop word election.
+:71A:OUR
+-}{5:{CHK:2d9216da6e}}

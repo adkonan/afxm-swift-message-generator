@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103241223DEUTDEFFXXXXXXXN}{3:{121:724fbfba-2b09-45ca-b2f7-385542e60f3d}}{4:
+:20:REF-45252
+:23B:CRED
+:32A:241223AUD297841.00
+:50K:/OC8591024
+Johnson, Young and Williams
+5688 Sarah Mission Suite 648 Adamville, NH 53626
+:57A:DEUTDEFFXXX
+:59:/BEN67234401657360
+Simpson Group
+74684 James Crossing Apt. 489 Ericksonside, TX 35687
+:70:INV 31966ECE6199 Rate others road activity article business religious measure.
+:71A:OUR
+-}{5:{CHK:c968f56455}}

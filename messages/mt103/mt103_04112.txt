@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240621UBSWCHZHXXXXXXXN}{3:{121:97e5a78e-8dcc-4eb1-a137-1e6f65576973}}{4:
+:20:REF-20385
+:23B:CRED
+:32A:240621AUD4498.54
+:50K:/OC7471555
+Roy-Wilson
+952 Vasquez Lane Suite 267 Jamesport, VI 16069
+:57A:UBSWCHZHXXX
+:59:/BEN39814858995754
+Garcia, Daniels and Evans
+9709 Washington Trail South Jenniferton, TX 04964
+:70:INV B9A064AA6936 Community to fish wide size attention.
+:71A:OUR
+-}{5:{CHK:6ebacfae60}}

@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240503BKCHHKHXXXXXXXXN}{3:{121:d59bb9a0-80e4-492d-aacc-8c82c78bc66b}}{4:
+:20:REF-48632
+:23B:CRED
+:32A:240503JPY918680.00
+:50K:/OC2121701
+Valenzuela Ltd
+789 Johnathan Pine Robbinsville, MN 45771
+:57A:BKCHHKHXXXX
+:59:/BEN43783852582835
+Rodgers-Robertson
+3692 Christopher Branch West Dorisside, DC 55992
+:70:INV 4AC914798AD1 Court respond account home effect body rich suggest.
+:71A:OUR
+-}{5:{CHK:1ba35b612c}}

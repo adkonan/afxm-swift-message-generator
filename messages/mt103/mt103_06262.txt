@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241102RBCROYTORXXXXXXXN}{3:{121:09eab9c1-e051-46c7-a6d0-c73d91691df5}}{4:
+:20:REF-14497
+:23B:CRED
+:32A:241102CNY452514.00
+:50K:/OC5896431
+Lee, Bush and Mahoney
+00215 Suzanne Route Apt. 905 Georgeland, IA 90973
+:57A:RBCROYTORXXX
+:59:/BEN16443396417499
+Thompson LLC
+3407 Wallace Spur Rodriguezfurt, NH 96887
+:70:INV ACCC7AD41435 Help team environmental approach pull cup simple wonder.
+:71A:OUR
+-}{5:{CHK:4f330fde0f}}

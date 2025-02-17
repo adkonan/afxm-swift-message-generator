@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103250130BBVAESMMXXXXXXXN}{3:{121:48607101-473a-473b-9a11-0868fe17c099}}{4:
+:20:REF-56394
+:23B:CRED
+:32A:250130CAD2484150.00
+:50K:/OC3953422
+Webb-Green
+357 Lopez Knoll Port Chad, UT 05780
+:57A:BBVAESMMXXX
+:59:/BEN43475216206512
+Weaver, Walter and Daniels
+96511 Velazquez Estates Alejandroburgh, UT 42526
+:70:INV 8E7A6D126CE3 Especially form country economic opportunity read cultural sign.
+:71A:OUR
+-}{5:{CHK:15f1a10356}}

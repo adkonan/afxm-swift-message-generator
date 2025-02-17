@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240228ZENITHNGLAXXXXXXXN}{3:{121:1fc59ab5-94b0-4def-bffe-9c765e942345}}{4:
+:20:REF-26786
+:23B:CRED
+:32A:240228EUR48253.00
+:50K:/OC7385908
+Escobar, Callahan and Williams
+2788 Guzman Fall Apt. 865 Harrisville, PR 60234
+:57A:ZENITHNGLAXXX
+:59:/BEN92570923320212
+Hoffman Ltd
+10789 Carter Parks South Michael, GA 33055
+:70:INV 0FEEE31EAE39 Majority forget nature field book similar reveal.
+:71A:OUR
+-}{5:{CHK:fd818b13bc}}

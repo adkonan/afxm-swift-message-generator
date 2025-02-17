@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240711SCBLGB2LXXXXXXXN}{3:{121:af1847f0-72fa-4178-afd8-aab27587dccf}}{4:
+:20:REF-97271
+:23B:CRED
+:32A:240711EUR289569.00
+:50K:/OC3530009
+Delgado, Francis and Schultz
+3308 William Meadows Robertland, MI 34518
+:57A:SCBLGB2LXXX
+:59:/BEN61994742040052
+Young, Bell and Butler
+0889 Joshua Flats Apt. 045 Kennethtown, MP 16131
+:70:INV A2220505869C Knowledge policy professional appear economic.
+:71A:OUR
+-}{5:{CHK:4f889ec471}}

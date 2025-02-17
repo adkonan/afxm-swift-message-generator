@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103250124ICBKCNBJXXXXXXXN}{3:{121:58d109d3-4043-4ce6-a97c-e79ec4823dcd}}{4:
+:20:REF-63046
+:23B:CRED
+:32A:250124AUD29599900.00
+:50K:/OC7716674
+Black, Bell and Watkins
+56457 Flores Stream Suite 202 Hammondfurt, PA 31317
+:57A:ICBKCNBJXXX
+:59:/BEN96561325604242
+Jackson-Parker
+48823 Austin Mountain Suite 923 Kellyfurt, GU 89201
+:70:INV A06994519968 Nothing situation police practice statement day.
+:71A:OUR
+-}{5:{CHK:1c6deaff5b}}

@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103250115BMCECMRXXXXXXXXN}{3:{121:7a93e7de-9c0c-4665-9651-e5e9e7701a47}}{4:
+:20:REF-52691
+:23B:CRED
+:32A:250115CHF401909.00
+:50K:/OC1510312
+Farmer-Ramirez
+28653 Jessica Shores Emilyville, PR 27634
+:57A:BMCECMRXXXX
+:59:/BEN88965208699533
+Flores-Yates
+654 Williams Valley Apt. 549 New Candicechester, NE 99075
+:70:INV B6FF25EED069 Build action natural hair attorney often reveal.
+:71A:OUR
+-}{5:{CHK:e86ba9bdf2}}

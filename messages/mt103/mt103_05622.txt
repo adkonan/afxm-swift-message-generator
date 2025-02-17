@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240707BOJZBJZAXXXXXXXN}{3:{121:92c55055-5a48-4065-b6a0-5818f5e1fe8e}}{4:
+:20:REF-86718
+:23B:CRED
+:32A:240707JPY2973200.00
+:50K:/OC8423652
+Lopez-Larson
+09217 Middleton Views Port Brittneytown, KS 06997
+:57A:BOJZBJZAXXX
+:59:/BEN15673004239039
+Smith, Garcia and Anderson
+5689 John Vista Suite 889 East Javier, MP 77080
+:70:INV 49D91C0F2057 Either question include of rock region instead suffer.
+:71A:OUR
+-}{5:{CHK:3f0108a39b}}

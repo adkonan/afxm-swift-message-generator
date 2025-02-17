@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103241122AFRIGHACXXXXXXXN}{3:{121:c15bb325-924f-4e33-a28a-7c1802b60f29}}{4:
+:20:REF-86997
+:23B:CRED
+:32A:241122CAD190949.00
+:50K:/OC8086338
+Lewis, Waters and Turner
+396 Thomas Cove Apt. 716 West Allisonmouth, CO 92339
+:57A:AFRIGHACXXX
+:59:/BEN50803768542156
+Mckinney LLC
+209 Alicia Union Apt. 536 Marybury, CA 62581
+:70:INV 6AB5FFE92DA3 Food avoid worry image citizen rock sell traditional.
+:71A:OUR
+-}{5:{CHK:f4c31f7054}}

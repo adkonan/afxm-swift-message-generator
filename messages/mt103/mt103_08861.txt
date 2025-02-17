@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103241128BBVAESMMXXXXXXXN}{3:{121:79bdccc5-0b42-45dc-9fd3-4930c427294f}}{4:
+:20:REF-56194
+:23B:CRED
+:32A:241128CAD5161.00
+:50K:/OC5103064
+Morrison, Jordan and Barrera
+1635 Bailey Green East Williamtown, UT 11189
+:57A:BBVAESMMXXX
+:59:/BEN62079384631821
+Caldwell Ltd
+392 Vincent Trafficway Apt. 983 East Barbarafurt, CO 26141
+:70:INV D7A5CCA572C1 Important understand stop reason trial care.
+:71A:OUR
+-}{5:{CHK:75727edabb}}

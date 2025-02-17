@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103241102KFWDEFFXXXXXXXN}{3:{121:25767765-1b4b-4932-8918-2f23416afa90}}{4:
+:20:REF-74680
+:23B:CRED
+:32A:241102EUR35689.00
+:50K:/OC7606412
+Scott, Ward and Schultz
+41821 Robert Trail Angelaborough, OH 64799
+:57A:KFWDEFFXXX
+:59:/BEN20134475012315
+Freeman, Smith and Murray
+4162 Nathan Walk Amystad, MS 62237
+:70:INV B55B832B528B Interest election argue probably wear likely whether.
+:71A:OUR
+-}{5:{CHK:f3e418f3c2}}

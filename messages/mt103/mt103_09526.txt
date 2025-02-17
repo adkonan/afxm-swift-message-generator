@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240812UBSWRIT2XXXXXXXN}{3:{121:eee884ea-cbfb-4ea6-b91f-cf4b66cf27bc}}{4:
+:20:REF-14981
+:23B:CRED
+:32A:240812AUD293066.00
+:50K:/OC7280323
+Miles-Murphy
+444 Maureen Vista Suite 495 Pinedastad, PA 51975
+:57A:UBSWRIT2XXX
+:59:/BEN19737814444034
+Thomas-White
+293 Rose Square Suite 780 New Marieshire, SD 60736
+:70:INV 37F61BC4A5E9 Political teach movement two window shake.
+:71A:OUR
+-}{5:{CHK:1c32c256dc}}

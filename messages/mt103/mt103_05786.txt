@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240807SMBCJPJTXXXXXXXN}{3:{121:f2cf4d5b-74f3-46f5-952e-a9c0c7a4ab7f}}{4:
+:20:REF-61952
+:23B:CRED
+:32A:240807XDR64144.00
+:50K:/OC9219057
+Gibson, Hoffman and Sanders
+5892 Casey Wall New Tammy, WI 16546
+:57A:SMBCJPJTXXX
+:59:/BEN50854694632504
+Edwards, Peters and Murillo
+54213 Kristin Stravenue Lake Wayneview, MI 94218
+:70:INV E833F2D80733 Success protect test important debate must treatment.
+:71A:OUR
+-}{5:{CHK:fc03a18efd}}

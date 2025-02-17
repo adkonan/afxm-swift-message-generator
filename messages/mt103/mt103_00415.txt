@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240823SOGEFRPPXXXXXXXN}{3:{121:24ce10ba-9522-48dd-a9cd-d43cafc5128f}}{4:
+:20:REF-26812
+:23B:CRED
+:32A:240823CHF490773.00
+:50K:/OC3363133
+Brewer-Pierce
+90911 Jessica Mountains East Christinefurt, AZ 60734
+:57A:SOGEFRPPXXX
+:59:/BEN45759256626927
+Duncan, Cannon and Goodman
+30483 Travis Corner Millerside, NY 36747
+:70:INV 23F6E975F285 Behind kitchen clearly their though above management page.
+:71A:OUR
+-}{5:{CHK:6d95b78b42}}

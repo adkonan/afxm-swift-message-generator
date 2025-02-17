@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241104SOGEFRPPXXXXXXXN}{3:{121:a53f1f4c-1ca7-4f23-8acb-6a6161a7bf5d}}{4:
+:20:REF-66736
+:23B:CRED
+:32A:241104SGD140504.00
+:50K:/OC8100065
+Thomas, Gonzalez and Lee
+26158 Smith Gardens East Josephstad, NM 87367
+:57A:SOGEFRPPXXX
+:59:/BEN86955808012011
+Brock-Crawford
+43923 Payne Spur West Nicholas, NV 73518
+:70:INV FE106BF36885 Someone here fact camera learn mention page crime.
+:71A:OUR
+-}{5:{CHK:f9260bd818}}

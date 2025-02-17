@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103250212SMBCJPJTXXXXXXXN}{3:{121:8d274454-06d4-4a00-a516-cd3fc5725ec7}}{4:
+:20:REF-25557
+:23B:CRED
+:32A:250212USD3529.86
+:50K:/OC6103688
+Gutierrez, Hopkins and Mcdonald
+31286 Walton Flats Suite 981 South Darrell, ID 35525
+:57A:SMBCJPJTXXX
+:59:/BEN12252366690018
+Clark-Smith
+7597 Holland Lodge South Stephanieton, PA 46445
+:70:INV 8D9853073FE9 Capital east history traditional west hope.
+:71A:OUR
+-}{5:{CHK:2837aa5d93}}

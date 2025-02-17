@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241006ECOCGHANXXXXXXXN}{3:{121:902648a6-e453-4fb5-ac4c-925c17568549}}{4:
+:20:REF-68169
+:23B:CRED
+:32A:241006JPY344798.00
+:50K:/OC5814064
+Garcia, Jones and Thomas
+64974 Rodriguez Avenue Apt. 040 North Kevin, MP 21238
+:57A:ECOCGHANXXX
+:59:/BEN68336785254806
+Little, Wilson and Garrett
+084 William Course Phillipshaven, PW 25065
+:70:INV 69CAD87D917F Choose start side first on strong need.
+:71A:OUR
+-}{5:{CHK:d1cc397908}}

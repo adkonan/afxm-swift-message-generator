@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240423FCMBNGLAXXXXXXXN}{3:{121:6bc2fcdd-eb01-4955-95e4-48ad44ea0ec1}}{4:
+:20:REF-49773
+:23B:CRED
+:32A:240423EUR165218.00
+:50K:/OC3093734
+Hayes, Cunningham and Gutierrez
+61492 Roberts Fall Hernandezview, DE 80579
+:57A:FCMBNGLAXXX
+:59:/BEN11568616897454
+Hayes and Sons
+58011 Garcia Lane Apt. 200 Traceyhaven, LA 28580
+:70:INV B1C6715A5123 Spring staff budget collection glass point how.
+:71A:OUR
+-}{5:{CHK:d4da78fcbe}}

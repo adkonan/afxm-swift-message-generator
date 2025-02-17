@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240604FCMBNGLAXXXXXXXN}{3:{121:ffa8c600-2ba1-40ee-8079-896f4fca9f0e}}{4:
+:20:REF-91819
+:23B:CRED
+:32A:240604JPY325840.00
+:50K:/OC4220408
+Boone, Arroyo and Simpson
+3760 Robertson Trafficway Jackport, PW 14959
+:57A:FCMBNGLAXXX
+:59:/BEN68415274232288
+Hogan-Green
+5584 Taylor Street Lopezstad, KS 57454
+:70:INV B6305A8F1C21 Full lead court instead never vote under.
+:71A:OUR
+-}{5:{CHK:3bc395db92}}

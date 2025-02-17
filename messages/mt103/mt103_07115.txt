@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240509DEUTDEFFXXXXXXXN}{3:{121:b6833909-0794-47a0-a723-e9f428c9adff}}{4:
+:20:REF-92641
+:23B:CRED
+:32A:240509AUD28096.00
+:50K:/OC6777689
+Strong, Adams and Gardner
+7482 Kimberly Mill Port Amber, FL 00735
+:57A:DEUTDEFFXXX
+:59:/BEN54840024206214
+Hardy-Bowman
+31524 Harrison Mount Suite 528 East Corey, CO 68169
+:70:INV D609794BB85C Lay beautiful participant play those assume maybe.
+:71A:OUR
+-}{5:{CHK:a0dbcc4bca}}

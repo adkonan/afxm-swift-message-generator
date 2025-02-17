@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240727NEDSZAJJXXXXXXXN}{3:{121:2e9d7af8-4f35-4891-be31-de6818cab6d6}}{4:
+:20:REF-62710
+:23B:CRED
+:32A:240727XAU148357.00
+:50K:/OC6461822
+Serrano-Mcgee
+0797 Mcdonald Landing Apt. 000 South Kevin, MA 44521
+:57A:NEDSZAJJXXX
+:59:/BEN27664725666669
+Randall-Torres
+920 Sheryl Roads Vanessafurt, CO 24618
+:70:INV 764877A9D1DD Organization product federal set receive far.
+:71A:OUR
+-}{5:{CHK:cd5bed6a39}}

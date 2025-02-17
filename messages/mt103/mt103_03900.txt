@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240810ZENITHNGLAXXXXXXXN}{3:{121:c3fe49cf-accd-4145-a7ad-189423221d3c}}{4:
+:20:REF-51459
+:23B:CRED
+:32A:240810USD157953.00
+:50K:/OC3667035
+Dyer, Lynch and Cook
+732 Robert Knolls Apt. 588 Lake Daniellemouth, SD 10540
+:57A:ZENITHNGLAXXX
+:59:/BEN84550708871330
+Weaver Group
+2598 Smith Oval Suite 380 North Kellyfort, AK 18585
+:70:INV F2BB17AA011A Low herself in mind beautiful play.
+:71A:OUR
+-}{5:{CHK:c9d7dea0cf}}

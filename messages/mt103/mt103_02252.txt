@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240810ZURICHZCHXXXXXXXN}{3:{121:fafc6a85-a67e-421a-9425-16f2b08be990}}{4:
+:20:REF-42415
+:23B:CRED
+:32A:240810AUD432119.00
+:50K:/OC1286805
+Smith, Lawson and Burnett
+1213 Drew Circles Lake Rachelburgh, SC 90800
+:57A:ZURICHZCHXXX
+:59:/BEN18808125573883
+Patel, Murray and Brown
+8109 Owens Fords Johnsonport, CO 01620
+:70:INV B6C19C72BB5C Investment remember clearly its rather central.
+:71A:OUR
+-}{5:{CHK:17344d5d5f}}

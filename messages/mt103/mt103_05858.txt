@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240604BMCECMRXXXXXXXXN}{3:{121:2499f6b4-9d10-4fbf-9edd-456687a94271}}{4:
+:20:REF-93534
+:23B:CRED
+:32A:240604GBP179132.00
+:50K:/OC9276912
+Mitchell Inc
+895 Hoffman Brook Cummingston, VT 26731
+:57A:BMCECMRXXXX
+:59:/BEN19763080516103
+Johnson, Ochoa and Hart
+55993 Angela Plaza South Madisonburgh, NY 57721
+:70:INV EBCB07A9B158 Simply early floor maintain cell purpose traditional.
+:71A:OUR
+-}{5:{CHK:31469f3267}}

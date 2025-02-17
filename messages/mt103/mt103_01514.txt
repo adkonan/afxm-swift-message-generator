@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240524SMBCJPJTXXXXXXXN}{3:{121:15a5d97c-de11-4f80-987a-baea7830e38c}}{4:
+:20:REF-89836
+:23B:CRED
+:32A:240524XDR216563.00
+:50K:/OC7281854
+Fitzgerald, Jimenez and Mcmillan
+4887 Wanda Springs Apt. 922 Port Danielton, MN 14460
+:57A:SMBCJPJTXXX
+:59:/BEN77693079756712
+Young LLC
+7203 Brittany Forest Burnsshire, OK 73810
+:70:INV F6CFF85BB419 Certainly happen exactly Mr step game owner market.
+:71A:OUR
+-}{5:{CHK:aaeb83611a}}

@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103250205SOGEFRPPXXXXXXXN}{3:{121:b7b242ac-dcfd-41f2-9fea-8a11fe08dad4}}{4:
+:20:REF-51087
+:23B:CRED
+:32A:250205CNY475744.00
+:50K:/OC9539286
+Fitzgerald and Sons
+133 Clark Creek Reneeborough, NY 82376
+:57A:SOGEFRPPXXX
+:59:/BEN18391956849303
+Guerrero, Black and Gibson
+USS Murphy FPO AE 00676
+:70:INV 4A40CEB0199F Short television consider up million because enter.
+:71A:OUR
+-}{5:{CHK:5531bb4618}}

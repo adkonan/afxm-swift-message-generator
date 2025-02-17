@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240614KFWDEFFXXXXXXXN}{3:{121:e1569015-f108-45d1-bfee-febce1082382}}{4:
+:20:REF-16075
+:23B:CRED
+:32A:240614CAD332491.00
+:50K:/OC2346976
+Garrett-Livingston
+96293 Wyatt Springs Apt. 667 Micheleberg, AS 03906
+:57A:KFWDEFFXXX
+:59:/BEN46490653088229
+Hanson, Curry and Johnson
+815 Stephanie Field West Kaitlyn, WA 37157
+:70:INV 702404232AF1 Pattern garden much skin phone fish.
+:71A:OUR
+-}{5:{CHK:9255d2ff04}}

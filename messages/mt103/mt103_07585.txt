@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240621BARCDEFFXXXXXXXN}{3:{121:9d5b6612-a06c-43f0-9e00-fd1b1dc6b87a}}{4:
+:20:REF-93693
+:23B:CRED
+:32A:240621AUD136509.00
+:50K:/OC4426813
+King-Reeves
+11841 Anderson Park Spencerberg, AR 19378
+:57A:BARCDEFFXXX
+:59:/BEN88488917554206
+Jordan, Collins and Lambert
+2356 Ronnie Highway Suite 988 Bennettfurt, MP 43483
+:70:INV D6FDC4717CB6 Establish try blue recent back character same.
+:71A:OUR
+-}{5:{CHK:c56d4caada}}

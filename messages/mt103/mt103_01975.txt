@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240803CHASUS33XXXXXXXN}{3:{121:d741537c-eac4-4ebf-bbb1-c649e1276367}}{4:
+:20:REF-66319
+:23B:CRED
+:32A:240803CNY32168100.00
+:50K:/OC6925083
+Walker-Stewart
+2202 Bailey Stravenue New Keithton, FM 44551
+:57A:CHASUS33XXX
+:59:/BEN76204320814717
+Peters, Oliver and Crawford
+7129 Simmons Glens Apt. 285 South Trevorland, GU 28497
+:70:INV 47D5B07336BD Through seek effect name strong executive.
+:71A:OUR
+-}{5:{CHK:5a3d653e1d}}

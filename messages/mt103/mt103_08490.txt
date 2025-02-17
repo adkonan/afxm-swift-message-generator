@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250120CRESIT2LXXXXXXXN}{3:{121:b6980c14-259d-408a-b675-edfaf7fffacf}}{4:
+:20:REF-55226
+:23B:CRED
+:32A:250120EUR177789.00
+:50K:/OC4647897
+Stevens-Scott
+70510 Manuel Mountains North Christina, NE 04542
+:57A:CRESIT2LXXX
+:59:/BEN31546465289373
+Jackson, Williams and Simmons
+205 Russell Parkway Jenniferfort, CT 13515
+:70:INV B0EEA1153FD4 Exist fire various wait guy.
+:71A:OUR
+-}{5:{CHK:618e7cbe24}}

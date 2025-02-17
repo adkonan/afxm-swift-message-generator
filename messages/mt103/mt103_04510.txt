@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240513MIZUJPJTXXXXXXXN}{3:{121:9a17c224-b0f7-423e-a078-907ccd1762fb}}{4:
+:20:REF-50041
+:23B:CRED
+:32A:240513EUR27817800.00
+:50K:/OC2110362
+Crawford, Valdez and Murphy
+618 Smith Roads New Omar, DE 05538
+:57A:MIZUJPJTXXX
+:59:/BEN89198176085253
+Stark LLC
+44599 Alvarado Spurs Johnfort, IA 65123
+:70:INV F7F8A5F15C78 Myself western option strategy avoid produce significant member.
+:71A:OUR
+-}{5:{CHK:446bee5567}}

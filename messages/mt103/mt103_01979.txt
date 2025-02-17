@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240401BARCDEFFXXXXXXXN}{3:{121:493d50f9-04df-4120-8949-78dc6905b35b}}{4:
+:20:REF-55219
+:23B:CRED
+:32A:240401SGD131019.00
+:50K:/OC9190915
+Davis, Hudson and Nelson
+04344 Whitaker Street Abbottmouth, NJ 73278
+:57A:BARCDEFFXXX
+:59:/BEN53868667408329
+Martinez and Sons
+557 Allen Islands Apt. 899 South Bradshire, MO 32362
+:70:INV B102A0199986 A while party positive might several next.
+:71A:OUR
+-}{5:{CHK:edb4ceabdf}}

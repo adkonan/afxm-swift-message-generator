@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103241112KFWDEFFXXXXXXXN}{3:{121:98d3f136-1366-4460-8135-fdd6af74eb1a}}{4:
+:20:REF-64007
+:23B:CRED
+:32A:241112GBP111588.00
+:50K:/OC9999704
+Ball, Ruiz and Jenkins
+91695 Spears Manors Apt. 651 North Rebeccaside, MA 96604
+:57A:KFWDEFFXXX
+:59:/BEN10035179202165
+Williams Group
+50475 Jackson Ford North Keithburgh, KY 30866
+:70:INV 86DFF35FA708 Million range religious small tax media out.
+:71A:OUR
+-}{5:{CHK:953a94d44c}}

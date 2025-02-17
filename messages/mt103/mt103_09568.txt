@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241220BARCDEFFXXXXXXXN}{3:{121:d33792fb-2f68-4981-9f12-8410fc9be1df}}{4:
+:20:REF-34686
+:23B:CRED
+:32A:241220KPW269010.00
+:50K:/OC8791566
+Smith, Peterson and Wiggins
+0712 Williams Parkway South Jennifer, ND 35407
+:57A:BARCDEFFXXX
+:59:/BEN38749317497843
+Perez Ltd
+8004 Madison Court Suite 220 Lake Bradleyhaven, VI 78410
+:70:INV 5DC97BFD7B3D Director hundred similar rate cost.
+:71A:OUR
+-}{5:{CHK:3dccc067ec}}

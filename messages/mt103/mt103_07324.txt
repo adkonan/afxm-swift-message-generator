@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240520GTBINGLAXXXXXXXN}{3:{121:bbd1d559-1c57-486f-bb95-d74a8f841e57}}{4:
+:20:REF-81870
+:23B:CRED
+:32A:240520CNY172987.00
+:50K:/OC2938063
+Johnson, Dominguez and Davis
+533 Jones Creek Suite 753 Martinezbury, VI 41395
+:57A:GTBINGLAXXX
+:59:/BEN13993836885306
+Stewart-Price
+591 Jacqueline Mission Gutierrezport, WY 83743
+:70:INV 17017FF6C826 Laugh us bag customer loss reach range discussion.
+:71A:OUR
+-}{5:{CHK:6cde673b2f}}

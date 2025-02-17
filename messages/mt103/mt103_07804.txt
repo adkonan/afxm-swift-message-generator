@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240410BKBKPHMMXXXXXXXN}{3:{121:557d2a24-63af-469a-9ac7-5ea0b51e55d1}}{4:
+:20:REF-16912
+:23B:CRED
+:32A:240410EUR203585.00
+:50K:/OC1994800
+Blackwell-Gonzalez
+054 Cuevas Passage Apt. 817 Dixonport, PA 21495
+:57A:BKBKPHMMXXX
+:59:/BEN82337238475222
+White, Gonzales and Gonzalez
+93678 William Village Huberchester, WV 88891
+:70:INV 0284DE6DC8F6 Six upon television language very southern.
+:71A:OUR
+-}{5:{CHK:ea410471fb}}

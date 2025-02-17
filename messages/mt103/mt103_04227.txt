@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240527BARCDEFFXXXXXXXN}{3:{121:366ddfd0-abf9-401a-bf34-7dc295985dae}}{4:
+:20:REF-41700
+:23B:CRED
+:32A:240527GBP64829.00
+:50K:/OC4464881
+Larson, Aguilar and Floyd
+30928 Williams Ridge Apt. 688 Lake Ronnieshire, VT 45846
+:57A:BARCDEFFXXX
+:59:/BEN96005225045900
+Black-Chung
+000 Richardson Hill Suite 365 South Kennethmouth, WI 92101
+:70:INV E0715CB1F411 Win well low he try event.
+:71A:OUR
+-}{5:{CHK:8842dc2d46}}

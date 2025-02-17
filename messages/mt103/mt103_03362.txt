@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240416SCBLGB2LXXXXXXXN}{3:{121:e0da4ce4-1b2a-4e0b-ab06-be0183b65324}}{4:
+:20:REF-36623
+:23B:CRED
+:32A:240416JPY2817240.00
+:50K:/OC6965304
+Adams, Williams and Rodriguez
+9865 Lee Mews Apt. 579 South Jamesstad, CO 85922
+:57A:SCBLGB2LXXX
+:59:/BEN14456091580470
+Johnson and Sons
+260 Jonathan Trail West Heather, OH 72335
+:70:INV E769C078331A Member although Congress picture assume let.
+:71A:OUR
+-}{5:{CHK:d78de47903}}

@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240711BNPAGB22XXXXXXXN}{3:{121:9be58026-2d62-4dfa-a1e0-e1c1d4634386}}{4:
+:20:REF-20596
+:23B:CRED
+:32A:240711SGD2690520.00
+:50K:/OC4254476
+Davis and Sons
+883 Good Mission Suite 223 North Debra, MP 04545
+:57A:BNPAGB22XXX
+:59:/BEN20311779572793
+Contreras-Salinas
+01712 Sharon Extension Baileyville, ND 45792
+:70:INV 46C0B30FFBEE Financial court method federal usually miss behind.
+:71A:OUR
+-}{5:{CHK:69b1e33ad3}}

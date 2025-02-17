@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103250125STANGB2LXXXXXXXN}{3:{121:709ba96b-565b-4ae8-b12d-46b828d46b07}}{4:
+:20:REF-58829
+:23B:CRED
+:32A:250125GBP183483.00
+:50K:/OC3943433
+Wilson, Avery and Smith
+90391 Samuel Bridge Suite 149 Blankenshipchester, LA 35108
+:57A:STANGB2LXXX
+:59:/BEN60036139331659
+Taylor, Chavez and Vega
+4660 Anthony Village Johnsonport, IL 81124
+:70:INV FC22313F3164 Opportunity oil very member free man suggest.
+:71A:OUR
+-}{5:{CHK:07643eb4e3}}

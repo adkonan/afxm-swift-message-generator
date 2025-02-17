@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250214ICBKCNBJXXXXXXXN}{3:{121:c96585ed-0ed2-47ac-a3e6-1a72592b465a}}{4:
+:20:REF-79487
+:23B:CRED
+:32A:250214GBP106244.00
+:50K:/OC8710834
+Perkins-Adams
+758 Mccarthy Unions Stephenfort, KY 28902
+:57A:ICBKCNBJXXX
+:59:/BEN64972814631524
+Potter, Rodriguez and Morris
+27925 Tyler Place Suite 356 Martinezfort, FM 44604
+:70:INV 122D08699CAD Huge box surface increase population prove.
+:71A:OUR
+-}{5:{CHK:98b3bcb5d4}}

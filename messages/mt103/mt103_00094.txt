@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240907ECOCCIBAXXXXXXXN}{3:{121:06c2aeba-1543-41c1-afb2-d1701a9a4a9a}}{4:
+:20:REF-47977
+:23B:CRED
+:32A:240907CNY352373.00
+:50K:/OC5957736
+Navarro, Garcia and Juarez
+871 Taylor Square West Rick, NC 87020
+:57A:ECOCCIBAXXX
+:59:/BEN51078611176833
+Barrett, Knight and Perez
+0248 Mills Parkway Suite 482 Andreaport, AL 05100
+:70:INV A7BE0B4C711B Another not play movie begin out bill.
+:71A:OUR
+-}{5:{CHK:3c00593224}}

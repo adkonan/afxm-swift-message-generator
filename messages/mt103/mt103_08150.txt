@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240616BICIBFBFXXXXXXXN}{3:{121:51dad51b-bcf3-4ffa-89c6-1b2b7b7b76cb}}{4:
+:20:REF-57074
+:23B:CRED
+:32A:240616EUR178044.00
+:50K:/OC9976309
+Ingram, Collins and Browning
+11763 Odonnell Tunnel Apt. 452 East Donaldfort, NV 57250
+:57A:BICIBFBFXXX
+:59:/BEN21637122956949
+Valenzuela Group
+495 Ayers Island South Michaelbury, ND 13051
+:70:INV 0E1682BE86ED Area TV edge take leave piece material.
+:71A:OUR
+-}{5:{CHK:9bab306b1b}}

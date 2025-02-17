@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241231UBSWRIT2XXXXXXXN}{3:{121:0688287d-5993-430e-aed4-f29c65c27d22}}{4:
+:20:REF-39898
+:23B:CRED
+:32A:241231AUD7359000.00
+:50K:/OC3345178
+Johnston, Zimmerman and Lane
+632 Micheal Ferry Suite 864 Juarezmouth, WV 71826
+:57A:UBSWRIT2XXX
+:59:/BEN68909170265971
+Caldwell-Brown
+7064 Martinez Points Doyleview, AL 08872
+:70:INV A8B84EE75C71 Social will we child read treat draw.
+:71A:OUR
+-}{5:{CHK:4c7f0ddfbb}}

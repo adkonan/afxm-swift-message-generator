@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241027ICBKCNBJXXXXXXXN}{3:{121:a9b99b1f-6157-4096-9ece-52f4552def7b}}{4:
+:20:REF-48906
+:23B:CRED
+:32A:241027CHF485049.00
+:50K:/OC8025734
+Simpson Inc
+092 Thompson Village Jenniferland, DE 63221
+:57A:ICBKCNBJXXX
+:59:/BEN83270470087375
+Rodriguez LLC
+5104 Lisa Valleys South Phillip, MP 53132
+:70:INV 8C17CFC62025 Resource always individual television imagine history cup person.
+:71A:OUR
+-}{5:{CHK:07a7e72175}}

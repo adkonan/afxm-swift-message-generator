@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240702NATXFRPPXXXXXXXN}{3:{121:7336a42c-19e4-44b2-9a9e-b3cef9501a58}}{4:
+:20:REF-80708
+:23B:CRED
+:32A:240702EUR427618.00
+:50K:/OC6718001
+Young, Phillips and Warren
+153 Phillips Mission Apt. 196 West Aaron, IA 81549
+:57A:NATXFRPPXXX
+:59:/BEN59142929160337
+Foster LLC
+8128 Debbie Corners Apt. 938 Teresaport, SD 22094
+:70:INV 39980E75C4E3 Born society budget affect political another.
+:71A:OUR
+-}{5:{CHK:f96ec0fb6c}}

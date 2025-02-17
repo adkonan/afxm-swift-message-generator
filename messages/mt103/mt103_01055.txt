@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241002BNPAFRPPXXXXXXXN}{3:{121:ffd9e3b9-64bb-4aee-a30b-8c7361c65f1d}}{4:
+:20:REF-29423
+:23B:CRED
+:32A:241002GBP230385.00
+:50K:/OC3050959
+Williams, Gonzalez and Henderson
+4098 Carolyn Dale Apt. 159 Baileyhaven, AR 97387
+:57A:BNPAFRPPXXX
+:59:/BEN98620338805953
+Thomas PLC
+3723 Mary Road East Joseph, NH 07760
+:70:INV 1DD9021FAA7A Agree central rich room chair describe.
+:71A:OUR
+-}{5:{CHK:eeb8e65e73}}

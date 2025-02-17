@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240918BNPAFRPPXXXXXXXN}{3:{121:50cd96c6-4b41-4f6b-844e-139e6abc9834}}{4:
+:20:REF-15294
+:23B:CRED
+:32A:240918USD433131.00
+:50K:/OC3581887
+Carpenter, Smith and Conrad
+7992 Elizabeth Glen Apt. 236 South Ralph, MP 17522
+:57A:BNPAFRPPXXX
+:59:/BEN73003107292616
+Anthony, Chavez and Torres
+09197 James Plains Suite 462 South Thomasview, CT 13248
+:70:INV 40A704541DD5 Laugh modern write condition yet.
+:71A:OUR
+-}{5:{CHK:8d07399a5d}}

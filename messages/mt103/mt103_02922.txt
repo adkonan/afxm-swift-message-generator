@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241109CRESCHZZXXXXXXXN}{3:{121:a2922ff4-7911-4d1e-9578-70cac080c0ed}}{4:
+:20:REF-48452
+:23B:CRED
+:32A:241109AUD103747.00
+:50K:/OC9830667
+Gray, Robertson and Bauer
+7008 Tyler Spurs Smithport, ID 94868
+:57A:CRESCHZZXXX
+:59:/BEN51543506009701
+Smith LLC
+132 Kevin Mountain Suite 662 Lake Jenniferborough, WI 60540
+:70:INV 4593EA791ECB Affect necessary especially far whole argue natural.
+:71A:OUR
+-}{5:{CHK:448a24952f}}

@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240515FIRNZAJJXXXXXXXN}{3:{121:aebdee30-731a-4c55-9072-c34d8ea5566f}}{4:
+:20:REF-37612
+:23B:CRED
+:32A:240515CHF86601.00
+:50K:/OC1262930
+Brown Ltd
+650 Soto Station Lewisbury, LA 29187
+:57A:FIRNZAJJXXX
+:59:/BEN26896133112164
+Barrett, Evans and Martinez
+2478 Trujillo Unions Apt. 424 West Kimberly, MA 77042
+:70:INV D390F305AF99 Development organization wait performance chance shake star.
+:71A:OUR
+-}{5:{CHK:a195b9eb19}}

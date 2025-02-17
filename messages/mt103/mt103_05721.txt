@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240818BBVAESMMXXXXXXXN}{3:{121:8cad578d-0dff-4c8c-b913-78c5e494b5f8}}{4:
+:20:REF-27759
+:23B:CRED
+:32A:240818CAD1475.00
+:50K:/OC4767392
+Bennett, Forbes and Rivas
+088 King Vista Suite 687 Johnport, TN 08488
+:57A:BBVAESMMXXX
+:59:/BEN46281549264716
+Casey, Fletcher and Adams
+512 Molina Mill Suite 407 Robertsonfurt, HI 36695
+:70:INV 4EC9339877CE Congress anyone plan art exactly seek.
+:71A:OUR
+-}{5:{CHK:dd7d98341d}}

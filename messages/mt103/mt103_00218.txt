@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240428UOBVSGSGXXXXXXXN}{3:{121:278fae1c-ba6f-4ec4-94c4-24c1a908cc0a}}{4:
+:20:REF-22307
+:23B:CRED
+:32A:240428JPY29511.00
+:50K:/OC2672718
+Harris, Davis and Davis
+698 Steven Circle East Kelli, WV 61591
+:57A:UOBVSGSGXXX
+:59:/BEN45164211576570
+Bates, Henderson and Bailey
+894 Valenzuela Viaduct Suite 890 South Jonathan, UT 34730
+:70:INV A34C38EC063A Learn language table respond him skill husband.
+:71A:OUR
+-}{5:{CHK:39ae77bad8}}

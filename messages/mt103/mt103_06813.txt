@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240404BCAOAOAOXXXXXXXN}{3:{121:90295c02-ff37-4ceb-8a22-afbe31716059}}{4:
+:20:REF-86301
+:23B:CRED
+:32A:240404GBP16075000.00
+:50K:/OC9828821
+Obrien, Brown and Rasmussen
+65835 Thomas Burg East Melissaside, ND 06505
+:57A:BCAOAOAOXXX
+:59:/BEN11250689072155
+Meza, Peterson and Fox
+62968 Cynthia Prairie Apt. 782 South Benjaminview, KY 86678
+:70:INV 83A1504DDE57 Measure door doctor necessary discover away enter perform.
+:71A:OUR
+-}{5:{CHK:ad942dc453}}

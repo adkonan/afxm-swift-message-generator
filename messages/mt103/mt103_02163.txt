@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240518SMBCJPJTXXXXXXXN}{3:{121:96994ead-1a94-4ba0-90de-05f5bf8bfcba}}{4:
+:20:REF-42510
+:23B:CRED
+:32A:240518EUR261411.00
+:50K:/OC7814586
+Campbell, Valdez and Robbins
+189 Gallegos Pass Apt. 993 West Anthony, PW 22525
+:57A:SMBCJPJTXXX
+:59:/BEN52208391836925
+Willis-Rodriguez
+3894 Parker Crossing Jennifermouth, VT 12844
+:70:INV 81AA6BC1AD84 Impact candidate head lot.
+:71A:OUR
+-}{5:{CHK:dbe33c7d60}}

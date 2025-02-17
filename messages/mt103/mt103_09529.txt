@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103241015SOGEFRPPXXXXXXXN}{3:{121:52762e10-b145-48cd-8159-8227ba27258b}}{4:
+:20:REF-44457
+:23B:CRED
+:32A:241015CAD212513.00
+:50K:/OC6131919
+Martin-Gomez
+0137 Thomas Stravenue Bakerbury, VA 13227
+:57A:SOGEFRPPXXX
+:59:/BEN87498632167005
+Hobbs-Harrington
+991 Ford Brook Lake Katelynview, DE 11676
+:70:INV 1DF7039B16C9 Believe physical attack weight successful game author third.
+:71A:OUR
+-}{5:{CHK:bcef99c2ff}}

@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103250204BNPPIT2LXXXXXXXN}{3:{121:2cbd2172-83ac-4cd4-ab3e-debcd0672fb5}}{4:
+:20:REF-85235
+:23B:CRED
+:32A:250204GBP110955.00
+:50K:/OC6080215
+Walker, Gillespie and Moon
+507 Parker Pine Lowechester, AR 54217
+:57A:BNPPIT2LXXX
+:59:/BEN59869017146880
+Dennis, Phillips and Baldwin
+6030 Tina Terrace Apt. 991 Racheltown, NM 02559
+:70:INV E4F0D92D350B Candidate like under lay lawyer call job.
+:71A:OUR
+-}{5:{CHK:f0a31e143a}}

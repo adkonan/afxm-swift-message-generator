@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103250108UBSWCHZHXXXXXXXN}{3:{121:65d643c9-ef57-4b33-958d-cb24fbe65c2a}}{4:
+:20:REF-69530
+:23B:CRED
+:32A:250108CAD307178.00
+:50K:/OC4177657
+Richardson-Rhodes
+97453 Katherine Ports Apt. 766 Harringtonside, OK 62988
+:57A:UBSWCHZHXXX
+:59:/BEN81327209224333
+Foster, Mullins and Shaw
+242 Jones Common Port Rachaelburgh, OH 36682
+:70:INV E4635EA4D274 Where prevent across work time imagine because join.
+:71A:OUR
+-}{5:{CHK:b57a18415c}}

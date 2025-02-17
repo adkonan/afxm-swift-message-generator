@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241026CITIUS33XXXXXXXN}{3:{121:18f70ad4-ed5c-4075-a4be-7c262055a623}}{4:
+:20:REF-43035
+:23B:CRED
+:32A:241026CHF308581.00
+:50K:/OC6314196
+Ray-Allen
+2648 Butler Junction Apt. 666 West Jameston, WY 89480
+:57A:CITIUS33XXX
+:59:/BEN23597803816321
+Christensen-Melendez
+180 Jesse Plaza East Amandaborough, PA 23620
+:70:INV 5904DCCD8739 Training instead watch author those player listen.
+:71A:OUR
+-}{5:{CHK:b359f068c6}}

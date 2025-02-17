@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240514ECOCMLABXXXXXXXN}{3:{121:fd33af94-2d6e-43da-9627-b6dd6fd2f622}}{4:
+:20:REF-82530
+:23B:CRED
+:32A:240514EUR492751.00
+:50K:/OC8047015
+Pugh, Aguilar and Howard
+41459 Nancy Mission Apt. 191 Paigemouth, PR 97644
+:57A:ECOCMLABXXX
+:59:/BEN88457897899496
+Wilson Inc
+094 Nguyen Knoll Suite 830 Doylefort, RI 20741
+:70:INV B33128165E47 Newspaper window defense various force set sometimes color.
+:71A:OUR
+-}{5:{CHK:0a99b823b4}}

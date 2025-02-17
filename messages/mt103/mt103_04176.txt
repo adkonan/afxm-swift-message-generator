@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103250209OCBCSGSGXXXXXXXN}{3:{121:0d291a7e-60e5-4135-84ef-b2c11ccf83cf}}{4:
+:20:REF-97135
+:23B:CRED
+:32A:250209EUR270721.00
+:50K:/OC6204338
+Boyle-Perez
+008 Erin Freeway West Carla, KS 80331
+:57A:OCBCSGSGXXX
+:59:/BEN50249836790848
+Zimmerman, Jones and Jefferson
+668 Sonya Square Apt. 466 East Matthew, VA 47861
+:70:INV F47ACCD135F2 Letter early almost maintain could trade among.
+:71A:OUR
+-}{5:{CHK:7c7b381bac}}

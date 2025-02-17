@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240616UOBVSGSGXXXXXXXN}{3:{121:377811bd-5ed0-4fcf-a398-9fe43497ace3}}{4:
+:20:REF-69152
+:23B:CRED
+:32A:240616CAD4112.00
+:50K:/OC4210451
+Ramos, Rodriguez and Johnson
+0331 Joanne Greens Suite 111 Coleport, AZ 21753
+:57A:UOBVSGSGXXX
+:59:/BEN99457406340824
+Fowler, Wells and Castro
+861 Mary Courts Apt. 156 Nicoleton, WI 34604
+:70:INV 181E2175796C Education difference everything small floor question at.
+:71A:OUR
+-}{5:{CHK:25417235d3}}

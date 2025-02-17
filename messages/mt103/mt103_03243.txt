@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240329BNPPIT2LXXXXXXXN}{3:{121:779c9c55-46e1-410c-bb31-e2ad70b2fc21}}{4:
+:20:REF-88206
+:23B:CRED
+:32A:240329JPY406441.00
+:50K:/OC3405248
+Butler-Stuart
+082 Mann Ridges Rogerland, LA 96322
+:57A:BNPPIT2LXXX
+:59:/BEN89250411754747
+Randall, Hardy and Rodriguez
+000 Joshua Station Chambersfurt, OK 21126
+:70:INV 19D5280C9829 But paper identify care firm company east.
+:71A:OUR
+-}{5:{CHK:023f7b38f6}}

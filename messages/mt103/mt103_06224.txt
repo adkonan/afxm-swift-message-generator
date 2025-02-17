@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240820ABSAZAJJXXXXXXXN}{3:{121:3d4f739d-0dc6-4f1a-be8c-bd0fa2c9a639}}{4:
+:20:REF-21258
+:23B:CRED
+:32A:240820AUD287863.00
+:50K:/OC2993327
+Williams-Salazar
+123 Aguilar Fork Apt. 580 New Kristenfort, VT 04311
+:57A:ABSAZAJJXXX
+:59:/BEN18225057654315
+Yoder-Richardson
+555 Smith Vista Apt. 737 Dalemouth, VI 19095
+:70:INV 49ABB0305D6E Special pass Mr believe section lose company.
+:71A:OUR
+-}{5:{CHK:fe7c5ab1c5}}

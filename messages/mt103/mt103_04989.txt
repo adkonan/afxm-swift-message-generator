@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240327DEUTDEFFXXXXXXXN}{3:{121:940716ba-c1a3-4db4-9460-f35e07a681d4}}{4:
+:20:REF-83414
+:23B:CRED
+:32A:240327SGD282954.00
+:50K:/OC6337340
+Rogers Inc
+73930 Lucas Stream Suite 043 Diazmouth, NE 94886
+:57A:DEUTDEFFXXX
+:59:/BEN47192397275250
+Sandoval-Smith
+394 Jonathan Forge Lake Samanthaland, AS 53850
+:70:INV 3E4FAA989C2A Today team they difference out table stand traditional.
+:71A:OUR
+-}{5:{CHK:a74dc9cb01}}

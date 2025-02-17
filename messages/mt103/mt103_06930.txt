@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240712ECOCGHANXXXXXXXN}{3:{121:b7405e28-a130-416f-9488-c6e8a76be302}}{4:
+:20:REF-60112
+:23B:CRED
+:32A:240712CNY274710.00
+:50K:/OC8133854
+Smith-Jones
+2609 Samantha Union Suite 393 Port Heatherland, CO 16981
+:57A:ECOCGHANXXX
+:59:/BEN34507736700902
+Austin, Owens and Griffin
+1972 Smith Stravenue North Brent, IL 43351
+:70:INV 7585D5F50CC9 Item million wish direction box career newspaper.
+:71A:OUR
+-}{5:{CHK:44e8f54346}}

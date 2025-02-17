@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241123DBSAZAJJXXXXXXXN}{3:{121:c2637650-2337-499c-9bf8-4b9bc8ebd021}}{4:
+:20:REF-19957
+:23B:CRED
+:32A:241123AUD92682.00
+:50K:/OC8579213
+Terrell, Rogers and Randolph
+4842 Hobbs Mission Suite 030 Mcculloughborough, MH 03640
+:57A:DBSAZAJJXXX
+:59:/BEN10481230866380
+Vega Group
+06727 Rebekah Plain Suite 932 Pughburgh, GA 67750
+:70:INV B0BD05A45346 President teacher dog agency performance expect serious.
+:71A:OUR
+-}{5:{CHK:ae109f2cf3}}

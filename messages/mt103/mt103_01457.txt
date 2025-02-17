@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103250106BARCGB22XXXXXXXN}{3:{121:315d3059-8fe2-4eb0-941d-79f2f954fd61}}{4:
+:20:REF-29583
+:23B:CRED
+:32A:250106GBP144005.00
+:50K:/OC5297620
+Conley, Miller and David
+244 Harding Heights South Michelleberg, VA 28039
+:57A:BARCGB22XXX
+:59:/BEN40838622609663
+Blackwell-Smith
+38805 Dylan Summit Apt. 643 Ryanland, HI 47947
+:70:INV 0D9CD298935E Room already one animal western threat political.
+:71A:OUR
+-}{5:{CHK:5cdb417049}}

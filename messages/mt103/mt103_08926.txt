@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240728BFSWUS33XXXXXXXN}{3:{121:0bc9ee31-538a-4c1b-a2ce-8bbed5233f69}}{4:
+:20:REF-72283
+:23B:CRED
+:32A:240728CHF307647.00
+:50K:/OC1720894
+Arnold, Morrison and Smith
+1184 Matthew Summit Apt. 183 Whiteville, OH 42718
+:57A:BFSWUS33XXX
+:59:/BEN68995208977774
+Butler-Lopez
+525 Russell Rapid Apt. 049 Palmerstad, KS 40744
+:70:INV F92DDFF28143 Leave task mean prove responsibility.
+:71A:OUR
+-}{5:{CHK:31d5ea1691}}

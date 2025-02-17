@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240311FCMBNGLAXXXXXXXN}{3:{121:749aface-6564-4ff7-8859-2aaa783ae164}}{4:
+:20:REF-45423
+:23B:CRED
+:32A:240311CAD185378.00
+:50K:/OC4560367
+Valdez and Sons
+491 Johnson Walk Suite 804 New Jesse, MS 52474
+:57A:FCMBNGLAXXX
+:59:/BEN10559555762720
+Hopkins and Sons
+540 Hill Stream Apt. 331 Port Matthewmouth, WI 81778
+:70:INV 4C1017CF0C1C Personal industry here life mouth such necessary.
+:71A:OUR
+-}{5:{CHK:f84f9ce4a6}}

@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240818UBSWRIT2XXXXXXXN}{3:{121:02b0ffbd-b632-4d40-a3bb-faff12d51ac3}}{4:
+:20:REF-21153
+:23B:CRED
+:32A:240818SGD4970270.00
+:50K:/OC4034081
+Smith, Owens and Rogers
+319 Jenkins Centers West Timothyhaven, CO 90123
+:57A:UBSWRIT2XXX
+:59:/BEN95861286721934
+Anderson-Mcclain
+898 Chang Creek Apt. 068 Zavalaview, DC 77977
+:70:INV 55DDD7D79E2E Write training fact generation budget particular certain.
+:71A:OUR
+-}{5:{CHK:23b3a8f2ac}}

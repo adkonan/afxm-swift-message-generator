@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240911AFRIGHACXXXXXXXN}{3:{121:ca7307cf-8eea-4e07-a1df-49f5e891947e}}{4:
+:20:REF-67720
+:23B:CRED
+:32A:240911EUR472597.00
+:50K:/OC3626000
+Rojas-Little
+421 Patrick Stravenue Suite 724 Davidtown, PR 77409
+:57A:AFRIGHACXXX
+:59:/BEN42682143850957
+Davis, Moore and Wright
+512 John Lakes Suite 779 Lake Jessica, AS 84883
+:70:INV 5547BDCD2AEC She suffer test picture benefit media painting part.
+:71A:OUR
+-}{5:{CHK:396b8aafd4}}

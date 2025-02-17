@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103241109UBSWCHZHXXXXXXXN}{3:{121:15fec432-2324-47d0-9964-87e9712d31f3}}{4:
+:20:REF-42422
+:23B:CRED
+:32A:241109IRR354716.00
+:50K:/OC3035055
+Carter, Strickland and Ferrell
+422 Jasmine Divide Wintersstad, ME 84490
+:57A:UBSWCHZHXXX
+:59:/BEN13078393267099
+Miller, Anderson and Nguyen
+6416 Cheryl Station Suite 213 Troymouth, KY 96987
+:70:INV BAE77035165D Reflect one like government student coach.
+:71A:OUR
+-}{5:{CHK:43a40e36a5}}

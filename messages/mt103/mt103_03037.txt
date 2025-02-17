@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240809BARCGB22XXXXXXXN}{3:{121:37d55d3a-bc6b-446e-9bce-5b5ac4f31af6}}{4:
+:20:REF-82244
+:23B:CRED
+:32A:240809EUR49992.00
+:50K:/OC1115187
+Stevens, Jennings and Lewis
+476 Garcia Street Suite 417 East Charles, RI 06006
+:57A:BARCGB22XXX
+:59:/BEN42519649142636
+Thomas-Vargas
+2415 Ellison Manors Suite 321 New Francesport, TX 12185
+:70:INV 145E12B59BDB Catch message particular cover question.
+:71A:OUR
+-}{5:{CHK:bcbe2012b7}}

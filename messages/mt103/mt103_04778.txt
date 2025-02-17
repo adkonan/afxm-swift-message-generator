@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240812UOBVSGSGXXXXXXXN}{3:{121:72decec0-80a6-4b94-9d45-e84f4e7ac9e3}}{4:
+:20:REF-29495
+:23B:CRED
+:32A:240812JPY233296.00
+:50K:/OC8405255
+Lawson Group
+5843 Jose Well New James, OH 86357
+:57A:UOBVSGSGXXX
+:59:/BEN90749852562792
+Ross, Thompson and Young
+004 Peterson Burg East Stacyton, KS 57626
+:70:INV 4D15A5CC10D8 Check affect agency interview hope family animal.
+:71A:OUR
+-}{5:{CHK:13dc0d35cb}}

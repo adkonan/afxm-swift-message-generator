@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240911DEUTDEFFXXXXXXXN}{3:{121:9ba9ff5b-c0c8-4121-b8ab-7859cb092d9b}}{4:
+:20:REF-60770
+:23B:CRED
+:32A:240911USD245870.00
+:50K:/OC8852004
+Morrow, Johnson and Ryan
+5675 Nicholson Circles Valenzuelaview, ID 37574
+:57A:DEUTDEFFXXX
+:59:/BEN59286171174673
+Thomas and Sons
+7018 Jane Avenue Apt. 262 West Meganport, AZ 29311
+:70:INV ABA0703C5EC3 Chance public military sure body true country.
+:71A:OUR
+-}{5:{CHK:7cf2dd52d1}}

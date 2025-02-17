@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240615BNPAGB22XXXXXXXN}{3:{121:9477638c-befd-4e06-908b-74ebeeca0397}}{4:
+:20:REF-37765
+:23B:CRED
+:32A:240615SGD1626380.00
+:50K:/OC2806895
+Roach-Ballard
+8495 Michelle Lock Suite 750 South Shawnhaven, ME 12189
+:57A:BNPAGB22XXX
+:59:/BEN20153532608362
+Garcia-Santos
+2157 Rogers Glen Barkerton, MN 19284
+:70:INV 7042B886F684 Instead approach remember single lay create improve.
+:71A:OUR
+-}{5:{CHK:0a05c3cca1}}

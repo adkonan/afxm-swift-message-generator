@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241106ABSAZAJJXXXXXXXN}{3:{121:67f3ff46-6f31-4a30-ab83-6f1cb3c6f17d}}{4:
+:20:REF-87827
+:23B:CRED
+:32A:241106EUR385136.00
+:50K:/OC5142043
+Taylor-Schmitt
+29450 Garcia Shoals Suite 568 Casefort, OK 80325
+:57A:ABSAZAJJXXX
+:59:/BEN19713170952237
+Stone, Anderson and Kennedy
+823 Anthony Village Apt. 425 Sydneybury, WA 22085
+:70:INV 263561806C74 Eye player relationship anyone report research.
+:71A:OUR
+-}{5:{CHK:82de199511}}

@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240815STANKEKEXXXXXXXN}{3:{121:cf955044-b41c-4889-a67c-92bcaf6bf019}}{4:
+:20:REF-81943
+:23B:CRED
+:32A:240815CNY342287.00
+:50K:/OC9708419
+Anderson PLC
+44031 Martinez Rue Apt. 860 West Robinborough, AK 73722
+:57A:STANKEKEXXX
+:59:/BEN78245508382394
+Simmons, Spencer and Krause
+77655 Christina Mission Apt. 736 South Alexisport, PR 80616
+:70:INV 5E7EB36DF429 Rule purpose send group throughout light source.
+:71A:OUR
+-}{5:{CHK:8136a26903}}

@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103241026BKBKPHMMXXXXXXXN}{3:{121:6fea1897-e43b-456a-8431-2521c2ef6ab4}}{4:
+:20:REF-73653
+:23B:CRED
+:32A:241026USD4653.38
+:50K:/OC1122212
+Williamson, Deleon and Foster
+589 James Coves Suite 941 South Richardport, MO 83136
+:57A:BKBKPHMMXXX
+:59:/BEN50594477498375
+Hunt, Lyons and Calderon
+355 Rogers Views Cooperside, OR 85678
+:70:INV 942D94CBF51D Education peace want career character cause.
+:71A:OUR
+-}{5:{CHK:bd31566c14}}

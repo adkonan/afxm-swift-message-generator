@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241111NEDSZAJJXXXXXXXN}{3:{121:90c0dd98-2447-4f13-bf24-2dc83fb3993c}}{4:
+:20:REF-52580
+:23B:CRED
+:32A:241111JPY4329800.00
+:50K:/OC6493713
+Santos-Smith
+9838 Arias Corner Georgeport, GA 63174
+:57A:NEDSZAJJXXX
+:59:/BEN53013220178725
+Wilson-Cole
+6764 Alyssa Parkways Apt. 689 Jimenezbury, VA 77652
+:70:INV DCE450602B8B Tell throughout raise sense commercial customer appear purpose.
+:71A:OUR
+-}{5:{CHK:3be9d0ae27}}

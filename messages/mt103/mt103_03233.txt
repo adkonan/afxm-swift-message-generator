@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240911BMCECMRXXXXXXXXN}{3:{121:5a2286e9-eb45-46dd-b280-5a856fb48fce}}{4:
+:20:REF-89726
+:23B:CRED
+:32A:240911SGD388795.00
+:50K:/OC6299635
+Richardson, Stewart and Jones
+573 Mckenzie Hills Valeriehaven, IN 60068
+:57A:BMCECMRXXXX
+:59:/BEN36448601831377
+Rios, Stafford and Perkins
+035 Anderson Street Kimberlyton, FM 57091
+:70:INV 9CD09D2E37D6 Big produce line machine.
+:71A:OUR
+-}{5:{CHK:085916b70e}}

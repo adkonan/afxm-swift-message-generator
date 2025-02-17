@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240504UBSWCHZHXXXXXXXN}{3:{121:9c4df8d4-dfb4-475f-889e-fe9041a2b78a}}{4:
+:20:REF-28026
+:23B:CRED
+:32A:240504CNY437005.00
+:50K:/OC6485528
+Mccoy PLC
+3947 Harrison Ferry South Joseph, TN 62633
+:57A:UBSWCHZHXXX
+:59:/BEN80013718004291
+Allen, Gonzales and Shields
+66572 Julia Hill Suite 667 North Justin, OK 95920
+:70:INV DD303845ABE5 Society machine once measure even discover off energy.
+:71A:OUR
+-}{5:{CHK:beed749f03}}

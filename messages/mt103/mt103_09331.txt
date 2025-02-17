@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240314CITIUS33XXXXXXXN}{3:{121:5fea3387-18fa-4d8d-b437-e42932b5ebcf}}{4:
+:20:REF-87625
+:23B:CRED
+:32A:240314SGD30689.00
+:50K:/OC1405971
+Freeman, Diaz and Alvarado
+29576 Chang Cape West Sarahfort, NH 27243
+:57A:CITIUS33XXX
+:59:/BEN82461440179418
+Richards Ltd
+6383 Hughes Stravenue Port Phylliston, CT 90058
+:70:INV 7ED28A127CF9 Ok different shoulder floor practice.
+:71A:OUR
+-}{5:{CHK:a8f9d64ff4}}

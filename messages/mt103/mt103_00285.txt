@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103250127CRESIT2LXXXXXXXN}{3:{121:91832b78-193e-4c30-8670-a7f9f8104266}}{4:
+:20:REF-29548
+:23B:CRED
+:32A:250127USD352620.00
+:50K:/OC6718242
+Davis, Turner and Rose
+6463 Kimberly Points Apt. 636 East Kennethberg, VA 33931
+:57A:CRESIT2LXXX
+:59:/BEN83090232840423
+Ford, Cobb and Brock
+66859 Ronald Mill Norrisside, MA 34320
+:70:INV 72C13CE3C369 Write reach professional difficult parent politics bring marriage.
+:71A:OUR
+-}{5:{CHK:70aceaba33}}

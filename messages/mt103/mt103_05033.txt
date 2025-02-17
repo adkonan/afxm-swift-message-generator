@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103241001BOJZBJZAXXXXXXXN}{3:{121:5ae6b01c-8cf2-4e2d-a1ca-f76b402957e2}}{4:
+:20:REF-66986
+:23B:CRED
+:32A:241001SGD176836.00
+:50K:/OC1605035
+Whitaker-Harris
+9934 Megan Island West Samantha, NH 28166
+:57A:BOJZBJZAXXX
+:59:/BEN31693401919916
+Ross-Johnson
+594 Garcia Causeway East Joshuabury, AL 34976
+:70:INV FE87B632CB8E Head parent side significant enter age food receive.
+:71A:OUR
+-}{5:{CHK:675217792e}}

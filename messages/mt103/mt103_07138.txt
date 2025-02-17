@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240218CIBCCATTXXXXXXXN}{3:{121:0dc16eb7-6ee3-4872-aa69-169a98a84c4d}}{4:
+:20:REF-30697
+:23B:CRED
+:32A:240218EUR4024970.00
+:50K:/OC8206648
+Clark and Sons
+35679 Holly Glen Apt. 177 Lorishire, AK 48271
+:57A:CIBCCATTXXX
+:59:/BEN36373513492624
+Yang, Nicholson and Wood
+65326 Wright Pines East Jennifer, FM 58130
+:70:INV 325234F4D868 Able realize prevent organization media difference lawyer.
+:71A:OUR
+-}{5:{CHK:d59391b5d1}}

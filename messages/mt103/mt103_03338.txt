@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240324BNPAFRPPXXXXXXXN}{3:{121:67faf3da-d6ca-4ebe-a582-584ab293834a}}{4:
+:20:REF-22513
+:23B:CRED
+:32A:240324GBP1005.66
+:50K:/OC7857566
+Tran, Le and Mccoy
+476 Amber Skyway North Jennifer, VT 35254
+:57A:BNPAFRPPXXX
+:59:/BEN21360034639987
+Combs-Wang
+2271 Patrick Alley Karenside, IL 41155
+:70:INV 18A818F27BE7 Understand speech suddenly certain watch which town.
+:71A:OUR
+-}{5:{CHK:529677393b}}

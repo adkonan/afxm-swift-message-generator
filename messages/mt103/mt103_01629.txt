@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240925DBSAZAJJXXXXXXXN}{3:{121:79f3fc91-b245-4b31-94e9-ac04d64517d9}}{4:
+:20:REF-13232
+:23B:CRED
+:32A:240925EUR207470.00
+:50K:/OC9263664
+Daniel, Dunn and Baker
+637 Matthews Prairie Suite 327 Melissaton, RI 32822
+:57A:DBSAZAJJXXX
+:59:/BEN81448688534365
+Gibson, Tran and Huff
+6606 Rick Port Suite 474 Jennaborough, CO 73347
+:70:INV 096DB759B196 Whatever feeling rock especially building yes operation side.
+:71A:OUR
+-}{5:{CHK:e1628dd840}}

@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241222SMBCJPJTXXXXXXXN}{3:{121:eee97750-dc45-4474-879d-cc1d9f23ccea}}{4:
+:20:REF-50782
+:23B:CRED
+:32A:241222CHF374235.00
+:50K:/OC1404515
+Roman, Smith and Carroll
+12249 Eric Valley Suite 363 New Terry, FL 87638
+:57A:SMBCJPJTXXX
+:59:/BEN73459587394936
+Gibson, Torres and Beltran
+32526 Gonzales Bypass Apt. 288 Dustinside, MA 54140
+:70:INV D0BC3BAD7D8E Available throw south than why source happy.
+:71A:OUR
+-}{5:{CHK:60c3a35a4c}}

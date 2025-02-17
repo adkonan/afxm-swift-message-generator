@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240430BBVAESMMXXXXXXXN}{3:{121:98fec5cd-3d3f-4095-a2ea-d2e7e427f991}}{4:
+:20:REF-45395
+:23B:CRED
+:32A:240430SGD39118100.00
+:50K:/OC5655929
+Williams, Robinson and Barajas
+732 Brown Way Suite 323 Lake Samantha, AZ 20681
+:57A:BBVAESMMXXX
+:59:/BEN79297890089170
+Petersen, Ayers and Fowler
+191 John Lock Apt. 294 East Bradleyhaven, HI 81374
+:70:INV 048C3EA25A14 Call family morning general price.
+:71A:OUR
+-}{5:{CHK:7ae8d2f525}}

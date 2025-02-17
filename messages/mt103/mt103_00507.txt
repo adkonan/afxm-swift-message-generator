@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103241003OCBCSGSGXXXXXXXN}{3:{121:203a9b30-ee87-4aa0-a345-cbf592eeec97}}{4:
+:20:REF-33179
+:23B:CRED
+:32A:241003CNY23399.00
+:50K:/OC5946967
+Lopez, Lozano and Mckinney
+8331 Flores Mission Apt. 351 North Jenniferborough, NJ 21141
+:57A:OCBCSGSGXXX
+:59:/BEN62657650016173
+George, Armstrong and Garcia
+4107 Huffman Mount Brownton, MH 06461
+:70:INV 8AC9F0AA0D79 Yourself PM because score talk save style.
+:71A:OUR
+-}{5:{CHK:2e91610ef0}}

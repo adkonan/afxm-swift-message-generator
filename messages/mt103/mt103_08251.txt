@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240521UBSWRIT2XXXXXXXN}{3:{121:95618b49-24f1-4b99-a10a-7d959524b435}}{4:
+:20:REF-64071
+:23B:CRED
+:32A:240521EUR267687.00
+:50K:/OC1203898
+Brandt-Hill
+43480 Sharon Island Suite 604 Rogersburgh, PA 57329
+:57A:UBSWRIT2XXX
+:59:/BEN18013314255143
+Pratt, Fernandez and Delgado
+96779 Robert Turnpike Apt. 802 Wendymouth, ME 83486
+:70:INV D1585B2AE23F Summer rich chance enter audience still commercial.
+:71A:OUR
+-}{5:{CHK:2e95cc311d}}

@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240609BFSWUS33XXXXXXXN}{3:{121:cc27e001-864c-46dc-a509-e03335b707af}}{4:
+:20:REF-50900
+:23B:CRED
+:32A:240609USD115480.00
+:50K:/OC7980978
+Lewis, Johnson and Smith
+547 James Locks West Williamton, SD 06820
+:57A:BFSWUS33XXX
+:59:/BEN19347248135378
+Green, Gutierrez and Walker
+925 Scott Haven West Suzannechester, DE 52695
+:70:INV 9C779D95BBAD Environmental seat listen for.
+:71A:OUR
+-}{5:{CHK:dd2656cf24}}

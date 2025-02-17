@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240707UBSWRIT2XXXXXXXN}{3:{121:d62917a1-4ef8-4c59-83eb-3ebcccd307bf}}{4:
+:20:REF-28332
+:23B:CRED
+:32A:240707CHF418940.00
+:50K:/OC5855545
+Gutierrez-Monroe
+515 Michael Grove Suite 668 Barrfort, NE 83053
+:57A:UBSWRIT2XXX
+:59:/BEN23938966363877
+Powell, Garcia and Alexander
+640 Manning Prairie Suite 485 Johnmouth, AS 90239
+:70:INV E666C04C9A1F Again newspaper prove every organization information.
+:71A:OUR
+-}{5:{CHK:9df7049fec}}

@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240529KFWDEFFXXXXXXXN}{3:{121:f1007f7e-fe25-4a18-8eeb-e1ee9a849711}}{4:
+:20:REF-46488
+:23B:CRED
+:32A:240529GBP431245.00
+:50K:/OC8865626
+Carson, Juarez and Reynolds
+14375 Simpson Spur Suite 778 New Joshuahaven, UT 95031
+:57A:KFWDEFFXXX
+:59:/BEN36490966353620
+Moore-Johnson
+3120 Jensen Spur Christopherview, KY 82923
+:70:INV FC85EE60ABEE Whole the need author ever model simply.
+:71A:OUR
+-}{5:{CHK:c48ea24120}}

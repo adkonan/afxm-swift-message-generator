@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240603DTBKIDJAXXXXXXXN}{3:{121:9d326ec7-f781-4f05-94a6-c44f564ebca0}}{4:
+:20:REF-87178
+:23B:CRED
+:32A:240603USD485604.00
+:50K:/OC2719784
+Jackson Ltd
+8807 Matthew Extensions East Edward, VT 37086
+:57A:DTBKIDJAXXX
+:59:/BEN16141400180305
+Thomas-Baldwin
+1109 Stacey Road Suite 656 Port Joshua, AR 14214
+:70:INV 5E56F7B6A353 Simple simply agree significant start magazine though.
+:71A:OUR
+-}{5:{CHK:c057d53f7f}}

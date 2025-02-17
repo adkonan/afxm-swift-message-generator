@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240916FBNINGLAXXXXXXXN}{3:{121:bb0833d6-d340-49c5-8681-46f889be2677}}{4:
+:20:REF-32029
+:23B:CRED
+:32A:240916CHF164872.00
+:50K:/OC8006664
+Weiss, Mcmahon and Harris
+1717 Pearson Islands Apt. 290 Nobleburgh, LA 72097
+:57A:FBNINGLAXXX
+:59:/BEN18946591114022
+Johnson, Smith and Jones
+430 Cathy Junction Timothyborough, MN 35939
+:70:INV 3E68CF07F412 Between six election recent five.
+:71A:OUR
+-}{5:{CHK:5edcece933}}

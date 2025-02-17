@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241229BKBKPHMMXXXXXXXN}{3:{121:2d0ab0fc-a177-4aa9-b3ef-edcf8abee88f}}{4:
+:20:REF-71660
+:23B:CRED
+:32A:241229JPY2311.00
+:50K:/OC8276119
+Mcgee-Conway
+90643 Alan Highway Suite 725 New Marialand, VI 96483
+:57A:BKBKPHMMXXX
+:59:/BEN27211829835869
+Wilson-Bryan
+9538 Wagner Overpass West Carlburgh, VA 68740
+:70:INV 7BFAEFAA31DB Technology example chance by prepare surface free.
+:71A:OUR
+-}{5:{CHK:69835701b3}}

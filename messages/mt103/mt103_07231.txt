@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240725DBSAZAJJXXXXXXXN}{3:{121:8144abfe-5f7f-44b1-90b5-8f7c184e4571}}{4:
+:20:REF-23602
+:23B:CRED
+:32A:240725CNY5141.00
+:50K:/OC2745056
+Thomas, Castillo and Haynes
+360 Sydney Crest Suite 758 Rodriguezhaven, TX 70324
+:57A:DBSAZAJJXXX
+:59:/BEN93284457634000
+Saunders, Stone and David
+35217 Morrow Mount Suite 272 Lake Johnland, ND 22265
+:70:INV B9912BED3B3E Job operation face action popular itself former bank.
+:71A:OUR
+-}{5:{CHK:0c4e7d4bff}}

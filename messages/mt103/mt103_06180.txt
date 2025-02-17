@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103250121BICIBFBFXXXXXXXN}{3:{121:7adb598b-43af-47d6-9aa7-d079e95a8e21}}{4:
+:20:REF-99658
+:23B:CRED
+:32A:250121AUD340622.00
+:50K:/OC1549836
+Campbell LLC
+3786 Nichols Haven Suite 675 West Martin, ME 95697
+:57A:BICIBFBFXXX
+:59:/BEN65645584411572
+Day, Berry and Brown
+57284 Joan Tunnel Suite 231 North Katherineshire, GA 86859
+:70:INV 3C064B9F905E Action perhaps whose simple impact music course customer.
+:71A:OUR
+-}{5:{CHK:5f780fc6c0}}

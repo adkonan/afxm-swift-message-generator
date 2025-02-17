@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240625BARCDEFFXXXXXXXN}{3:{121:cb40002f-e6ed-4a47-9c0c-bc65d9011a45}}{4:
+:20:REF-30474
+:23B:CRED
+:32A:240625CAD9338400.00
+:50K:/OC6657922
+Taylor-Miller
+289 Joan Ports Gracefurt, MT 98738
+:57A:BARCDEFFXXX
+:59:/BEN27385431365106
+Gonzalez, Roth and Keller
+66663 Jones Cove Suite 299 Cooperfort, MH 35528
+:70:INV 21C089019A9B Network wonder surface economy worry wonder skin true.
+:71A:OUR
+-}{5:{CHK:cd68239dfe}}

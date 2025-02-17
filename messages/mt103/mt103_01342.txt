@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103241007BICIBFBFXXXXXXXN}{3:{121:a825ea65-4bc6-4c8e-bd69-4bc42f7b6971}}{4:
+:20:REF-66170
+:23B:CRED
+:32A:241007EUR18797.00
+:50K:/OC4281008
+Paul-Lynch
+057 Rodriguez Bypass Annaborough, VI 06921
+:57A:BICIBFBFXXX
+:59:/BEN49320832165129
+Jones-Smith
+660 Donald Stream West Jessicachester, NE 80505
+:70:INV 936B21B4FD1B Plan suddenly growth too line difficult now.
+:71A:OUR
+-}{5:{CHK:eaa48adb90}}

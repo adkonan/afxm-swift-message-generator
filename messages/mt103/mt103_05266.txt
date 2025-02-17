@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240702ICBKCNBJXXXXXXXN}{3:{121:8fe3af3a-7a7e-4ec6-8faa-a8cbd41c2745}}{4:
+:20:REF-39898
+:23B:CRED
+:32A:240702GBP344332.00
+:50K:/OC6405533
+Kirby-Huerta
+0647 Megan Crest Apt. 149 East John, CO 66491
+:57A:ICBKCNBJXXX
+:59:/BEN97603508643133
+Foster, Byrd and Cunningham
+123 Nguyen Summit Lake Markville, AR 57156
+:70:INV 3E3E3281D420 Actually trial decade expect maintain radio new.
+:71A:OUR
+-}{5:{CHK:ddb878a6b2}}

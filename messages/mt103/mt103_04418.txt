@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240623BOFAUS3NXXXXXXXN}{3:{121:670dfb23-2c73-407b-bc51-1c8e4608e9c7}}{4:
+:20:REF-39381
+:23B:CRED
+:32A:240623SGD273030.00
+:50K:/OC3673204
+Martin, Wells and Miller
+3456 Morris Road Suite 777 Lopezburgh, OK 94410
+:57A:BOFAUS3NXXX
+:59:/BEN80821946841729
+Chen, Wong and Butler
+084 Alicia Turnpike Jenniferside, VI 69276
+:70:INV 8C2E63C4730C Because expert half drive down black.
+:71A:OUR
+-}{5:{CHK:05a8fa93d7}}

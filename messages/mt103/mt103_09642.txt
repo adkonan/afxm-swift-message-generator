@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240816FIRNZAJJXXXXXXXN}{3:{121:1655a8bf-5438-4cb1-9a53-b6a82fe9fecd}}{4:
+:20:REF-41550
+:23B:CRED
+:32A:240816JPY150679.00
+:50K:/OC5776239
+Mendoza, Howard and Jackson
+096 Tina Via Lake Cherylfort, IL 84776
+:57A:FIRNZAJJXXX
+:59:/BEN31974953502664
+Padilla, Martin and Delgado
+8438 Jensen Coves Suite 485 Christineport, MA 44168
+:70:INV 44E1F724D491 Low find war find course.
+:71A:OUR
+-}{5:{CHK:3c1a8c763d}}

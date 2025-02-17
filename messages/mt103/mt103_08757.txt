@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103241116HSBCHKHHXXXXXXXN}{3:{121:d8444fae-a1dc-40bf-ac5a-3cab1782327f}}{4:
+:20:REF-10276
+:23B:CRED
+:32A:241116JPY49745.00
+:50K:/OC1444470
+Edwards, Pitts and Edwards
+2672 Davis Common Lake Jennifer, NM 71961
+:57A:HSBCHKHHXXX
+:59:/BEN83508955738113
+Smith and Sons
+44854 Fuller Ridges Brownhaven, AK 32273
+:70:INV 72E34D0D48BD Pm city drop table situation Republican.
+:71A:OUR
+-}{5:{CHK:7fc83a087f}}

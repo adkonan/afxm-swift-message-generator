@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241104UBSWCHZHXXXXXXXN}{3:{121:21af63a8-c067-42f7-a9ae-9dd1cec6786a}}{4:
+:20:REF-32867
+:23B:CRED
+:32A:241104GBP1842.75
+:50K:/OC2602719
+Reed and Sons
+7222 Cody Stravenue Apt. 689 Port Franciscomouth, MN 68452
+:57A:UBSWCHZHXXX
+:59:/BEN76348023015590
+Lee, Wilson and Perry
+4248 Rita Throughway Apt. 363 East Michaelview, ND 51695
+:70:INV FF979DB4AE41 But than career popular ready majority near.
+:71A:OUR
+-}{5:{CHK:a5fdeed20c}}

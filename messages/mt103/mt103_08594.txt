@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240831BNPAGB22XXXXXXXN}{3:{121:df77fc84-092e-49fa-9077-e66eaa2c1382}}{4:
+:20:REF-78802
+:23B:CRED
+:32A:240831AUD164910.00
+:50K:/OC3163125
+Reed, King and Curry
+740 Thompson Common Apt. 254 East Lisatown, UT 25302
+:57A:BNPAGB22XXX
+:59:/BEN57898084412035
+Gould, Williams and Martinez
+2241 Adrian Greens Port Aaronshire, NH 09144
+:70:INV F5FF0528CC19 Large defense material cultural.
+:71A:OUR
+-}{5:{CHK:dde186bb40}}

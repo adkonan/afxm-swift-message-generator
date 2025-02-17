@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241117OCBCSGSGXXXXXXXN}{3:{121:ec4cbe80-685e-4147-b8f1-d1bda3b872b9}}{4:
+:20:REF-49893
+:23B:CRED
+:32A:241117CNY159082.00
+:50K:/OC1561663
+Moore, Mcfarland and Villanueva
+388 Carter Light Michelebury, NM 36941
+:57A:OCBCSGSGXXX
+:59:/BEN23772035214576
+Jones PLC
+08753 Joseph Park Apt. 381 Racheltown, WV 87004
+:70:INV 62EE1B5CF0D5 Discover create up head team range success lot.
+:71A:OUR
+-}{5:{CHK:bcf023206e}}

@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103250206BNPAFRPPXXXXXXXN}{3:{121:6af4c05b-a7f6-432a-8d46-e9a58432e7fd}}{4:
+:20:REF-47497
+:23B:CRED
+:32A:250206GBP1585.21
+:50K:/OC9960091
+Ramsey-Pierce
+4702 Rachel Camp Suite 018 Reynoldsview, TX 85309
+:57A:BNPAFRPPXXX
+:59:/BEN88777743312421
+Contreras, Foster and Fowler
+55230 Nicole Burg Tammyfurt, UT 27288
+:70:INV 2568560B29E5 Likely box tonight skill country part.
+:71A:OUR
+-}{5:{CHK:a4ff0bbf79}}

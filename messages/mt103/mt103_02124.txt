@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240706CITIUS33XXXXXXXN}{3:{121:5960980d-2b1e-4029-8c7e-f7c2db58131b}}{4:
+:20:REF-18555
+:23B:CRED
+:32A:240706CHF21942800.00
+:50K:/OC1408373
+Spears-Peterson
+2141 Christine Mills Suite 650 South Steven, OK 21472
+:57A:CITIUS33XXX
+:59:/BEN40619759040395
+Blankenship-Weber
+090 Bender Glen South Larry, CT 28914
+:70:INV 9012A1988025 Occur behavior police ball important activity although certain.
+:71A:OUR
+-}{5:{CHK:1b04e3fb80}}

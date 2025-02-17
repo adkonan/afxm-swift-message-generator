@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241111BNPAGB22XXXXXXXN}{3:{121:08efc0cd-ea1b-4832-83e2-8bf1fd506377}}{4:
+:20:REF-80032
+:23B:CRED
+:32A:241111JPY263417.00
+:50K:/OC6991670
+Collins, Brown and Peterson
+173 Rodney Bypass Port Chelsea, WA 45688
+:57A:BNPAGB22XXX
+:59:/BEN64246830144156
+Hammond, Jimenez and Moore
+828 Mckinney Row Suite 005 Gutierrezbury, MD 80136
+:70:INV 5C1F0E4A71B5 Really method responsibility economy type deep.
+:71A:OUR
+-}{5:{CHK:85da51473f}}

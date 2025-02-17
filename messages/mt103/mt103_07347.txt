@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103241006BARCDEFFXXXXXXXN}{3:{121:634452d8-85b5-4cc9-867f-aa36cb7ce7fd}}{4:
+:20:REF-28889
+:23B:CRED
+:32A:241006EUR182849.00
+:50K:/OC1703102
+Johnson LLC
+008 Walters Way Apt. 628 Port Alexmouth, VT 58632
+:57A:BARCDEFFXXX
+:59:/BEN90022586250716
+Crawford, Bullock and Price
+287 Wayne Glens North Joshua, NV 75671
+:70:INV 8E58DA167521 Want sound official listen strong opportunity create debate.
+:71A:OUR
+-}{5:{CHK:de6cd4909a}}

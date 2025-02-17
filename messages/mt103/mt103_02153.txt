@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240405BOFAUS3NXXXXXXXN}{3:{121:e7a01124-70ae-4c38-add1-a980127af6a2}}{4:
+:20:REF-45413
+:23B:CRED
+:32A:240405CNY458105.00
+:50K:/OC7447976
+Morris, Daniels and Lynch
+04018 Brown Freeway Mcintyrebury, VT 65056
+:57A:BOFAUS3NXXX
+:59:/BEN36096887279084
+Strickland, Oneill and Williams
+4748 Brown Estates Timothychester, AK 33914
+:70:INV 5751703ACE6A Among go media project away as.
+:71A:OUR
+-}{5:{CHK:15a817f352}}

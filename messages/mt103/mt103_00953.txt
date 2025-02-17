@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103250126STANGB2LXXXXXXXN}{3:{121:7bf516d5-97ab-4edd-bf62-fa35a339cde0}}{4:
+:20:REF-12640
+:23B:CRED
+:32A:250126XDR3622.33
+:50K:/OC6646754
+Ferguson-Taylor
+92332 Barry Square Port William, AS 67537
+:57A:STANGB2LXXX
+:59:/BEN46618843647257
+Johnson Ltd
+80805 Olson Branch Thompsonport, DC 93432
+:70:INV 3C38430771ED World seem recognize indicate least people who of.
+:71A:OUR
+-}{5:{CHK:c2853adc13}}

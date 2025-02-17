@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103250109GTBINGLAXXXXXXXN}{3:{121:ea8413c6-881c-43f7-a4cc-7b4e50ad2842}}{4:
+:20:REF-80922
+:23B:CRED
+:32A:250109SGD115894.00
+:50K:/OC1868771
+Howell, Baker and Mccall
+160 Kim Cape Apt. 506 East Brandon, VA 23677
+:57A:GTBINGLAXXX
+:59:/BEN21694812306104
+Jenkins-Robbins
+0425 Vincent Shores Suite 146 Brittanymouth, NV 36755
+:70:INV 480FF3D30191 Democrat radio article nation hear hotel for.
+:71A:OUR
+-}{5:{CHK:08eee7690f}}

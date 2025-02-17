@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240505BNPAFRPPXXXXXXXN}{3:{121:7da4417c-d138-4bd9-8986-7f8fae0cf7d7}}{4:
+:20:REF-25694
+:23B:CRED
+:32A:240505JPY155320.00
+:50K:/OC5529126
+Nelson-Wright
+0953 Brown Station Suite 863 Christopherton, NV 77791
+:57A:BNPAFRPPXXX
+:59:/BEN39290416779808
+Frye-Stanton
+19458 Mcgrath Plains East Sarah, AZ 86712
+:70:INV C8D0624B33B4 Difficult concern foreign your participant attention practice.
+:71A:OUR
+-}{5:{CHK:0ce2df8aa9}}

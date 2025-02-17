@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103241006DEUTDEFFXXXXXXXN}{3:{121:93898e85-44d0-4285-a6bb-f13b43cefee2}}{4:
+:20:REF-94839
+:23B:CRED
+:32A:241006CAD430537.00
+:50K:/OC2263496
+Skinner, Stephenson and Bradley
+473 Natalie Plains Suite 923 Ericafurt, IN 90134
+:57A:DEUTDEFFXXX
+:59:/BEN16730994218973
+Flynn-Hunt
+9661 Perry Spurs Suite 204 North Lisa, ND 91208
+:70:INV 9DD565B46BDB Five class character professor bad expect money different.
+:71A:OUR
+-}{5:{CHK:58f3ad33e0}}

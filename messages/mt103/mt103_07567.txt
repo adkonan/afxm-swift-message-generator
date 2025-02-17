@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240501BKBKPHMMXXXXXXXN}{3:{121:8a9e2471-fcdb-4388-9323-b8c835657ffa}}{4:
+:20:REF-28240
+:23B:CRED
+:32A:240501AUD347844.00
+:50K:/OC2646973
+Alexander, Mills and Taylor
+404 Jose Viaduct South Matthew, AS 83012
+:57A:BKBKPHMMXXX
+:59:/BEN43807237953772
+Jacobson, Fisher and Allen
+811 Erika Land Karenfort, MI 91553
+:70:INV 011707BA04E4 Happen help girl pattern organization century.
+:71A:OUR
+-}{5:{CHK:f065dd02a1}}

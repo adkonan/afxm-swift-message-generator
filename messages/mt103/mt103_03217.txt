@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103250215AFRIGHACXXXXXXXN}{3:{121:ef858718-11b6-4c2b-ac13-a462ac61a7c2}}{4:
+:20:REF-30231
+:23B:CRED
+:32A:250215CNY55230.00
+:50K:/OC5523015
+Hayes-Scott
+14219 Gabriella Mountains West Patriciamouth, MT 64133
+:57A:AFRIGHACXXX
+:59:/BEN93222841141296
+Lopez, Baldwin and Harrell
+5462 Garrett Trail Lake Stephenland, IN 93569
+:70:INV DDD5DFB32992 Letter deal shoulder contain environment her finish.
+:71A:OUR
+-}{5:{CHK:7c723e0429}}

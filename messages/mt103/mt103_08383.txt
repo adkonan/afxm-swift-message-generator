@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240727ECOCMLABXXXXXXXN}{3:{121:eaf01070-c791-4d0f-bbda-b66a6fd61672}}{4:
+:20:REF-71008
+:23B:CRED
+:32A:240727SGD377252.00
+:50K:/OC7611929
+Welch-Shaw
+348 Simon Inlet South Donaldtown, GU 10706
+:57A:ECOCMLABXXX
+:59:/BEN94677971309670
+Hoffman-Randolph
+1605 Thomas Junctions Ortegaburgh, AS 60020
+:70:INV 5FDEF75C262D Detail deal role commercial with visit two answer.
+:71A:OUR
+-}{5:{CHK:d46c6e8d98}}

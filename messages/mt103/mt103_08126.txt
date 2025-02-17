@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240809BKCHHKHXXXXXXXXN}{3:{121:e3b7ba4d-4aca-495b-9124-eb664705e73a}}{4:
+:20:REF-89174
+:23B:CRED
+:32A:240809SGD488756.00
+:50K:/OC7798248
+Harris and Sons
+5796 Bowman Corner Apt. 903 Stephensfurt, VA 56206
+:57A:BKCHHKHXXXX
+:59:/BEN10703796903629
+Santiago, Gonzalez and Phelps
+92507 Banks Fall Apt. 246 Laraland, NM 93344
+:70:INV 87E12EDBA01B Hour job during sound wish tell anyone.
+:71A:OUR
+-}{5:{CHK:1f4dd30b74}}

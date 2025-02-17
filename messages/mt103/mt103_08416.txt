@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103241124CITIUS33XXXXXXXN}{3:{121:29a2e236-8bcf-4097-8fc0-6d9c2366ca80}}{4:
+:20:REF-56586
+:23B:CRED
+:32A:241124EUR2370790.00
+:50K:/OC4088971
+Campbell-Harper
+101 Anthony Brook Apt. 031 Hansenberg, AS 78061
+:57A:CITIUS33XXX
+:59:/BEN72321931023476
+Herring, Clay and Johnson
+3453 Meghan Cape Apt. 261 New Gabriel, FM 63336
+:70:INV 7BB14125D43B Everything road point reality event thank impact.
+:71A:OUR
+-}{5:{CHK:d48cae8645}}

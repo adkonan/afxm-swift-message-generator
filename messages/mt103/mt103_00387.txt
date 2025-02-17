@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103241229ICBKCNBJXXXXXXXN}{3:{121:ced452a7-dbcf-4d48-8445-90898deaf65e}}{4:
+:20:REF-21193
+:23B:CRED
+:32A:241229GBP1339780.00
+:50K:/OC8404112
+Morris, Lucas and Lozano
+167 Joseph Plains New Erinshire, NJ 18942
+:57A:ICBKCNBJXXX
+:59:/BEN28350832188238
+Todd and Sons
+47534 Gross Courts Suite 680 Lake Shirley, MN 54027
+:70:INV 795835ED89D1 Indicate nor trade doctor performance technology control.
+:71A:OUR
+-}{5:{CHK:cef06dc469}}

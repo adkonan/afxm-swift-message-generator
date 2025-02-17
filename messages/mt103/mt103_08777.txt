@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240729DBSAZAJJXXXXXXXN}{3:{121:15ee4f18-6f5f-43ce-a3b0-b6ca83037aeb}}{4:
+:20:REF-28974
+:23B:CRED
+:32A:240729CAD327167.00
+:50K:/OC5007077
+Williams-Parker
+3326 Jack Burgs Suite 411 East Eddieberg, MP 63266
+:57A:DBSAZAJJXXX
+:59:/BEN88620262672008
+Newman, Peterson and Gilbert
+115 Spencer Junction Suite 786 New Kaylaland, IA 32834
+:70:INV 619AEFAEAD8D Fight newspaper purpose must democratic total.
+:71A:OUR
+-}{5:{CHK:240ca597fb}}

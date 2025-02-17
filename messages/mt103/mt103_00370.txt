@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103241122ICBKCNBJXXXXXXXN}{3:{121:1f6f0ed0-dd80-4d20-8f04-ea369ead6183}}{4:
+:20:REF-72081
+:23B:CRED
+:32A:241122GBP149959.00
+:50K:/OC2845947
+Stafford, Robinson and Castillo
+91391 Ashley Fall Apt. 662 South Amandaburgh, ND 53481
+:57A:ICBKCNBJXXX
+:59:/BEN26615080412402
+Morton-Garcia
+52970 Roy Pine Apt. 806 Christinatown, SC 92908
+:70:INV F20E478ED39A Protect development near certain per decade middle administration.
+:71A:OUR
+-}{5:{CHK:9a02d0d4e0}}

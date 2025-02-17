@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103250213RBCROYTORXXXXXXXN}{3:{121:1a7adb22-dbd0-47fe-87ca-a19f2cd52dbd}}{4:
+:20:REF-15709
+:23B:CRED
+:32A:250213CNY308621.00
+:50K:/OC4909309
+Gonzalez Inc
+1080 Johnson Gardens West Jaredmouth, GU 74037
+:57A:RBCROYTORXXX
+:59:/BEN47027863170582
+Zavala, Hart and Rodriguez
+08581 Raymond Pines Suite 819 Robinsontown, RI 61391
+:70:INV E0AEFC2AE75C Only bank may represent security kind center.
+:71A:OUR
+-}{5:{CHK:79a06f94d1}}

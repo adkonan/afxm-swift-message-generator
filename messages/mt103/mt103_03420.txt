@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103241003OCBCSGSGXXXXXXXN}{3:{121:2e3f8b09-5ff9-44cd-b0df-cba86c9ffd9c}}{4:
+:20:REF-87365
+:23B:CRED
+:32A:241003JPY321510.00
+:50K:/OC8769014
+Miller, Thomas and Johnson
+89075 Kara Flats Apt. 698 Huynhburgh, GA 70545
+:57A:OCBCSGSGXXX
+:59:/BEN11376089755824
+Morris Ltd
+86776 Goodman Square Suite 114 Pamelahaven, MO 29645
+:70:INV EE1583FE14CB Father suggest indicate unit activity.
+:71A:OUR
+-}{5:{CHK:afcba5dd8b}}

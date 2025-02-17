@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240416BNPAGB22XXXXXXXN}{3:{121:7623ee94-0b85-4bf6-bc2a-ec01bbe148a4}}{4:
+:20:REF-13085
+:23B:CRED
+:32A:240416USD4130160.00
+:50K:/OC1511167
+Arias-Smith
+26246 Brittany Curve Hannahview, GU 29968
+:57A:BNPAGB22XXX
+:59:/BEN61137266018397
+Schroeder, Foster and Rivas
+348 Marc Mountains Apt. 714 Heatherview, SD 14483
+:70:INV 36C182343A6B Easy sport maintain through natural move.
+:71A:OUR
+-}{5:{CHK:03f1fa9230}}

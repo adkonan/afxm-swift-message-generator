@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240529HSBCGB2LXXXXXXXN}{3:{121:bbe50d42-5b36-480e-b1f0-bde94565ae67}}{4:
+:20:REF-45556
+:23B:CRED
+:32A:240529XAG175488.00
+:50K:/OC1762279
+Martinez-Marshall
+662 Brandon Tunnel Suite 649 Kendraton, ND 18930
+:57A:HSBCGB2LXXX
+:59:/BEN80403287691790
+Robertson-Rodriguez
+57613 Reeves Plain Apt. 006 North Jamesshire, NY 16875
+:70:INV C01472D1ED82 Somebody such usually special maybe describe material.
+:71A:OUR
+-}{5:{CHK:a1bda4cf83}}

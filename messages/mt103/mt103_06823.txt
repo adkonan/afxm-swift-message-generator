@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103241109BICIBFBFXXXXXXXN}{3:{121:cfbcf65b-f181-4c3f-a50d-05f01f8031b7}}{4:
+:20:REF-37744
+:23B:CRED
+:32A:241109USD166231.00
+:50K:/OC3148047
+Mullins LLC
+459 Ramirez Burgs Port Lisaberg, IA 69128
+:57A:BICIBFBFXXX
+:59:/BEN83670008701610
+Castaneda, Garcia and Perez
+08281 Young Village Suite 804 Robertstad, CO 14443
+:70:INV 57AAE181DC67 Edge others current door myself necessary benefit able.
+:71A:OUR
+-}{5:{CHK:c71fe9f9ab}}

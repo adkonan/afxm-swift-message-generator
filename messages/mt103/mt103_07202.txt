@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240914STANGB2LXXXXXXXN}{3:{121:1735cecf-b97d-4e7d-8ddd-6bf18ae4b964}}{4:
+:20:REF-70139
+:23B:CRED
+:32A:240914USD366309.00
+:50K:/OC6859789
+Martin, Davis and Mahoney
+29803 Ellis Throughway Maryburgh, OR 20315
+:57A:STANGB2LXXX
+:59:/BEN89461287155022
+Gutierrez-Martin
+2583 Christopher Court Apt. 646 North Michael, WA 34549
+:70:INV 96C9521ECE6F Individual similar else idea ability.
+:71A:OUR
+-}{5:{CHK:5548b8d282}}

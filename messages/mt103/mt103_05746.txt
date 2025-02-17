@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240512SOGEFRPPXXXXXXXN}{3:{121:311b8c05-2aa1-47ec-928b-3009a3eab97c}}{4:
+:20:REF-95630
+:23B:CRED
+:32A:240512CNY26525.00
+:50K:/OC2673225
+Green, Martinez and Miller
+9561 Marquez Run Suite 388 Harrisville, DC 50372
+:57A:SOGEFRPPXXX
+:59:/BEN14232154543594
+Sanchez, Hanson and Anderson
+926 Andrew Summit North Cory, DC 94138
+:70:INV E72E4D1E3AD0 Science increase election can other.
+:71A:OUR
+-}{5:{CHK:2a8633d87d}}

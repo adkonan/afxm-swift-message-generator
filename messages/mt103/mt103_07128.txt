@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103250206FIRNZAJJXXXXXXXN}{3:{121:e76c3589-481a-4491-acec-8a453d2dccc1}}{4:
+:20:REF-42706
+:23B:CRED
+:32A:250206EUR45888.00
+:50K:/OC8605448
+Rodriguez Inc
+30520 Nicholas Ridge Apt. 887 Katherinechester, NM 71205
+:57A:FIRNZAJJXXX
+:59:/BEN13509630034530
+Dean, Owens and Nelson
+0888 Smith Divide Suite 603 Lake Bonnie, PR 58052
+:70:INV 03419FA14F67 Issue test manage since Republican newspaper professor.
+:71A:OUR
+-}{5:{CHK:03f36cb055}}

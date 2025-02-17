@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240913ECOCGHANXXXXXXXN}{3:{121:edd99dd4-bc53-4480-8ac2-a53202160994}}{4:
+:20:REF-50356
+:23B:CRED
+:32A:240913JPY361218.00
+:50K:/OC2238816
+Hernandez, Crosby and Trujillo
+85817 Crawford Walks Andrewport, WA 03465
+:57A:ECOCGHANXXX
+:59:/BEN37144101661302
+Cruz, Morales and Williamson
+3707 Jacob Overpass Suite 151 Lake Catherinemouth, GA 60808
+:70:INV 286D2022AE12 Me election growth television course.
+:71A:OUR
+-}{5:{CHK:dc898a89ef}}

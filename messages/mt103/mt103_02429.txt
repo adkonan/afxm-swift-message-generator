@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241113BFSWUS33XXXXXXXN}{3:{121:471f61db-84f0-4e0e-88c5-f6c31415a922}}{4:
+:20:REF-78938
+:23B:CRED
+:32A:241113JPY471235.00
+:50K:/OC9989189
+Meyer, Gibson and Sherman
+0994 Katrina Falls Suite 208 Lake Colleen, IN 90177
+:57A:BFSWUS33XXX
+:59:/BEN27500910346558
+Castro Inc
+205 Smith Trafficway South Joel, OK 34730
+:70:INV C21F7A6B6E57 Decide else husband dog check professional college.
+:71A:OUR
+-}{5:{CHK:0230da4ae5}}

@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240610ICBKCNBJXXXXXXXN}{3:{121:e9ae0605-11f1-4c36-ad16-861ec4993ba5}}{4:
+:20:REF-13906
+:23B:CRED
+:32A:240610EUR33681.00
+:50K:/OC2974298
+Stewart, Villarreal and Anderson
+67353 Garcia Loop Woodwardmouth, MA 10611
+:57A:ICBKCNBJXXX
+:59:/BEN31228125840724
+Davenport Ltd
+8231 Jessica Mountains Suite 773 Rojaschester, MO 54832
+:70:INV 3727C5A2BCFC Reality religious phone too letter site standard.
+:71A:OUR
+-}{5:{CHK:d2aa51b111}}

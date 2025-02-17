@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240305ICBKCNBJXXXXXXXN}{3:{121:fc3455c2-c9cd-42d8-9cd1-eb09e07fe9b3}}{4:
+:20:REF-61846
+:23B:CRED
+:32A:240305JPY219924.00
+:50K:/OC7704536
+Murray, Baker and Daniel
+5050 Adams Street Philiptown, SD 58277
+:57A:ICBKCNBJXXX
+:59:/BEN46630028036502
+Love Inc
+7434 Christopher Hills Erictown, PA 52060
+:70:INV 3F8189D3A78A Brother Democrat blood read increase force hit.
+:71A:OUR
+-}{5:{CHK:ac603b1a43}}

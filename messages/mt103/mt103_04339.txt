@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240717AFRIGHACXXXXXXXN}{3:{121:f05e1cc9-02d6-4886-80c3-c3cffb60c218}}{4:
+:20:REF-17082
+:23B:CRED
+:32A:240717CAD118390.00
+:50K:/OC7189936
+Campos, West and Phillips
+014 Eric Union North Troyland, FL 16893
+:57A:AFRIGHACXXX
+:59:/BEN24032459540831
+Holmes, Marshall and Hurley
+9901 Williams Springs Marcusshire, AK 59381
+:70:INV E2C87153D28B Play prepare agreement area because family yeah.
+:71A:OUR
+-}{5:{CHK:89a4bc95e0}}

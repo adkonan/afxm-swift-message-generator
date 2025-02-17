@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240412ICBKCNBJXXXXXXXN}{3:{121:4aeaa5a7-691b-4a70-b9cc-40be9f2808dc}}{4:
+:20:REF-82675
+:23B:CRED
+:32A:240412XAU459318.00
+:50K:/OC6399405
+Carr-Carrillo
+174 Freeman Ways Suite 747 South Jordanchester, VI 17245
+:57A:ICBKCNBJXXX
+:59:/BEN70746793013880
+Adams PLC
+720 Frey Grove Suite 980 Millsbury, DC 33099
+:70:INV E9D443CFFC8D However democratic near common participant store.
+:71A:OUR
+-}{5:{CHK:8bdc4bb46b}}

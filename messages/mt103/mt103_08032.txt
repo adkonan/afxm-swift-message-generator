@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240820CRESIT2LXXXXXXXN}{3:{121:d7a2d0c5-a9b1-4e26-902f-bad339f098a1}}{4:
+:20:REF-13572
+:23B:CRED
+:32A:240820EUR193561.00
+:50K:/OC3507388
+Patterson-Shaw
+84035 Adams Pike Port Troyburgh, NH 15919
+:57A:CRESIT2LXXX
+:59:/BEN47037294333207
+Hinton, Bowman and Campbell
+12166 Norris Ranch Karenbury, WI 04204
+:70:INV DCE24BBAFAA0 Federal forget short should opportunity machine.
+:71A:OUR
+-}{5:{CHK:ba40e1f48f}}

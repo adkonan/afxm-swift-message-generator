@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241229ICBKCNBJXXXXXXXN}{3:{121:8ab5ded2-4f6a-49c4-9c49-8af1dbaef70d}}{4:
+:20:REF-79387
+:23B:CRED
+:32A:241229EUR250278.00
+:50K:/OC6261116
+Knight, Richards and Zimmerman
+9829 Johnson Track Barrettmouth, MP 42890
+:57A:ICBKCNBJXXX
+:59:/BEN46452630111598
+Wilson-Rosales
+111 Stephen Mountain Lake Joshua, KS 50612
+:70:INV BA1220E9C970 Artist who attention stuff gun determine ball.
+:71A:OUR
+-}{5:{CHK:939e686694}}

@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103250112BARCDEFFXXXXXXXN}{3:{121:3689598c-47df-454b-a2bb-a42d97bcbe4b}}{4:
+:20:REF-16316
+:23B:CRED
+:32A:250112CAD82722.00
+:50K:/OC5894653
+Blake, Chavez and Marks
+6987 Christine Crossing North Ronald, MP 15951
+:57A:BARCDEFFXXX
+:59:/BEN19702235368346
+Walters and Sons
+75279 April Villages South Edwardstad, MS 67568
+:70:INV FCF7704AB5F3 Center drug ahead vote environmental toward.
+:71A:OUR
+-}{5:{CHK:ce30fc8323}}

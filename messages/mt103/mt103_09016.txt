@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103241015CRESCHZZXXXXXXXN}{3:{121:08bc65ec-f9e2-4516-a68c-2abeb184ae2b}}{4:
+:20:REF-57378
+:23B:CRED
+:32A:241015CNY179364.00
+:50K:/OC7521653
+Day, Walker and Mitchell
+6189 Johnson Corner Kylestad, NH 73919
+:57A:CRESCHZZXXX
+:59:/BEN90648892762463
+Holland, Phillips and Mayer
+6633 Christina Viaduct Apt. 118 Krausetown, NM 89103
+:70:INV 0E8D2737A4C3 Special care good this second.
+:71A:OUR
+-}{5:{CHK:f0576216e7}}

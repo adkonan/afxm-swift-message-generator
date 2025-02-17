@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240314OCBCSGSGXXXXXXXN}{3:{121:80b9ee20-cd43-4fa2-b76b-c67a5084c7cf}}{4:
+:20:REF-13225
+:23B:CRED
+:32A:240314GBP40171.00
+:50K:/OC1234601
+Washington-Morgan
+659 Stout Mill Apt. 773 Goodmanbury, IA 88042
+:57A:OCBCSGSGXXX
+:59:/BEN11002990899547
+Bryan, Collier and Reed
+6293 Knapp Expressway Suite 090 Bookermouth, NY 73639
+:70:INV A62D99D4CFD6 Note animal line choice company truth local.
+:71A:OUR
+-}{5:{CHK:2cd3d882e9}}

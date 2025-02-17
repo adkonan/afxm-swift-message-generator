@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240906ZENITHNGLAXXXXXXXN}{3:{121:ae114aff-2d3c-467c-b161-e06a71574818}}{4:
+:20:REF-94901
+:23B:CRED
+:32A:240906CHF734550.00
+:50K:/OC1568099
+Campbell-Williams
+4192 Lisa Parkway Suite 350 Moonville, MI 74372
+:57A:ZENITHNGLAXXX
+:59:/BEN40127236763828
+Marquez, Washington and Johnston
+84477 Gonzalez Station Suite 215 Port Debra, TN 37242
+:70:INV A30DFA5728AD Foreign against spend vote ever get.
+:71A:OUR
+-}{5:{CHK:cde9b9382b}}

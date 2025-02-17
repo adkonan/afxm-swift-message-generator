@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240220HSBCGB2LXXXXXXXN}{3:{121:d6b3d2af-c18a-4538-83fa-f2de4a6244a3}}{4:
+:20:REF-82036
+:23B:CRED
+:32A:240220CNY288199.00
+:50K:/OC6387047
+Erickson, Hernandez and Austin
+PSC 5428, Box 9132 APO AP 33607
+:57A:HSBCGB2LXXX
+:59:/BEN56819808941392
+Campbell, Odom and Chan
+6844 Stephen Port South Janetton, UT 56312
+:70:INV 1B4A569996A2 Important garden respond style recently name job.
+:71A:OUR
+-}{5:{CHK:b54dcc9ada}}

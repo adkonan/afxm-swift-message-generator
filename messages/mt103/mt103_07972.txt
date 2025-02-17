@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240920BNPAFRPPXXXXXXXN}{3:{121:f657e2ff-ab5d-411b-82ca-b5a12450012a}}{4:
+:20:REF-31334
+:23B:CRED
+:32A:240920CNY204550.00
+:50K:/OC7841467
+Stewart and Sons
+65133 Chavez Extensions Suite 087 New Jeffery, AR 42374
+:57A:BNPAFRPPXXX
+:59:/BEN93247523484555
+Farley, Porter and Miranda
+81694 Frank Throughway Cartermouth, GU 44604
+:70:INV 5686BDDA7739 Lose ten seem lay through plan.
+:71A:OUR
+-}{5:{CHK:fd8be5962f}}

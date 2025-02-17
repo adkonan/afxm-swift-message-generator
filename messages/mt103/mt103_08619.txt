@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240326STANKEKEXXXXXXXN}{3:{121:9c2ef1d1-4e23-46d9-9e2b-d14e539be04e}}{4:
+:20:REF-96958
+:23B:CRED
+:32A:240326USD309147.00
+:50K:/OC9816878
+Chung LLC
+094 Trevor Corner Suite 812 Davidhaven, PA 54633
+:57A:STANKEKEXXX
+:59:/BEN31646963302011
+Anderson, Gardner and Ferguson
+767 James Glens South Tyrone, IA 61712
+:70:INV 501E9D3B282A Law something clear society offer past example.
+:71A:OUR
+-}{5:{CHK:888ff114b7}}

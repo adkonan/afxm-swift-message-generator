@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250126BARCGB22XXXXXXXN}{3:{121:5cb9df9d-bb82-4cb2-9a51-d069d7fdf123}}{4:
+:20:REF-42155
+:23B:CRED
+:32A:250126CHF7292600.00
+:50K:/OC2420889
+Kelley, Cuevas and Craig
+150 Pineda Mill Suite 733 South Cynthia, WY 17345
+:57A:BARCGB22XXX
+:59:/BEN52157875137441
+Murphy, Hicks and Schmidt
+1125 Juan Extension Apt. 972 Higginschester, TX 88035
+:70:INV 841122F5CA78 Soon road doctor environment left.
+:71A:OUR
+-}{5:{CHK:859d815006}}

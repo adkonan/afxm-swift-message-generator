@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240319RBCROYTORXXXXXXXN}{3:{121:bfcd720b-9110-499f-be36-6141d1c97ff7}}{4:
+:20:REF-95759
+:23B:CRED
+:32A:240319SGD254423.00
+:50K:/OC8347282
+Goodman, Barnes and Young
+482 Roach Stravenue Lake Brittanyshire, IA 35536
+:57A:RBCROYTORXXX
+:59:/BEN42818954804878
+Blankenship-Smith
+37084 Brandon Cliffs Suite 012 Emilyborough, GU 57227
+:70:INV 31BB7A432CF9 Woman next student knowledge Republican news community industry.
+:71A:OUR
+-}{5:{CHK:e731d53bd5}}

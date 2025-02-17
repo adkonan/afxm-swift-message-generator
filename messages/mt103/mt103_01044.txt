@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240409BICIBFBFXXXXXXXN}{3:{121:66051957-1b30-4fb2-9bd1-40c82df444c9}}{4:
+:20:REF-65931
+:23B:CRED
+:32A:240409CHF475220.00
+:50K:/OC9549409
+Morrow, Miller and Tyler
+6280 Butler Rapids East Adambury, WI 85991
+:57A:BICIBFBFXXX
+:59:/BEN36798621040388
+Alexander, Morgan and Hamilton
+616 Karen Drive Apt. 975 South Mark, GA 51864
+:70:INV 76F330E741A4 Move social moment along before I note.
+:71A:OUR
+-}{5:{CHK:d881ac0b8b}}

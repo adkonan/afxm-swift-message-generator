@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240925BARCGB22XXXXXXXN}{3:{121:a33a6c15-75c6-44b5-b05b-a2b892d9014d}}{4:
+:20:REF-15877
+:23B:CRED
+:32A:240925GBP468316.00
+:50K:/OC6049551
+Torres, Wright and Campbell
+334 Vasquez Street Port Wayne, HI 18136
+:57A:BARCGB22XXX
+:59:/BEN57990412123452
+Bryan, Young and Cisneros
+490 Snyder Drives Suite 576 West Edwardbury, KY 81247
+:70:INV 3C0D6A411A7F Develop every put country best.
+:71A:OUR
+-}{5:{CHK:4808ca42c3}}

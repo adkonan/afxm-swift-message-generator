@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103241225BCAOAOAOXXXXXXXN}{3:{121:da5b8110-704f-4337-9b4a-b3df1d1dc8f1}}{4:
+:20:REF-39032
+:23B:CRED
+:32A:241225EUR344510.00
+:50K:/OC7577055
+Stevens, House and Ayers
+6152 Weiss Forge Suite 079 West Gabrielatown, UT 39860
+:57A:BCAOAOAOXXX
+:59:/BEN22422407148092
+Hernandez, Hoover and Porter
+39853 Brian Course Suite 295 New Kevinfurt, MT 83163
+:70:INV D65784194FBD Mean order boy major describe message.
+:71A:OUR
+-}{5:{CHK:3b6315951b}}

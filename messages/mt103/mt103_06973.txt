@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240531BARCGB22XXXXXXXN}{3:{121:7150249d-0bd9-46f1-b610-e2abf00027a6}}{4:
+:20:REF-55202
+:23B:CRED
+:32A:240531CNY140768.00
+:50K:/OC1836208
+Francis-Anderson
+8936 Hernandez Village Suite 248 North Bobby, NY 73642
+:57A:BARCGB22XXX
+:59:/BEN61004768157125
+Keller PLC
+29604 French Inlet Suite 802 New Alexisview, MP 74166
+:70:INV 0C553A24672D Cultural involve night piece moment cut consider prepare.
+:71A:OUR
+-}{5:{CHK:0be38e0ca6}}

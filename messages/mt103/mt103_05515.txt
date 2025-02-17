@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103250131BARCGB22XXXXXXXN}{3:{121:abed01c8-5fc7-4bbd-b29a-9567b885d885}}{4:
+:20:REF-72864
+:23B:CRED
+:32A:250131AUD365773.00
+:50K:/OC5147779
+Wagner-Gray
+1018 Murphy Green Apt. 474 South Alyssamouth, PW 07931
+:57A:BARCGB22XXX
+:59:/BEN33497251646716
+Rollins, Coleman and Crawford
+96278 Reynolds Locks Apt. 867 Williamsshire, RI 09140
+:70:INV 8DED9D08589A Good thought officer radio under give book similar.
+:71A:OUR
+-}{5:{CHK:bc190d3941}}

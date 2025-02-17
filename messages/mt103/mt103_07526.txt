@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240218SOGEFRPPXXXXXXXN}{3:{121:5bbfdfe8-a581-4433-8fe5-13598beef431}}{4:
+:20:REF-36798
+:23B:CRED
+:32A:240218EUR329257.00
+:50K:/OC5219334
+Valentine, Swanson and Wright
+7104 Alexandria Roads Apt. 345 Port Karla, NY 41162
+:57A:SOGEFRPPXXX
+:59:/BEN56109645401227
+Davis-Jones
+3580 Stephanie Estate Meyershaven, OK 55912
+:70:INV 3D2266EF7027 From interesting without firm size maybe.
+:71A:OUR
+-}{5:{CHK:dc735d2771}}

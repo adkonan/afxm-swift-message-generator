@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240430ZENITHNGLAXXXXXXXN}{3:{121:3d94a240-f6be-479f-85e5-5fed898f90cd}}{4:
+:20:REF-93958
+:23B:CRED
+:32A:240430USD22483500.00
+:50K:/OC7536011
+Rojas, Hughes and Allison
+2110 Edwards Motorway East Christinestad, LA 43388
+:57A:ZENITHNGLAXXX
+:59:/BEN43288556451630
+Mclean Inc
+78177 Henderson Grove South Ivantown, CT 31165
+:70:INV CBE2F91CC2E5 Yeah others look thank building tend five during.
+:71A:OUR
+-}{5:{CHK:5f392dacc6}}

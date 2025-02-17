@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240405HSBCHKHHXXXXXXXN}{3:{121:c9e094f8-815b-48af-ab0d-9d932af5d32b}}{4:
+:20:REF-10134
+:23B:CRED
+:32A:240405EUR494041.00
+:50K:/OC3405035
+Carter Ltd
+2171 Kurt Villages Apt. 390 Tylerborough, IN 90741
+:57A:HSBCHKHHXXX
+:59:/BEN58118964519920
+Jones, Washington and Campbell
+0862 Dana Groves Schwartzburgh, WV 67377
+:70:INV 10F4F77FA013 Store effect market kitchen or hospital.
+:71A:OUR
+-}{5:{CHK:0a1c9d60f8}}

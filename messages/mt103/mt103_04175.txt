@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240622BOMLMRUXXXXXXXXN}{3:{121:2371fdd8-4124-4f80-b4c6-47a56a046fa3}}{4:
+:20:REF-94640
+:23B:CRED
+:32A:240622CAD335883.00
+:50K:/OC6035026
+Anderson, Montgomery and Larson
+67722 Brandi Neck Apt. 726 East Donald, NV 15405
+:57A:BOMLMRUXXXX
+:59:/BEN17831946753801
+Williams, Carroll and Perez
+203 Robinson Greens Millerberg, VT 10616
+:70:INV 47AF2EEBF965 Without chance and important capital another small measure.
+:71A:OUR
+-}{5:{CHK:151bdd20ee}}

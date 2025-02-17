@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241127UBSWCHZHXXXXXXXN}{3:{121:1d8b82c3-5c6d-483d-ad3a-2957fa86761b}}{4:
+:20:REF-38398
+:23B:CRED
+:32A:241127XAG402777.00
+:50K:/OC2818570
+Cunningham, Aguilar and Wood
+95822 Freeman Isle Lake Aaronfurt, IN 78070
+:57A:UBSWCHZHXXX
+:59:/BEN64120833486647
+Hayes Inc
+847 Rodriguez Viaduct North Antonioport, MS 21255
+:70:INV 85BC557A87C0 Price student nice admit special card.
+:71A:OUR
+-}{5:{CHK:d46df8060a}}

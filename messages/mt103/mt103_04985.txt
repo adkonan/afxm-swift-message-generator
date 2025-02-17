@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241123BMCECMRXXXXXXXXN}{3:{121:90efbd86-7ed1-4c59-b6bd-8fec1a890feb}}{4:
+:20:REF-46739
+:23B:CRED
+:32A:241123AUD58503.00
+:50K:/OC7355563
+Collins-Adams
+99620 Latoya Crossroad Suite 129 Lake Veronica, AK 96481
+:57A:BMCECMRXXXX
+:59:/BEN92745792030855
+Freeman-Brennan
+748 Patrick Causeway Apt. 095 Youngland, FM 17349
+:70:INV BB6F5FBF906F Share realize approach main reality fact also along.
+:71A:OUR
+-}{5:{CHK:baaef9b379}}

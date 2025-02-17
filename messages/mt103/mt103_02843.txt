@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240621BOFAUS3NXXXXXXXN}{3:{121:a535bc2e-e5a2-4601-a3e7-82781b11e954}}{4:
+:20:REF-78536
+:23B:CRED
+:32A:240621CAD253054.00
+:50K:/OC3738468
+Key, Harris and Mendez
+502 Roberson Drive Apt. 550 Moyerstad, FL 83733
+:57A:BOFAUS3NXXX
+:59:/BEN63368591267546
+Miller, Bailey and Anderson
+1576 Rodriguez Viaduct Ingramfurt, TN 93264
+:70:INV B2CBB8D0F0CB Number history religious opportunity.
+:71A:OUR
+-}{5:{CHK:396ebc8658}}

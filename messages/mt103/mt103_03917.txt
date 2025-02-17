@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240716DBSAZAJJXXXXXXXN}{3:{121:9768ee55-e176-4554-ad5d-669d3b71e550}}{4:
+:20:REF-36041
+:23B:CRED
+:32A:240716JPY266589.00
+:50K:/OC2668696
+Wilkerson-Joyce
+675 Baldwin Flat South Patrick, NC 53498
+:57A:DBSAZAJJXXX
+:59:/BEN90726248105513
+Cox, Montoya and Montgomery
+88931 Dominguez Extensions West David, WV 85661
+:70:INV F1F9712C3F28 Oil consider mother different lose protect generation sit.
+:71A:OUR
+-}{5:{CHK:3307b25010}}

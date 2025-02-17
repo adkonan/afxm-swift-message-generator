@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240704UBSWRIT2XXXXXXXN}{3:{121:e5178a46-9c22-4c88-a4b2-a79550e14294}}{4:
+:20:REF-49246
+:23B:CRED
+:32A:240704CAD114080.00
+:50K:/OC6986302
+Thomas, Sanders and Hernandez
+763 Mark Flat Apt. 780 Lake Amanda, WV 54638
+:57A:UBSWRIT2XXX
+:59:/BEN74378278456168
+Gutierrez, Higgins and Pham
+106 Kimberly Estate Apt. 421 Terryborough, WI 52215
+:70:INV C522EA86EBBC Know capital player knowledge street.
+:71A:OUR
+-}{5:{CHK:7fd01db676}}

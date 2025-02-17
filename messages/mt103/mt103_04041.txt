@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103241201BOMLMRUXXXXXXXXN}{3:{121:272aefde-7b9b-4416-a71d-75ea048d0814}}{4:
+:20:REF-90855
+:23B:CRED
+:32A:241201XAG31063.00
+:50K:/OC4348519
+Sherman, Lopez and Carter
+311 Corey Station Apt. 653 West Petermouth, KS 75022
+:57A:BOMLMRUXXXX
+:59:/BEN39344976041966
+Atkins-Thompson
+6367 Simon Fords Suite 929 West Laurenfort, NC 93461
+:70:INV 74CC8E43B827 Control husband give blue mean shake message single.
+:71A:OUR
+-}{5:{CHK:1b3b289320}}

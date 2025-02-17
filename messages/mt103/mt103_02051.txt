@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240303CRESIT2LXXXXXXXN}{3:{121:19c669fa-dd57-4c7d-bc61-82fced548636}}{4:
+:20:REF-20812
+:23B:CRED
+:32A:240303JPY824760.00
+:50K:/OC8050344
+Cole-Erickson
+14092 Tonya Pike Suite 804 North William, CA 60628
+:57A:CRESIT2LXXX
+:59:/BEN26097623943885
+Barnes, Glenn and Chandler
+81483 Robert Summit Lake Michael, NJ 78844
+:70:INV 00BD91531239 Idea water yes heavy team recently generation call.
+:71A:OUR
+-}{5:{CHK:48a93b6497}}

@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240914CRESCHZZXXXXXXXN}{3:{121:d21352be-2b71-4df0-a1c3-1a3e712a210a}}{4:
+:20:REF-82250
+:23B:CRED
+:32A:240914CAD362402.00
+:50K:/OC9018526
+Anderson, Fisher and Gill
+28497 Walker Isle Suite 623 West Deborahmouth, OH 35209
+:57A:CRESCHZZXXX
+:59:/BEN11849757364855
+Hernandez, Mckay and Bennett
+74748 James Mountains Apt. 055 South Stephen, MO 76175
+:70:INV 23A278E1F370 Discussion minute pick system.
+:71A:OUR
+-}{5:{CHK:4d575406d2}}

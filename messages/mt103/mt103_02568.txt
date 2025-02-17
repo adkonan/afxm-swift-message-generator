@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240719BNPAFRPPXXXXXXXN}{3:{121:c3f4db01-6968-410b-9069-1b3da134d68a}}{4:
+:20:REF-16240
+:23B:CRED
+:32A:240719AUD237061.00
+:50K:/OC7325769
+Brooks, Smith and Marshall
+85580 Campos Mill Dominguezhaven, ME 69972
+:57A:BNPAFRPPXXX
+:59:/BEN98565462896914
+Garza, Rose and Henderson
+6156 Sandra Bypass North Joshualand, ID 23148
+:70:INV 162E84B37AA5 Night shoulder management situation contain economic material.
+:71A:OUR
+-}{5:{CHK:04673ae3c8}}

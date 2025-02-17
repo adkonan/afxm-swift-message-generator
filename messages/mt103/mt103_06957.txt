@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240708ABSAZAJJXXXXXXXN}{3:{121:01c454b9-3445-4e34-8085-ea72fc5dfbd9}}{4:
+:20:REF-30311
+:23B:CRED
+:32A:240708CNY2436380.00
+:50K:/OC6433701
+Alexander, Taylor and Robbins
+2390 Stark Field Kimberlyberg, VA 94061
+:57A:ABSAZAJJXXX
+:59:/BEN47209616553511
+Parrish, Williamson and Lewis
+9938 White Cove Suite 374 Hollyburgh, PR 20639
+:70:INV 5762A3238E61 Miss conference offer score lawyer language discuss Republican.
+:71A:OUR
+-}{5:{CHK:b5f3ae0cc2}}

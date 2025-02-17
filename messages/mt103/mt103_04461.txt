@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240701BKBKPHMMXXXXXXXN}{3:{121:aff6de41-a28c-40d1-9f81-94f145c29d3f}}{4:
+:20:REF-76051
+:23B:CRED
+:32A:240701JPY273163.00
+:50K:/OC5125160
+Wilson-Gallagher
+028 Adam River Port Glenmouth, MH 17859
+:57A:BKBKPHMMXXX
+:59:/BEN69108178683813
+Burton, Kirk and Hansen
+85261 Michael Locks Sanchezmouth, DE 03313
+:70:INV BFEB204EFDB8 A business with thought instead box ever.
+:71A:OUR
+-}{5:{CHK:d748b8e50d}}

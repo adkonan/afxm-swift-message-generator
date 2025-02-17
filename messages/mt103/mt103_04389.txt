@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240314STANKEKEXXXXXXXN}{3:{121:03dd7e6c-2402-4efe-b49f-65b2b2964cab}}{4:
+:20:REF-94333
+:23B:CRED
+:32A:240314XDR467022.00
+:50K:/OC3305433
+Leach, Harrell and Cowan
+57728 Taylor Walk East Christina, CA 03169
+:57A:STANKEKEXXX
+:59:/BEN61410362815143
+Peters-Fields
+639 Logan Squares Apt. 658 Lake Lucasburgh, OK 31892
+:70:INV B90E1185322F Whole scene goal enter short inside film.
+:71A:OUR
+-}{5:{CHK:3f7dfc40a8}}

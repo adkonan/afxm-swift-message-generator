@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240526SMBCJPJTXXXXXXXN}{3:{121:338deb2c-7d58-4c79-9022-a980859fa530}}{4:
+:20:REF-60557
+:23B:CRED
+:32A:240526JPY52576.00
+:50K:/OC1713545
+Taylor-Martin
+012 Edwards Pass Apt. 220 Juanfurt, KY 77206
+:57A:SMBCJPJTXXX
+:59:/BEN40677222459003
+Campbell, Kennedy and Kennedy
+860 Ware Estate Suite 468 Donaldview, MH 36031
+:70:INV 2D805D86109F Mission particular dream agree war study million matter.
+:71A:OUR
+-}{5:{CHK:8d9d9030c8}}

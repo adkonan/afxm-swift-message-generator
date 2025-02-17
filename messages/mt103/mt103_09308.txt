@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240818BARCGB22XXXXXXXN}{3:{121:e20d91be-d251-401d-95be-2528dc6a48ee}}{4:
+:20:REF-98368
+:23B:CRED
+:32A:240818KPW224546.00
+:50K:/OC6541567
+Green Ltd
+913 Stacey Route Johnbury, PR 57105
+:57A:BARCGB22XXX
+:59:/BEN65824054443768
+Lambert, Collins and Robinson
+1498 Brittany Stravenue Suite 847 Owenschester, AL 58433
+:70:INV 2F7A8915B837 Much style police clear success blood.
+:71A:OUR
+-}{5:{CHK:16deddbcfa}}

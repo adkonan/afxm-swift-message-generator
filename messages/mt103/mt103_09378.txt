@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240720DEUTDEFFXXXXXXXN}{3:{121:6aeb6130-a825-422f-ad0e-28ebd32ffea0}}{4:
+:20:REF-24804
+:23B:CRED
+:32A:240720GBP437865.00
+:50K:/OC7820752
+Velazquez and Sons
+8545 Rodriguez Oval Suite 649 Huertaview, FL 79146
+:57A:DEUTDEFFXXX
+:59:/BEN79116666152483
+Huff Inc
+018 Krueger Forge Jessicabury, VA 01829
+:70:INV 4CBE48DF3357 Network thought Republican writer democratic oil dark.
+:71A:OUR
+-}{5:{CHK:dec05c387d}}

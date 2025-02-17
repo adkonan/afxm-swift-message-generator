@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103241008BNPAGB22XXXXXXXN}{3:{121:fa6e0569-ca21-4e38-a6f9-43c451a79990}}{4:
+:20:REF-58206
+:23B:CRED
+:32A:241008EUR75391.00
+:50K:/OC7060195
+Washington, Bailey and Edwards
+2769 Burke Cove Nicoletown, WV 58042
+:57A:BNPAGB22XXX
+:59:/BEN52044648999067
+Chavez, Herrera and Mclean
+147 Andre Ford Apt. 542 Lake James, NY 48133
+:70:INV AD64FC322A47 Off present authority contain attention charge.
+:71A:OUR
+-}{5:{CHK:a8c9ab26c3}}

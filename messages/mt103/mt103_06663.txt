@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103241217ICBKCNBJXXXXXXXN}{3:{121:49d16894-ef42-4533-90f8-4b6909823b03}}{4:
+:20:REF-25434
+:23B:CRED
+:32A:241217CNY3229.36
+:50K:/OC5260933
+Barrett, Skinner and Bonilla
+18925 Anderson River North Madisonborough, VI 68743
+:57A:ICBKCNBJXXX
+:59:/BEN16489487314064
+Mccoy-Chavez
+562 Jacobs Cliff Suite 498 South Jorgetown, MP 39210
+:70:INV D146294EE8B2 Prepare American early whom seat national.
+:71A:OUR
+-}{5:{CHK:abd5f9dd2f}}

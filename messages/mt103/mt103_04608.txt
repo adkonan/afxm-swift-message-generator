@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240927STANKEKEXXXXXXXN}{3:{121:60aeeb15-cfaf-49fe-b4e8-d4d93e734dba}}{4:
+:20:REF-18284
+:23B:CRED
+:32A:240927AUD1747480.00
+:50K:/OC2548382
+Santiago, Dudley and Mclaughlin
+33325 Cynthia Road Apt. 123 Port Deanview, CT 14812
+:57A:STANKEKEXXX
+:59:/BEN51061483983302
+Sims, Meza and Collins
+2404 Oconnor Mission Suite 974 Chaseshire, AR 60473
+:70:INV A9CD6067A280 Sea hospital cover far writer ability same.
+:71A:OUR
+-}{5:{CHK:be2080995d}}

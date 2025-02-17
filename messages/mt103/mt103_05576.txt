@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240830CRESCHZZXXXXXXXN}{3:{121:0fceb18b-67cf-456e-ac44-e35c98bf4b46}}{4:
+:20:REF-34178
+:23B:CRED
+:32A:240830USD468305.00
+:50K:/OC1897652
+Gutierrez, Wheeler and Cole
+34160 Rebecca Motorway Apt. 628 Aaronfort, WV 91373
+:57A:CRESCHZZXXX
+:59:/BEN67114116846870
+Ferguson-Butler
+6818 Barker Ports Apt. 087 Port Anthony, KS 43178
+:70:INV 45AF10BC5A52 Speak usually turn dog nearly start cup participant.
+:71A:OUR
+-}{5:{CHK:dd657e989c}}

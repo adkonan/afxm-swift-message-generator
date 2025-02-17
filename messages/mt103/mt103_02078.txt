@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240505BKCHHKHXXXXXXXXN}{3:{121:3adab450-0bc8-4048-8a7a-7d13fdb41d3b}}{4:
+:20:REF-29167
+:23B:CRED
+:32A:240505XDR49509400.00
+:50K:/OC4321027
+Martinez, Smith and Velasquez
+308 James Lane Adamsville, MT 50138
+:57A:BKCHHKHXXXX
+:59:/BEN72580577342780
+White, Johnson and Olson
+167 Shelton Overpass Suite 600 West Reneeville, NY 45752
+:70:INV DF2838170318 Structure national management gas part.
+:71A:OUR
+-}{5:{CHK:64f9d810b4}}

@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103250113OCBCSGSGXXXXXXXN}{3:{121:c1caa4a3-dab4-4ae6-bb40-e6bffc66343b}}{4:
+:20:REF-15653
+:23B:CRED
+:32A:250113CNY489257.00
+:50K:/OC8093340
+Hodges Group
+9020 Rogers Islands Suite 819 Wendyview, AK 07410
+:57A:OCBCSGSGXXX
+:59:/BEN76222001843441
+Dennis, Santiago and Thomas
+537 Parks Shore Suite 704 Ramseyland, PW 31404
+:70:INV D244D3E61FC1 By cause against under site chair.
+:71A:OUR
+-}{5:{CHK:b4d21ea539}}

@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103241031HSBCHKHHXXXXXXXN}{3:{121:e3ba1ecb-2188-4df6-b79c-485e9dd65470}}{4:
+:20:REF-72428
+:23B:CRED
+:32A:241031AUD314372.00
+:50K:/OC7122957
+Rivera, Griffin and Mcknight
+91644 Lopez Way Kellyside, WI 95723
+:57A:HSBCHKHHXXX
+:59:/BEN61360808441690
+Gould, Yang and Davis
+57982 Johnson Spring Suite 489 Moorefort, CT 18809
+:70:INV FE69CD3F6EED Note movie eight opportunity them former today.
+:71A:OUR
+-}{5:{CHK:11eef99cb4}}

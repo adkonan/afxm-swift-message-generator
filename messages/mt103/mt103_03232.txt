@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103241129CRESCHZZXXXXXXXN}{3:{121:f0dfc6de-5d6f-4723-8afd-7bbcc5ebc3f7}}{4:
+:20:REF-41335
+:23B:CRED
+:32A:241129AUD212901.00
+:50K:/OC6364956
+Ellis, King and Kelley
+USNS Hernandez FPO AE 63114
+:57A:CRESCHZZXXX
+:59:/BEN41709736345309
+Garner, Livingston and Walker
+33316 Jones Springs Suite 427 North Peter, OR 97323
+:70:INV 5926677DE407 Former save technology talk budget firm who.
+:71A:OUR
+-}{5:{CHK:8d02934019}}

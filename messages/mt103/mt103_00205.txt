@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103250108BCAOAOAOXXXXXXXN}{3:{121:e41b7e7c-6129-4f52-927a-5f682f8147e0}}{4:
+:20:REF-91627
+:23B:CRED
+:32A:250108CNY384831.00
+:50K:/OC3988180
+Fisher Group
+061 Malone Extension East Michaelfort, WV 73647
+:57A:BCAOAOAOXXX
+:59:/BEN97800648784005
+Tran, Scott and Rodriguez
+7474 Cooper Rapid Apt. 832 South Gabrielfort, MO 30216
+:70:INV 85D66C4EC99A Quality hospital stock popular include kind property.
+:71A:OUR
+-}{5:{CHK:82633ac027}}

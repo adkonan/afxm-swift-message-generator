@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240513MIZUJPJTXXXXXXXN}{3:{121:95357b95-9560-4f14-9df2-8860e01c19ff}}{4:
+:20:REF-27219
+:23B:CRED
+:32A:240513CAD141545.00
+:50K:/OC4607790
+Flores-Thomas
+438 Donald Cove Stevenborough, IN 09166
+:57A:MIZUJPJTXXX
+:59:/BEN25830029308911
+Lewis, Moore and Riddle
+310 Ritter Fall Suite 639 East Barbara, AS 20123
+:70:INV 8EA2BF0F6D5E All before seat character difference for themselves minute.
+:71A:OUR
+-}{5:{CHK:09606cbb67}}

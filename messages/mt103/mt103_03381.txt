@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103250118CRESCHZZXXXXXXXN}{3:{121:ac5c8058-c910-4e9a-a588-74ca0c7ce606}}{4:
+:20:REF-53067
+:23B:CRED
+:32A:250118CNY33791500.00
+:50K:/OC9602778
+Wilson LLC
+574 Jimenez Dam Floreschester, DE 57186
+:57A:CRESCHZZXXX
+:59:/BEN12855767239422
+Brown, Warner and Huff
+365 Ashley Summit Grossmouth, TN 17551
+:70:INV A92BF55E5355 Interesting international pay maintain movement little.
+:71A:OUR
+-}{5:{CHK:a053bcd6d7}}

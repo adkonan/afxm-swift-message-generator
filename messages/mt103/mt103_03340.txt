@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240322BARCGB22XXXXXXXN}{3:{121:bd8af336-9d1d-411b-9f51-ada9c973e554}}{4:
+:20:REF-41176
+:23B:CRED
+:32A:240322JPY358394.00
+:50K:/OC5600441
+Allen and Sons
+66865 Tony Knolls Apt. 485 West Devin, MP 22552
+:57A:BARCGB22XXX
+:59:/BEN90272920865578
+Bishop, Russo and Tucker
+389 Mullins Mountain Suite 143 South Jessica, PW 66424
+:70:INV B048605FDF07 Party ask state million better culture cultural.
+:71A:OUR
+-}{5:{CHK:4c1e407dc1}}

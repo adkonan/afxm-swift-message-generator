@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240505RABONL2UXXXXXXXN}{3:{121:731e0f61-fac8-42a2-80b1-b7637c7f83de}}{4:
+:20:REF-36963
+:23B:CRED
+:32A:240505CNY2148860.00
+:50K:/OC3522360
+Harvey-Underwood
+49058 Riley Mission Shawnstad, FM 25360
+:57A:RABONL2UXXX
+:59:/BEN19605429002117
+Jacobs, Johnson and Bradford
+06408 Kristen Inlet Thompsonberg, SC 13614
+:70:INV 009544B76298 Store maybe increase why manage source say several.
+:71A:OUR
+-}{5:{CHK:221cc00350}}

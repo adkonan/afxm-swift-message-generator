@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240506DTBKIDJAXXXXXXXN}{3:{121:305c3f50-110d-4ae3-a84c-6c29bae2860b}}{4:
+:20:REF-87555
+:23B:CRED
+:32A:240506CAD325867.00
+:50K:/OC5566036
+Krueger, Mitchell and Mendez
+1367 Colin Neck Apt. 132 Adamhaven, NY 02297
+:57A:DTBKIDJAXXX
+:59:/BEN52879938410334
+Mann, Sanders and Baker
+89550 Thomas Ports Pamelaburgh, AK 03418
+:70:INV D61DD89A978A Agreement hard ahead surface relate college.
+:71A:OUR
+-}{5:{CHK:0f3ef9d4b1}}

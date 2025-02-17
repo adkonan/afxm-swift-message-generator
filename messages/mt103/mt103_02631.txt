@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240516DEUTDEFFXXXXXXXN}{3:{121:28842ff5-5ba5-46f1-9aa6-1471d2b8fd8f}}{4:
+:20:REF-87415
+:23B:CRED
+:32A:240516IRR301081.00
+:50K:/OC3659007
+Stone, Edwards and Green
+356 Bates Place Apt. 284 Robinsonville, OH 33513
+:57A:DEUTDEFFXXX
+:59:/BEN55224563935054
+Herrera, Waller and Gonzalez
+7074 Edwards Squares Apt. 004 Fosterburgh, MH 78256
+:70:INV DD86EA42620F Thousand instead there body difference.
+:71A:OUR
+-}{5:{CHK:19fe452991}}

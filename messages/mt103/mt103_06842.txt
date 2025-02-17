@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241109ZURICHZCHXXXXXXXN}{3:{121:2124ce7e-a0b0-4968-9f2f-dcfe952381b9}}{4:
+:20:REF-70542
+:23B:CRED
+:32A:241109GBP224014.00
+:50K:/OC3357297
+Baker, Moreno and Jones
+319 Ebony Dale Lopezburgh, TX 32829
+:57A:ZURICHZCHXXX
+:59:/BEN16173089143480
+Sanchez, Hogan and Nelson
+280 Christensen Run South Bobbymouth, FL 63095
+:70:INV 06143AF9604B Cut modern describe remain important field paper.
+:71A:OUR
+-}{5:{CHK:d4d9ba5a0f}}

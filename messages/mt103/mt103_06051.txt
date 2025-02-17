@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240813ICBKCNBJXXXXXXXN}{3:{121:b0ce7056-e6b7-49b7-bf86-00506ef95c60}}{4:
+:20:REF-86615
+:23B:CRED
+:32A:240813CHF198523.00
+:50K:/OC5761191
+Bautista, Brown and George
+80103 Chung Route South Elizabeth, VT 49491
+:57A:ICBKCNBJXXX
+:59:/BEN76622620397783
+Mooney, Reyes and Wang
+756 Ryan Forest Andrewfort, ID 91107
+:70:INV 1E4B48A24A89 Choose thousand decision provide front.
+:71A:OUR
+-}{5:{CHK:224ad1fda4}}

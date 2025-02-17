@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240506CITIUS33XXXXXXXN}{3:{121:b8403e5d-1c0c-40cb-b02b-2c5d4285ee4d}}{4:
+:20:REF-81155
+:23B:CRED
+:32A:240506CHF342326.00
+:50K:/OC7406172
+Walker-Burke
+7908 Reeves Groves Apt. 355 New Nathanview, WV 37010
+:57A:CITIUS33XXX
+:59:/BEN17284201456920
+Munoz, Raymond and Schultz
+81979 Taylor River Suite 371 North Jennifer, KY 15580
+:70:INV EF6EEC611187 Already spring word summer safe recent window.
+:71A:OUR
+-}{5:{CHK:2befab08f5}}

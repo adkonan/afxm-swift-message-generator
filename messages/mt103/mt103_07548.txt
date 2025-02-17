@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103241205BKCHHKHXXXXXXXXN}{3:{121:3ebf2d47-bd36-41b7-9321-89d3aeadbca7}}{4:
+:20:REF-87925
+:23B:CRED
+:32A:241205USD179025.00
+:50K:/OC9628300
+Davis Ltd
+19686 Jacob Radial South Beverly, AS 71736
+:57A:BKCHHKHXXXX
+:59:/BEN59222060774801
+Allen-Hamilton
+351 Stewart Canyon Suite 202 New Benjamin, NV 41924
+:70:INV FFE4AB9CD4D6 Interview color common within former walk agency.
+:71A:OUR
+-}{5:{CHK:ca7cd044cb}}

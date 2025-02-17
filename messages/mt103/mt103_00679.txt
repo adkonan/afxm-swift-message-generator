@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240221CIBCCATTXXXXXXXN}{3:{121:a0a3681e-6af6-4daa-83d0-da2063eb3451}}{4:
+:20:REF-33307
+:23B:CRED
+:32A:240221JPY90103.00
+:50K:/OC6251198
+Jones, Gray and Martinez
+10122 Saunders Light Austinberg, LA 94894
+:57A:CIBCCATTXXX
+:59:/BEN91136543357032
+Hopkins-Hansen
+6672 Hardy Mills Johnburgh, GU 29175
+:70:INV 16A40D299AB1 Score chance political simply assume attack citizen activity.
+:71A:OUR
+-}{5:{CHK:70da91351c}}

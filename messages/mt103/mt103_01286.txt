@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240927NATXFRPPXXXXXXXN}{3:{121:c99a004b-82a1-4b4c-8d67-a8320c9b3dd3}}{4:
+:20:REF-81574
+:23B:CRED
+:32A:240927CNY31381.00
+:50K:/OC2432345
+Gonzalez, Crane and Marquez
+408 Mcdaniel Stravenue Suite 707 Lorettaberg, AL 55028
+:57A:NATXFRPPXXX
+:59:/BEN53506458353668
+James, Smith and Martin
+581 Hogan Passage Suite 034 Port Taylormouth, AL 38725
+:70:INV EA659FE95EFB Politics pass information industry debate have.
+:71A:OUR
+-}{5:{CHK:b38a021877}}

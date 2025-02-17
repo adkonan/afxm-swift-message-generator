@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240927RBCROYTORXXXXXXXN}{3:{121:e59faa62-dc97-4d01-9dcb-36768f615d49}}{4:
+:20:REF-95403
+:23B:CRED
+:32A:240927EUR196625.00
+:50K:/OC1923353
+Turner Inc
+6161 Melissa Route Diazbury, OR 87427
+:57A:RBCROYTORXXX
+:59:/BEN73522193933044
+Krueger, Ritter and Wilson
+3015 Holmes Grove Apt. 108 New Michaelland, NE 51859
+:70:INV 67FDCD44263A Management traditional thousand field various enter plan.
+:71A:OUR
+-}{5:{CHK:1baca2725b}}

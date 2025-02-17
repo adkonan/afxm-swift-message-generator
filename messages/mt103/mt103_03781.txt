@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241014UBSWRIT2XXXXXXXN}{3:{121:f5de06b4-6775-43b4-98b0-81f4cf4acca2}}{4:
+:20:REF-59312
+:23B:CRED
+:32A:241014GBP453610.00
+:50K:/OC2549903
+Watkins Ltd
+9538 Dennis Ramp Suite 968 Dixonbury, TN 69626
+:57A:UBSWRIT2XXX
+:59:/BEN89614571649256
+Reeves, Goodman and Lee
+0893 Wood Mountains Suite 923 North Tyler, TN 40790
+:70:INV 6C7591672997 Soon left yourself young possible beautiful eight.
+:71A:OUR
+-}{5:{CHK:2203c8549e}}

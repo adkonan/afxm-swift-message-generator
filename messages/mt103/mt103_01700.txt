@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250102UBSWCHZHXXXXXXXN}{3:{121:986c8de2-5e11-47e6-9c71-855dcb8a0fef}}{4:
+:20:REF-29769
+:23B:CRED
+:32A:250102AUD8759700.00
+:50K:/OC5912326
+White-Cole
+220 Shah View Apt. 853 South Donald, TX 34444
+:57A:UBSWCHZHXXX
+:59:/BEN90055298796422
+Gonzales-Mcdaniel
+39675 Nicole Glen South Jasonshire, CO 30016
+:70:INV 9919C132E864 Present environmental leader leader opportunity appear note water.
+:71A:OUR
+-}{5:{CHK:5d10354c63}}

@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240620BICIBFBFXXXXXXXN}{3:{121:3ca48f01-378a-430a-bd43-c676f169a0da}}{4:
+:20:REF-33443
+:23B:CRED
+:32A:240620GBP306462.00
+:50K:/OC2155293
+Castaneda-Robbins
+879 Rodriguez Groves West Karen, AK 81707
+:57A:BICIBFBFXXX
+:59:/BEN95714256872747
+Terry, Lawrence and Wilson
+97984 Jonathan Creek Apt. 825 Lake Patricia, AZ 92310
+:70:INV B6D379850FE6 Never piece themselves relate foot herself.
+:71A:OUR
+-}{5:{CHK:06201d9edb}}

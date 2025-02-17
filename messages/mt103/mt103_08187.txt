@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250213SMBCJPJTXXXXXXXN}{3:{121:075bf5a8-a94d-4a4d-b71e-8ddb6f1675f4}}{4:
+:20:REF-27903
+:23B:CRED
+:32A:250213CNY3403600.00
+:50K:/OC3221006
+Carlson, Cook and Johnson
+22071 Davis Ville Bullockview, NM 81762
+:57A:SMBCJPJTXXX
+:59:/BEN88207297226280
+Hill-Yoder
+0380 Andrew Crossroad Apt. 428 Montgomeryhaven, MD 02162
+:70:INV 7D1F14578300 Yet education theory say conference foreign little.
+:71A:OUR
+-}{5:{CHK:62557e2127}}

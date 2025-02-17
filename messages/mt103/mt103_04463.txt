@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240510ABSAZAJJXXXXXXXN}{3:{121:927c0817-c3eb-40db-bedf-7c615db56dcd}}{4:
+:20:REF-15700
+:23B:CRED
+:32A:240510CNY276450.00
+:50K:/OC4282272
+Anderson, Powell and Tanner
+292 Amber Fall Apt. 619 South Sarahton, ID 94152
+:57A:ABSAZAJJXXX
+:59:/BEN19187960072548
+Paul, Willis and Gonzalez
+289 Fitzgerald Stream Apt. 981 Montgomeryton, GA 55620
+:70:INV 4A9DC4F79734 Girl happy clear.
+:71A:OUR
+-}{5:{CHK:d524e20f1b}}

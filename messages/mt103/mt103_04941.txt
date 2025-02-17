@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240912SMBCJPJTXXXXXXXN}{3:{121:43a11efb-354c-40ae-9b31-d0311b5cae1f}}{4:
+:20:REF-32353
+:23B:CRED
+:32A:240912AUD103664.00
+:50K:/OC1461143
+Strickland, Weber and Ford
+5902 Newman Expressway Gordonchester, FM 51890
+:57A:SMBCJPJTXXX
+:59:/BEN93856546613812
+Reyes-Cantrell
+6789 John Lake South Kara, VI 92242
+:70:INV 5943E9A443F6 Occur agent window produce security image investment end.
+:71A:OUR
+-}{5:{CHK:4195383e46}}

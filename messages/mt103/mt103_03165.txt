@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240502ICBKCNBJXXXXXXXN}{3:{121:5ade0481-acaf-4953-a08b-4ec76703e49e}}{4:
+:20:REF-46652
+:23B:CRED
+:32A:240502GBP347288.00
+:50K:/OC1376263
+Martinez-Delgado
+4962 Valentine Wall Jonesland, ID 63284
+:57A:ICBKCNBJXXX
+:59:/BEN15721556122220
+Flores, Greene and Green
+78064 Roberts Keys Vincentton, VT 14078
+:70:INV 0F182A891EBB Dark responsibility organization bit carry.
+:71A:OUR
+-}{5:{CHK:a74184f7be}}

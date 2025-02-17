@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241101CRESIT2LXXXXXXXN}{3:{121:0f72470e-c33c-4fb6-9e3d-b9a548dd68bf}}{4:
+:20:REF-77924
+:23B:CRED
+:32A:241101KPW192103.00
+:50K:/OC5311793
+Frazier Inc
+7210 Mcguire Expressway Suite 812 Craigstad, AL 40293
+:57A:CRESIT2LXXX
+:59:/BEN65837627650932
+Mcdonald, Williams and Garcia
+271 Heath Villages Bruceburgh, MH 68726
+:70:INV E06B4A7425FF Production husband agent huge size.
+:71A:OUR
+-}{5:{CHK:e5f4bf9503}}

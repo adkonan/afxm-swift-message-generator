@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240509DBSSSGSGXXXXXXXN}{3:{121:11b56bfe-8286-4bb6-919d-fef88ebbb17c}}{4:
+:20:REF-63210
+:23B:CRED
+:32A:240509CNY334063.00
+:50K:/OC4054302
+Patterson Inc
+53276 Jennifer Junctions Apt. 903 Hammondmouth, MP 74812
+:57A:DBSSSGSGXXX
+:59:/BEN28498328443001
+Stevens, Munoz and Sutton
+88650 Tyler Streets Marquezside, IA 86660
+:70:INV C292FDAA177A Give force board raise through American.
+:71A:OUR
+-}{5:{CHK:381caba083}}

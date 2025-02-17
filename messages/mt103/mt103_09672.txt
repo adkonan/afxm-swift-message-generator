@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240903RBCROYTORXXXXXXXN}{3:{121:02e3c602-bb10-4a60-8536-8f4d7aa1ba69}}{4:
+:20:REF-15217
+:23B:CRED
+:32A:240903CNY4838430.00
+:50K:/OC7227973
+Berger-Davis
+44689 April Street Thompsonhaven, MD 15191
+:57A:RBCROYTORXXX
+:59:/BEN78513571327279
+Allen Ltd
+6517 Neal Court Apt. 979 West Dawnbury, CT 16758
+:70:INV 77D10A8828B7 Financial institution article rich agent traditional religious because.
+:71A:OUR
+-}{5:{CHK:08a48e6900}}

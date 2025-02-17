@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240412GTBINGLAXXXXXXXN}{3:{121:ababc475-82ce-4760-94e7-104e7fd0f91f}}{4:
+:20:REF-50866
+:23B:CRED
+:32A:240412USD67077.00
+:50K:/OC5600733
+Zimmerman, Clayton and Davis
+566 Ryan Bridge Suite 312 West Lauren, MP 89870
+:57A:GTBINGLAXXX
+:59:/BEN29146291183280
+White-Lewis
+2052 Lisa Brooks Kathrynland, LA 64377
+:70:INV F52400F4D3B5 Avoid development arm building agreement skin heavy.
+:71A:OUR
+-}{5:{CHK:178d0a8479}}

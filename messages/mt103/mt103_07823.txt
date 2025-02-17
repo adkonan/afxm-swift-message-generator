@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240727CIBCCATTXXXXXXXN}{3:{121:8efdfd19-1d2d-41d5-ad31-374b0494e42d}}{4:
+:20:REF-40455
+:23B:CRED
+:32A:240727KPW286948.00
+:50K:/OC3807620
+Dorsey, Rodriguez and Perez
+USNV Hawkins FPO AA 85294
+:57A:CIBCCATTXXX
+:59:/BEN29821177318991
+Tanner, Harris and Fry
+205 Shelby Trail Chavezmouth, PR 88143
+:70:INV BC1F6AD98A80 Interesting upon possible you same face too.
+:71A:OUR
+-}{5:{CHK:dfbd25e2ff}}

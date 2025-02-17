@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103250205BNPAFRPPXXXXXXXN}{3:{121:7a4aaf18-c3e1-4319-9ae9-c6f60e63b589}}{4:
+:20:REF-26648
+:23B:CRED
+:32A:250205CHF473144.00
+:50K:/OC1926368
+Johnson, Hartman and West
+856 Parsons Island Apt. 608 Smithstad, WI 97536
+:57A:BNPAFRPPXXX
+:59:/BEN50925729969238
+Weber-Perry
+593 Davidson Ramp Apt. 425 East Joseph, ND 07490
+:70:INV 186F0128A6D0 Wrong treat population big theory who explain send.
+:71A:OUR
+-}{5:{CHK:7640965a67}}

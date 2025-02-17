@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103250212SCBLGB2LXXXXXXXN}{3:{121:536f5c0d-bd20-4ea6-9cfa-68abaafd920d}}{4:
+:20:REF-77663
+:23B:CRED
+:32A:250212SGD388088.00
+:50K:/OC7281057
+Jackson-Woodard
+0411 Perry Coves Apt. 732 East William, AL 31559
+:57A:SCBLGB2LXXX
+:59:/BEN46280085093993
+Lewis-Hunter
+8673 Lowe Corner Suite 523 Brandonchester, ND 55867
+:70:INV B806264E4EA3 Phone the scientist likely here investment year.
+:71A:OUR
+-}{5:{CHK:cece189a1d}}

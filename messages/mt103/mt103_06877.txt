@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103241001RBCROYTORXXXXXXXN}{3:{121:11e07718-eeb1-483d-8b9c-bcfb59caddc7}}{4:
+:20:REF-58510
+:23B:CRED
+:32A:241001JPY364936.00
+:50K:/OC1515889
+York, Williams and Mccullough
+087 Rachel Brooks Simmonsshire, NV 56953
+:57A:RBCROYTORXXX
+:59:/BEN53056423411936
+Hill, Beck and Barnes
+8863 Paul Club Suite 953 East Marissaborough, DE 64098
+:70:INV F003E886D926 Forget serious check TV else.
+:71A:OUR
+-}{5:{CHK:73bfce1b4a}}

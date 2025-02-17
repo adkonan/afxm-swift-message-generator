@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241013MIZUJPJTXXXXXXXN}{3:{121:f70c0269-4f99-44e8-b2db-a58c384f0a52}}{4:
+:20:REF-43212
+:23B:CRED
+:32A:241013CAD147999.00
+:50K:/OC2307501
+Manning, Johnson and Armstrong
+640 Kimberly Shore South Brian, NE 70305
+:57A:MIZUJPJTXXX
+:59:/BEN44109594274986
+Anderson, Hammond and Buck
+028 Cynthia Mountain Gibsonberg, MD 82783
+:70:INV 575E5D4B189B Society animal check event expert.
+:71A:OUR
+-}{5:{CHK:b0485db5cf}}

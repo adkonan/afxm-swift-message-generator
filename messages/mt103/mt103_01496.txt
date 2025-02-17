@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240426STANGB2LXXXXXXXN}{3:{121:d061b4d8-8369-4532-9eaa-c29c59b585bf}}{4:
+:20:REF-54327
+:23B:CRED
+:32A:240426CHF22790.00
+:50K:/OC6620361
+Pugh, Mckenzie and Arellano
+8528 Erica Plains Suite 561 Glennmouth, PA 28605
+:57A:STANGB2LXXX
+:59:/BEN66714807504642
+Gardner, Meyer and Preston
+023 Alyssa Stream Catherinetown, FL 32392
+:70:INV C4D37E2F4F91 Speech personal compare money serve break.
+:71A:OUR
+-}{5:{CHK:937349e0cd}}

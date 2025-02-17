@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241225ECOCGHANXXXXXXXN}{3:{121:3aaf33d1-d1f2-4dbe-93b7-fda2faa5ad91}}{4:
+:20:REF-79481
+:23B:CRED
+:32A:241225IRR443946.00
+:50K:/OC9634625
+Marquez Group
+92098 Glover Springs Apt. 864 South Jessica, TX 94311
+:57A:ECOCGHANXXX
+:59:/BEN52081902071450
+Woods-Cain
+670 Charles Forks Suite 021 Jacquelineshire, FM 48275
+:70:INV F678FF04E6A6 Matter inside central capital media prevent.
+:71A:OUR
+-}{5:{CHK:4eca0639c3}}

@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240521DEUTDEFFXXXXXXXN}{3:{121:630cadc3-4863-43a6-aee6-1a189b1a4ff7}}{4:
+:20:REF-27467
+:23B:CRED
+:32A:240521XAU111452.00
+:50K:/OC7952180
+Alexander-Owens
+572 Christina Circles Suite 026 West Andre, NM 49682
+:57A:DEUTDEFFXXX
+:59:/BEN68441039988580
+Smith-Heath
+384 Christopher Groves Josephfort, GU 29593
+:70:INV 21349FDC1BAC Play least common difficult parent drive fly choice.
+:71A:OUR
+-}{5:{CHK:5d05ee9670}}

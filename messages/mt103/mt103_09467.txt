@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240519BICIBFBFXXXXXXXN}{3:{121:3a1a5253-2848-4b6c-b58e-0bf98ebd1bed}}{4:
+:20:REF-22722
+:23B:CRED
+:32A:240519JPY479971.00
+:50K:/OC1799990
+Nguyen, Young and Rivera
+1649 Rachel Underpass Apt. 720 Lake Ericfort, MN 74169
+:57A:BICIBFBFXXX
+:59:/BEN76890924258583
+Rodriguez-Webb
+98292 Andrew Lake Sheilafort, HI 58548
+:70:INV C8BC43A6431E Break difficult participant gas air produce with.
+:71A:OUR
+-}{5:{CHK:ee0b919b64}}

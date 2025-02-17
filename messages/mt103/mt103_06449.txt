@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241103BNPAGB22XXXXXXXN}{3:{121:a0ad5dee-a3c0-40b7-bce3-aca0b12aa675}}{4:
+:20:REF-40154
+:23B:CRED
+:32A:241103AUD369882.00
+:50K:/OC2193916
+Harrison Ltd
+806 Fred Valleys Curtisside, MS 48153
+:57A:BNPAGB22XXX
+:59:/BEN71270680800990
+Hays, Simmons and Price
+60646 Lopez Turnpike Suite 435 Sanderschester, IN 20314
+:70:INV A4549A26A959 Country final commercial example.
+:71A:OUR
+-}{5:{CHK:b717b7ed07}}

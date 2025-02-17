@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240311BCAOAOAOXXXXXXXN}{3:{121:6ed1af2c-bc66-48ee-8db4-503eb4128e69}}{4:
+:20:REF-27007
+:23B:CRED
+:32A:240311GBP323440.00
+:50K:/OC6634753
+Smith Group
+49244 Kevin Forks Suite 197 Lake Rachel, CA 53922
+:57A:BCAOAOAOXXX
+:59:/BEN28360148830115
+Phillips-Goodwin
+34612 Thompson Lodge Apt. 848 Harrellmouth, TX 20609
+:70:INV 3A6B28EB1C4C Administration body statement study decade financial.
+:71A:OUR
+-}{5:{CHK:dc87facc64}}

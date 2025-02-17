@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240706CITIUS33XXXXXXXN}{3:{121:505a77f1-9c1b-4cbc-8a7a-9a9910a9ddda}}{4:
+:20:REF-50873
+:23B:CRED
+:32A:240706USD196575.00
+:50K:/OC5009777
+Christensen, Ray and Williams
+862 Mcdaniel Brook Suite 014 Ericmouth, ME 72727
+:57A:CITIUS33XXX
+:59:/BEN51143752442571
+Ford and Sons
+36512 Johnson Avenue South Amandaview, LA 63901
+:70:INV 83F8B6C11ADA Performance down audience.
+:71A:OUR
+-}{5:{CHK:b2dffb766c}}

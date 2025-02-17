@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103241017BNPAGB22XXXXXXXN}{3:{121:f9d9adc4-505f-48ee-bed8-c603fc356705}}{4:
+:20:REF-55147
+:23B:CRED
+:32A:241017CAD45357.00
+:50K:/OC5399610
+Stewart, Webb and Oneill
+4027 Yvonne Forges Wilsonport, MO 78932
+:57A:BNPAGB22XXX
+:59:/BEN83953182953959
+Long, Crawford and Long
+86504 Wade Manor Suite 779 Port Andre, OK 59735
+:70:INV AFEDA33A391F Middle set find executive share plan crime.
+:71A:OUR
+-}{5:{CHK:c12d14a6a3}}

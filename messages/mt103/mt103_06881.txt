@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240426RABONL2UXXXXXXXN}{3:{121:e97ecfcb-f6cd-436f-8590-e508f905d2cc}}{4:
+:20:REF-44652
+:23B:CRED
+:32A:240426SGD169644.00
+:50K:/OC4079330
+Massey Group
+688 Sean Locks North Maryburgh, OK 05549
+:57A:RABONL2UXXX
+:59:/BEN66037815024704
+Gordon, Nelson and Hall
+2482 Silva Drive Warechester, SC 97710
+:70:INV FEA32E50593F Themselves practice sea area position exist.
+:71A:OUR
+-}{5:{CHK:0fdf5c575d}}

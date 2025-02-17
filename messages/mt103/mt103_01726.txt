@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240821CITIUS33XXXXXXXN}{3:{121:60cc4a3f-5f7f-45db-9ee2-23ef1378ed2c}}{4:
+:20:REF-37573
+:23B:CRED
+:32A:240821AUD66694.00
+:50K:/OC7395422
+Lang, Harding and Lane
+0315 Berger Turnpike Apt. 633 East Angelaton, ND 08577
+:57A:CITIUS33XXX
+:59:/BEN63728501403073
+Rodriguez, Reynolds and Maldonado
+13378 Robert Mountains Frankview, MS 63256
+:70:INV D3A4254A9749 Energy stock better determine interview line.
+:71A:OUR
+-}{5:{CHK:48baa8f826}}

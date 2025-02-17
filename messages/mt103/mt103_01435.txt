@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103240915ICBKCNBJXXXXXXXN}{3:{121:f085a25e-d84f-431c-b02e-d8c00e95d45b}}{4:
+:20:REF-29296
+:23B:CRED
+:32A:240915XDR394088.00
+:50K:/OC1540760
+Henderson-Crawford
+6529 Allen Manors Suite 530 East Kimberlystad, ID 18446
+:57A:ICBKCNBJXXX
+:59:/BEN13241911017129
+Hoffman Inc
+964 Jill Rapids West Stephanieport, WI 41101
+:70:INV 33F8D131FBE9 Send resource half stand most individual play.
+:71A:OUR
+-}{5:{CHK:f4e6445378}}

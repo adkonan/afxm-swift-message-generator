@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240523OCBCSGSGXXXXXXXN}{3:{121:241f2be6-25bc-4cbb-8294-b7df61abef64}}{4:
+:20:REF-57966
+:23B:CRED
+:32A:240523JPY37584.00
+:50K:/OC2864285
+Reid Ltd
+423 Mccann Wells West Elizabeth, NH 34200
+:57A:OCBCSGSGXXX
+:59:/BEN82902586168459
+Garner, Jacobs and Turner
+4102 Garrett Divide Smithland, MH 09220
+:70:INV A72261792D0F Both everything actually international conference dog.
+:71A:OUR
+-}{5:{CHK:aaca8b38cf}}

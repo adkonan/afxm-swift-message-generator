@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240504BICIBFBFXXXXXXXN}{3:{121:1bea6524-50b4-4eb9-bb71-e68fd3dd6dea}}{4:
+:20:REF-94251
+:23B:CRED
+:32A:240504EUR389029.00
+:50K:/OC2299527
+Anderson, Baker and Andrews
+09034 Samuel Corners New Jeremy, TN 86341
+:57A:BICIBFBFXXX
+:59:/BEN51689673745620
+Colon and Sons
+12830 Campos Trail Apt. 596 Kyleberg, PR 16404
+:70:INV 9DE4ABE47FDF Scientist minute claim throughout far.
+:71A:OUR
+-}{5:{CHK:7cd8dae20c}}

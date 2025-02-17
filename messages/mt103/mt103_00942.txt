@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240923BFSWUS33XXXXXXXN}{3:{121:75aa6fbe-541d-4a9b-b97d-3060eec70784}}{4:
+:20:REF-85511
+:23B:CRED
+:32A:240923AUD397296.00
+:50K:/OC8333916
+Petty-Campbell
+7863 Blankenship Ville Harriston, OK 18200
+:57A:BFSWUS33XXX
+:59:/BEN35760479050084
+Long, Conley and Smith
+212 Johnson Union Apt. 698 South Jonathan, NY 44562
+:70:INV 36080EE68FC8 Rather evidence paper customer laugh soldier edge year.
+:71A:OUR
+-}{5:{CHK:fe7737f497}}

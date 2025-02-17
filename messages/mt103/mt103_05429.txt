@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240708NEDSZAJJXXXXXXXN}{3:{121:49be1a58-7aa3-4bff-b53d-ba83d9f60b24}}{4:
+:20:REF-87129
+:23B:CRED
+:32A:240708CNY189259.00
+:50K:/OC7599809
+Boone, Webster and Sanchez
+2599 Robertson Light North Lisa, ND 66996
+:57A:NEDSZAJJXXX
+:59:/BEN34332382823712
+Dominguez-Oneill
+5898 Angela River Suite 156 South Michaelview, ND 12611
+:70:INV C0A71ED232EB Value claim into travel site whose lead.
+:71A:OUR
+-}{5:{CHK:82a345e27d}}

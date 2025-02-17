@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240805UBSWCHZHXXXXXXXN}{3:{121:d4f7801d-e7ae-48d0-b1f2-6c14de7dc3fc}}{4:
+:20:REF-32557
+:23B:CRED
+:32A:240805EUR481752.00
+:50K:/OC8589936
+Fletcher Ltd
+17468 Wilkins Plains Apt. 354 East Brittanymouth, NM 85104
+:57A:UBSWCHZHXXX
+:59:/BEN93694859973612
+Jones, Rivera and Anderson
+12935 Bennett Circle North Danielle, SC 72310
+:70:INV 0A4E180CE024 Way garden card expert it front.
+:71A:OUR
+-}{5:{CHK:5e5f6ae298}}

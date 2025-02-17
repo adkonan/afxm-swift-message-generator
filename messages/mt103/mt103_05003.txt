@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240611DBSSSGSGXXXXXXXN}{3:{121:b142b9e3-fc0f-43ee-a293-71ec8f772949}}{4:
+:20:REF-84201
+:23B:CRED
+:32A:240611CNY148706.00
+:50K:/OC5429996
+Lewis-Parker
+55733 Andrew Fort Port Christopherland, NY 65920
+:57A:DBSSSGSGXXX
+:59:/BEN51857250582249
+Gibson-Lin
+6486 Kelly Lock South Douglas, ID 81305
+:70:INV 51BAD1CF058C Reason development soldier network beyond stage tough.
+:71A:OUR
+-}{5:{CHK:a8cb5c7b11}}

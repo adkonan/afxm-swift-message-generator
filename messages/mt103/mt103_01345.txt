@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103250116FIRNZAJJXXXXXXXN}{3:{121:0cb80338-1c03-4dcf-b81e-86c6191e80cd}}{4:
+:20:REF-34094
+:23B:CRED
+:32A:250116JPY268508.00
+:50K:/OC1227195
+Dixon, Jones and Davis
+22681 Robert Pines Suite 406 West Darrenburgh, IN 93845
+:57A:FIRNZAJJXXX
+:59:/BEN80158627603779
+Murphy-Reynolds
+77476 Edward Summit Lake Teresaton, NE 99037
+:70:INV F8D052275558 Later though floor morning enjoy party focus.
+:71A:OUR
+-}{5:{CHK:1b8b5bb401}}

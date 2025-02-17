@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103241201NEDSZAJJXXXXXXXN}{3:{121:55bcb3e1-4559-4082-876a-4bfd556c6602}}{4:
+:20:REF-72209
+:23B:CRED
+:32A:241201USD144045.00
+:50K:/OC4599937
+Valdez, Woods and Beasley
+5175 Michael Corners Humphreyside, AK 55024
+:57A:NEDSZAJJXXX
+:59:/BEN75935424476649
+Ford-Travis
+785 Parker Grove Suite 948 Duncanberg, CT 17215
+:70:INV 262DE36BE7E3 Name mind near sometimes operation reveal with.
+:71A:OUR
+-}{5:{CHK:3f16fc9f2c}}

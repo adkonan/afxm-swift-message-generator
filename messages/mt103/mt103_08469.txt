@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240225BKCHHKHXXXXXXXXN}{3:{121:ae6adc40-e788-4374-bf3d-8781618f3ce6}}{4:
+:20:REF-50829
+:23B:CRED
+:32A:240225CAD20711800.00
+:50K:/OC4935487
+Donaldson, Benson and Cooper
+8031 Jessica Garden Apt. 702 Dukeville, ME 70540
+:57A:BKCHHKHXXXX
+:59:/BEN57591391779724
+Martin, Turner and Mathews
+555 Brandon Oval Lewisburgh, GA 29241
+:70:INV 9AC97BFB34F6 Wear north process toward southern.
+:71A:OUR
+-}{5:{CHK:5f3e1fe0f7}}

@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103241208BICIBFBFXXXXXXXN}{3:{121:f778b5ea-dd75-4628-985e-49f048b7ce61}}{4:
+:20:REF-24910
+:23B:CRED
+:32A:241208CAD10037900.00
+:50K:/OC6786552
+Elliott, Perry and Baker
+205 Barbara Common Apt. 048 Keithstad, MS 35854
+:57A:BICIBFBFXXX
+:59:/BEN76154780253976
+Sherman, Nichols and Smith
+86669 Megan Springs East Christineview, ME 73854
+:70:INV 225C5F78B5B9 Minute result total relate woman likely between build.
+:71A:OUR
+-}{5:{CHK:14dc22f3b7}}

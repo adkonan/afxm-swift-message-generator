@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240915OCBCSGSGXXXXXXXN}{3:{121:775eff6d-50f1-4db4-b9b6-64b606349dad}}{4:
+:20:REF-47331
+:23B:CRED
+:32A:240915AUD194804.00
+:50K:/OC4566592
+Thompson, Bates and Townsend
+5285 Hartman Ports Candacebury, MI 20147
+:57A:OCBCSGSGXXX
+:59:/BEN14387684960571
+Sanchez and Sons
+349 Pamela Pines Apt. 941 North Cindy, MP 85554
+:70:INV D3E1CD4ADE68 Sometimes we pull government or clearly.
+:71A:OUR
+-}{5:{CHK:93ced91e3a}}

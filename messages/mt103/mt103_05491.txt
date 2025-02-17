@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240414BARCDEFFXXXXXXXN}{3:{121:fce0f96d-3085-4bb6-b92f-2adc141e7efa}}{4:
+:20:REF-57258
+:23B:CRED
+:32A:240414GBP346993.00
+:50K:/OC7771726
+Bowman, Kerr and Campbell
+5397 Erin Trail Lake Keith, MD 40007
+:57A:BARCDEFFXXX
+:59:/BEN41502592931090
+Thomas, Bell and Baker
+73041 Walls Plaza Suite 112 New Timothyhaven, PR 07828
+:70:INV C234562F04C9 Although relationship industry myself suffer low significant involve.
+:71A:OUR
+-}{5:{CHK:fd8e260e49}}

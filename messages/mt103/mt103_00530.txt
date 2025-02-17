@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103241203MIZUJPJTXXXXXXXN}{3:{121:6cbd0af5-e605-4a7d-9c93-854a09b5cb5b}}{4:
+:20:REF-13006
+:23B:CRED
+:32A:241203GBP67746.00
+:50K:/OC6754617
+Gallegos-Vargas
+6405 Smith Valleys Christopherberg, MN 53227
+:57A:MIZUJPJTXXX
+:59:/BEN88250834910205
+Dennis-Brooks
+666 Larry Grove North Lindamouth, MS 63783
+:70:INV B2B0D2AF538B Service strategy to turn good human explain.
+:71A:OUR
+-}{5:{CHK:f77dbda649}}

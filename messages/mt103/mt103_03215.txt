@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103250115NATXFRPPXXXXXXXN}{3:{121:c057c2fc-85c0-49b2-88b3-a146947e6cee}}{4:
+:20:REF-26164
+:23B:CRED
+:32A:250115GBP118349.00
+:50K:/OC4237347
+Nguyen, Frederick and Rose
+5025 Estrada Keys Apt. 425 Teresahaven, AL 52918
+:57A:NATXFRPPXXX
+:59:/BEN43751855160032
+Rangel, Silva and Kelly
+7519 Kimberly Bypass Apt. 242 Delgadomouth, MO 59080
+:70:INV D069DC8F6723 Down grow others manage wish in city.
+:71A:OUR
+-}{5:{CHK:1ee0adae9b}}

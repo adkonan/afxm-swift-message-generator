@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240721HSBCHKHHXXXXXXXN}{3:{121:e6adc75c-c1f6-4368-95d0-8384a129fe60}}{4:
+:20:REF-62536
+:23B:CRED
+:32A:240721CNY186342.00
+:50K:/OC8065041
+Rocha, Moore and Casey
+94345 Faith Vista Apt. 616 South Elizabethburgh, NM 51780
+:57A:HSBCHKHHXXX
+:59:/BEN63523952318875
+Hernandez, Anderson and Jefferson
+978 Robert Corners Apt. 331 Lake Gregoryview, AL 56870
+:70:INV A6D27736DFE3 Any southern toward bed mouth hard.
+:71A:OUR
+-}{5:{CHK:52b765a5f0}}

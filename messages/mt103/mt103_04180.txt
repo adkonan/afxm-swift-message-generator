@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240514DBSSSGSGXXXXXXXN}{3:{121:6813cf4b-b5ef-41bf-aa8e-5c8ce703fbd2}}{4:
+:20:REF-85070
+:23B:CRED
+:32A:240514AUD3341400.00
+:50K:/OC4085854
+Dunn, Gonzalez and Hardy
+884 Caroline Corners Jameschester, NM 82589
+:57A:DBSSSGSGXXX
+:59:/BEN39893826238613
+Vance-Cordova
+450 James Loaf Apt. 099 South Tinaville, OR 18665
+:70:INV 899AADED8F12 Each computer inside everybody assume sometimes.
+:71A:OUR
+-}{5:{CHK:6a9ca1b873}}

@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103250210FBNINGLAXXXXXXXN}{3:{121:12c2b7d5-762a-481d-b1cb-ae854bdaab37}}{4:
+:20:REF-55517
+:23B:CRED
+:32A:250210AUD83542.00
+:50K:/OC4030912
+King-Mora
+7252 Burton Island Apt. 721 Avilaberg, WA 31354
+:57A:FBNINGLAXXX
+:59:/BEN12793402685558
+Bowman and Sons
+43206 Mccormick Way Apt. 063 Port Robertport, MP 21012
+:70:INV FD37D9AF1DE5 My simple quality alone effort around receive treat.
+:71A:OUR
+-}{5:{CHK:3ee7ddf4cf}}

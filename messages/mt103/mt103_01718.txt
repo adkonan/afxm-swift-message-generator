@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103241227CHASUS33XXXXXXXN}{3:{121:9b639aae-6e6e-4284-8549-02d554096b02}}{4:
+:20:REF-95093
+:23B:CRED
+:32A:241227CHF361536.00
+:50K:/OC6199436
+Reyes, Green and Glover
+21361 Marcus Shoals Apt. 651 South Susan, CO 94974
+:57A:CHASUS33XXX
+:59:/BEN99346382547112
+Campbell, Rodriguez and Huerta
+76496 Patrick Fords Suite 574 Port Kevin, CT 74873
+:70:INV 7965F8F22E40 Million opportunity college defense factor treatment lay.
+:71A:OUR
+-}{5:{CHK:0752db4e62}}

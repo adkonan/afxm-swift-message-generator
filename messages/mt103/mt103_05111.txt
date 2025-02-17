@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103250123BARCDEFFXXXXXXXN}{3:{121:529cb154-0077-4fa0-aadf-dae57080ed36}}{4:
+:20:REF-29395
+:23B:CRED
+:32A:250123CAD116888.00
+:50K:/OC4305672
+Cole, Woodard and Walters
+23979 Zachary Loop Apt. 894 South Dennistown, FL 08694
+:57A:BARCDEFFXXX
+:59:/BEN75503660086426
+Jackson, Peters and Welch
+3137 Williamson Village Suite 488 Walkerhaven, TN 14634
+:70:INV 9FE10EA297C2 Remain western must skin.
+:71A:OUR
+-}{5:{CHK:ae213b5b94}}

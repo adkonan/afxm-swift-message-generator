@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103241101BNPAGB22XXXXXXXN}{3:{121:30156a5e-8ddd-47b4-8063-ebb535aa3eab}}{4:
+:20:REF-39023
+:23B:CRED
+:32A:241101USD201915.00
+:50K:/OC7136378
+Goodwin, Jones and Reid
+787 Stout Mountain Suite 618 Taylorchester, ND 82034
+:57A:BNPAGB22XXX
+:59:/BEN61832266900137
+Acosta LLC
+37999 Emily Harbor North Kimborough, AR 27679
+:70:INV 7ED75A9763BF Worry finally step artist source nation half scene.
+:71A:OUR
+-}{5:{CHK:fdcc421193}}

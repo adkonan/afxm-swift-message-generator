@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250118BARCGB22XXXXXXXN}{3:{121:f90ec49f-bb7a-493c-ad3a-07ab28e65fb9}}{4:
+:20:REF-48799
+:23B:CRED
+:32A:250118USD268056.00
+:50K:/OC6543919
+Young, Howell and Richmond
+512 Dana Path Georgeview, MH 33534
+:57A:BARCGB22XXX
+:59:/BEN32620277321027
+Soto, Miller and Snyder
+51101 Miller Forges Lake Tabithaberg, DE 09201
+:70:INV 885012A6C19B Grow natural visit adult degree goal claim.
+:71A:OUR
+-}{5:{CHK:55c03f4b14}}

@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241118BICIBFBFXXXXXXXN}{3:{121:1c0dad62-7b96-4e30-998a-8577ccaa35c3}}{4:
+:20:REF-37856
+:23B:CRED
+:32A:241118AUD20679.00
+:50K:/OC9253935
+Paul, Hampton and Jones
+263 Anderson Rest Suite 193 New David, GU 93435
+:57A:BICIBFBFXXX
+:59:/BEN34928313896543
+Williams-Singleton
+00867 Little Terrace Barrettshire, PR 04798
+:70:INV 19A33CA79286 From think college everyone film difficult blood.
+:71A:OUR
+-}{5:{CHK:c40cbf01a2}}

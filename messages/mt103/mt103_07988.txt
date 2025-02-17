@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103250204DTBKIDJAXXXXXXXN}{3:{121:576bcda6-220d-49ac-8bc5-fca96b15124f}}{4:
+:20:REF-48982
+:23B:CRED
+:32A:250204EUR132776.00
+:50K:/OC1082791
+Davis, Patterson and Lynch
+4707 Haley Glen Suite 765 Lake Hunterhaven, AR 98741
+:57A:DTBKIDJAXXX
+:59:/BEN38143481155576
+Barajas, Sanders and Villanueva
+08163 Miles Square Port Jenniferport, AL 49072
+:70:INV DA964E8F837F Doctor consumer six about woman.
+:71A:OUR
+-}{5:{CHK:149fc94478}}

@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103250208SMBCJPJTXXXXXXXN}{3:{121:cca29da0-fc41-46bc-973b-08e73753719c}}{4:
+:20:REF-72972
+:23B:CRED
+:32A:250208XDR79526.00
+:50K:/OC5307567
+Perez, Rogers and Brown
+743 Luke Greens Suite 285 Lewisburgh, FM 09573
+:57A:SMBCJPJTXXX
+:59:/BEN52047449517159
+Mullins, Jordan and Torres
+3631 Ashley Plains Port Rogerland, FL 08350
+:70:INV 4841E4E2C33D Author need development outside nation.
+:71A:OUR
+-}{5:{CHK:7f5f6e65b3}}

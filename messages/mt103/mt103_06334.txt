@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103241114BARCDEFFXXXXXXXN}{3:{121:c1136f8c-dd4b-4eea-8d8c-5f76f9fd9119}}{4:
+:20:REF-75793
+:23B:CRED
+:32A:241114JPY4086340.00
+:50K:/OC2255433
+Willis-Mcdonald
+29327 Jamie Mountains Suite 206 West Joshua, LA 42964
+:57A:BARCDEFFXXX
+:59:/BEN39443448130709
+Mcdonald Ltd
+8222 Craig Green Apt. 384 Michaelshire, VT 57511
+:70:INV CB65B35728FD Law community development remember recently real.
+:71A:OUR
+-}{5:{CHK:1dc46422e6}}

@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240822CHASUS33XXXXXXXN}{3:{121:d153fc85-37b3-4b54-ad8f-9739ad9343cc}}{4:
+:20:REF-43273
+:23B:CRED
+:32A:240822EUR180135.00
+:50K:/OC4114691
+Scott, Swanson and James
+18511 Christina Terrace Apt. 605 North Lisa, OK 92356
+:57A:CHASUS33XXX
+:59:/BEN12364328629426
+Harper, Perry and White
+31078 Elizabeth Ways North Brian, MT 21483
+:70:INV 8654E1B6C291 Organization about doctor along nice simple.
+:71A:OUR
+-}{5:{CHK:bbe4760b25}}

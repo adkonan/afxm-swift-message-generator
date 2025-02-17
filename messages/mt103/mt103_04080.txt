@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241102BOMLMRUXXXXXXXXN}{3:{121:6c780b6e-5265-4c22-aa59-7fd204fa6152}}{4:
+:20:REF-87289
+:23B:CRED
+:32A:241102SGD110280.00
+:50K:/OC7248992
+Jones-Bennett
+14091 Natalie Pine East Dianeshire, HI 45405
+:57A:BOMLMRUXXXX
+:59:/BEN33243683826013
+Estrada, Johnson and Odonnell
+59347 Foster Flats East David, MA 17819
+:70:INV 66707E3A1D10 Contain sort their table challenge finish drug perform.
+:71A:OUR
+-}{5:{CHK:dc3025d136}}

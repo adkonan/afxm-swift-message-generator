@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240428UOBVSGSGXXXXXXXN}{3:{121:afcc10cf-4a8e-4a34-9bbe-5e6fafca1a40}}{4:
+:20:REF-88052
+:23B:CRED
+:32A:240428CAD218604.00
+:50K:/OC1656934
+Walters, Morgan and Fisher
+61892 Collins Mountain Lake Peter, WI 21344
+:57A:UOBVSGSGXXX
+:59:/BEN93312561362660
+Ramirez-Roberson
+4221 Brandon Ville Suite 423 South Mirandafort, NV 71663
+:70:INV 91AB7F9099C3 Clearly true catch which air court people family.
+:71A:OUR
+-}{5:{CHK:144fdf9e86}}

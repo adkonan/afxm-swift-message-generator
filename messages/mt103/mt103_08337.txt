@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240425BNPPIT2LXXXXXXXN}{3:{121:72e0b00d-b8a5-4d73-b025-465ba212759d}}{4:
+:20:REF-11739
+:23B:CRED
+:32A:240425CAD26010.00
+:50K:/OC4708727
+Barrett Inc
+1359 Bryan Mills Ronaldport, AL 13987
+:57A:BNPPIT2LXXX
+:59:/BEN21240956028979
+Black, Peterson and Johnson
+0324 Beltran Isle Suite 238 Meganstad, IA 14416
+:70:INV 3D41D8239542 Yes include election pick despite simple avoid require.
+:71A:OUR
+-}{5:{CHK:52e5dbec9a}}

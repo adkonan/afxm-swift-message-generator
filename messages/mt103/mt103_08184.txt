@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240920ZURICHZCHXXXXXXXN}{3:{121:a7b6eb9b-3a69-4dcb-8697-62f76696b70f}}{4:
+:20:REF-24998
+:23B:CRED
+:32A:240920GBP349420.00
+:50K:/OC5410212
+Gentry-Jordan
+1999 Soto Estates Port Corey, VA 07528
+:57A:ZURICHZCHXXX
+:59:/BEN58620661559753
+Phillips-Martin
+5653 Newman Trace East Jamesfurt, NJ 68020
+:70:INV 81ADE42BB8E4 Feeling course every free relationship cultural forget conference.
+:71A:OUR
+-}{5:{CHK:ae23caa50b}}

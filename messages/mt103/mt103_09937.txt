@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240719NATXFRPPXXXXXXXN}{3:{121:2a7590d8-2e41-49b1-a306-065e32c8a17d}}{4:
+:20:REF-12999
+:23B:CRED
+:32A:240719XDR197640.00
+:50K:/OC1251777
+Martin-Thompson
+05904 Stout Mountains Apt. 585 Adammouth, AZ 61291
+:57A:NATXFRPPXXX
+:59:/BEN82429199406070
+Rodriguez, Martin and Smith
+4204 John Causeway East Rachelburgh, VT 62493
+:70:INV EA8CB5228CD6 Trial music medical order fact commercial outside.
+:71A:OUR
+-}{5:{CHK:7b3e4f1c85}}

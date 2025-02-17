@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103241212NEDSZAJJXXXXXXXN}{3:{121:d55df80c-7012-43cb-85d0-72ab6b0d23a3}}{4:
+:20:REF-52888
+:23B:CRED
+:32A:241212CNY196055.00
+:50K:/OC5512674
+Fisher, Allen and Lawrence
+9549 Julia Views West Shane, ID 01894
+:57A:NEDSZAJJXXX
+:59:/BEN13576248942410
+Martin Ltd
+1090 Morgan Fords Suite 641 West Crystal, CO 22500
+:70:INV 41E7D81077A2 Example response along view hundred common almost.
+:71A:OUR
+-}{5:{CHK:4bcbe16845}}

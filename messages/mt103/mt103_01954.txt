@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240916BARCGB22XXXXXXXN}{3:{121:1dd74ae8-656e-492a-a613-ef23c11063fa}}{4:
+:20:REF-47557
+:23B:CRED
+:32A:240916JPY414462.00
+:50K:/OC4667807
+Smith, Harrington and Morris
+153 Richard Cape Lauraland, AR 60335
+:57A:BARCGB22XXX
+:59:/BEN90301018282649
+Stone, Flores and Miller
+1747 Gonzalez Roads Katieport, FM 76788
+:70:INV 2C47CD84273D During production notice throughout itself.
+:71A:OUR
+-}{5:{CHK:1257c09811}}

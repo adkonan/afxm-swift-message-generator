@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240920CHASUS33XXXXXXXN}{3:{121:d1f90d21-c1fa-450e-93e2-e0cf94d8a0ac}}{4:
+:20:REF-76176
+:23B:CRED
+:32A:240920EUR31811200.00
+:50K:/OC4441553
+Hensley, Johnson and Brady
+803 Ramsey Lake West Kylechester, ID 32673
+:57A:CHASUS33XXX
+:59:/BEN48804656156415
+Mcintyre-Brown
+231 Simpson Branch Apt. 628 Maryton, WI 67129
+:70:INV 872D64400B92 Strong quality us single offer tend information.
+:71A:OUR
+-}{5:{CHK:d1140d980f}}

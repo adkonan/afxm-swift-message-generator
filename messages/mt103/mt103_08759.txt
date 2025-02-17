@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240902BNPPIT2LXXXXXXXN}{3:{121:78a86445-3711-4694-9660-2e88e3ec8194}}{4:
+:20:REF-25528
+:23B:CRED
+:32A:240902USD33072.00
+:50K:/OC8445045
+Miller, Martinez and Wood
+52100 Alfred Shoal Suite 492 Davidmouth, PA 54153
+:57A:BNPPIT2LXXX
+:59:/BEN82639892708433
+Rodriguez, Lopez and Hicks
+1317 Pitts Creek Debrachester, IL 00640
+:70:INV B3EA68118D4E Security air bank safe loss crime indicate.
+:71A:OUR
+-}{5:{CHK:caad3b075a}}

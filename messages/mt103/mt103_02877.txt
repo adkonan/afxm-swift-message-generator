@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103241211ECOCGHANXXXXXXXN}{3:{121:7adddf19-5624-4a25-be66-88de200ae011}}{4:
+:20:REF-13418
+:23B:CRED
+:32A:241211USD165434.00
+:50K:/OC5994811
+Oliver and Sons
+8207 Watts Place Suite 987 Martinberg, OH 24659
+:57A:ECOCGHANXXX
+:59:/BEN19235393050700
+Boone, Maddox and Rice
+285 Wallace Gateway East Christopher, WA 17187
+:70:INV 00E4C66FF126 Group point thank role affect majority feeling type.
+:71A:OUR
+-}{5:{CHK:bf782db8fb}}

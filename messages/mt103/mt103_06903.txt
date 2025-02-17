@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103241006RBCROYTORXXXXXXXN}{3:{121:6f8d205b-17ff-4979-a529-600fc423e8df}}{4:
+:20:REF-30200
+:23B:CRED
+:32A:241006GBP249540.00
+:50K:/OC8258711
+Schroeder-Palmer
+2381 Terri Shores Suite 805 New Jenna, GU 69924
+:57A:RBCROYTORXXX
+:59:/BEN27064196642533
+Ball, Thompson and Jones
+77523 Evans Well Apt. 090 Port Rebeccaville, OH 09794
+:70:INV 240973F003BC Others cost particular style feeling mission dark.
+:71A:OUR
+-}{5:{CHK:c0a7e0caba}}

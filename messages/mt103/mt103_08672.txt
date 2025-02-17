@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240221BNPAGB22XXXXXXXN}{3:{121:a1d85605-cfe3-4d62-8cf2-aec0aad7af47}}{4:
+:20:REF-27685
+:23B:CRED
+:32A:240221SGD356766.00
+:50K:/OC6505483
+Oliver, Henderson and Moore
+247 Wallace Way West Debra, MO 02788
+:57A:BNPAGB22XXX
+:59:/BEN79057336938214
+White, Newman and Allen
+552 Meadows Crest Shawnmouth, NJ 90963
+:70:INV 9389FBFB2BE7 Pretty foot data short vote cause beautiful.
+:71A:OUR
+-}{5:{CHK:4b075b6687}}

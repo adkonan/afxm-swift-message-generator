@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240427SCBLGB2LXXXXXXXN}{3:{121:d9908615-b3b7-4af0-8d38-ee90dc749b81}}{4:
+:20:REF-85032
+:23B:CRED
+:32A:240427GBP308617.00
+:50K:/OC4720917
+Miller Ltd
+533 Phillips Lodge Gibbsview, MS 63820
+:57A:SCBLGB2LXXX
+:59:/BEN56777903283213
+Smith-Patrick
+798 Willis Point Suite 959 Jameston, PA 82774
+:70:INV E4ED3ED215AF Strong hear institution general national finally can popular.
+:71A:OUR
+-}{5:{CHK:07acdacedb}}

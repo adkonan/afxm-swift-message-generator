@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103250113KFWDEFFXXXXXXXN}{3:{121:8b4d09d3-776d-477f-8c62-92a94e4fae0b}}{4:
+:20:REF-48464
+:23B:CRED
+:32A:250113EUR299660.00
+:50K:/OC3930689
+Rodriguez-Smith
+203 Casey Prairie South Jeremyside, SC 84804
+:57A:KFWDEFFXXX
+:59:/BEN19728097823288
+Christensen-Hart
+665 Hall Prairie Stevenmouth, MN 80715
+:70:INV 1E77D0B64553 Skill between third against war store fact.
+:71A:OUR
+-}{5:{CHK:3f3bbebb69}}

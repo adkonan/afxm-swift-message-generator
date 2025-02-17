@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240827BNPAFRPPXXXXXXXN}{3:{121:03249be8-4203-487c-9465-7595ffd9f2dd}}{4:
+:20:REF-94028
+:23B:CRED
+:32A:240827CNY29384500.00
+:50K:/OC6491229
+Vasquez, Elliott and Wall
+32154 Smith Shore Carolynview, PA 38026
+:57A:BNPAFRPPXXX
+:59:/BEN86119445076729
+Simpson Inc
+069 Baker Heights Suite 619 Wallaceland, MN 33902
+:70:INV 0D0D37F6BD90 Candidate they successful politics area usually also.
+:71A:OUR
+-}{5:{CHK:e7ed83ca1d}}

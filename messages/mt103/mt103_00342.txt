@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240821CITIUS33XXXXXXXN}{3:{121:ca54f6df-bcf3-4f5f-82f0-9e01e78025a4}}{4:
+:20:REF-82790
+:23B:CRED
+:32A:240821JPY31300.00
+:50K:/OC9989118
+Aguilar-Gonzalez
+7018 Kirby Knoll Apt. 952 Adamville, ID 78529
+:57A:CITIUS33XXX
+:59:/BEN19642918639287
+Kaufman, Jimenez and Shepherd
+761 Parks Extension Suite 357 Gracefort, LA 48557
+:70:INV B46BFA52EB7A Condition check perform from likely.
+:71A:OUR
+-}{5:{CHK:44152a5b53}}

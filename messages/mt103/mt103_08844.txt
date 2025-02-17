@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240427BNPPIT2LXXXXXXXN}{3:{121:da90de05-f9e2-4178-9229-5d3dedf6ccb0}}{4:
+:20:REF-58676
+:23B:CRED
+:32A:240427XAG225129.00
+:50K:/OC7492487
+Reese, Campbell and Cunningham
+9384 Shannon Fork Apt. 442 Amandachester, VI 32232
+:57A:BNPPIT2LXXX
+:59:/BEN80974156028714
+Black-Suarez
+020 Hardin Cliff Apt. 692 Danamouth, RI 12251
+:70:INV D90545BADF8C Wall president pattern mission huge floor million.
+:71A:OUR
+-}{5:{CHK:d5be2927d4}}

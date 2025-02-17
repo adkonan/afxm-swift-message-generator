@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240922SCBLGB2LXXXXXXXN}{3:{121:d4bbf3fa-6cb9-44b4-aab6-ba230dc10918}}{4:
+:20:REF-96103
+:23B:CRED
+:32A:240922CAD450974.00
+:50K:/OC6227494
+Ayers-Williams
+813 Ortega Courts South Damon, OH 41764
+:57A:SCBLGB2LXXX
+:59:/BEN51158579550752
+Jackson-George
+04011 Bell River Apt. 427 New Patriciaton, AS 61657
+:70:INV A2041511012D Guess technology economic blue believe reach.
+:71A:OUR
+-}{5:{CHK:0f50dd1feb}}

@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240601ECOCCIBAXXXXXXXN}{3:{121:9aa61f6c-a1f0-4bab-a44d-59920beeacbe}}{4:
+:20:REF-50093
+:23B:CRED
+:32A:240601JPY275932.00
+:50K:/OC8043066
+Olsen, Rios and Green
+1977 Leslie Rue New Kyleborough, DC 25833
+:57A:ECOCCIBAXXX
+:59:/BEN57368575858156
+Evans, Moses and Jones
+636 Nicholson Drive Apt. 643 Annchester, OK 49758
+:70:INV 147448B9FD56 Society care three situation doctor.
+:71A:OUR
+-}{5:{CHK:7c473e0aa2}}

@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241229CRESIT2LXXXXXXXN}{3:{121:854af1e5-b0d7-48e6-b60f-ce791a8fa3e2}}{4:
+:20:REF-53927
+:23B:CRED
+:32A:241229CNY112355.00
+:50K:/OC5901803
+House, Wilson and Moore
+6016 Swanson Creek Thorntonview, IA 12956
+:57A:CRESIT2LXXX
+:59:/BEN46712949248421
+Rodriguez, Perkins and Hernandez
+3643 Crystal Overpass Suite 878 Port Harold, VA 10090
+:70:INV D537DA7FDE90 Space I price water size go.
+:71A:OUR
+-}{5:{CHK:5b1c36c743}}

@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240828DTBKIDJAXXXXXXXN}{3:{121:71bdb6f3-ed94-46c6-82ab-980e254a9434}}{4:
+:20:REF-82548
+:23B:CRED
+:32A:240828CAD348667.00
+:50K:/OC6983826
+Huang-Davis
+1902 Erin Green Lake Laura, TX 43954
+:57A:DTBKIDJAXXX
+:59:/BEN80440619111799
+Baldwin, Johnston and Manning
+5774 Johnson Village Suite 686 Cartermouth, OH 83454
+:70:INV 1683371FF02B Quality somebody enough school any mind strategy line.
+:71A:OUR
+-}{5:{CHK:a6c597c58d}}

@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240501BARCDEFFXXXXXXXN}{3:{121:d8d801da-f073-4084-ab63-70d5c21fd29e}}{4:
+:20:REF-95151
+:23B:CRED
+:32A:240501USD240840.00
+:50K:/OC7070493
+Christian, Young and Brown
+2152 Bernard Forks Sullivanburgh, PW 92291
+:57A:BARCDEFFXXX
+:59:/BEN82704252935124
+Wyatt, Nguyen and Huerta
+45089 Powers Harbors Apt. 430 West Karen, NM 92538
+:70:INV A4BFEF1AE20D Most moment particularly effect improve.
+:71A:OUR
+-}{5:{CHK:58e316753d}}

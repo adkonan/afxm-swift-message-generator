@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241027ICBKCNBJXXXXXXXN}{3:{121:58fa5af5-34ca-46fe-905e-69192bc05c17}}{4:
+:20:REF-38955
+:23B:CRED
+:32A:241027XDR298865.00
+:50K:/OC1929023
+Martinez-Liu
+7178 Taylor Freeway South Jackside, MO 24058
+:57A:ICBKCNBJXXX
+:59:/BEN76402268199256
+Harris, Ochoa and Mitchell
+312 Jody Ridges Suite 886 Gallegosborough, AL 58578
+:70:INV 8269E5A64978 Place happen point difficult any meet.
+:71A:OUR
+-}{5:{CHK:d0b8ab6398}}

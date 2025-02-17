@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241206RABONL2UXXXXXXXN}{3:{121:b39cbc16-b4d5-4ebc-b092-93e5d509739d}}{4:
+:20:REF-97700
+:23B:CRED
+:32A:241206AUD357420.00
+:50K:/OC2305976
+Hernandez-Flynn
+8602 Jones Course Apt. 351 South Jason, GA 86090
+:57A:RABONL2UXXX
+:59:/BEN12640503721277
+Buck, Reynolds and Duran
+368 Benjamin Path Evanview, ID 43416
+:70:INV 1E8C7B409F24 Person debate while throw culture west.
+:71A:OUR
+-}{5:{CHK:4e3affdade}}

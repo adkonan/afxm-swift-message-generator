@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241227CIBCCATTXXXXXXXN}{3:{121:1e3e58c8-1b02-4acb-bc29-53fad05cfad2}}{4:
+:20:REF-56895
+:23B:CRED
+:32A:241227CNY216376.00
+:50K:/OC3168388
+Webb, Johnson and Sanchez
+762 Christina Mews Suite 955 Lake Sarah, AS 24588
+:57A:CIBCCATTXXX
+:59:/BEN49333125714522
+Velez, Foster and Craig
+42065 Cynthia Flat Suite 081 South Alexandra, WV 34229
+:70:INV 4234A0BE8C00 Share art production different small around.
+:71A:OUR
+-}{5:{CHK:17734e4fd6}}

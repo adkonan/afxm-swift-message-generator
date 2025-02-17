@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240514UBSWRIT2XXXXXXXN}{3:{121:023d3562-d246-4b54-ae35-1cdc5c4f2fda}}{4:
+:20:REF-17424
+:23B:CRED
+:32A:240514GBP255280.00
+:50K:/OC8511752
+Reid and Sons
+87161 Jack Village Apt. 563 South Jessicaport, UT 94470
+:57A:UBSWRIT2XXX
+:59:/BEN69256927851154
+Brown-Chavez
+78965 Michelle Walks North Danielleton, PR 14256
+:70:INV 895CEB4D1BF9 Support though their food author this space return.
+:71A:OUR
+-}{5:{CHK:651caca118}}

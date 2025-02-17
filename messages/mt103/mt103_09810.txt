@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240705FIRNZAJJXXXXXXXN}{3:{121:0002829d-0c05-40b7-a9f5-e46bcb4e7d5a}}{4:
+:20:REF-51268
+:23B:CRED
+:32A:240705AUD234003.00
+:50K:/OC7658841
+Sullivan Ltd
+1077 Robert Turnpike Pattersonmouth, LA 93115
+:57A:FIRNZAJJXXX
+:59:/BEN49869241612736
+Gomez, Miranda and Diaz
+978 Stephanie Plaza Suite 050 Cardenasmouth, CO 73637
+:70:INV 3D245D8D65E5 Available beyond visit minute station article.
+:71A:OUR
+-}{5:{CHK:95c4b1e9dd}}

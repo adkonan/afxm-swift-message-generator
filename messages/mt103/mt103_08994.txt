@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240811BNPAFRPPXXXXXXXN}{3:{121:1ad897ed-60fa-4624-9c8d-055460022ada}}{4:
+:20:REF-69653
+:23B:CRED
+:32A:240811SGD275248.00
+:50K:/OC5242680
+Wilson, Cochran and Chung
+010 Cynthia Ferry Suite 753 New Jon, MP 99503
+:57A:BNPAFRPPXXX
+:59:/BEN75467859441939
+Krause-Williamson
+527 Morgan Station Elizabethville, ME 08910
+:70:INV CA270E937DAF Produce southern occur reach possible director couple.
+:71A:OUR
+-}{5:{CHK:79d29c2a16}}

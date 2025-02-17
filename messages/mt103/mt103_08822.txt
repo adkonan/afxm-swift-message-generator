@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240608GTBINGLAXXXXXXXN}{3:{121:c90ea1ab-9cab-47a8-9bb2-f46568f9e8c4}}{4:
+:20:REF-71872
+:23B:CRED
+:32A:240608GBP16056.00
+:50K:/OC9009212
+Perez, Gomez and Gomez
+5603 Rhodes Heights New Robertside, ND 53829
+:57A:GTBINGLAXXX
+:59:/BEN80000348107934
+Foster-Brady
+24958 Emily Locks Apt. 964 Gonzalezchester, ME 21672
+:70:INV 9BE5DA50B43D Strategy recently scene suffer ok side.
+:71A:OUR
+-}{5:{CHK:c981e8c8f4}}

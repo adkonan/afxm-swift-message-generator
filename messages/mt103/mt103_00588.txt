@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103250204INGBNL2AXXXXXXXN}{3:{121:15b2107b-d7fb-4f20-bf66-f9b29a069390}}{4:
+:20:REF-70282
+:23B:CRED
+:32A:250204USD33880.00
+:50K:/OC6097673
+Vasquez, Cole and Green
+526 Matthew Course Apt. 432 West Linda, NC 57357
+:57A:INGBNL2AXXX
+:59:/BEN88710151123968
+Miller, Jones and Lewis
+465 Pena Mall Dixonton, RI 67282
+:70:INV C241EB046D77 Wrong eye son attention though dinner he check.
+:71A:OUR
+-}{5:{CHK:436aeef3d4}}

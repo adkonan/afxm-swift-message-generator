@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240606RABONL2UXXXXXXXN}{3:{121:aa7d7afa-1d76-4de5-9443-b0311eeaa23f}}{4:
+:20:REF-65549
+:23B:CRED
+:32A:240606USD250127.00
+:50K:/OC1276684
+Lane, Scott and Ford
+593 Lara Gardens Apt. 930 Maryville, NJ 03368
+:57A:RABONL2UXXX
+:59:/BEN35727462471403
+Lambert, James and Jimenez
+5418 Hutchinson Avenue South John, MO 05581
+:70:INV 11953DB37721 Finish tough provide law nor single piece.
+:71A:OUR
+-}{5:{CHK:ab77fb5d63}}

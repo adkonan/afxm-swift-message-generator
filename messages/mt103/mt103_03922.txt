@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240318CIBCCATTXXXXXXXN}{3:{121:b3ee9c9a-f7ae-41f2-8ea5-a976b7fed72b}}{4:
+:20:REF-37021
+:23B:CRED
+:32A:240318CHF427664.00
+:50K:/OC4019711
+Rodriguez-Jenkins
+659 Miller Vista Suite 328 Smithtown, VT 54908
+:57A:CIBCCATTXXX
+:59:/BEN54753254908570
+English LLC
+2589 Brittany Meadows Apt. 016 Brittanyhaven, MO 15609
+:70:INV 51C139B279BB Western movement region traditional citizen.
+:71A:OUR
+-}{5:{CHK:dd7cf77107}}

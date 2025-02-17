@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103250127SOGEFRPPXXXXXXXN}{3:{121:a0e331d0-1047-42b5-bd94-47fae39c9bfd}}{4:
+:20:REF-16812
+:23B:CRED
+:32A:250127EUR334647.00
+:50K:/OC7995193
+Taylor, Stevens and Davis
+4326 Gallegos Unions South Rodney, NC 25844
+:57A:SOGEFRPPXXX
+:59:/BEN95015971292034
+Pierce, Howell and Doyle
+856 Murphy Bridge Thomasborough, NY 55717
+:70:INV BD9017E9292B From one manage catch seem ok scientist.
+:71A:OUR
+-}{5:{CHK:f25a496050}}

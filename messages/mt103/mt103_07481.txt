@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240328NEDSZAJJXXXXXXXN}{3:{121:411daf86-9b85-40fc-9995-8339e9ebd10a}}{4:
+:20:REF-44458
+:23B:CRED
+:32A:240328SGD234042.00
+:50K:/OC9094404
+Zamora-Harris
+988 Meyers Forest Hallmouth, IN 52870
+:57A:NEDSZAJJXXX
+:59:/BEN13302495660874
+Thomas, Richardson and Cox
+97157 Brooks Branch Apt. 683 New Stephanietown, IL 83151
+:70:INV 9BA82B602A52 Interview body four door blue prepare especially often.
+:71A:OUR
+-}{5:{CHK:e23a357112}}

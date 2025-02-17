@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240509BFSWUS33XXXXXXXN}{3:{121:5935fd98-5bc1-42c2-b5b0-058155d87ebd}}{4:
+:20:REF-67851
+:23B:CRED
+:32A:240509GBP247071.00
+:50K:/OC6589639
+Crane, Young and Carpenter
+90710 Angela Views Lake Julian, IA 31655
+:57A:BFSWUS33XXX
+:59:/BEN19173875884621
+Hall, Franklin and Kennedy
+512 Clark Flats West Williamtown, HI 64174
+:70:INV C1E7A1B15141 Hour speech choose eat society audience.
+:71A:OUR
+-}{5:{CHK:ff15448bcd}}

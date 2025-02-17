@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240527BOMLMRUXXXXXXXXN}{3:{121:7a861294-4fa8-4fbf-be96-6374e895c48b}}{4:
+:20:REF-77649
+:23B:CRED
+:32A:240527JPY1815.23
+:50K:/OC8871824
+Price, Lopez and Hall
+00992 Jeffrey Falls South Nancyside, AZ 48161
+:57A:BOMLMRUXXXX
+:59:/BEN50723066389240
+Bauer, Mcdonald and Mccoy
+34919 Jackson Street Apt. 521 Thomasland, TX 82588
+:70:INV 76E12289F1CD Gas he unit paper performance instead begin.
+:71A:OUR
+-}{5:{CHK:fc36e45a7d}}

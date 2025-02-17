@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241105BNPPIT2LXXXXXXXN}{3:{121:8afb07ca-501b-43f7-b83c-46da02a60545}}{4:
+:20:REF-81830
+:23B:CRED
+:32A:241105XAU441746.00
+:50K:/OC8139944
+Mcconnell, Allen and Mcgee
+335 Eileen Rapid Suite 088 Smithville, VT 14480
+:57A:BNPPIT2LXXX
+:59:/BEN21132696405458
+Bond, Griffin and Robinson
+228 Gibson Green South Jason, VA 25735
+:70:INV B8521D2E1E17 These let color suddenly short young air paper.
+:71A:OUR
+-}{5:{CHK:aecca931f0}}

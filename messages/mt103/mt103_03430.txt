@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250215BICIBFBFXXXXXXXN}{3:{121:ee76ff18-6408-4d5f-b6cd-ba701b282bcf}}{4:
+:20:REF-97372
+:23B:CRED
+:32A:250215CNY226538.00
+:50K:/OC7378426
+Chan-Downs
+07855 Porter Prairie Amandaville, NJ 38727
+:57A:BICIBFBFXXX
+:59:/BEN24928691706526
+Kennedy-Spence
+698 Brooks Neck Suite 479 South Jamesbury, MT 76096
+:70:INV DDF2417D45B8 Spring fine theory agree and eat able perhaps.
+:71A:OUR
+-}{5:{CHK:a3372bc1c2}}

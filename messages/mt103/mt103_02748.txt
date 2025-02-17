@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240225CRESIT2LXXXXXXXN}{3:{121:f72480f4-c7ca-48bb-ba9f-529ce2dad1bd}}{4:
+:20:REF-87679
+:23B:CRED
+:32A:240225EUR196772.00
+:50K:/OC7261019
+Roberts-Coleman
+983 Lee Cape South Kenneth, RI 95762
+:57A:CRESIT2LXXX
+:59:/BEN87707668767589
+Warren-Burns
+147 Roberts Springs Carterstad, MH 97700
+:70:INV 333CD50D1825 Force plan once natural action parent behind style.
+:71A:OUR
+-}{5:{CHK:dff5851da0}}

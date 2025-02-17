@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240624BKBKPHMMXXXXXXXN}{3:{121:afd91a76-4ee2-4fdc-92de-465af6537dbf}}{4:
+:20:REF-18204
+:23B:CRED
+:32A:240624CHF93206.00
+:50K:/OC6480577
+Combs, Mahoney and Elliott
+0453 Anthony Viaduct Apt. 274 Georgetown, MT 15849
+:57A:BKBKPHMMXXX
+:59:/BEN34239740657023
+Arnold-Horne
+569 Jerry Gateway Suite 189 Biancatown, FM 19840
+:70:INV 0AE4B30C2BC3 Event establish environmental quickly leader certain.
+:71A:OUR
+-}{5:{CHK:9403652862}}

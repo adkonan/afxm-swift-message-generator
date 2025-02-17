@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103241220BBVAESMMXXXXXXXN}{3:{121:39005b6f-7848-41bb-bb44-8608cc643991}}{4:
+:20:REF-63858
+:23B:CRED
+:32A:241220EUR3488.11
+:50K:/OC7194185
+Martin, Rodriguez and Stevens
+1141 Roberts Streets Raystad, MO 96427
+:57A:BBVAESMMXXX
+:59:/BEN81990793839084
+Cisneros-White
+902 Veronica Centers Apt. 713 New Timmouth, ND 05259
+:70:INV CD9BAA54508C Less show commercial while line continue billion writer.
+:71A:OUR
+-}{5:{CHK:0338ba37fc}}

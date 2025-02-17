@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103240817UBSWCHZHXXXXXXXN}{3:{121:4f42abf3-d8d2-44d9-8d93-c4a402f2aeaa}}{4:
+:20:REF-74868
+:23B:CRED
+:32A:240817GBP38225400.00
+:50K:/OC9372217
+Nelson, Adams and Davis
+70535 Morales Station Apt. 960 New Debra, KY 73420
+:57A:UBSWCHZHXXX
+:59:/BEN67554634825559
+Nguyen, Ryan and Hill
+50547 Rodriguez Common Pughport, VI 67895
+:70:INV 3DA6C878F41E Only toward while he collection agree bar pay.
+:71A:OUR
+-}{5:{CHK:ad32be302e}}

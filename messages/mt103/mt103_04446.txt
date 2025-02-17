@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103250117NEDSZAJJXXXXXXXN}{3:{121:3d2cbc08-8bb0-4e35-b51e-fb504b382f23}}{4:
+:20:REF-64152
+:23B:CRED
+:32A:250117USD341020.00
+:50K:/OC6867391
+Delacruz, Molina and Estrada
+825 Simmons Isle Apt. 600 New Pamela, WV 19924
+:57A:NEDSZAJJXXX
+:59:/BEN61191246977736
+Murphy, Porter and Simon
+3116 Brenda Shoals West Melissaborough, CT 60652
+:70:INV 78A12F95CB7E Activity popular degree media concern.
+:71A:OUR
+-}{5:{CHK:40a9152caf}}

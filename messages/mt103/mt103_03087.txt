@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103241231CITIUS33XXXXXXXN}{3:{121:3759e71a-33ee-4fc2-835c-3f7b9a119b5b}}{4:
+:20:REF-97921
+:23B:CRED
+:32A:241231GBP95854.00
+:50K:/OC5435671
+Moore, Hall and Manning
+13413 Lewis Junction West Tamaratown, KY 50353
+:57A:CITIUS33XXX
+:59:/BEN54839761439309
+Jensen LLC
+007 Alvarado Place Christinetown, SC 52577
+:70:INV 2D305C502C54 Money rise should very account environmental hot.
+:71A:OUR
+-}{5:{CHK:432137f1e2}}

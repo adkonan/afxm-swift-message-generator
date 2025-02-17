@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103250210AFRIGHACXXXXXXXN}{3:{121:d4556b71-a054-411e-96dc-443873e0aca3}}{4:
+:20:REF-72742
+:23B:CRED
+:32A:250210CHF422647.00
+:50K:/OC3138546
+Johnson, Fernandez and Anderson
+3657 Boone Corner Apt. 126 Port Kylefort, MT 43787
+:57A:AFRIGHACXXX
+:59:/BEN96350736144438
+Chapman, Maldonado and Hardy
+17458 Conway Rest New Sethstad, NY 25610
+:70:INV D6CB20610904 Shoulder candidate effect machine hope.
+:71A:OUR
+-}{5:{CHK:9517280c59}}

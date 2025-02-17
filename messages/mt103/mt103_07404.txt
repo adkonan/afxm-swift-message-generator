@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240915BNPAGB22XXXXXXXN}{3:{121:ba4cf07c-21ff-4dbd-bbd1-e10b0dfcb520}}{4:
+:20:REF-47955
+:23B:CRED
+:32A:240915CAD1124.00
+:50K:/OC3404338
+Nicholson Ltd
+74150 Taylor Springs Apt. 493 Port Daltonfurt, MA 81482
+:57A:BNPAGB22XXX
+:59:/BEN72383089771004
+Anderson-Burke
+594 Jacobs Locks Suite 404 Glovermouth, ND 53739
+:70:INV 56EEFDAE8DD7 Discuss sort hand foot school education.
+:71A:OUR
+-}{5:{CHK:464d0e7501}}

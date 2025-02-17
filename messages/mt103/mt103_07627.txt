@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103250215DBSAZAJJXXXXXXXN}{3:{121:f31eebcf-2f24-404b-a9e9-aed33df229ed}}{4:
+:20:REF-97160
+:23B:CRED
+:32A:250215USD307153.00
+:50K:/OC1333801
+Galloway, Bryant and Collins
+1531 Justin Forge Apt. 945 Melanieburgh, SD 47425
+:57A:DBSAZAJJXXX
+:59:/BEN61552392094500
+Foley-Chandler
+7410 Deborah Ridges Michelleland, NE 12044
+:70:INV C3C146C3CC0C Citizen national father many artist activity wrong dinner.
+:71A:OUR
+-}{5:{CHK:a495eb652f}}

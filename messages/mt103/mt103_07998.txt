@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240420BKCHHKHXXXXXXXXN}{3:{121:a12d5110-13be-4299-b6b1-8421aef0f1a6}}{4:
+:20:REF-44759
+:23B:CRED
+:32A:240420EUR385881.00
+:50K:/OC5726004
+Lee-Hurley
+065 Walker Viaduct Suite 248 Port Walterville, OR 24061
+:57A:BKCHHKHXXXX
+:59:/BEN88074973094862
+Palmer-Peters
+12062 Williams Pass West Sabrinaborough, VT 41206
+:70:INV 27B3B826D2FF Center major laugh simply blue first reduce serious.
+:71A:OUR
+-}{5:{CHK:709095e505}}

@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240511RABONL2UXXXXXXXN}{3:{121:a6425292-71b7-496e-8741-dfa4f840caaa}}{4:
+:20:REF-90594
+:23B:CRED
+:32A:240511CNY352544.00
+:50K:/OC4670164
+Ball, Leblanc and Rogers
+80182 Daniel Spring Andersonview, CA 86999
+:57A:RABONL2UXXX
+:59:/BEN94025220262765
+Benjamin-Hogan
+062 Crawford Heights Suite 203 Derekton, DE 53401
+:70:INV 5CD781CF1134 Southern research mission time herself.
+:71A:OUR
+-}{5:{CHK:cde37ac7eb}}

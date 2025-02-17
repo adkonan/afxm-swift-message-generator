@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240327OCBCSGSGXXXXXXXN}{3:{121:b278cb81-41f1-4416-82af-feddb2c50d68}}{4:
+:20:REF-57852
+:23B:CRED
+:32A:240327GBP24210.00
+:50K:/OC2989162
+Caldwell, Gonzales and Figueroa
+29336 James Expressway Josephfort, IL 55333
+:57A:OCBCSGSGXXX
+:59:/BEN53513987165877
+Hendrix, Burch and Cunningham
+7636 Juan Street Suite 762 Ruizburgh, MT 49255
+:70:INV 23D301DA73DE Series size himself.
+:71A:OUR
+-}{5:{CHK:b8af4a3a68}}

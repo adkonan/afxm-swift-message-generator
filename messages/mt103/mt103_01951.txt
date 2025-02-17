@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103241002CRESCHZZXXXXXXXN}{3:{121:58c94f38-2bca-449b-b134-4224bd45fa40}}{4:
+:20:REF-82574
+:23B:CRED
+:32A:241002USD267183.00
+:50K:/OC5468085
+Jimenez-Brewer
+30371 Harrington Motorway Apt. 004 Davidshire, WY 50721
+:57A:CRESCHZZXXX
+:59:/BEN87090332477589
+Jimenez, Graves and Martinez
+0184 Day Mission Suite 665 West William, MA 28675
+:70:INV 89F8F46E2FC6 Stock military reveal particularly world event officer figure.
+:71A:OUR
+-}{5:{CHK:93fab4b3be}}

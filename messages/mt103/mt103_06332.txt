@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240319FCMBNGLAXXXXXXXN}{3:{121:ebaaa99e-4438-4851-8a64-7e5015e07a35}}{4:
+:20:REF-84563
+:23B:CRED
+:32A:240319SGD335057.00
+:50K:/OC9148885
+Chapman, Williams and Gomez
+7451 Randall Mountain Apt. 478 New Rileyfort, SC 97147
+:57A:FCMBNGLAXXX
+:59:/BEN20415404647099
+Arellano, Dunn and Lee
+185 Boyd Forest East Jesseton, NM 34461
+:70:INV 80E310022D9E Trip suffer task mention lose arm recent doctor.
+:71A:OUR
+-}{5:{CHK:6a2683d141}}

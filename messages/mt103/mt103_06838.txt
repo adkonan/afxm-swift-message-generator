@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240702UBSWCHZHXXXXXXXN}{3:{121:ae9680bc-6331-49d6-abf4-bfd8b798b408}}{4:
+:20:REF-17023
+:23B:CRED
+:32A:240702CAD241912.00
+:50K:/OC3906510
+Gardner, Williams and Cameron
+551 Cynthia Trail New Andrewfort, HI 79400
+:57A:UBSWCHZHXXX
+:59:/BEN26756201336245
+Reynolds, Fisher and Ramos
+0046 Ashley Mission Suite 934 Robinton, FM 61721
+:70:INV A6C9AE59F662 Talk significant long his own.
+:71A:OUR
+-}{5:{CHK:9cab253cc8}}

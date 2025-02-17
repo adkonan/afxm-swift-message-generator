@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241006STANKEKEXXXXXXXN}{3:{121:531e6647-aebd-400e-b861-e0fa8ac0a736}}{4:
+:20:REF-28891
+:23B:CRED
+:32A:241006JPY949710.00
+:50K:/OC8783353
+Russell, Carter and Adams
+9552 Harper Loaf Apt. 036 South Christopher, KY 45933
+:57A:STANKEKEXXX
+:59:/BEN72524829751777
+Morales, Taylor and Ford
+091 Lewis Shore Apt. 245 East Jasmine, NV 71084
+:70:INV 725252FDCB28 Lot than pull market without.
+:71A:OUR
+-}{5:{CHK:ebda832c70}}

@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103241209BNPAGB22XXXXXXXN}{3:{121:4e9651e2-86b6-43d0-8810-c358b2dd6b32}}{4:
+:20:REF-72329
+:23B:CRED
+:32A:241209EUR145308.00
+:50K:/OC4785911
+Clark, Love and Rocha
+341 Ronald Radial Suite 667 New Lisaborough, GU 92673
+:57A:BNPAGB22XXX
+:59:/BEN23006085448764
+Luna, Dixon and Price
+8458 Carpenter Stravenue Apt. 192 North Ellenchester, WY 67417
+:70:INV 7CACB4425F31 Poor check season scientist per.
+:71A:OUR
+-}{5:{CHK:cdf127c7d7}}

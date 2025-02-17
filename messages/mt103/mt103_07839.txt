@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103250108STANKEKEXXXXXXXN}{3:{121:9e41cc7d-29da-48e8-8973-db9c08076152}}{4:
+:20:REF-29106
+:23B:CRED
+:32A:250108CNY3423.43
+:50K:/OC7760652
+Horton Inc
+8243 Natalie Harbors Suite 845 West Carlaview, DE 51435
+:57A:STANKEKEXXX
+:59:/BEN36152207577453
+Simmons, Cox and Lewis
+19756 Ryan Fields Suite 270 West George, ME 86948
+:70:INV 688AF17216AB Research school make technology then table operation wish.
+:71A:OUR
+-}{5:{CHK:1d81bb1a77}}

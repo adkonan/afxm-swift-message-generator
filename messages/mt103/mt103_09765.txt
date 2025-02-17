@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240308AFRIGHACXXXXXXXN}{3:{121:dc8684d3-7c44-47ff-bad1-c08a7015c68c}}{4:
+:20:REF-82420
+:23B:CRED
+:32A:240308CHF3877.08
+:50K:/OC8082963
+Fernandez and Sons
+322 Elliott Rapid Port Kathryntown, VA 83891
+:57A:AFRIGHACXXX
+:59:/BEN14735565627378
+Atkinson, Jennings and Davis
+57872 Sparks Vista Suite 133 Michellemouth, WY 72640
+:70:INV 94E9260E6119 But serious economy eat recognize.
+:71A:OUR
+-}{5:{CHK:784125006f}}

@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103240909BOJZBJZAXXXXXXXN}{3:{121:eee33297-e86b-4227-8add-8cad73c1de8c}}{4:
+:20:REF-80650
+:23B:CRED
+:32A:240909SGD32366900.00
+:50K:/OC2389245
+Reid, Howard and Ward
+9385 Murphy Estate Apt. 710 Petersfurt, MN 91525
+:57A:BOJZBJZAXXX
+:59:/BEN34605678804833
+Howe Group
+962 Ronald Hill Port Tiffanyburgh, ID 56028
+:70:INV B7DEE1B6E145 Research throughout more collection most lot else because.
+:71A:OUR
+-}{5:{CHK:b225d8bf98}}

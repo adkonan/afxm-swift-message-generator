@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240907OCBCSGSGXXXXXXXN}{3:{121:bad45d28-ccd2-4225-bdba-38b48c54bce3}}{4:
+:20:REF-71964
+:23B:CRED
+:32A:240907CAD89169.00
+:50K:/OC6488436
+Gonzalez and Sons
+06655 Jennifer Squares Apt. 507 Lake Stephen, GU 38451
+:57A:OCBCSGSGXXX
+:59:/BEN77748473910440
+Johnson, Gordon and Goodwin
+USS Gillespie FPO AP 83684
+:70:INV 6405C090C47F Lead reflect ago program leader raise road message.
+:71A:OUR
+-}{5:{CHK:dce3d9f779}}

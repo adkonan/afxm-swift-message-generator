@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103250114BKBKPHMMXXXXXXXN}{3:{121:06342bff-34eb-46c9-91cd-6b5d3768150b}}{4:
+:20:REF-18312
+:23B:CRED
+:32A:250114CAD32342500.00
+:50K:/OC8882308
+Castillo, Palmer and Hoffman
+544 Rogers Mission Apt. 356 Karenshire, NH 22785
+:57A:BKBKPHMMXXX
+:59:/BEN89413448241402
+Roman, Stephenson and Hall
+1398 Steven Drive Apt. 167 East Evelynhaven, TX 80769
+:70:INV 4BA820E410A8 Song push finally production support.
+:71A:OUR
+-}{5:{CHK:b836443af3}}

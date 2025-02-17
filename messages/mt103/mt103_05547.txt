@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103240326ECOCGHANXXXXXXXN}{3:{121:f8476585-d56e-4299-bbf1-3813c9677266}}{4:
+:20:REF-27370
+:23B:CRED
+:32A:240326USD467937.00
+:50K:/OC5757916
+Bowen, Walker and Green
+077 Kayla Village East David, IL 06502
+:57A:ECOCGHANXXX
+:59:/BEN18363150654798
+Long-Compton
+1499 Gregory Extension Thompsonmouth, VT 90257
+:70:INV 658E2FFCBB40 Left audience action similar sign task central mother.
+:71A:OUR
+-}{5:{CHK:9b77074df9}}

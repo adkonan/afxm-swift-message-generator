@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240827INGBNL2AXXXXXXXN}{3:{121:afeb6dda-ea0e-48c7-8ee4-f77284db9034}}{4:
+:20:REF-75729
+:23B:CRED
+:32A:240827USD463827.00
+:50K:/OC5810747
+Brown, Hernandez and Serrano
+0732 Bush Cliffs New Kelseyshire, NE 08206
+:57A:INGBNL2AXXX
+:59:/BEN40868977894587
+Nichols, Scott and Garcia
+38295 Small Mission Apt. 890 East Sabrina, MD 32617
+:70:INV 20A6942BF9B7 Wife year trip window budget.
+:71A:OUR
+-}{5:{CHK:a02697946c}}

@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103241213DBSAZAJJXXXXXXXN}{3:{121:599b0da1-05f8-49d9-8ef6-8edae3435250}}{4:
+:20:REF-97944
+:23B:CRED
+:32A:241213JPY372995.00
+:50K:/OC6170480
+Cooper, Maddox and Maxwell
+80804 Simpson Drive Suite 698 Matthewmouth, MS 22197
+:57A:DBSAZAJJXXX
+:59:/BEN16192791606201
+Schultz-Glover
+496 Hensley Spurs Apt. 921 Dakotaville, ND 53933
+:70:INV 061868E92DA0 Six your gas thousand political sense nation.
+:71A:OUR
+-}{5:{CHK:f402684e7f}}

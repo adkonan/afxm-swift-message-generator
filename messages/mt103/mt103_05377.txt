@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103250124CIBCCATTXXXXXXXN}{3:{121:ad5e2077-2e49-4c98-b549-275c3695a3d8}}{4:
+:20:REF-44909
+:23B:CRED
+:32A:250124GBP101144.00
+:50K:/OC6339657
+Franklin, Solomon and Johnston
+977 Tyler Corners Suite 651 West Peter, UT 73387
+:57A:CIBCCATTXXX
+:59:/BEN70896097691433
+Williams, Anderson and Peters
+71532 Charles Divide Suite 515 Brianfort, GA 22656
+:70:INV CD98A7D0B79A Hope national seat camera project sign.
+:71A:OUR
+-}{5:{CHK:750cdeb18d}}

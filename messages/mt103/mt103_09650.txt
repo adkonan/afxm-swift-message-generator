@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240516UBSWCHZHXXXXXXXN}{3:{121:cdf4b1bf-d9b9-4e94-a308-f22099e21593}}{4:
+:20:REF-55804
+:23B:CRED
+:32A:240516CAD485841.00
+:50K:/OC8110951
+Bauer, Lara and Dominguez
+997 Hernandez Spur Apt. 122 Webbmouth, OH 57434
+:57A:UBSWCHZHXXX
+:59:/BEN27877525293712
+Arias, Berg and Huber
+8743 Samantha Forge Harrisbury, NV 23112
+:70:INV FF915748BF60 Congress begin woman decide dinner beautiful.
+:71A:OUR
+-}{5:{CHK:c7cb7b7fba}}

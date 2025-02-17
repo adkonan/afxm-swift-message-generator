@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240615RBCROYTORXXXXXXXN}{3:{121:6eee0eef-0e3c-4873-8c5d-35928ac0c727}}{4:
+:20:REF-23394
+:23B:CRED
+:32A:240615JPY261390.00
+:50K:/OC8082838
+Roberts, Garner and Cross
+2995 Kimberly Well Suite 282 North Christopher, RI 27103
+:57A:RBCROYTORXXX
+:59:/BEN40755877918130
+Hayes-Davis
+5554 Barnes Via Michaelside, VI 15426
+:70:INV D6D13FD375F7 Affect director serious national something develop particularly.
+:71A:OUR
+-}{5:{CHK:c643b75eb6}}

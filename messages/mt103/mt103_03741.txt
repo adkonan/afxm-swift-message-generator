@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103241207BBVAESMMXXXXXXXN}{3:{121:c342e1ad-310f-4efb-97cf-645ef0c57a1d}}{4:
+:20:REF-80211
+:23B:CRED
+:32A:241207EUR216593.00
+:50K:/OC5834165
+Mitchell and Sons
+864 Carlson Route North Joshuastad, CA 27839
+:57A:BBVAESMMXXX
+:59:/BEN74795270563142
+Young, King and Schneider
+7181 Antonio Run North Brianhaven, PR 29300
+:70:INV 900FEAD10E7C Similar themselves thank wear pressure know.
+:71A:OUR
+-}{5:{CHK:b11765a39a}}

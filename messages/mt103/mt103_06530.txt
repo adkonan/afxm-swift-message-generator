@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103250105BNPAFRPPXXXXXXXN}{3:{121:28d153bc-99a5-446f-b3bb-f915fc3b2684}}{4:
+:20:REF-75791
+:23B:CRED
+:32A:250105CHF93364.00
+:50K:/OC3799425
+Callahan, Lewis and Gonzalez
+660 Ryan Villages East Shane, WY 58070
+:57A:BNPAFRPPXXX
+:59:/BEN87300313391434
+Cline, Ray and Estrada
+4706 Lane Crest Apt. 569 Petersside, OK 00945
+:70:INV DFDDD91489A8 Feeling capital rate science leader.
+:71A:OUR
+-}{5:{CHK:ed891e0da2}}

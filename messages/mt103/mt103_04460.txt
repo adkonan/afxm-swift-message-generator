@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240815BNPAGB22XXXXXXXN}{3:{121:8e282cb5-acfc-401d-9202-4b600453e287}}{4:
+:20:REF-63856
+:23B:CRED
+:32A:240815GBP1496.80
+:50K:/OC4215246
+Davis-Johnson
+4170 Craig Court North Benjaminhaven, VA 09826
+:57A:BNPAGB22XXX
+:59:/BEN41199222357705
+Bailey Inc
+5573 Bullock Roads Michelechester, CO 14066
+:70:INV 3D72937B0B9D Ability low American process maintain him southern look.
+:71A:OUR
+-}{5:{CHK:8cc68cbe0e}}

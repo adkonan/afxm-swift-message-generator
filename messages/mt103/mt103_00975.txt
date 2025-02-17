@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241209HSBCGB2LXXXXXXXN}{3:{121:93afe1dd-63ba-4bbb-ae5a-f6c058c26e37}}{4:
+:20:REF-94725
+:23B:CRED
+:32A:241209USD383167.00
+:50K:/OC7486277
+Larson-Gomez
+196 Teresa Alley Suite 652 New Virginia, GU 76879
+:57A:HSBCGB2LXXX
+:59:/BEN50878162578963
+Blankenship, Henderson and Miles
+7930 Susan Mount Port Mercedesberg, KY 32053
+:70:INV FC5120B82B27 North he lead ahead once heavy garden base.
+:71A:OUR
+-}{5:{CHK:ad1b9e1d1f}}

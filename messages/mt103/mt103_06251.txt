@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103241106FCMBNGLAXXXXXXXN}{3:{121:ea42c1f4-c192-4dfa-99c7-230fd02bd831}}{4:
+:20:REF-38619
+:23B:CRED
+:32A:241106USD492543.00
+:50K:/OC1808124
+Kline-Barrett
+729 Schwartz Estates Suite 522 East Katherinehaven, NV 91209
+:57A:FCMBNGLAXXX
+:59:/BEN99446616547620
+Davis and Sons
+94024 Andrade Creek Apt. 708 North Cherylshire, LA 37347
+:70:INV D21C3283C0D9 Us executive identify three adult.
+:71A:OUR
+-}{5:{CHK:d762da8c38}}

@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240313BOJZBJZAXXXXXXXN}{3:{121:f8422a1b-33aa-425c-99f4-cf722a54e86a}}{4:
+:20:REF-46107
+:23B:CRED
+:32A:240313AUD439154.00
+:50K:/OC1183933
+Reed and Sons
+8580 Hamilton Dale New Shannon, NV 75028
+:57A:BOJZBJZAXXX
+:59:/BEN15833432946581
+Johnson-Miller
+858 Kathryn Circles Suite 346 Tatetown, NJ 69229
+:70:INV B70EA3E1D651 Perform political provide reach so item sell true.
+:71A:OUR
+-}{5:{CHK:14d42b6dfe}}

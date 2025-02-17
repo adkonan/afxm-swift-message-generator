@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103250121UBSWRIT2XXXXXXXN}{3:{121:ee8931aa-79f4-4da3-a1ac-81b8bbdcede1}}{4:
+:20:REF-60058
+:23B:CRED
+:32A:250121CNY27869.00
+:50K:/OC4842223
+Montes-Martin
+1486 Kerr Rest Madisonport, PA 53594
+:57A:UBSWRIT2XXX
+:59:/BEN22640891388741
+Figueroa-Collier
+331 Morales Lodge Kellyshire, CT 20770
+:70:INV ADF84FA8A7AC Character write land system light another.
+:71A:OUR
+-}{5:{CHK:da2ae16a34}}

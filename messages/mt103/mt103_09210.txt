@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240721ABSAZAJJXXXXXXXN}{3:{121:03deed0b-4ce0-442a-b470-2614d3d453fb}}{4:
+:20:REF-13656
+:23B:CRED
+:32A:240721AUD244972.00
+:50K:/OC8986782
+Taylor, Cortez and Todd
+8685 Waters Islands Suite 527 Lake Jamesview, NJ 23588
+:57A:ABSAZAJJXXX
+:59:/BEN56596132279274
+Fitzgerald, Weber and Mitchell
+3741 Hill Stravenue South Kristine, FL 25426
+:70:INV B5E617BF9C6B Either reveal if defense respond lead myself system.
+:71A:OUR
+-}{5:{CHK:ba963e07ca}}

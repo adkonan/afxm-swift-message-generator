@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103240329NATXFRPPXXXXXXXN}{3:{121:92641f35-d277-40b4-a3b0-501210c47d9a}}{4:
+:20:REF-96140
+:23B:CRED
+:32A:240329CNY178625.00
+:50K:/OC3492619
+Martinez-Little
+2721 Blanchard Road Apt. 994 East Michellestad, WY 29720
+:57A:NATXFRPPXXX
+:59:/BEN60439836589732
+Young, Haas and Lopez
+9046 Jeffrey Fords Suite 343 New Katherineshire, OH 84905
+:70:INV 8AB4DFE50F53 Night foreign expert meet relate control better.
+:71A:OUR
+-}{5:{CHK:9cb9426b28}}

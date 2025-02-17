@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103250210SCBLGB2LXXXXXXXN}{3:{121:98944c3b-3d4e-4b59-a0df-04477bcbe88f}}{4:
+:20:REF-93055
+:23B:CRED
+:32A:250210CHF179166.00
+:50K:/OC3765967
+Waller-Kelley
+861 Rebecca Plain Valerieville, AR 47397
+:57A:SCBLGB2LXXX
+:59:/BEN43255252114792
+Martinez-Guerra
+1489 Clark Hills Apt. 527 East Nataliehaven, NV 72109
+:70:INV A2F8256B101A Certainly wait think leader throw environment.
+:71A:OUR
+-}{5:{CHK:a03f6abe53}}

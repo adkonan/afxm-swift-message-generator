@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103241106AFRIGHACXXXXXXXN}{3:{121:ec9fae69-b965-47d4-9be8-dedc7b33f568}}{4:
+:20:REF-67349
+:23B:CRED
+:32A:241106GBP402708.00
+:50K:/OC7257846
+Burton PLC
+80684 Boyer Vista Apt. 285 Larryside, AS 02704
+:57A:AFRIGHACXXX
+:59:/BEN65497649797260
+Wilcox, Faulkner and Keller
+2750 Miller Viaduct Apt. 944 New Adrienne, MO 99491
+:70:INV 809C27B165ED Weight industry try yet either become mouth.
+:71A:OUR
+-}{5:{CHK:ff57ae0ce8}}

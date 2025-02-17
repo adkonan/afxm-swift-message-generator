@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103250126STANKEKEXXXXXXXN}{3:{121:e5f43755-7160-492f-be81-dedc2f099bba}}{4:
+:20:REF-19051
+:23B:CRED
+:32A:250126CNY328726.00
+:50K:/OC3481113
+Joyce LLC
+243 Bryant Ports Suite 056 New Joshuastad, CO 50719
+:57A:STANKEKEXXX
+:59:/BEN81428366266992
+Lloyd-Hawkins
+6631 Paul Camp Suite 355 Farleychester, OK 06587
+:70:INV D31211DC3BE1 House either teach finally without notice attention trip.
+:71A:OUR
+-}{5:{CHK:d1fa9a27aa}}

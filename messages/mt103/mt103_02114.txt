@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240512STANGB2LXXXXXXXN}{3:{121:54a5b1b0-cb87-4e0e-8b12-5ca3f2a10e4f}}{4:
+:20:REF-50856
+:23B:CRED
+:32A:240512CHF290142.00
+:50K:/OC5988171
+Henderson, Mitchell and Davila
+8757 Gilbert Shore Garciaport, IA 22354
+:57A:STANGB2LXXX
+:59:/BEN81276193035245
+Bridges-Hinton
+1837 Garcia Forks New Wendy, WV 56446
+:70:INV 533D69A14F35 Every mention history short future range.
+:71A:OUR
+-}{5:{CHK:f2f7fd0e48}}

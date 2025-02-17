@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241023DTBKIDJAXXXXXXXN}{3:{121:c9ddacbc-8f00-42e3-a636-08bf652b4866}}{4:
+:20:REF-10501
+:23B:CRED
+:32A:241023CAD10396.00
+:50K:/OC2326198
+Gentry, Chapman and Gonzalez
+89267 Bates Square Suite 372 Glennberg, OR 94692
+:57A:DTBKIDJAXXX
+:59:/BEN50456798417937
+Hansen-Villanueva
+691 Guzman Summit Suite 626 Lake Sherrymouth, AZ 22926
+:70:INV 4E3FE09FE849 Middle safe option information.
+:71A:OUR
+-}{5:{CHK:ce6b9f8bdb}}

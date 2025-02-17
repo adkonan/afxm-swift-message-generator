@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240831NEDSZAJJXXXXXXXN}{3:{121:12caed6c-bab9-4fdd-a6a4-26890ef8f640}}{4:
+:20:REF-44433
+:23B:CRED
+:32A:240831XAG129807.00
+:50K:/OC6177130
+Stewart, Holland and Joseph
+088 Brianna Square North Katrina, KY 19167
+:57A:NEDSZAJJXXX
+:59:/BEN63231073505238
+Lee, Wheeler and Sullivan
+52842 Miller Forest Mccarthyburgh, AK 81675
+:70:INV 9F7C711AEBC7 Across either paper.
+:71A:OUR
+-}{5:{CHK:2fb888a5ba}}

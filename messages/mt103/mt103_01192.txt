@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103241107BARCGB22XXXXXXXN}{3:{121:e0564ff4-4644-4390-a8f2-421ce046aee8}}{4:
+:20:REF-33177
+:23B:CRED
+:32A:241107JPY4911.01
+:50K:/OC8850338
+Bishop-Sellers
+8077 Evan Flats East Patrickside, WY 35503
+:57A:BARCGB22XXX
+:59:/BEN57014532308399
+Whitaker, Vazquez and Valdez
+25087 Weaver Streets Jonesborough, MN 84472
+:70:INV 452B3BA9BBD1 Pull population morning sure forward north small.
+:71A:OUR
+-}{5:{CHK:4427614d09}}

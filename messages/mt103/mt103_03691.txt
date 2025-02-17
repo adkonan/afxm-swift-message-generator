@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241117GTBINGLAXXXXXXXN}{3:{121:529d9a76-8c96-4906-b83c-e724fbc55b6d}}{4:
+:20:REF-68974
+:23B:CRED
+:32A:241117EUR31902.00
+:50K:/OC4238084
+Stanton, Baker and Hill
+39673 Susan Locks Apt. 198 Port Michaelville, OH 42696
+:57A:GTBINGLAXXX
+:59:/BEN27217600056335
+Rivas, Lara and Waters
+225 Greene Harbor Robertsville, IA 99601
+:70:INV 522189EFD335 School likely rest chance future.
+:71A:OUR
+-}{5:{CHK:c0d6db705a}}

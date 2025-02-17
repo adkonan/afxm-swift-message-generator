@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240614SCBLGB2LXXXXXXXN}{3:{121:f863c8f2-17c7-4cfc-80f4-9ea8d7be19ee}}{4:
+:20:REF-51517
+:23B:CRED
+:32A:240614CAD469033.00
+:50K:/OC8370674
+Long Group
+23602 Heidi Drive Suite 927 Jameshaven, MT 68832
+:57A:SCBLGB2LXXX
+:59:/BEN71028367729779
+Fowler-Murray
+078 Bennett Ridge Williamshaven, TX 35166
+:70:INV 25AF59C6C542 Official five rather your follow daughter market.
+:71A:OUR
+-}{5:{CHK:ef99228cce}}

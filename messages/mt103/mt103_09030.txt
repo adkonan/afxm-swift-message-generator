@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240525CHASUS33XXXXXXXN}{3:{121:ef7754b7-4efe-4b2b-9d55-241202caf0d0}}{4:
+:20:REF-51002
+:23B:CRED
+:32A:240525XAU285262.00
+:50K:/OC8052198
+Brown, Moore and Copeland
+095 Bailey Circle Rasmussenchester, NC 96959
+:57A:CHASUS33XXX
+:59:/BEN43749059258929
+Noble-Berry
+7450 Jessica Spring Suite 832 Kevinburgh, MP 37646
+:70:INV D1C5BD96D205 Reality strategy pass office officer degree.
+:71A:OUR
+-}{5:{CHK:1c8faa50cc}}

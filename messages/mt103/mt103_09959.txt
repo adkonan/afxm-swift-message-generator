@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103250103BFSWUS33XXXXXXXN}{3:{121:0cafbee2-16db-4beb-b0aa-1f98537a8b87}}{4:
+:20:REF-22004
+:23B:CRED
+:32A:250103CNY75748.00
+:50K:/OC4113196
+Garcia Inc
+868 Todd Loop New Josephville, VI 75037
+:57A:BFSWUS33XXX
+:59:/BEN19956749165737
+Roth, Newman and Mcguire
+47605 Donald Green North Taylorport, CO 08483
+:70:INV 08CEDF76203C Relationship section how nature actually.
+:71A:OUR
+-}{5:{CHK:5a8d0a5b09}}

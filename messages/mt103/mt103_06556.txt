@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240916OCBCSGSGXXXXXXXN}{3:{121:c3fc341c-817e-4f13-b5f7-e5ebb1e284e1}}{4:
+:20:REF-66171
+:23B:CRED
+:32A:240916SGD4427350.00
+:50K:/OC5705512
+Brock, Thomas and Suarez
+2584 Wendy Cliffs Apt. 545 North Lindsay, NJ 53089
+:57A:OCBCSGSGXXX
+:59:/BEN94603005175649
+Carter, Carlson and Cook
+58308 Gilmore Meadows Michaeltown, ID 34041
+:70:INV 1AF87B203DBC Building modern include kitchen.
+:71A:OUR
+-}{5:{CHK:e716564dcd}}

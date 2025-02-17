@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241222FBNINGLAXXXXXXXN}{3:{121:4ab33e91-4c98-495b-95f8-89ea0d3219f7}}{4:
+:20:REF-30223
+:23B:CRED
+:32A:241222SGD566.15
+:50K:/OC8391217
+Jarvis Ltd
+853 Robin Streets Suite 732 North Matthew, GA 44433
+:57A:FBNINGLAXXX
+:59:/BEN34854971018988
+Mccall, Johnson and Weiss
+1216 Walker Groves Stoneburgh, TN 37812
+:70:INV 061F0D4A317D Fact mention write certain time consider top win.
+:71A:OUR
+-}{5:{CHK:8622fa28b7}}

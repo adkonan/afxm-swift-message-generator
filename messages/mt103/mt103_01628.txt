@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240318SMBCJPJTXXXXXXXN}{3:{121:375ea3d8-ea87-4326-8df5-7df717e7148d}}{4:
+:20:REF-75714
+:23B:CRED
+:32A:240318AUD225507.00
+:50K:/OC6749284
+Brown, Patterson and Wheeler
+0005 Christy Greens Suite 550 Aprilville, NJ 17084
+:57A:SMBCJPJTXXX
+:59:/BEN26646189944229
+Drake Inc
+5095 Mcfarland Village Apt. 597 North Terrencebury, GU 80543
+:70:INV 2A26B5758974 Specific personal scientist prove audience time.
+:71A:OUR
+-}{5:{CHK:c43762bfa1}}

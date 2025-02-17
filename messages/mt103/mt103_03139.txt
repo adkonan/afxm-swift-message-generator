@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240305DEUTDEFFXXXXXXXN}{3:{121:ed66e934-aae6-42d5-89ab-1876d2360088}}{4:
+:20:REF-54972
+:23B:CRED
+:32A:240305USD456429.00
+:50K:/OC8147576
+Martinez, Harrison and Henry
+1913 Tracy Crossing Apt. 405 Lake Allen, MP 44590
+:57A:DEUTDEFFXXX
+:59:/BEN13346613085428
+Alvarez PLC
+253 Rebecca Orchard Apt. 960 New Heather, MS 52362
+:70:INV E0EE3D281490 Half realize lot picture question and price former.
+:71A:OUR
+-}{5:{CHK:79570eebbd}}

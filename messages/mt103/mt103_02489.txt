@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240622ZURICHZCHXXXXXXXN}{3:{121:ddab68aa-0684-4e60-94a5-846b6c66df99}}{4:
+:20:REF-57748
+:23B:CRED
+:32A:240622USD100071.00
+:50K:/OC1823983
+Orozco, Davis and Bryant
+9871 Harvey Villages Lake Williamside, IL 58212
+:57A:ZURICHZCHXXX
+:59:/BEN96064327322540
+Castillo, Adams and Silva
+8937 Vaughan Bridge South Amanda, MS 69639
+:70:INV 1E9E803CC55D Check most factor great film.
+:71A:OUR
+-}{5:{CHK:4a22ddf5c0}}

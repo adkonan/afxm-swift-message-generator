@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103250212BFSWUS33XXXXXXXN}{3:{121:cd8de2cd-0b11-485a-b0f5-30182efb95de}}{4:
+:20:REF-68050
+:23B:CRED
+:32A:250212CAD375589.00
+:50K:/OC6363751
+Brooks-Diaz
+920 Micheal Harbors Suite 075 East Jasmine, ME 72639
+:57A:BFSWUS33XXX
+:59:/BEN72560391779660
+Hodge-Roberts
+92317 Salazar Turnpike Apt. 288 Millerton, IN 25083
+:70:INV AEA59E8513FC Section magazine thank woman letter require drive.
+:71A:OUR
+-}{5:{CHK:16a06cc1a8}}

@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240821SCBLGB2LXXXXXXXN}{3:{121:361bced4-5df2-4737-aae6-81b3c089acaa}}{4:
+:20:REF-87341
+:23B:CRED
+:32A:240821SGD448636.00
+:50K:/OC8575944
+Long, Nielsen and Horne
+428 Michael Dale New Brendan, WY 61271
+:57A:SCBLGB2LXXX
+:59:/BEN63799057926464
+Baker-Tyler
+2958 Daniel Run East Courtney, MP 93847
+:70:INV D5511CC0A761 Amount reason much nor plant gun news daughter.
+:71A:OUR
+-}{5:{CHK:3a9dc9964e}}

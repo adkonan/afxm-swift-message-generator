@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240608FIRNZAJJXXXXXXXN}{3:{121:c7d6c8a2-9d4d-4fda-9e81-8d2d76cc5f98}}{4:
+:20:REF-80438
+:23B:CRED
+:32A:240608EUR15882900.00
+:50K:/OC7043436
+Rogers, Adams and Taylor
+716 Fischer Stream North Zacharytown, NC 48003
+:57A:FIRNZAJJXXX
+:59:/BEN12429476933080
+Jones, Williamson and Bush
+7607 Justin Route Dayton, OH 58561
+:70:INV A6F6EC88E1F3 Both drive else knowledge send few card.
+:71A:OUR
+-}{5:{CHK:512455eaa3}}

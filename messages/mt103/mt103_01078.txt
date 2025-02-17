@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241216DBSAZAJJXXXXXXXN}{3:{121:56f21bec-231a-4ef0-9fbb-0fcecf73e071}}{4:
+:20:REF-10852
+:23B:CRED
+:32A:241216CNY212716.00
+:50K:/OC1701790
+Castillo, Wong and Fowler
+0026 Donald Flats West Abigailport, WY 71417
+:57A:DBSAZAJJXXX
+:59:/BEN32876388323767
+Morris, Young and Cooper
+5196 Lisa Grove Suite 188 Port Trevorton, AL 96404
+:70:INV BE52B6318F17 Eat according nature word job turn laugh.
+:71A:OUR
+-}{5:{CHK:5ea7d3a71b}}

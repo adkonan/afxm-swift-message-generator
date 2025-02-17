@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240702DBSAZAJJXXXXXXXN}{3:{121:06c7c229-afb7-4d1c-bf5d-fd89040d5444}}{4:
+:20:REF-18283
+:23B:CRED
+:32A:240702JPY135422.00
+:50K:/OC8795090
+Robinson-Obrien
+746 Jacobs Curve Apt. 734 New Caroltown, MI 88400
+:57A:DBSAZAJJXXX
+:59:/BEN74212113994267
+Hawkins, Nguyen and Johnson
+3188 Erin Freeway Wardmouth, VI 17704
+:70:INV 8EEED498C5BC Already up soldier himself Mrs mouth happen.
+:71A:OUR
+-}{5:{CHK:57801cc3df}}

@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240629BNPPIT2LXXXXXXXN}{3:{121:b05c822b-4d09-4e72-ad99-cd447ba8f557}}{4:
+:20:REF-49552
+:23B:CRED
+:32A:240629AUD456956.00
+:50K:/OC4797634
+Zimmerman Ltd
+95638 Victoria Valleys Caitlinberg, IA 13891
+:57A:BNPPIT2LXXX
+:59:/BEN38515629026039
+Sosa-Reeves
+992 Jennifer Fork Lawrenceton, TX 61454
+:70:INV 17E4C4DF2044 Door show attention four determine yourself unit subject.
+:71A:OUR
+-}{5:{CHK:0f96159b34}}

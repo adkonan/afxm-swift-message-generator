@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240823BARCGB22XXXXXXXN}{3:{121:08b98162-e7af-439f-ab57-de09a712cfed}}{4:
+:20:REF-70995
+:23B:CRED
+:32A:240823AUD325674.00
+:50K:/OC5632284
+Church-Snyder
+9045 Michael Freeway Apt. 129 East Melissafurt, OH 18569
+:57A:BARCGB22XXX
+:59:/BEN21081227481687
+Fitzgerald, Figueroa and Perez
+43516 Harris Expressway Suite 306 Williamchester, IA 82531
+:70:INV 8B50C4FE5060 Kid seven manager remember product popular.
+:71A:OUR
+-}{5:{CHK:187d890b19}}

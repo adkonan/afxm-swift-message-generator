@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240908ZURICHZCHXXXXXXXN}{3:{121:0b25c16c-9b6f-4954-a120-00be067267a7}}{4:
+:20:REF-32094
+:23B:CRED
+:32A:240908SGD4550.02
+:50K:/OC8516739
+Blankenship-Hoover
+202 Carrie Cliff South Alyssatown, WV 21229
+:57A:ZURICHZCHXXX
+:59:/BEN47248597066081
+Cook-Glenn
+478 Thomas Ports Apt. 624 Schultzhaven, VT 83287
+:70:INV 40F1736C315E View best enough reason interest respond power want.
+:71A:OUR
+-}{5:{CHK:33f0ddd511}}

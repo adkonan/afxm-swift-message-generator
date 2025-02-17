@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240528BFSWUS33XXXXXXXN}{3:{121:a02c46b7-4f0c-44b0-a454-dfbab7296e25}}{4:
+:20:REF-74444
+:23B:CRED
+:32A:240528EUR95130.00
+:50K:/OC9401239
+Anderson, Mccarty and Young
+161 Christopher Point East Josephfurt, NC 46268
+:57A:BFSWUS33XXX
+:59:/BEN26186859868765
+Powers, Kidd and Martin
+9329 Tara Rue Suite 418 West Toni, VI 01145
+:70:INV 0428E8942D65 Scientist which night general card offer two above.
+:71A:OUR
+-}{5:{CHK:9b485ff551}}

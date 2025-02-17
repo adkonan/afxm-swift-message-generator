@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103241205OCBCSGSGXXXXXXXN}{3:{121:fe9a561a-7d17-4df8-81fc-746acce68c2c}}{4:
+:20:REF-57557
+:23B:CRED
+:32A:241205IRR211867.00
+:50K:/OC1135094
+Stone and Sons
+2266 Veronica Course Davidfurt, PA 50880
+:57A:OCBCSGSGXXX
+:59:/BEN48040277565149
+Kelly, Kelley and Haley
+8054 Brittany Orchard Suite 801 Lake Danabury, MH 15127
+:70:INV 4706236EC8A1 Resource key staff get yard those.
+:71A:OUR
+-}{5:{CHK:858c9d4dfd}}

@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240327BNPAFRPPXXXXXXXN}{3:{121:0b70f795-9c97-461f-92f0-d01ad69d9b04}}{4:
+:20:REF-57175
+:23B:CRED
+:32A:240327EUR254704.00
+:50K:/OC8492344
+Blackburn Group
+50095 William Stravenue North Alexandrialand, TX 62582
+:57A:BNPAFRPPXXX
+:59:/BEN57352808129737
+French, Lopez and Hubbard
+87641 Derek Station South Amanda, MO 88772
+:70:INV E1184D8FBCAF Budget enjoy director it sing international state.
+:71A:OUR
+-}{5:{CHK:3c5d520af0}}

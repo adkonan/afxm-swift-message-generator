@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103250209NEDSZAJJXXXXXXXN}{3:{121:4b4471f8-3605-4fa6-bf08-9cef06afc12d}}{4:
+:20:REF-13473
+:23B:CRED
+:32A:250209EUR376574.00
+:50K:/OC2610188
+Valencia Group
+741 Nelson Brooks Suite 058 Andrewfort, MN 45162
+:57A:NEDSZAJJXXX
+:59:/BEN19734075029292
+Thompson, Morgan and Marsh
+64214 Timothy Path Suite 052 Cindyview, CO 47768
+:70:INV DFE64D556E2C Leader performance turn change although perform fine those.
+:71A:OUR
+-}{5:{CHK:f4a38c075b}}

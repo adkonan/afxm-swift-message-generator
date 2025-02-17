@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103250113SOGEFRPPXXXXXXXN}{3:{121:a95969c3-6225-421e-8c60-7a4dca5a2064}}{4:
+:20:REF-12465
+:23B:CRED
+:32A:250113CNY192549.00
+:50K:/OC7160412
+Sanchez, West and Barry
+967 Angel Camp Suite 832 New Jennifer, WA 97992
+:57A:SOGEFRPPXXX
+:59:/BEN42419203662710
+Morris, Cherry and Wood
+05958 Mooney Motorway Suite 866 Matthewsland, OH 62876
+:70:INV 2556F1F24D8F Hospital management world left something week.
+:71A:OUR
+-}{5:{CHK:3080009e8c}}

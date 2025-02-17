@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103241111CITIUS33XXXXXXXN}{3:{121:f959f9c6-0c06-45b1-9226-a07c044888af}}{4:
+:20:REF-38471
+:23B:CRED
+:32A:241111EUR345500.00
+:50K:/OC4830438
+Hernandez, Keith and Mora
+027 Charles Wall Lake Jenniferview, IN 59067
+:57A:CITIUS33XXX
+:59:/BEN59477359257001
+Logan-Campos
+323 Dennis Throughway Gregoryton, UT 69588
+:70:INV B1AB3796DD07 Serve option person decide like part south.
+:71A:OUR
+-}{5:{CHK:e78cd4f34e}}

@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240316OCBCSGSGXXXXXXXN}{3:{121:f328eaed-9cda-4937-9b15-5bb5a1854e54}}{4:
+:20:REF-39406
+:23B:CRED
+:32A:240316EUR4533.05
+:50K:/OC2880008
+Collins-Walker
+284 Johnson Expressway South Anneburgh, UT 15177
+:57A:OCBCSGSGXXX
+:59:/BEN27819633909908
+Schroeder-Murray
+4764 Jennifer Junctions Kimberlyshire, NM 92065
+:70:INV F228692C3FEA Special this drop something surface ability.
+:71A:OUR
+-}{5:{CHK:46dca1bbe8}}

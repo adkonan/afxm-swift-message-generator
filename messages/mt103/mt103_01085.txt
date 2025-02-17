@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103241015HSBCGB2LXXXXXXXN}{3:{121:514a25f0-e0ba-4ec5-85f1-89e4d9f3724d}}{4:
+:20:REF-68620
+:23B:CRED
+:32A:241015SGD17952.00
+:50K:/OC4593111
+Turner and Sons
+8461 Vanessa Extension Apt. 667 North Ashlee, NH 90986
+:57A:HSBCGB2LXXX
+:59:/BEN20338171654339
+Stephenson, Jenkins and Patton
+1107 Holly Estate Lake Michaelchester, ME 11328
+:70:INV 20B7092BCE17 According something across agency dinner.
+:71A:OUR
+-}{5:{CHK:5326dfc15d}}

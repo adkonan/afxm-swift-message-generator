@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103250203FBNINGLAXXXXXXXN}{3:{121:fc5d80b8-a1d7-48ae-b5b5-d4d5cfad3f25}}{4:
+:20:REF-70280
+:23B:CRED
+:32A:250203JPY92836.00
+:50K:/OC5405249
+Sanders-Nelson
+360 Natalie Springs South Alexismouth, WI 51840
+:57A:FBNINGLAXXX
+:59:/BEN40926476128984
+Bryant-Franco
+11743 Donald Pass North Joeburgh, OK 27345
+:70:INV 9C5CC6BDAAA1 Economy environment along idea hit point begin.
+:71A:OUR
+-}{5:{CHK:9a88f8c8a2}}

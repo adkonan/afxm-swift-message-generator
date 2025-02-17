@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240922STANKEKEXXXXXXXN}{3:{121:b7343ef8-2d0e-4f8b-accd-fe61d60c5754}}{4:
+:20:REF-96119
+:23B:CRED
+:32A:240922JPY411218.00
+:50K:/OC7202687
+Medina, Pena and Bartlett
+323 Brandon Ridges Suite 395 Nicoleburgh, MS 05430
+:57A:STANKEKEXXX
+:59:/BEN54700476808248
+Phillips Inc
+195 Mark Port Apt. 488 South Laurenmouth, FL 33078
+:70:INV 4FA6FAC3773F Imagine discussion offer position trip.
+:71A:OUR
+-}{5:{CHK:69dca6242d}}

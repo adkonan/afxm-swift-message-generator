@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103250106ECOCMLABXXXXXXXN}{3:{121:18312a50-1277-4820-9ecf-3d06ae8d95ff}}{4:
+:20:REF-30576
+:23B:CRED
+:32A:250106USD354262.00
+:50K:/OC5599913
+Thompson-Mendez
+07997 Owens Parkways West Kevin, CA 39878
+:57A:ECOCMLABXXX
+:59:/BEN99000649104780
+Williams, Davidson and Sheppard
+0378 Keith Drive Lake Staceyton, MO 36664
+:70:INV 4C6F31F58733 Position total force model avoid would interesting.
+:71A:OUR
+-}{5:{CHK:7c58402ba8}}

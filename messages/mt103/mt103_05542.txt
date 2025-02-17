@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240917BCAOAOAOXXXXXXXN}{3:{121:d6bc0a65-835a-4759-9592-b2712d67d9cf}}{4:
+:20:REF-68808
+:23B:CRED
+:32A:240917XAU344134.00
+:50K:/OC3713090
+Harrington, Soto and Stafford
+08178 Kristina Haven Port Timothyport, TX 88455
+:57A:BCAOAOAOXXX
+:59:/BEN99039678890159
+Beck, Brown and Watts
+649 Walker Well Smithberg, WI 23453
+:70:INV 60F373965666 Kind source decide up pull view central fine.
+:71A:OUR
+-}{5:{CHK:28b813ae5c}}

@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103250206CIBCCATTXXXXXXXN}{3:{121:37ce6fdc-a104-4bbc-9a5e-b2dc0e5e1df3}}{4:
+:20:REF-23979
+:23B:CRED
+:32A:250206GBP3596300.00
+:50K:/OC1024661
+Matthews, Paul and Velasquez
+96459 Daniel Row Mollyview, PA 61877
+:57A:CIBCCATTXXX
+:59:/BEN60655705434744
+Fields Group
+871 Kelly Stream Apt. 458 West Bradleymouth, IL 31685
+:70:INV 02BFBAC247BA Owner political clear best world else.
+:71A:OUR
+-}{5:{CHK:49459ed3d5}}

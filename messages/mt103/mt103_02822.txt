@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103250108BNPPIT2LXXXXXXXN}{3:{121:edc9d289-e03c-49b9-8c20-85fdddb8c9a1}}{4:
+:20:REF-95041
+:23B:CRED
+:32A:250108JPY364234.00
+:50K:/OC9223910
+Richardson-Jensen
+7782 Tony Burg Apt. 165 West Michaelport, MO 00569
+:57A:BNPPIT2LXXX
+:59:/BEN88810665572425
+Pearson-Knight
+3515 Floyd Ferry Suite 531 Melissamouth, IA 89594
+:70:INV 8413AD895D0F Agency per plan city guess investment series.
+:71A:OUR
+-}{5:{CHK:1fc1255ebd}}

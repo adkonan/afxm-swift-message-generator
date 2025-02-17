@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240522BFSWUS33XXXXXXXN}{3:{121:a66ed2ef-bc0e-41a5-ba3e-7bfc59b25f7c}}{4:
+:20:REF-76372
+:23B:CRED
+:32A:240522CNY130934.00
+:50K:/OC8931775
+Simpson, Lam and Nguyen
+79115 Flores Centers Amyberg, IN 06689
+:57A:BFSWUS33XXX
+:59:/BEN90664372488483
+Delgado Inc
+906 Heidi Corners Suite 431 West Dominiqueport, WY 27788
+:70:INV 3B78E1CE8ADB Fly hear environmental magazine office through authority.
+:71A:OUR
+-}{5:{CHK:a7abbf07f0}}

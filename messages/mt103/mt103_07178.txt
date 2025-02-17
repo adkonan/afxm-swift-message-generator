@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103241219UOBVSGSGXXXXXXXN}{3:{121:368ecc1d-3b19-42c4-a920-7aebd431c0de}}{4:
+:20:REF-82164
+:23B:CRED
+:32A:241219USD30840400.00
+:50K:/OC3359396
+King and Sons
+084 Kristin Fort Suite 429 Johnborough, IA 92414
+:57A:UOBVSGSGXXX
+:59:/BEN86516920564533
+Mckinney, Huerta and Schneider
+9940 Stewart Harbors Martinfort, AR 58681
+:70:INV ACBF4DEF8EB2 Short decision how give simply soldier.
+:71A:OUR
+-}{5:{CHK:77f728cf7b}}

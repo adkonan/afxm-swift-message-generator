@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240621STANGB2LXXXXXXXN}{3:{121:ca1dc87b-9624-4700-b467-72f408c9e6e2}}{4:
+:20:REF-57297
+:23B:CRED
+:32A:240621EUR91802.00
+:50K:/OC7724689
+Nelson, Hernandez and Sullivan
+512 Rodriguez Manors Apt. 574 South Bradley, AZ 66719
+:57A:STANGB2LXXX
+:59:/BEN35744726677419
+Wagner, Gregory and Martin
+86436 Moore Lake Lake Spencerburgh, TN 58739
+:70:INV 3E4F2E814092 Few pull way himself none.
+:71A:OUR
+-}{5:{CHK:4bac8ac830}}

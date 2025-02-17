@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103250122FCMBNGLAXXXXXXXN}{3:{121:d6d17bf0-cc43-49d6-835f-af05167ea39b}}{4:
+:20:REF-11570
+:23B:CRED
+:32A:250122CHF2461640.00
+:50K:/OC3885895
+Wright, Bennett and Rogers
+57139 Natalie Rapids West James, WY 67373
+:57A:FCMBNGLAXXX
+:59:/BEN79800416577302
+Blake and Sons
+494 Snyder Burgs West Michellefurt, OR 74271
+:70:INV 885674ECF5C7 General administration trade leave vote effort.
+:71A:OUR
+-}{5:{CHK:d04cd88318}}

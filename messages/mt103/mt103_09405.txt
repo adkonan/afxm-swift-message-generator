@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240612CHASUS33XXXXXXXN}{3:{121:385eec9a-d97e-4d57-a379-7543ff5f8dbc}}{4:
+:20:REF-15963
+:23B:CRED
+:32A:240612CAD418479.00
+:50K:/OC1981877
+Mooney-Howell
+007 Dakota Trace New Carolborough, AS 53155
+:57A:CHASUS33XXX
+:59:/BEN48960104015676
+Williams, Vargas and Parrish
+646 Emily Lock Apt. 031 Matthewberg, NC 33412
+:70:INV A2C6738A156A Not senior it ever executive prevent off.
+:71A:OUR
+-}{5:{CHK:49d693b73a}}

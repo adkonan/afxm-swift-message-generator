@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240315SMBCJPJTXXXXXXXN}{3:{121:8e526c1c-4194-46fc-9f36-2ce5bfeb4026}}{4:
+:20:REF-20931
+:23B:CRED
+:32A:240315AUD37521.00
+:50K:/OC3851605
+Martinez, Harris and Chen
+85428 Alexandra Mountains South Hollychester, NJ 97484
+:57A:SMBCJPJTXXX
+:59:/BEN20914327349680
+Mullins-Peterson
+885 Barbara Mews Apt. 181 New Holly, NM 58384
+:70:INV A0FF4044C257 Cold surface while full beyond.
+:71A:OUR
+-}{5:{CHK:2de5fdc7ce}}

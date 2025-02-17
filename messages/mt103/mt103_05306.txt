@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240817FCMBNGLAXXXXXXXN}{3:{121:1a1c2afb-d8a0-4d9e-920f-8261a95c08e3}}{4:
+:20:REF-98944
+:23B:CRED
+:32A:240817GBP264730.00
+:50K:/OC8764669
+Terry and Sons
+4353 Kidd Mountains Apt. 488 New Henryside, OR 45133
+:57A:FCMBNGLAXXX
+:59:/BEN61217690485311
+Ellis-Reeves
+026 Bradford Springs Suite 133 West Tonyton, CO 51895
+:70:INV 3B4B9F6B5C66 Important game trial various today entire sport.
+:71A:OUR
+-}{5:{CHK:533f0db7e6}}

@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103240513SCBLGB2LXXXXXXXN}{3:{121:bd81a915-c28a-4205-b3ff-2b3ff5d7cbd7}}{4:
+:20:REF-24330
+:23B:CRED
+:32A:240513CAD391024.00
+:50K:/OC1402447
+Clarke, Holmes and Mccullough
+431 Young Drive Tomfurt, DC 79643
+:57A:SCBLGB2LXXX
+:59:/BEN15300015075234
+Everett-Flynn
+7477 Melinda Lane Apt. 020 Port Martinport, CT 60732
+:70:INV 0384B61B7D7B Until this whatever continue per at meet.
+:71A:OUR
+-}{5:{CHK:89a17d0aaa}}

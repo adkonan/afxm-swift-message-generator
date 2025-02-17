@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240516CHASUS33XXXXXXXN}{3:{121:99c3f9cf-8b68-4ece-8ac2-bf17f3e0b48d}}{4:
+:20:REF-26165
+:23B:CRED
+:32A:240516CHF386161.00
+:50K:/OC7854200
+Baker, Andersen and Price
+095 Melissa Hills Monicashire, FL 95088
+:57A:CHASUS33XXX
+:59:/BEN74142326424103
+Wagner Group
+51889 Graham Meadows Aarontown, AR 54537
+:70:INV FA9D28395861 Call herself military apply you matter.
+:71A:OUR
+-}{5:{CHK:2bffe5915d}}

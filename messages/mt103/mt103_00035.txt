@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103240721BBVAESMMXXXXXXXN}{3:{121:4fc4e5d0-fd45-4911-b6b5-33395aa6ae3a}}{4:
+:20:REF-34036
+:23B:CRED
+:32A:240721CNY271167.00
+:50K:/OC7606801
+Morris, Taylor and Wheeler
+094 Michelle Parkway Suarezfort, ND 17215
+:57A:BBVAESMMXXX
+:59:/BEN31441006242353
+Hunt, Valdez and Petersen
+87179 William Burgs North Kaylamouth, IN 92474
+:70:INV B18C0FB0AF15 Congress country give already fall you.
+:71A:OUR
+-}{5:{CHK:35e2ed3f37}}

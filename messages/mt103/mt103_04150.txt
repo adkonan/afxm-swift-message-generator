@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103241213ECOCMLABXXXXXXXN}{3:{121:2f393aae-e255-4f3f-bfb0-f6b943ada845}}{4:
+:20:REF-10832
+:23B:CRED
+:32A:241213EUR163463.00
+:50K:/OC7852609
+Garcia-Marshall
+7168 Shawn Corner Crosbyfort, TN 50752
+:57A:ECOCMLABXXX
+:59:/BEN16721186859764
+Buck, Manning and Lawrence
+377 Charles Flat Reedstad, IL 78995
+:70:INV A17C79805617 Institution several though walk kitchen hand unit.
+:71A:OUR
+-}{5:{CHK:8f66d9d4ac}}

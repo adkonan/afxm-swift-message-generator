@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103250125UBSWRIT2XXXXXXXN}{3:{121:0870a4ae-edde-41aa-a0fc-b82b8844932f}}{4:
+:20:REF-94883
+:23B:CRED
+:32A:250125EUR333678.00
+:50K:/OC1501082
+Blair, Contreras and Mcdaniel
+4997 Corey Grove Suite 926 Weisshaven, AS 56621
+:57A:UBSWRIT2XXX
+:59:/BEN93299149850191
+Flores, Smith and Cherry
+04944 Anderson Parks Apt. 689 Garrisonport, MN 45793
+:70:INV 4F01EFFA5A5C Pm development lose market important.
+:71A:OUR
+-}{5:{CHK:83b02598e2}}

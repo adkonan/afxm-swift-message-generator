@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240425OCBCSGSGXXXXXXXN}{3:{121:53dc2133-0b1a-4b22-a04f-f55ceaef45a5}}{4:
+:20:REF-81220
+:23B:CRED
+:32A:240425EUR327186.00
+:50K:/OC4291988
+Brown, Willis and Price
+76941 Gilbert Turnpike Suite 868 Jacobsport, FM 80643
+:57A:OCBCSGSGXXX
+:59:/BEN27682964090794
+Franklin, Williams and Silva
+354 Nathan Circles Apt. 083 Davidburgh, MT 46892
+:70:INV 69BE7BFA3458 Put new adult forward third need establish.
+:71A:OUR
+-}{5:{CHK:0598f7374f}}

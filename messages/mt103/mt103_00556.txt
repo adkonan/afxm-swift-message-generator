@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240324ECOCGHANXXXXXXXN}{3:{121:f5980a44-2cbb-46a6-993c-d884450d81c3}}{4:
+:20:REF-14217
+:23B:CRED
+:32A:240324GBP22039800.00
+:50K:/OC6577285
+Munoz-Oconnell
+686 Loretta Lane South Catherineburgh, CT 39045
+:57A:ECOCGHANXXX
+:59:/BEN33378356463469
+Tran, Tucker and Stevenson
+058 Burns Fields Suite 399 Lindseyhaven, ND 56516
+:70:INV A7F9038A2367 Compare campaign law ability only service.
+:71A:OUR
+-}{5:{CHK:fe23bc80d2}}

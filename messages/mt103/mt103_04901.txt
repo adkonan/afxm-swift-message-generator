@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240403STANKEKEXXXXXXXN}{3:{121:f10a7d6a-6963-4e5f-a748-4e2bf52ef7ff}}{4:
+:20:REF-29425
+:23B:CRED
+:32A:240403USD471905.00
+:50K:/OC4869812
+Fields, Garcia and Bradley
+5404 Bryan Trail Suite 817 Cortezside, AK 78258
+:57A:STANKEKEXXX
+:59:/BEN41733613558421
+Dunlap, Matthews and May
+126 Brian Port East Michael, ND 04563
+:70:INV D77E8B267ADF Clear bed support certain outside full.
+:71A:OUR
+-}{5:{CHK:607d4a5a50}}

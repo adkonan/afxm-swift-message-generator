@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103250204BARCGB22XXXXXXXN}{3:{121:b6cbcf9a-758c-4b9c-8e06-5feacebf35de}}{4:
+:20:REF-15089
+:23B:CRED
+:32A:250204CAD59224.00
+:50K:/OC8533084
+George-Craig
+10256 Miguel Grove Michellechester, CO 74015
+:57A:BARCGB22XXX
+:59:/BEN28978121514848
+Young, Delgado and Roberts
+957 Brown Forest Michaelville, PR 86229
+:70:INV 08A2EEE694B4 Hotel part idea call himself.
+:71A:OUR
+-}{5:{CHK:65a7b1f1e5}}

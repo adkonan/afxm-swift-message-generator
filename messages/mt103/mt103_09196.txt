@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240822UBSWCHZHXXXXXXXN}{3:{121:2ef636e1-eee4-46e1-96ba-2a1a468ae67e}}{4:
+:20:REF-18271
+:23B:CRED
+:32A:240822XDR280079.00
+:50K:/OC9981640
+Carter, Kennedy and Alvarado
+717 Coffey Meadows Suite 545 Cooleyfurt, MH 89400
+:57A:UBSWCHZHXXX
+:59:/BEN91553332758782
+Campbell, Nelson and Ayers
+8807 Ellen Common East Sarah, OH 56692
+:70:INV B6CE4650986F Officer evening anything drop long she analysis.
+:71A:OUR
+-}{5:{CHK:b37b62901d}}

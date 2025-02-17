@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103240921STANKEKEXXXXXXXN}{3:{121:347bcf4d-2e15-4abf-861b-4ee3beb75248}}{4:
+:20:REF-22511
+:23B:CRED
+:32A:240921SGD423169.00
+:50K:/OC6109766
+Delgado, Moore and Howard
+194 Wright Hill East Markhaven, MH 56439
+:57A:STANKEKEXXX
+:59:/BEN94619491874439
+Doyle PLC
+645 Michael Point Danielchester, OR 77272
+:70:INV F2FD8CCE04AA Office capital three skin individual response yard.
+:71A:OUR
+-}{5:{CHK:469a4a7faf}}

@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240407FCMBNGLAXXXXXXXN}{3:{121:8814ece7-68ef-401e-b1ed-a856063758ca}}{4:
+:20:REF-59682
+:23B:CRED
+:32A:240407XAU404446.00
+:50K:/OC4767505
+Edwards, Wilkins and Booth
+64074 Keith Mall Apt. 023 Damonborough, SC 40838
+:57A:FCMBNGLAXXX
+:59:/BEN41239929338277
+Anderson, Jimenez and Alexander
+032 Mary Points Carlosside, MA 51552
+:70:INV 170958C4012F Season despite move different dark she.
+:71A:OUR
+-}{5:{CHK:e27c71385c}}

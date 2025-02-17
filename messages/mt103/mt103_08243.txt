@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240801FBNINGLAXXXXXXXN}{3:{121:b196834c-a859-46ee-bda7-15f79aebcc57}}{4:
+:20:REF-90653
+:23B:CRED
+:32A:240801SGD262330.00
+:50K:/OC1783911
+Reynolds-Gomez
+9301 Christopher Turnpike Suite 383 Michaelmouth, MN 69432
+:57A:FBNINGLAXXX
+:59:/BEN91472340613777
+Bradley-Fleming
+233 Hunter Fords Carolfurt, ID 96163
+:70:INV 76731BD07C5D Management security environmental member sound really quality.
+:71A:OUR
+-}{5:{CHK:2391b31194}}

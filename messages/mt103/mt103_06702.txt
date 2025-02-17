@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103250207DBSAZAJJXXXXXXXN}{3:{121:52b9d8ea-58cd-4cc0-a5b8-3ae6a7d8427c}}{4:
+:20:REF-23657
+:23B:CRED
+:32A:250207CHF86535.00
+:50K:/OC7372935
+Mckinney, Anderson and Holmes
+9740 Amanda Trail Suite 223 Lucasshire, MD 51179
+:57A:DBSAZAJJXXX
+:59:/BEN66363559896161
+Cook and Sons
+833 Brooks Meadow Suite 255 Reynoldshaven, ID 74579
+:70:INV A73C216363AA Vote hope necessary sometimes.
+:71A:OUR
+-}{5:{CHK:2d1f6ad296}}

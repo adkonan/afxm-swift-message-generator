@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240429CRESIT2LXXXXXXXN}{3:{121:d10dacde-6304-46dd-9b1e-34fe7aaf3c82}}{4:
+:20:REF-35054
+:23B:CRED
+:32A:240429JPY1340870.00
+:50K:/OC6272153
+Silva Inc
+498 Mitchell Springs Apt. 354 South Anthonychester, CT 90115
+:57A:CRESIT2LXXX
+:59:/BEN45648765518021
+Henderson-Glenn
+366 Mercer Loaf Cainshire, GA 83486
+:70:INV A122974F21B9 Paper management decide least Republican apply know.
+:71A:OUR
+-}{5:{CHK:3056db0299}}

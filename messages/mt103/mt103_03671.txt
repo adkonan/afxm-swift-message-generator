@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240724ZENITHNGLAXXXXXXXN}{3:{121:de8040ee-03ba-494a-bd5a-afedc9873a03}}{4:
+:20:REF-58043
+:23B:CRED
+:32A:240724SGD38793.00
+:50K:/OC2899363
+Cole-Mcfarland
+104 Ashley Spring Apt. 556 Port Ericton, MN 26609
+:57A:ZENITHNGLAXXX
+:59:/BEN49853765858081
+Jenkins, Weaver and Smith
+36819 Justin Hollow Powellview, WI 71400
+:70:INV E719B4BB1E9E Author walk research style quality past develop.
+:71A:OUR
+-}{5:{CHK:9b5347b668}}

@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241211DBSAZAJJXXXXXXXN}{3:{121:2bfa256a-408b-4062-904b-34ad775c4fa1}}{4:
+:20:REF-41343
+:23B:CRED
+:32A:241211XDR17233.00
+:50K:/OC6824333
+Romero, Lyons and Daniels
+831 Thompson Estates Lake Bradleyburgh, IN 86102
+:57A:DBSAZAJJXXX
+:59:/BEN16421104630371
+Harrison Ltd
+982 Clark Rapids Amandaton, ND 11109
+:70:INV 15C5750A39CA Else day art reveal cover paper.
+:71A:OUR
+-}{5:{CHK:cd3b3acaf1}}

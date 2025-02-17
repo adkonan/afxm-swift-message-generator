@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240416BARCGB22XXXXXXXN}{3:{121:f59324e9-c9cd-41dc-83d0-03d4cf487abf}}{4:
+:20:REF-81962
+:23B:CRED
+:32A:240416CHF158346.00
+:50K:/OC6534312
+Murphy, Nixon and Mann
+921 Hannah Mall East Destiny, ND 53056
+:57A:BARCGB22XXX
+:59:/BEN69647577375653
+Torres, Johns and Pratt
+996 Michael Bypass West Jeffery, KY 35953
+:70:INV 0099FBCC2BC6 Project report miss culture until.
+:71A:OUR
+-}{5:{CHK:68fc53f4bb}}

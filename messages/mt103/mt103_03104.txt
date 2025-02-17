@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103250105INGBNL2AXXXXXXXN}{3:{121:1621e4da-fbfc-4ada-8568-a56f3e8b017e}}{4:
+:20:REF-81481
+:23B:CRED
+:32A:250105CNY13193800.00
+:50K:/OC8805016
+Lawrence PLC
+3954 Tiffany Fall Hallborough, WA 98666
+:57A:INGBNL2AXXX
+:59:/BEN89110089190380
+Deleon, Hernandez and Mills
+058 Elizabeth Villages Apt. 161 Meghanfurt, WI 93115
+:70:INV 6574753D961F Sometimes career adult room lay from.
+:71A:OUR
+-}{5:{CHK:71bf36bc3f}}

@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240403BKCHHKHXXXXXXXXN}{3:{121:863ee03b-5b93-4d02-97ed-734b5b2feff6}}{4:
+:20:REF-97489
+:23B:CRED
+:32A:240403CHF102652.00
+:50K:/OC5132940
+Fisher, Harrison and Smith
+83236 Cook Harbor North Tinaberg, AS 01271
+:57A:BKCHHKHXXXX
+:59:/BEN32147026017895
+Lambert, Cunningham and Stone
+45451 Xavier Branch Lake Tylertown, WV 97310
+:70:INV AA09EE6B6AD3 Production institution explain want ahead.
+:71A:OUR
+-}{5:{CHK:57b842d114}}

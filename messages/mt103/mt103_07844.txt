@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103241029SCBLGB2LXXXXXXXN}{3:{121:afead657-b5db-4336-a680-353dbb51163a}}{4:
+:20:REF-21617
+:23B:CRED
+:32A:241029GBP257194.00
+:50K:/OC8865227
+Reed, Reynolds and Henderson
+680 Tanya Viaduct Port Larry, AL 44522
+:57A:SCBLGB2LXXX
+:59:/BEN61626757069506
+Taylor Ltd
+769 Jose Pass Apt. 631 Carrshire, IN 02887
+:70:INV 61B7305EE344 Two education language sister information firm station.
+:71A:OUR
+-}{5:{CHK:50a3ef6cd9}}

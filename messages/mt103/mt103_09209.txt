@@ -1,0 +1,14 @@
+{1:F01DEUTDEFFXXX1234567890}{2:O103241015KFWDEFFXXXXXXXN}{3:{121:2d471532-06f2-454d-8ce5-d96fcc4d56d8}}{4:
+:20:REF-19250
+:23B:CRED
+:32A:241015SGD42733300.00
+:50K:/OC8630485
+Roberts, Todd and Johnson
+932 Joseph Flat West John, NV 42963
+:57A:KFWDEFFXXX
+:59:/BEN77877746561050
+Norman, Zuniga and Mitchell
+353 Arnold Tunnel Dianeberg, ND 38120
+:70:INV 2EE4DBBEE20F Grow class develop finish cost realize hospital tend.
+:71A:OUR
+-}{5:{CHK:32ad8ad0d9}}

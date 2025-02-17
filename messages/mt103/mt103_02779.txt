@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240810KFWDEFFXXXXXXXN}{3:{121:2d033702-2782-45e8-b475-efb84bfbbb80}}{4:
+:20:REF-49554
+:23B:CRED
+:32A:240810CNY207206.00
+:50K:/OC5459459
+Hughes, Graham and Sanders
+6379 Emily Greens North Lisa, OK 15577
+:57A:KFWDEFFXXX
+:59:/BEN74670835102406
+Brown, Hansen and Maynard
+344 Fuller Lodge Port Williamport, AK 05306
+:70:INV 444B5CB75155 Risk recognize some goal already happy relationship.
+:71A:OUR
+-}{5:{CHK:e17cfd34eb}}

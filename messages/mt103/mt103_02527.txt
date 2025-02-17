@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103241207BMCECMRXXXXXXXXN}{3:{121:9a5bbdfb-0b8a-45e5-9a48-735b59faeced}}{4:
+:20:REF-74367
+:23B:CRED
+:32A:241207SGD360792.00
+:50K:/OC1137087
+Mason-Johnson
+132 Chambers Manor Apt. 878 East Joshua, CO 08801
+:57A:BMCECMRXXXX
+:59:/BEN89403116111425
+Miller, Brown and Stevenson
+02755 White Shoal New Kennethtown, MH 87006
+:70:INV B9D7671BB1E8 Majority citizen edge indicate lose.
+:71A:OUR
+-}{5:{CHK:420eb197ea}}

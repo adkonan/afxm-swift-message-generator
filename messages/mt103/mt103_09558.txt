@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240731BNPAGB22XXXXXXXN}{3:{121:e618e63b-b341-406f-b896-04cf405e9cae}}{4:
+:20:REF-47391
+:23B:CRED
+:32A:240731SGD294049.00
+:50K:/OC4599924
+Bond Group
+838 Shawn Extension Lake Crystal, NE 29571
+:57A:BNPAGB22XXX
+:59:/BEN90813991317206
+Hendrix, Conway and Ellison
+6701 Brittney Manors Suite 646 South Valerie, CA 74980
+:70:INV 028F3816B6CB Draw drop southern firm same want strong.
+:71A:OUR
+-}{5:{CHK:f3cebc7e30}}

@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103241209UOBVSGSGXXXXXXXN}{3:{121:5c2dbd58-4ef8-4802-90f6-2858da3a22b8}}{4:
+:20:REF-30200
+:23B:CRED
+:32A:241209SGD3999.64
+:50K:/OC5309986
+Morales, Armstrong and Powell
+526 Jose Burg Suite 564 Davidhaven, WY 83572
+:57A:UOBVSGSGXXX
+:59:/BEN74357926856128
+Fischer, Hughes and Baker
+4669 Maldonado Parkway Apt. 190 West Michelleview, SC 33312
+:70:INV 61F460C287D7 Better marriage give ever accept.
+:71A:OUR
+-}{5:{CHK:ec09b064f0}}

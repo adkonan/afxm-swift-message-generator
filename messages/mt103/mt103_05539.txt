@@ -1,0 +1,14 @@
+{1:F01HSBCGB2LXXX1234567890}{2:O103241113UOBVSGSGXXXXXXXN}{3:{121:05a689f7-163c-42a8-ac82-4ee409953a51}}{4:
+:20:REF-80511
+:23B:CRED
+:32A:241113XDR193287.00
+:50K:/OC5381754
+Garner, Morris and Pham
+050 Tina Terrace Josephport, MD 32521
+:57A:UOBVSGSGXXX
+:59:/BEN83666182522001
+Chase, Williams and Bonilla
+02930 William Mountains Jenniferchester, AR 72815
+:70:INV 12C0DDE81DA9 Five exist challenge government gun break.
+:71A:OUR
+-}{5:{CHK:d82c05b187}}

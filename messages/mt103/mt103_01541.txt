@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103250112BNPAGB22XXXXXXXN}{3:{121:95e48197-3dc5-4989-8c21-9b604b142b9a}}{4:
+:20:REF-12001
+:23B:CRED
+:32A:250112CAD454008.00
+:50K:/OC5867577
+Robinson, Curtis and Black
+773 Christine Turnpike New Sheila, NJ 18345
+:57A:BNPAGB22XXX
+:59:/BEN62539051728057
+Thomas, Fisher and Graham
+58792 Andrew Key Thompsonside, AS 59354
+:70:INV E4E8F4815C6A Responsibility customer right course ball first.
+:71A:OUR
+-}{5:{CHK:e765607201}}

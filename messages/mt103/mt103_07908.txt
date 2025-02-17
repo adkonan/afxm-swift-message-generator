@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240725BNPPIT2LXXXXXXXN}{3:{121:6c23a31a-c655-4e77-87b6-93e3c72d8f2d}}{4:
+:20:REF-60104
+:23B:CRED
+:32A:240725EUR64804.00
+:50K:/OC1369921
+Williams-Jones
+1360 Smith Plaza Suite 662 West Alexis, AK 65368
+:57A:BNPPIT2LXXX
+:59:/BEN12036976767661
+Taylor, Rodriguez and Potts
+9960 Wilson Villages Apt. 090 Traciberg, OH 53945
+:70:INV 12C92EB990E9 Entire international resource president bill everyone family.
+:71A:OUR
+-}{5:{CHK:4c8dfa79a8}}

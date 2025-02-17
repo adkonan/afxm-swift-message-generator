@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240326INGBNL2AXXXXXXXN}{3:{121:26a9aef5-0b02-4dbf-bfac-12f27d4ed995}}{4:
+:20:REF-41890
+:23B:CRED
+:32A:240326JPY304944.00
+:50K:/OC2164378
+Clark, Miles and Anderson
+3976 Chavez Mission Apt. 298 New Richardmouth, WA 30734
+:57A:INGBNL2AXXX
+:59:/BEN69370197830554
+Johnson-Gonzalez
+49330 Samantha Well Christensenland, NV 80651
+:70:INV 5EB02789F577 Enough man ability phone present.
+:71A:OUR
+-}{5:{CHK:b6cc65f5fe}}

@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240715NEDSZAJJXXXXXXXN}{3:{121:e9772b56-d5ea-4ce0-ab11-325bacca2d9f}}{4:
+:20:REF-93230
+:23B:CRED
+:32A:240715GBP263477.00
+:50K:/OC5355784
+Mcdaniel LLC
+4856 Zimmerman Circles Apt. 057 Keithtown, TN 42671
+:57A:NEDSZAJJXXX
+:59:/BEN78267524927604
+Buchanan-Decker
+1480 Michael Glen Tiffanyhaven, AK 90638
+:70:INV E90B147A3244 Range religious something ability expert there.
+:71A:OUR
+-}{5:{CHK:0a9e855da4}}

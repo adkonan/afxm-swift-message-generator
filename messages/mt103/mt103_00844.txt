@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103250107CRESIT2LXXXXXXXN}{3:{121:cdd70e0f-c4b0-4de6-8b2c-93b610c31a98}}{4:
+:20:REF-80584
+:23B:CRED
+:32A:250107USD3199460.00
+:50K:/OC1182621
+Garza-Rivers
+050 Crystal Turnpike Suite 518 Lake Kathrynside, MI 18254
+:57A:CRESIT2LXXX
+:59:/BEN12098353680309
+Lang-Kerr
+1933 Ward Oval Suite 027 Port Allison, NY 66775
+:70:INV 247D7FBC222F Newspaper meet situation again imagine glass life.
+:71A:OUR
+-}{5:{CHK:ca4f82b9b8}}

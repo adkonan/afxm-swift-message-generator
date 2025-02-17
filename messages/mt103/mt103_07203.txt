@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240508BARCDEFFXXXXXXXN}{3:{121:9eaa9289-10b3-4ddd-8ce6-c5e3e1950b31}}{4:
+:20:REF-23670
+:23B:CRED
+:32A:240508CNY263162.00
+:50K:/OC3906990
+Hale, Baker and King
+4406 Calderon Fields Suite 691 Davisview, MP 72453
+:57A:BARCDEFFXXX
+:59:/BEN35130077225771
+Jennings, Johnson and Brooks
+0091 Chase Creek South Ginaburgh, DE 33545
+:70:INV 7E819B9CCA13 Identify your along save focus seven.
+:71A:OUR
+-}{5:{CHK:945ed9cbf2}}

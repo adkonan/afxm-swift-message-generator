@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103241211BARCDEFFXXXXXXXN}{3:{121:156b6676-0c18-436d-8925-e0d52aaa814d}}{4:
+:20:REF-69310
+:23B:CRED
+:32A:241211AUD1890.52
+:50K:/OC6742615
+Carter, Burke and Copeland
+2640 Wallace Parkway Leahland, AR 61911
+:57A:BARCDEFFXXX
+:59:/BEN38536763874067
+Osborne, Chavez and Hinton
+9824 Lawrence Estates Schmidtchester, ND 61991
+:70:INV 875F49F83354 Here fish involve continue room evening seven.
+:71A:OUR
+-}{5:{CHK:207aece15e}}

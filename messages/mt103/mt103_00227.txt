@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241108MIZUJPJTXXXXXXXN}{3:{121:4e394b4d-01e9-4237-8d9e-fe66373dec4e}}{4:
+:20:REF-29678
+:23B:CRED
+:32A:241108XDR179385.00
+:50K:/OC6412531
+Wood, Rodriguez and Love
+474 Angela Run Apt. 658 Smithmouth, KY 58994
+:57A:MIZUJPJTXXX
+:59:/BEN31931377773439
+Wilkins, Ramos and Price
+USNS Mccarty FPO AA 84749
+:70:INV C1C4F49BB1AF Guess pressure population age study cup above try.
+:71A:OUR
+-}{5:{CHK:b25adaf16f}}

@@ -1,0 +1,14 @@
+{1:F01BFSWUS33XXX1234567890}{2:O103241226OCBCSGSGXXXXXXXN}{3:{121:72058e91-4e1b-4670-8117-99e9aafed0a2}}{4:
+:20:REF-72159
+:23B:CRED
+:32A:241226CAD412933.00
+:50K:/OC4090644
+Logan Inc
+478 Sanchez Light East Joshuaside, SD 28305
+:57A:OCBCSGSGXXX
+:59:/BEN19587447603031
+Whitaker, Dennis and Taylor
+317 Kimberly Burg East Petertown, TX 57415
+:70:INV C89FE608814F Treat hit employee big manager example available without.
+:71A:OUR
+-}{5:{CHK:a78ad65227}}

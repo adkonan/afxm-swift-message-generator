@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103250116DBSSSGSGXXXXXXXN}{3:{121:3f70288b-95f8-40b7-bf46-d901bf332cde}}{4:
+:20:REF-39609
+:23B:CRED
+:32A:250116XAU68387.00
+:50K:/OC5468117
+Cohen-Lewis
+4466 David Stream East Eugenebury, AZ 12529
+:57A:DBSSSGSGXXX
+:59:/BEN98256744514264
+Flores-Martinez
+207 Rosales Locks Suite 756 Acostaburgh, PA 10761
+:70:INV 0C185CE0243B Give sometimes conference politics approach soon.
+:71A:OUR
+-}{5:{CHK:9e9a529e3b}}

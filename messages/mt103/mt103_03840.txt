@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240831SOGEFRPPXXXXXXXN}{3:{121:b64e4163-93ad-406d-83aa-0f2694e152a0}}{4:
+:20:REF-78794
+:23B:CRED
+:32A:240831EUR202068.00
+:50K:/OC1550819
+Beard, Potter and George
+738 Morgan Crest Boydtown, SC 54340
+:57A:SOGEFRPPXXX
+:59:/BEN48458930233688
+Smith, Rogers and Cohen
+93818 Christopher Island South Brian, CA 81957
+:70:INV B5E7409CB9EF Over organization room central carry situation during.
+:71A:OUR
+-}{5:{CHK:e70b103d9e}}

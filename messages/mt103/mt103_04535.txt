@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240402SCBLGB2LXXXXXXXN}{3:{121:7bbf4417-9dc1-43d8-a140-c2bd9aa405ed}}{4:
+:20:REF-41706
+:23B:CRED
+:32A:240402JPY343313.00
+:50K:/OC8640316
+Swanson, Hull and Campos
+1423 Sherri Divide Suite 695 New Isabelchester, FL 79989
+:57A:SCBLGB2LXXX
+:59:/BEN69768789115424
+Miller, Bruce and Smith
+6553 Martinez Ville Suite 583 Ellisville, MD 34380
+:70:INV 28D28CD80041 Now sometimes economic kid rest exactly.
+:71A:OUR
+-}{5:{CHK:181a994a25}}

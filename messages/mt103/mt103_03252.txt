@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103241229DTBKIDJAXXXXXXXN}{3:{121:ce87eccb-aca2-4af1-94e5-1ddc1f78dbba}}{4:
+:20:REF-36869
+:23B:CRED
+:32A:241229XAG48602.00
+:50K:/OC7739935
+Hebert, Duncan and Nunez
+5308 Michael Brooks Apt. 746 Ericmouth, AL 72537
+:57A:DTBKIDJAXXX
+:59:/BEN50505495661863
+Cherry, Rocha and Fisher
+349 Nguyen Parkways Suite 424 New Eileen, WY 57126
+:70:INV 2E634ADA503F Truth money program agency evening energy evidence.
+:71A:OUR
+-}{5:{CHK:b04d5baed4}}

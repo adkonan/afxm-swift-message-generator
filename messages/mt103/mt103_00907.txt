@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103241211BOMLMRUXXXXXXXXN}{3:{121:6a14bca7-2876-4c24-9941-7cf75faa5fae}}{4:
+:20:REF-44163
+:23B:CRED
+:32A:241211CNY36397.00
+:50K:/OC3030143
+Neal, Walters and Schneider
+398 Julia Square East Ronald, SC 54961
+:57A:BOMLMRUXXXX
+:59:/BEN12651559030061
+West PLC
+5899 Lindsay Greens Brianstad, NJ 62213
+:70:INV 479ACFEE9D72 Condition record final most opportunity country.
+:71A:OUR
+-}{5:{CHK:4cee054caa}}

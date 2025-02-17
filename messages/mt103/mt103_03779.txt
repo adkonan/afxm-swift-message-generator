@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103250102ECOCCIBAXXXXXXXN}{3:{121:7783eaa8-a4d6-4baf-ae2c-96a2f9de10ea}}{4:
+:20:REF-12247
+:23B:CRED
+:32A:250102EUR43530.00
+:50K:/OC8691039
+Mitchell-Underwood
+5304 James Motorway Moralesmouth, MP 34055
+:57A:ECOCCIBAXXX
+:59:/BEN17782457001614
+Henry, Young and Baker
+1150 Alexis Dale Port Emily, CA 00906
+:70:INV 1DCEE9A010B2 Clear build around recently reveal check collection.
+:71A:OUR
+-}{5:{CHK:5d881d85ec}}

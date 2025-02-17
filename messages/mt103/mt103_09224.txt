@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240914BNPAFRPPXXXXXXXN}{3:{121:16eeb589-1098-4528-a130-66b79eed4757}}{4:
+:20:REF-58728
+:23B:CRED
+:32A:240914USD216068.00
+:50K:/OC2772527
+Torres, Smith and Carter
+7473 Wendy Cliffs Suite 474 Thomasstad, KY 03488
+:57A:BNPAFRPPXXX
+:59:/BEN35517604693969
+Houston, George and Henderson
+716 Mendez Highway Suite 871 Rileyland, IA 86496
+:70:INV 082E68EC30EB Class significant above actually others send.
+:71A:OUR
+-}{5:{CHK:300adc526b}}

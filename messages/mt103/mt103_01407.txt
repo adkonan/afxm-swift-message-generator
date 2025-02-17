@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240708HSBCGB2LXXXXXXXN}{3:{121:b9c886ae-3f0f-42a0-9361-cd4ba91379dc}}{4:
+:20:REF-87038
+:23B:CRED
+:32A:240708KPW311966.00
+:50K:/OC9390677
+Black-Fitzpatrick
+32442 Jeremy Extensions Lake Steve, CO 98537
+:57A:HSBCGB2LXXX
+:59:/BEN86365919501876
+Medina, Carrillo and Perkins
+0628 Bowen Parkways Apt. 583 West Victoriaville, IA 07078
+:70:INV BD1FB0B8C3CE Too local condition off between.
+:71A:OUR
+-}{5:{CHK:fd36758be9}}

@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240416DTBKIDJAXXXXXXXN}{3:{121:b239b6c2-732b-486c-97ed-bea7bfe2eff4}}{4:
+:20:REF-62559
+:23B:CRED
+:32A:240416CAD316756.00
+:50K:/OC3019515
+Hanna, Monroe and Gray
+948 Salazar Shoals Suite 047 Collinsmouth, CT 12786
+:57A:DTBKIDJAXXX
+:59:/BEN82285233287112
+Mills, Henderson and Contreras
+2952 Joseph Unions Kimberlyberg, ND 91271
+:70:INV 1F1DA6ED3CF4 Hear support party attention account similar.
+:71A:OUR
+-}{5:{CHK:7f063233ad}}

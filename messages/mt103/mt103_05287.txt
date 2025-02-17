@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241224BOFAUS3NXXXXXXXN}{3:{121:a54c91ac-a921-457a-b92e-852616ee902a}}{4:
+:20:REF-47478
+:23B:CRED
+:32A:241224AUD179177.00
+:50K:/OC1648244
+Richardson-Huber
+8499 Jennifer Common Suite 780 North Nicholasmouth, DE 01571
+:57A:BOFAUS3NXXX
+:59:/BEN43258235427510
+Henry, Guerra and Bryant
+161 Roth Curve Brandtland, NE 94633
+:70:INV 0AA2D1ECD353 Standard scientist sound question someone.
+:71A:OUR
+-}{5:{CHK:3f3b58ef59}}

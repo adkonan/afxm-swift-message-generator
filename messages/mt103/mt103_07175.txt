@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103250116DBSAZAJJXXXXXXXN}{3:{121:051c10d3-70da-45ad-9e8b-4848060374c6}}{4:
+:20:REF-42112
+:23B:CRED
+:32A:250116XAU16847.00
+:50K:/OC9888057
+Simmons, Castillo and Terrell
+550 Ana Mall Bennettchester, AL 44872
+:57A:DBSAZAJJXXX
+:59:/BEN24914577476979
+Long, Williams and Lewis
+0472 Victoria Mills Apt. 833 South Steven, UT 74528
+:70:INV C80353C68385 Performance certain foreign old property economy paper.
+:71A:OUR
+-}{5:{CHK:a004ebe8f5}}

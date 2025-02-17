@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241115KFWDEFFXXXXXXXN}{3:{121:0a5a4243-b9b2-414d-ae3d-9a96debde49c}}{4:
+:20:REF-14182
+:23B:CRED
+:32A:241115GBP41407.00
+:50K:/OC3566467
+Franklin, Rogers and Taylor
+541 Wendy Coves Suite 536 Lake Dianaburgh, FL 29987
+:57A:KFWDEFFXXX
+:59:/BEN60962380290447
+Carey and Sons
+0051 Evelyn Manor Suite 545 East Theresa, OK 24085
+:70:INV 12DEF658F6EF Stand structure Republican take though together.
+:71A:OUR
+-}{5:{CHK:f4ce26e365}}

@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240824RABONL2UXXXXXXXN}{3:{121:aeaba711-6ba6-43bc-b0a3-e8c4a3ba31e9}}{4:
+:20:REF-55235
+:23B:CRED
+:32A:240824USD463496.00
+:50K:/OC5440998
+Brown, Douglas and Chavez
+647 Ann Dale Torresland, WI 86552
+:57A:RABONL2UXXX
+:59:/BEN66883799452948
+Rodgers, Alexander and Williams
+2363 Guzman Forks South Jasmineburgh, MT 23335
+:70:INV 08C957DE83F1 House require budget successful onto.
+:71A:OUR
+-}{5:{CHK:c68321fb0e}}

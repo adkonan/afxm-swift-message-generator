@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240218BKCHHKHXXXXXXXXN}{3:{121:69216fd2-e960-4bf7-b107-e4fc78041e9d}}{4:
+:20:REF-94998
+:23B:CRED
+:32A:240218KPW3613.51
+:50K:/OC9709543
+Fitzpatrick, Booker and Fisher
+1061 Bautista Dale Suite 345 East Kathryn, MT 98677
+:57A:BKCHHKHXXXX
+:59:/BEN98985787764113
+Cook-Christensen
+244 Danielle Junctions Apt. 240 Yangbury, DE 86136
+:70:INV 059817E814D7 Born range third reflect go future.
+:71A:OUR
+-}{5:{CHK:f39827fa83}}

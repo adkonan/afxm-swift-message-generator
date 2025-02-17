@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240828ECOCCIBAXXXXXXXN}{3:{121:16f4894f-147b-42c8-987b-61b3ce556de7}}{4:
+:20:REF-92967
+:23B:CRED
+:32A:240828GBP252006.00
+:50K:/OC2181324
+Clark, Pearson and Johnson
+744 Gross Trail Lake Sarah, VI 52064
+:57A:ECOCCIBAXXX
+:59:/BEN71994569180743
+Scott, Harrison and Chandler
+94093 Andrew Port East Kylestad, ME 08014
+:70:INV BD2C5D8720F0 Approach ready anything official federal local.
+:71A:OUR
+-}{5:{CHK:44f74aae1f}}

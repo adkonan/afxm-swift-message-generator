@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103250124DEUTDEFFXXXXXXXN}{3:{121:75d55265-42a1-4aa6-8f97-880e4fbedc64}}{4:
+:20:REF-34144
+:23B:CRED
+:32A:250124EUR375230.00
+:50K:/OC6000437
+Dougherty Inc
+0745 Eric Squares Apt. 699 East Victoria, GA 24744
+:57A:DEUTDEFFXXX
+:59:/BEN81021795947128
+Briggs, Lawson and Ryan
+6343 John Corners Jenniferside, HI 85006
+:70:INV 05B5FA6CD7F0 Usually oil fly approach arrive power relationship.
+:71A:OUR
+-}{5:{CHK:3ceb4d3476}}

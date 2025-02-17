@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241016INGBNL2AXXXXXXXN}{3:{121:1714c984-c07c-4b26-9478-e0fb632b6876}}{4:
+:20:REF-77430
+:23B:CRED
+:32A:241016JPY469390.00
+:50K:/OC8485170
+Lewis, Ward and Anderson
+638 Amy Bridge Lake Joshuahaven, MH 49810
+:57A:INGBNL2AXXX
+:59:/BEN81078777803186
+Cook, Stevens and Rodriguez
+008 Armstrong Viaduct Erinport, OK 45173
+:70:INV 99C4A131DFBC Chance listen financial white fly at surface.
+:71A:OUR
+-}{5:{CHK:8f2d5acc03}}

@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241103CRESCHZZXXXXXXXN}{3:{121:dbfaf48c-49d6-4bb9-88df-39a9cd23d481}}{4:
+:20:REF-36956
+:23B:CRED
+:32A:241103USD451508.00
+:50K:/OC4737317
+Ramirez, Rogers and Mcbride
+0296 Hernandez Canyon Anthonyview, SD 67058
+:57A:CRESCHZZXXX
+:59:/BEN73620922693137
+Hopkins LLC
+826 Dennis Creek West Suzanne, NV 18952
+:70:INV 28C0A6669DD8 Pay easy vote remain agreement successful.
+:71A:OUR
+-}{5:{CHK:64dd9c0d62}}

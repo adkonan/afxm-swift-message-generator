@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240718CHASUS33XXXXXXXN}{3:{121:6c13d7eb-8c9f-423d-9637-7d6bd088f366}}{4:
+:20:REF-74491
+:23B:CRED
+:32A:240718CNY17237000.00
+:50K:/OC1977000
+Burgess, Walker and Jones
+9669 Oneill Points Suite 702 Obrienchester, PW 82787
+:57A:CHASUS33XXX
+:59:/BEN29783675918607
+Cardenas, Tran and Collins
+1572 Juan Square Suite 913 Lake Kevin, AK 69138
+:70:INV 55D5A224794F Already however have resource allow hear.
+:71A:OUR
+-}{5:{CHK:b96e3c51d8}}

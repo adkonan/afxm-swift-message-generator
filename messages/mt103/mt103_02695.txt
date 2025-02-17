@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103241011STANGB2LXXXXXXXN}{3:{121:f55cd7f8-be5e-480b-b600-033ba1ac13a7}}{4:
+:20:REF-40245
+:23B:CRED
+:32A:241011SGD348173.00
+:50K:/OC7578298
+Buckley Ltd
+1673 Bradley Brook Apt. 529 West Georgeview, IN 63638
+:57A:STANGB2LXXX
+:59:/BEN86395755027847
+Schneider, Vincent and Harris
+86854 Johnson Landing Suite 869 Carterborough, AZ 38082
+:70:INV A592E97F4605 Movie when election he leader care.
+:71A:OUR
+-}{5:{CHK:f6648822b0}}

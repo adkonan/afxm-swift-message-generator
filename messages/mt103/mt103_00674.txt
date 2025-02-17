@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103250115ICBKCNBJXXXXXXXN}{3:{121:49d6b67d-e171-4d5f-b57a-723dbc73a54f}}{4:
+:20:REF-53533
+:23B:CRED
+:32A:250115USD56695.00
+:50K:/OC9302500
+Carter, Gonzales and Kaiser
+8376 Benjamin Inlet Smithport, SD 33737
+:57A:ICBKCNBJXXX
+:59:/BEN31360629913645
+Olsen, Hobbs and Goodman
+891 Medina Island Apt. 084 Williamberg, VT 41122
+:70:INV 17AAF236EEEF Brother sometimes around natural thus general still.
+:71A:OUR
+-}{5:{CHK:9a49cd8633}}

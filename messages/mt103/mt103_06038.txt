@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240629ECOCMLABXXXXXXXN}{3:{121:4a39ee5c-78a7-4c5b-b292-77a3fbff9f38}}{4:
+:20:REF-82432
+:23B:CRED
+:32A:240629AUD497946.00
+:50K:/OC1199447
+Davis-Smith
+7124 Williams Shoal West Danaville, AZ 08940
+:57A:ECOCMLABXXX
+:59:/BEN46064477004690
+Berry, Watson and Johnston
+326 Le Creek South Austin, WI 12667
+:70:INV D6F0E4C80932 Baby pick necessary rest environment bad agency skin.
+:71A:OUR
+-}{5:{CHK:b36ed6262f}}

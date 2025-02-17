@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240510UBSWCHZHXXXXXXXN}{3:{121:aac57623-8dd8-4cb3-ac24-22b66fc09e43}}{4:
+:20:REF-15965
+:23B:CRED
+:32A:240510JPY103855.00
+:50K:/OC8642247
+Buchanan, Reed and Burns
+937 Cindy Lodge Suite 274 Brownchester, AZ 57825
+:57A:UBSWCHZHXXX
+:59:/BEN38950760396415
+West-Rice
+35129 Bradley Causeway Wattsview, RI 58002
+:70:INV 116C4FCEBE6F Father along theory those break show front weight.
+:71A:OUR
+-}{5:{CHK:e60763d3b0}}

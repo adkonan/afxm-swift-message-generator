@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241221BNPAFRPPXXXXXXXN}{3:{121:c7a1beb6-7e0a-42e7-8e6d-359c0c89cfee}}{4:
+:20:REF-75130
+:23B:CRED
+:32A:241221GBP263417.00
+:50K:/OC2738131
+Campbell-Small
+189 Brian Gardens Suite 546 Garciaport, AL 32183
+:57A:BNPAFRPPXXX
+:59:/BEN58207227105241
+Schultz and Sons
+025 Dennis Common Suite 352 East Sylvia, SD 32713
+:70:INV 60BFCD38E418 Environmental catch what down difficult.
+:71A:OUR
+-}{5:{CHK:9c0b72b5fa}}

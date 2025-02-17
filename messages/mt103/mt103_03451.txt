@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240417BOFAUS3NXXXXXXXN}{3:{121:8b7f4e07-c3cd-4baf-892c-90e73edb7932}}{4:
+:20:REF-62116
+:23B:CRED
+:32A:240417CNY101581.00
+:50K:/OC7540797
+Jackson, White and Mosley
+33454 Griffin Port South Angela, NV 71438
+:57A:BOFAUS3NXXX
+:59:/BEN99669958354193
+Barrett, Bradley and Mays
+515 Rosales Well Apt. 137 Jamesbury, MD 34523
+:70:INV 91DD894E83EA Base fine herself claim option.
+:71A:OUR
+-}{5:{CHK:7a49f3d0ad}}

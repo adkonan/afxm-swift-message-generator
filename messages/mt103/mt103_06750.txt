@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240716RBCROYTORXXXXXXXN}{3:{121:d67fd166-440f-498c-bbe7-74565486e280}}{4:
+:20:REF-16397
+:23B:CRED
+:32A:240716CAD2328.77
+:50K:/OC8145451
+Bishop-Carter
+8602 Robert Mountains Suite 788 Millermouth, MI 25442
+:57A:RBCROYTORXXX
+:59:/BEN60565333918462
+Heath-Hicks
+3585 Christopher Viaduct Suite 508 Johnsberg, VI 50236
+:70:INV 9F4B1C3902E9 Response specific improve along past drug compare.
+:71A:OUR
+-}{5:{CHK:5c5b6c00a7}}

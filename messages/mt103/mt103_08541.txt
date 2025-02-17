@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103250205ECOCMLABXXXXXXXN}{3:{121:6f18cbc1-c085-4002-b97c-ce5d246f52ed}}{4:
+:20:REF-99789
+:23B:CRED
+:32A:250205CHF187419.00
+:50K:/OC3238821
+Simmons, Best and Hale
+027 Douglas Ports Andersonfort, WA 78528
+:57A:ECOCMLABXXX
+:59:/BEN71565212171821
+Jones, Smith and Morgan
+787 Martinez Squares Apt. 153 Calhounfort, IA 66365
+:70:INV 413646E3948A Along cost president exactly require structure site.
+:71A:OUR
+-}{5:{CHK:98201bda98}}

@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240627DEUTDEFFXXXXXXXN}{3:{121:2c63803a-c64e-4a07-9db8-ea811b3aa5cb}}{4:
+:20:REF-60549
+:23B:CRED
+:32A:240627CHF383895.00
+:50K:/OC1987241
+Goodwin, Ramirez and Valentine
+36253 Odom Prairie Apt. 160 Lake Jillmouth, PW 88868
+:57A:DEUTDEFFXXX
+:59:/BEN57807577889161
+Douglas and Sons
+558 Roberts Corner Suite 511 Holmesmouth, GU 14027
+:70:INV E19961FDB82F Activity film her them then system follow.
+:71A:OUR
+-}{5:{CHK:83c22d96bb}}

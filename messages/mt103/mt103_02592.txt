@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103241027UOBVSGSGXXXXXXXN}{3:{121:301567e4-2558-4464-b09e-e8bf75f4e14c}}{4:
+:20:REF-87560
+:23B:CRED
+:32A:241027EUR392696.00
+:50K:/OC8811934
+Hernandez, Mccarthy and Rich
+758 Evans Estates Apt. 993 North Darryl, TN 76107
+:57A:UOBVSGSGXXX
+:59:/BEN76030591149228
+Smith Inc
+11476 Cohen Extensions South Meganchester, MT 86480
+:70:INV 5A19AA98FF44 Around her career skill ask break whatever.
+:71A:OUR
+-}{5:{CHK:2db2e75a5f}}

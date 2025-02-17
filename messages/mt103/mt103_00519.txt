@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103241115FIRNZAJJXXXXXXXN}{3:{121:07f9aa01-321a-4a03-a8c2-de2ec2fe4669}}{4:
+:20:REF-85481
+:23B:CRED
+:32A:241115CAD67692.00
+:50K:/OC4638981
+Nelson, Curtis and Martinez
+8330 Davis Mountain New David, RI 15129
+:57A:FIRNZAJJXXX
+:59:/BEN81935661748183
+Brown-Hobbs
+7410 Veronica Well Edwardburgh, NC 16723
+:70:INV CFBCB1B3B753 Appear expert region gun knowledge personal.
+:71A:OUR
+-}{5:{CHK:1a29fd98a5}}

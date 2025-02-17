@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103241207ECOCCIBAXXXXXXXN}{3:{121:685449cc-29e7-44a9-b169-9c2b3de68422}}{4:
+:20:REF-62678
+:23B:CRED
+:32A:241207JPY446966.00
+:50K:/OC2796600
+Gonzalez Ltd
+76681 Jennifer Parkways Apt. 927 Lake Jonathanmouth, KS 76082
+:57A:ECOCCIBAXXX
+:59:/BEN29814672751961
+Gonzalez, Hernandez and Fleming
+63128 Felicia Forks West Michaelton, SD 76651
+:70:INV 6662CBC3E7C6 Staff history Republican indeed street answer then.
+:71A:OUR
+-}{5:{CHK:74fb4d0aab}}

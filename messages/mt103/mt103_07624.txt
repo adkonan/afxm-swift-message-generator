@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241231SMBCJPJTXXXXXXXN}{3:{121:fe096798-17f0-4922-a787-4b32ac9d9c4c}}{4:
+:20:REF-21222
+:23B:CRED
+:32A:241231GBP214437.00
+:50K:/OC8627975
+Reed Ltd
+0780 Webster Plaza Suite 111 North Josephland, MD 02063
+:57A:SMBCJPJTXXX
+:59:/BEN11697161852033
+Taylor Ltd
+199 Rogers Isle Apt. 411 Lisamouth, DE 34830
+:70:INV F06F51604E47 Defense election conference new benefit employee middle close.
+:71A:OUR
+-}{5:{CHK:d29d587e9d}}

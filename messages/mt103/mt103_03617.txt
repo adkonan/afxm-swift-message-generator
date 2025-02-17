@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240219BARCGB22XXXXXXXN}{3:{121:876b7c5f-d423-4538-a94d-4af210e59a90}}{4:
+:20:REF-92512
+:23B:CRED
+:32A:240219AUD2571.87
+:50K:/OC9585609
+Stephens Group
+493 Amanda Inlet New Lucasborough, CO 45270
+:57A:BARCGB22XXX
+:59:/BEN87473302306685
+Gonzalez-Bush
+96138 Peters Knoll Apt. 806 North Crystalfurt, MH 66746
+:70:INV FFAEF142DE9B Control eye data social change water shoulder nothing.
+:71A:OUR
+-}{5:{CHK:0689efcd5f}}

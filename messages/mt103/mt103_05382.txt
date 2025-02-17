@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240608BICIBFBFXXXXXXXN}{3:{121:a7dbee78-72f2-4b5e-a916-cab7e2bb0702}}{4:
+:20:REF-70288
+:23B:CRED
+:32A:240608USD49720.00
+:50K:/OC2483160
+Chang, Lopez and Scott
+56545 Valerie Crossroad West Alexanderburgh, MP 75468
+:57A:BICIBFBFXXX
+:59:/BEN33817364092743
+Jones-Simmons
+51244 Lisa River Suite 515 East Walterland, TX 73452
+:70:INV 40C1EDAF2158 Way individual audience trade ahead technology quality.
+:71A:OUR
+-}{5:{CHK:044293e9e8}}

@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240829GTBINGLAXXXXXXXN}{3:{121:4d84154a-1304-4062-8a87-e0017e0a73ff}}{4:
+:20:REF-13464
+:23B:CRED
+:32A:240829CNY1212650.00
+:50K:/OC1168796
+Kelly, Riddle and Hernandez
+5203 Rogers Hollow Apt. 951 West Jamesstad, AK 46774
+:57A:GTBINGLAXXX
+:59:/BEN97524471158404
+Murphy-Page
+96166 Daniels Extensions Apt. 612 South Denise, MD 68879
+:70:INV A3A97668DA39 Response citizen push action stay affect lead.
+:71A:OUR
+-}{5:{CHK:ac39d2d591}}

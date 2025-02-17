@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240718ZURICHZCHXXXXXXXN}{3:{121:1b4cbd18-9045-400d-a917-ec7823fc9af0}}{4:
+:20:REF-94481
+:23B:CRED
+:32A:240718AUD285218.00
+:50K:/OC1461460
+Liu, White and James
+1413 Karen Haven Walkermouth, NV 53333
+:57A:ZURICHZCHXXX
+:59:/BEN27626728066716
+Sanchez-Peterson
+30165 Mcdonald Points Andersonchester, VI 55896
+:70:INV 6B6A4A9B8E6E Station conference white sell keep movie large have.
+:71A:OUR
+-}{5:{CHK:1195d167f5}}

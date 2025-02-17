@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103241128DBSAZAJJXXXXXXXN}{3:{121:d85b66fd-ff7e-432d-9071-ac427a186ce1}}{4:
+:20:REF-50019
+:23B:CRED
+:32A:241128USD321094.00
+:50K:/OC5336071
+Jones, Vasquez and Bruce
+774 Mendoza Parkways Patriciaview, MN 77701
+:57A:DBSAZAJJXXX
+:59:/BEN88932993662154
+Campbell, Cole and Owens
+408 Blackburn Port Erikbury, PR 74593
+:70:INV 88272E5F2A22 Probably list operation believe southern.
+:71A:OUR
+-}{5:{CHK:aab05b1f26}}

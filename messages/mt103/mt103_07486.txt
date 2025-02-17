@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103250101CRESCHZZXXXXXXXN}{3:{121:d860bc3a-c518-46a1-bbc9-198b6546dfbd}}{4:
+:20:REF-37988
+:23B:CRED
+:32A:250101CNY190204.00
+:50K:/OC1993460
+Jones, Johnson and Olson
+14938 Estrada Ports Anthonychester, SD 36032
+:57A:CRESCHZZXXX
+:59:/BEN84595338426010
+Hernandez-Jones
+55242 Theresa Plain Apt. 255 Tabithaville, IL 75387
+:70:INV BCDB796F6BFC Away room assume door off something.
+:71A:OUR
+-}{5:{CHK:6ea90695bd}}

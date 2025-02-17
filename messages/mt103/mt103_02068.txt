@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240309FBNINGLAXXXXXXXN}{3:{121:e2a09103-f655-4c27-a9dc-1a5fa49e75fd}}{4:
+:20:REF-16425
+:23B:CRED
+:32A:240309EUR387.05
+:50K:/OC2163773
+Edwards, Haynes and Robinson
+932 Long Overpass Suite 868 Lake Brandon, MP 58057
+:57A:FBNINGLAXXX
+:59:/BEN35478354466365
+Bridges-Moreno
+92906 Smith Ferry New David, LA 91653
+:70:INV 49A77EF2DDAC Authority way former reason exist actually miss star.
+:71A:OUR
+-}{5:{CHK:3ae3ba4f11}}

@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240425BARCGB22XXXXXXXN}{3:{121:0f650c01-8386-4aba-9d2f-157ee6664a61}}{4:
+:20:REF-10823
+:23B:CRED
+:32A:240425XAU1807300.00
+:50K:/OC2913359
+Anderson and Sons
+01350 Grace Plain Woodsside, MN 08574
+:57A:BARCGB22XXX
+:59:/BEN85945430885213
+Bennett, Robertson and Nguyen
+6385 Stephanie Walk Suite 767 Lake Seanland, LA 53138
+:70:INV 03EB07626737 Sound such half leg minute wind avoid.
+:71A:OUR
+-}{5:{CHK:3a4fbcb6ed}}

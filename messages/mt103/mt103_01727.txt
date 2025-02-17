@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240304INGBNL2AXXXXXXXN}{3:{121:0bed5e2f-736d-4fe5-a2c3-059622b52640}}{4:
+:20:REF-60934
+:23B:CRED
+:32A:240304AUD3575.47
+:50K:/OC7761744
+Barton Group
+6812 Curtis Island Port Trevorfort, PR 70243
+:57A:INGBNL2AXXX
+:59:/BEN14533918442853
+Edwards, Hughes and Simpson
+490 Newton Trail Shahbury, KY 35762
+:70:INV E76FB19E5ACF Later security institution though exactly fly at couple.
+:71A:OUR
+-}{5:{CHK:9056aa2f9a}}

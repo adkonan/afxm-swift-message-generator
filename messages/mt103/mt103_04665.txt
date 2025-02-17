@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240617AFRIGHACXXXXXXXN}{3:{121:cda967b0-51bc-4f3a-b4ce-067ef97e486f}}{4:
+:20:REF-73696
+:23B:CRED
+:32A:240617AUD440290.00
+:50K:/OC9614185
+Floyd-Barron
+553 Hill Radial Matthewmouth, SC 36223
+:57A:AFRIGHACXXX
+:59:/BEN94817870038911
+Mckinney, Thompson and Lewis
+103 Kimberly Summit Suite 497 Soniaside, NC 52091
+:70:INV 8ECF757F5918 Modern impact keep truth image wall a away.
+:71A:OUR
+-}{5:{CHK:c19de0bc9c}}

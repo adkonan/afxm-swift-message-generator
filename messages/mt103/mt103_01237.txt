@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103241014FCMBNGLAXXXXXXXN}{3:{121:aa30be07-991a-4f28-ae4c-9a5bc5fde5ea}}{4:
+:20:REF-66366
+:23B:CRED
+:32A:241014CNY2718310.00
+:50K:/OC8119664
+Harris-Davis
+252 Jessica Divide Boydmouth, AR 90119
+:57A:FCMBNGLAXXX
+:59:/BEN11935833484928
+Bennett, Morales and Arias
+2843 Christopher Inlet Suite 285 Andersonshire, DC 11193
+:70:INV 8F04CA8EA0AC Collection figure feel go picture piece.
+:71A:OUR
+-}{5:{CHK:67a3099b07}}

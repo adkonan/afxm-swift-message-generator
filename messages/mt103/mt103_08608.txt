@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103250114CIBCCATTXXXXXXXN}{3:{121:c986404b-f81f-4312-91ff-90d90c840c57}}{4:
+:20:REF-99784
+:23B:CRED
+:32A:250114USD278752.00
+:50K:/OC9155763
+Williams, Cole and Liu
+5412 Mindy Mountains Apt. 619 West Aprilborough, KY 91822
+:57A:CIBCCATTXXX
+:59:/BEN91706462078225
+Daniels, Singh and Anderson
+6043 Long Creek Apt. 500 Heathershire, TN 42479
+:70:INV B507170033DE Grow always soldier water doctor.
+:71A:OUR
+-}{5:{CHK:b9fbb2ea8e}}

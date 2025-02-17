@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240303ECOCCIBAXXXXXXXN}{3:{121:afe17405-d474-416e-bf55-24612353aa8e}}{4:
+:20:REF-19439
+:23B:CRED
+:32A:240303CHF121481.00
+:50K:/OC7452374
+Smith-Lester
+684 Lori Ports Apt. 700 Port Lucaschester, NH 73523
+:57A:ECOCCIBAXXX
+:59:/BEN58122402078516
+Allen, Bray and Gonzalez
+410 Bruce Junctions Apt. 015 Ginaborough, TN 65762
+:70:INV 0877F41D1EB8 Nothing vote sign far final work recent.
+:71A:OUR
+-}{5:{CHK:efabeee68a}}

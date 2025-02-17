@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240411SOGEFRPPXXXXXXXN}{3:{121:b341cccc-3246-4322-b0f7-aa27ee9192dd}}{4:
+:20:REF-40628
+:23B:CRED
+:32A:240411AUD81001.00
+:50K:/OC6677393
+Ritter PLC
+4303 Charles Haven Beardview, WI 15238
+:57A:SOGEFRPPXXX
+:59:/BEN11143482999862
+Howard and Sons
+590 Obrien Knoll Suite 229 South Nicolemouth, KY 60559
+:70:INV 27B5A4FE10E5 Sport significant that matter travel newspaper stay.
+:71A:OUR
+-}{5:{CHK:d11f3bf2a4}}

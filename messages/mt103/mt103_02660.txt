@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240921ECOCGHANXXXXXXXN}{3:{121:3dc6cac0-6bdc-4fd8-b385-52a1b4bf1490}}{4:
+:20:REF-58578
+:23B:CRED
+:32A:240921GBP93686.00
+:50K:/OC8928688
+Douglas Group
+1205 Terry Drives New Aprilfort, AZ 45418
+:57A:ECOCGHANXXX
+:59:/BEN23020939457497
+Cortez, King and Fox
+889 Victor Via Apt. 478 Alexanderfurt, IA 06475
+:70:INV 636B0DE42427 Sort phone oil training difference federal.
+:71A:OUR
+-}{5:{CHK:214a97cf90}}

@@ -1,0 +1,14 @@
+{1:F01STANGB2LXXX1234567890}{2:O103240509KFWDEFFXXXXXXXN}{3:{121:f6a3c6d0-5506-413f-8272-26ba034be001}}{4:
+:20:REF-86180
+:23B:CRED
+:32A:240509CHF4045500.00
+:50K:/OC4379376
+Tanner, Branch and Anderson
+977 Webb Unions Codyside, NE 37899
+:57A:KFWDEFFXXX
+:59:/BEN46547626404824
+Brown, Bowen and Everett
+7175 Stephens Ferry Suite 597 Lake Barbaraside, FM 99208
+:70:INV B28EC0B59FB5 Have try everything consider talk beautiful little.
+:71A:OUR
+-}{5:{CHK:0f8e731567}}

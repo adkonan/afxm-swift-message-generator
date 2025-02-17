@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241116ABSAZAJJXXXXXXXN}{3:{121:65bc8ee3-cf74-465a-937b-7abf7f9fcb12}}{4:
+:20:REF-42882
+:23B:CRED
+:32A:241116XAU287850.00
+:50K:/OC5545646
+Hardy and Sons
+7383 Tony Fort Howardburgh, AZ 28072
+:57A:ABSAZAJJXXX
+:59:/BEN63568570932553
+Richards, Moore and Jones
+128 Petersen Station Suite 365 East Carolynport, MD 23627
+:70:INV FCD9DD6D7E5A Art stand pass life somebody actually.
+:71A:OUR
+-}{5:{CHK:eebe8b02ca}}

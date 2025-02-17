@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240722CIBCCATTXXXXXXXN}{3:{121:acd84616-76fd-4cbb-b10b-5c2972e76355}}{4:
+:20:REF-73256
+:23B:CRED
+:32A:240722AUD10558300.00
+:50K:/OC6434268
+Harrison, Howard and Lawrence
+PSC 5749, Box 6734 APO AA 52165
+:57A:CIBCCATTXXX
+:59:/BEN61337033888893
+Clark, Chapman and Riddle
+870 Holland Lake Suite 801 Matthewville, VA 17722
+:70:INV A48BCDD3A5EB Third action generation military open fall food project.
+:71A:OUR
+-}{5:{CHK:e922422d1b}}

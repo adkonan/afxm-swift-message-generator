@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103250114RBCROYTORXXXXXXXN}{3:{121:f66de08c-68bf-4963-87bc-8d07db355d69}}{4:
+:20:REF-59667
+:23B:CRED
+:32A:250114SGD347200.00
+:50K:/OC7850179
+Brandt, Fernandez and Perez
+05647 Hill Island Apt. 975 Autumnberg, SC 39684
+:57A:RBCROYTORXXX
+:59:/BEN13763507077722
+Thomas, Rojas and Lamb
+9906 Martin Crossing Port David, CO 73289
+:70:INV 69A5F0B5305B According represent second school north cold.
+:71A:OUR
+-}{5:{CHK:7f43a4f3f4}}

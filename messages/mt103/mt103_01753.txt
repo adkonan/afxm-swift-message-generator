@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103241229FCMBNGLAXXXXXXXN}{3:{121:2223e35e-c58e-4ce8-b211-d178c02d5c43}}{4:
+:20:REF-67647
+:23B:CRED
+:32A:241229AUD219565.00
+:50K:/OC6841998
+Griffith, Franklin and Howell
+869 Schultz Skyway Suite 892 Port Rachel, KY 76806
+:57A:FCMBNGLAXXX
+:59:/BEN31879997850815
+Chavez, Wade and Romero
+180 Bell Stravenue Suite 612 Stephanieville, AK 03648
+:70:INV EA806E00DDF4 Common play key develop lose power.
+:71A:OUR
+-}{5:{CHK:746d08334a}}

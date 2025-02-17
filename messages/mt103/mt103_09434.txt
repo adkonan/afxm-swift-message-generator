@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103250128RABONL2UXXXXXXXN}{3:{121:1ec41514-8f33-41a7-899a-7f891e5bb6a1}}{4:
+:20:REF-45021
+:23B:CRED
+:32A:250128GBP1326920.00
+:50K:/OC6154709
+Cunningham-Moore
+98771 Rollins Underpass Suite 303 Wilkinschester, MS 20909
+:57A:RABONL2UXXX
+:59:/BEN58307771751205
+Calderon-Strickland
+8465 Katie Islands Suite 770 Jennifermouth, UT 65334
+:70:INV 1F0470745697 Use wait general hot environment.
+:71A:OUR
+-}{5:{CHK:bcbeb9306a}}

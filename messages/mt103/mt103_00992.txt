@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103250101ECOCGHANXXXXXXXN}{3:{121:e7d82c5f-eebb-4338-9b80-df186dde7143}}{4:
+:20:REF-42298
+:23B:CRED
+:32A:250101SGD406166.00
+:50K:/OC1087460
+Morgan-Higgins
+7041 Calderon Corners South Jim, MN 42919
+:57A:ECOCGHANXXX
+:59:/BEN74641238881578
+Hardin Ltd
+189 Butler Station Suite 752 South Melissashire, MP 96791
+:70:INV 46C2F9C965BE Discuss what consumer writer remember seven water.
+:71A:OUR
+-}{5:{CHK:7338c0ce9f}}

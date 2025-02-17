@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241003NEDSZAJJXXXXXXXN}{3:{121:b5890e68-1e27-45e7-a444-66fbf3e9b8a2}}{4:
+:20:REF-64157
+:23B:CRED
+:32A:241003JPY10910200.00
+:50K:/OC4136497
+Smith, Wood and Hawkins
+6506 Williams Squares Collinshaven, AL 38841
+:57A:NEDSZAJJXXX
+:59:/BEN44565826329692
+Jordan Group
+1567 Francisco Square Dawnchester, MT 36188
+:70:INV B97053B52241 Parent environmental democratic us partner not idea.
+:71A:OUR
+-}{5:{CHK:58a703afb9}}

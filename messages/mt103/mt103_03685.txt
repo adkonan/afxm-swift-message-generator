@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240222UBSWCHZHXXXXXXXN}{3:{121:2cc3b2c7-9e00-4c3c-a6b7-bcc64b1afcdc}}{4:
+:20:REF-31318
+:23B:CRED
+:32A:240222AUD470298.00
+:50K:/OC4203873
+Arroyo-Logan
+297 Lori Villages Apt. 920 Robertborough, WA 07817
+:57A:UBSWCHZHXXX
+:59:/BEN58047528068031
+Lamb, Henry and Mason
+6882 Rebecca Row Apt. 376 Spencerfort, TX 60315
+:70:INV 16A037674CFC Himself American professional work song help tend.
+:71A:OUR
+-}{5:{CHK:ccfd64eed3}}

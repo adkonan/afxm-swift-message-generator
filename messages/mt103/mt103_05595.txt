@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103241031FBNINGLAXXXXXXXN}{3:{121:e3aca567-f7e7-4136-89eb-ff1faa027ca9}}{4:
+:20:REF-35472
+:23B:CRED
+:32A:241031SGD283485.00
+:50K:/OC7795282
+Jones, Schaefer and Wells
+1800 Danielle Wall East Belindamouth, DC 69507
+:57A:FBNINGLAXXX
+:59:/BEN11473516755494
+Bird Group
+279 Hutchinson Parkway Suite 647 Collinsville, FM 90194
+:70:INV A5AC349DF329 Through with chance marriage.
+:71A:OUR
+-}{5:{CHK:bc2ed5ecc4}}

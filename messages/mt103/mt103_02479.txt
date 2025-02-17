@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240301FCMBNGLAXXXXXXXN}{3:{121:253c84f0-83b2-4456-82fd-b598faa80b3f}}{4:
+:20:REF-14032
+:23B:CRED
+:32A:240301CHF477551.00
+:50K:/OC9385322
+Smith, Elliott and Key
+38505 Johnson Curve South Tricia, MO 75716
+:57A:FCMBNGLAXXX
+:59:/BEN60304081371809
+Smith, Smith and Carlson
+0941 Espinoza Knoll South Carrie, KY 75055
+:70:INV 1657E0556F5A Him nation art science instead same individual president.
+:71A:OUR
+-}{5:{CHK:a539d1c540}}

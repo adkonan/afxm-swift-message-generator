@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240313BOMLMRUXXXXXXXXN}{3:{121:9b542874-8717-461c-872b-bfe7e07ce19e}}{4:
+:20:REF-81270
+:23B:CRED
+:32A:240313CNY469310.00
+:50K:/OC9505025
+Jordan, Bishop and Schneider
+661 James Wall Anthonyfurt, TX 63634
+:57A:BOMLMRUXXXX
+:59:/BEN55769489837683
+Sanchez, Mcmahon and Mccann
+3574 Kristin Station Suite 767 Rothshire, KS 85592
+:70:INV B1E7112BE59D Ahead cultural audience a help true.
+:71A:OUR
+-}{5:{CHK:a6fe6c7688}}

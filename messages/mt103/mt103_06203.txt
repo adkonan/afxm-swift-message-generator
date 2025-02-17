@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240706OCBCSGSGXXXXXXXN}{3:{121:186d5f0b-22e0-4304-93f5-edabadf11512}}{4:
+:20:REF-80073
+:23B:CRED
+:32A:240706KPW412141.00
+:50K:/OC4519418
+Garrett, Pittman and Neal
+0320 Michael Mountain Kimfurt, NY 16687
+:57A:OCBCSGSGXXX
+:59:/BEN91205675646859
+Holmes-Davis
+5886 Garcia Crossing Apt. 318 Mitchellmouth, AL 62962
+:70:INV 98F9EAF93849 Church popular than tough bill itself.
+:71A:OUR
+-}{5:{CHK:019bbdcbdc}}

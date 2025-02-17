@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240707CITIUS33XXXXXXXN}{3:{121:9055f9be-6d70-46db-a6d9-a5cbcbb19aa8}}{4:
+:20:REF-63085
+:23B:CRED
+:32A:240707CNY204353.00
+:50K:/OC2589377
+Thompson-Diaz
+9571 Kayla Coves Suite 120 Port Timothy, UT 77127
+:57A:CITIUS33XXX
+:59:/BEN11060424302713
+Douglas Inc
+797 Nicholas Orchard Keithview, RI 52536
+:70:INV 1D0562BA35CD Whole world inside none pattern describe chance.
+:71A:OUR
+-}{5:{CHK:69fd536de4}}

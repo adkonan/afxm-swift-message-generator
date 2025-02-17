@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240628SCBLGB2LXXXXXXXN}{3:{121:14a0e45e-fbfd-43e3-988d-560fa667fca0}}{4:
+:20:REF-43437
+:23B:CRED
+:32A:240628IRR79405.00
+:50K:/OC2121620
+Hall, Walls and Adams
+0741 Anderson Lodge Apt. 592 Karenshire, HI 42307
+:57A:SCBLGB2LXXX
+:59:/BEN26971943085431
+Harris Inc
+40561 Patrick Station Suite 152 South Meganton, DE 12527
+:70:INV 7F855164A62C Development argue close building number deal.
+:71A:OUR
+-}{5:{CHK:e6cc9d549a}}

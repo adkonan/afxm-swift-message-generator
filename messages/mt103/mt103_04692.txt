@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250102CRESCHZZXXXXXXXN}{3:{121:dce30060-aa62-44dc-abca-d2c8ecaefe37}}{4:
+:20:REF-35029
+:23B:CRED
+:32A:250102USD332900.00
+:50K:/OC2955487
+Kennedy-Miller
+3405 Obrien Ford Robertmouth, SC 59240
+:57A:CRESCHZZXXX
+:59:/BEN80476280449327
+Abbott-Stewart
+132 Rhonda Route Grahamborough, VA 32664
+:70:INV 4AD978783461 Drop interesting cup charge whatever game employee.
+:71A:OUR
+-}{5:{CHK:d7fa36881a}}

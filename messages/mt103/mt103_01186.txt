@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103250209BICIBFBFXXXXXXXN}{3:{121:63083b2b-f0f4-4c7c-a6b3-864d7778ae9a}}{4:
+:20:REF-50975
+:23B:CRED
+:32A:250209AUD346813.00
+:50K:/OC9034951
+Martinez-Sanchez
+244 Marcus Trail Suite 662 Jensentown, OR 98643
+:57A:BICIBFBFXXX
+:59:/BEN90536643448278
+Robbins, Williams and Lee
+245 Andrea Keys Apt. 871 Charlesside, DC 52805
+:70:INV 254F82A86C73 Against computer attorney least people their.
+:71A:OUR
+-}{5:{CHK:07176a5f96}}

@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240707BNPPIT2LXXXXXXXN}{3:{121:e606cb92-f2bd-4f7d-ae51-0827b761c98b}}{4:
+:20:REF-10067
+:23B:CRED
+:32A:240707USD486083.00
+:50K:/OC1323452
+Shea, Mcmahon and Bryant
+562 Clarke Land North Coreyville, PW 03940
+:57A:BNPPIT2LXXX
+:59:/BEN82908022669264
+Wallace Ltd
+59250 Walker Cliffs Suite 404 Martinchester, FM 11824
+:70:INV 0B751433CB79 Cost rate artist successful travel no debate.
+:71A:OUR
+-}{5:{CHK:457819639d}}

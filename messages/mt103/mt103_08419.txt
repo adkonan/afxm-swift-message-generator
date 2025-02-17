@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240303CHASUS33XXXXXXXN}{3:{121:e2e64368-c91d-46fa-9bf3-ef668d799a47}}{4:
+:20:REF-92301
+:23B:CRED
+:32A:240303CAD219941.00
+:50K:/OC5995848
+Hopkins, Lopez and Rodriguez
+4548 Wilson River Suite 885 Lake Angelahaven, AS 97563
+:57A:CHASUS33XXX
+:59:/BEN27308782023080
+Page Group
+8070 Collins Plaza Zamorabury, NV 16497
+:70:INV 8B73F3BF1C32 Late gas picture eye red field thought.
+:71A:OUR
+-}{5:{CHK:547caf5c0a}}

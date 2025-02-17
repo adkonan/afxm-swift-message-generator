@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240416RABONL2UXXXXXXXN}{3:{121:2bdae585-f9d9-4023-8cba-e0ac20686938}}{4:
+:20:REF-38608
+:23B:CRED
+:32A:240416EUR156496.00
+:50K:/OC6341756
+Oconnor PLC
+3404 Gilbert Union Suite 776 Lake Lee, MH 73587
+:57A:RABONL2UXXX
+:59:/BEN46421944011961
+May, Marquez and Faulkner
+01083 Hernandez Divide Lisachester, NJ 04855
+:70:INV 7850876EDD99 Resource where hard news direction outside research.
+:71A:OUR
+-}{5:{CHK:fd90e64959}}

@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103240530BICIBFBFXXXXXXXN}{3:{121:aa83400c-84b6-4575-b517-1c63de2816fc}}{4:
+:20:REF-65217
+:23B:CRED
+:32A:240530EUR4589.13
+:50K:/OC2689642
+Obrien-Rodriguez
+89448 Molly Villages Lake Ronnieside, RI 43074
+:57A:BICIBFBFXXX
+:59:/BEN79412326190361
+Powell, Weber and Brown
+635 Matthew Views Phillipborough, GA 63496
+:70:INV 2F3FE5FB783C Which direction she lawyer enough off reduce.
+:71A:OUR
+-}{5:{CHK:1424c5cb43}}

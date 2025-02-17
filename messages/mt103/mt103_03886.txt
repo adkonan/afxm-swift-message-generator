@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103241103GTBINGLAXXXXXXXN}{3:{121:b8aaee73-536d-4ad9-b2b9-efb4d6162e8d}}{4:
+:20:REF-90736
+:23B:CRED
+:32A:241103CAD23348.00
+:50K:/OC5978453
+Lee Inc
+820 Johnson Summit Apt. 700 Kaiserbury, DC 83835
+:57A:GTBINGLAXXX
+:59:/BEN79520274846486
+Scott, Murray and Rodriguez
+19247 Lindsay Manors Williamsshire, SC 15049
+:70:INV FF88DC52D492 Receive better want job federal born arm.
+:71A:OUR
+-}{5:{CHK:11c310af0e}}

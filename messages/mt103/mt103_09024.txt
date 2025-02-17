@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240808CHASUS33XXXXXXXN}{3:{121:af994382-fffe-47bc-b33a-2606f2733dca}}{4:
+:20:REF-53368
+:23B:CRED
+:32A:240808XAG307673.00
+:50K:/OC9985629
+Harris LLC
+91084 Anthony Place Apt. 552 Daniellemouth, MP 96949
+:57A:CHASUS33XXX
+:59:/BEN71840369842768
+Delacruz, Parsons and Howell
+55463 Cobb Pine Apt. 458 Jenniferstad, WI 25605
+:70:INV 8FED07FEE646 Marriage vote wait late property want question.
+:71A:OUR
+-}{5:{CHK:744a897b6b}}

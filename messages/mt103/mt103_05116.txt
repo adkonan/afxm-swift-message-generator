@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240602HSBCGB2LXXXXXXXN}{3:{121:b04f4aee-b9b9-4dce-ac1f-ec6cc0cbde92}}{4:
+:20:REF-40308
+:23B:CRED
+:32A:240602KPW333851.00
+:50K:/OC2925991
+Hughes-Herrera
+80547 King Ports Suite 291 Justinfurt, DE 36140
+:57A:HSBCGB2LXXX
+:59:/BEN84242615299769
+Williams, Miller and Barr
+03919 Mandy Mill Suite 651 West Amber, MA 17408
+:70:INV 6649CB856B2A Research able degree reflect art owner.
+:71A:OUR
+-}{5:{CHK:09020240b2}}

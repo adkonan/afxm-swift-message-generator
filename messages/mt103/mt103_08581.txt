@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240602BMCECMRXXXXXXXXN}{3:{121:d4af4871-f446-4f4d-974a-ee96a01b9ee7}}{4:
+:20:REF-87897
+:23B:CRED
+:32A:240602GBP743700.00
+:50K:/OC5796324
+Franco-Jones
+2248 Thompson Island Apt. 505 Lake Michaelland, MI 38779
+:57A:BMCECMRXXXX
+:59:/BEN80964923345315
+Ramirez-Pacheco
+70864 Davis Plains Rodriguezland, VI 06298
+:70:INV 1C339BAAF76D Listen stuff professor dinner respond interview measure.
+:71A:OUR
+-}{5:{CHK:de49e85235}}

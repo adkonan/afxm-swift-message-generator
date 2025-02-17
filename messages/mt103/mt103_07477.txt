@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240414BARCGB22XXXXXXXN}{3:{121:7095f7bf-4d8c-4394-b85a-9916b2924a19}}{4:
+:20:REF-49210
+:23B:CRED
+:32A:240414CNY86351.00
+:50K:/OC1677762
+Smith Inc
+3840 Johnson Rue West Lisaland, DC 54549
+:57A:BARCGB22XXX
+:59:/BEN23784870372998
+Walton, Serrano and Wallace
+358 Jennifer Islands Apt. 493 North Ryanview, NV 14044
+:70:INV 7518CFE22C6C Visit week cultural represent magazine contain evidence.
+:71A:OUR
+-}{5:{CHK:b8f86c43bf}}

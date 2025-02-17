@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240713INGBNL2AXXXXXXXN}{3:{121:caf36d73-fa5e-44b0-8c50-9779d2b9c45a}}{4:
+:20:REF-63979
+:23B:CRED
+:32A:240713USD311078.00
+:50K:/OC1432531
+Sweeney-Hernandez
+5340 Robinson Ridges Suite 404 West Jennifermouth, AR 83972
+:57A:INGBNL2AXXX
+:59:/BEN19334485630120
+Harvey-Quinn
+61955 Lee Summit Suite 022 North Jesseberg, RI 81038
+:70:INV 94E823B79B80 Back animal natural now think no into cell.
+:71A:OUR
+-}{5:{CHK:0b005b6c82}}

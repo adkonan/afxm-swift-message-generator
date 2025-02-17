@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240926KFWDEFFXXXXXXXN}{3:{121:cd3352e6-e0bf-43d5-a00a-a91a6cf50977}}{4:
+:20:REF-31352
+:23B:CRED
+:32A:240926USD95353.00
+:50K:/OC5538785
+Williams-Ellis
+304 Michael Mission Apt. 117 Rodriguezborough, PW 84241
+:57A:KFWDEFFXXX
+:59:/BEN33214149417089
+Garrett LLC
+5274 Martinez Mission New Jeffreychester, MO 64778
+:70:INV 1844BC062239 Help season often real meet score could.
+:71A:OUR
+-}{5:{CHK:68372ce5d7}}

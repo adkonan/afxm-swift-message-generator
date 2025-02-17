@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103241001CIBCCATTXXXXXXXN}{3:{121:d20fa5ba-643b-4f98-9c02-498d9ffa01ba}}{4:
+:20:REF-15163
+:23B:CRED
+:32A:241001USD4851.38
+:50K:/OC3112993
+Taylor-Henderson
+222 Stephanie Ferry Apt. 233 Davidfort, IA 42077
+:57A:CIBCCATTXXX
+:59:/BEN26712529752226
+Garcia-Mason
+273 Frank Cape Suite 651 North Heather, MS 12964
+:70:INV 01F59CE40CAE Class include story television even else tax crime.
+:71A:OUR
+-}{5:{CHK:9f1872ec2b}}

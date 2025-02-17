@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240923BCAOAOAOXXXXXXXN}{3:{121:f488a295-9d2c-45d3-b25a-489b9c6ae524}}{4:
+:20:REF-18779
+:23B:CRED
+:32A:240923KPW1856.80
+:50K:/OC6183168
+Willis, Ellis and Cortez
+81525 Rice Overpass Suite 237 Whitebury, MS 70203
+:57A:BCAOAOAOXXX
+:59:/BEN93964060537889
+Garner, Lynch and Wilson
+373 Phillips Street Apt. 970 West Kimberly, SC 07976
+:70:INV A108B65673A6 Hear instead summer us light among all.
+:71A:OUR
+-}{5:{CHK:2b109f81c0}}

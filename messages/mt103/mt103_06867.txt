@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103250121ECOCCIBAXXXXXXXN}{3:{121:6a1f1f40-46be-4416-9b75-a6ef3e92b969}}{4:
+:20:REF-60976
+:23B:CRED
+:32A:250121CNY25658.00
+:50K:/OC1655834
+Hendricks, Tyler and Richards
+00885 Todd Stream Apt. 830 Port Robert, CO 78259
+:57A:ECOCCIBAXXX
+:59:/BEN74548295471406
+Estrada, Owens and Leonard
+8449 Hill Brooks Apt. 592 Allenport, GU 34857
+:70:INV C72C086C5107 Particular different season executive air letter generation.
+:71A:OUR
+-}{5:{CHK:00bf4138de}}

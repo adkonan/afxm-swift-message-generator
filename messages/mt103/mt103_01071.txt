@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103241020FCMBNGLAXXXXXXXN}{3:{121:869c16d3-7897-4f76-8753-0d5ee9e556fc}}{4:
+:20:REF-82324
+:23B:CRED
+:32A:241020CNY11287.00
+:50K:/OC6896987
+Collins-Robinson
+759 Harper Square Apt. 747 North Loganton, ME 42219
+:57A:FCMBNGLAXXX
+:59:/BEN34111414651861
+Hill, Armstrong and Bryant
+042 Brown Streets Suite 274 Lake Monicastad, RI 54941
+:70:INV 16D2948BDA07 Coach nice several account hot him ability end.
+:71A:OUR
+-}{5:{CHK:011c663905}}

@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240402UBSWCHZHXXXXXXXN}{3:{121:0629c301-fdcc-4181-b434-eae1f95b1c54}}{4:
+:20:REF-88963
+:23B:CRED
+:32A:240402USD280983.00
+:50K:/OC3763952
+Carpenter and Sons
+9160 Sarah Garden Suite 409 Pamelachester, NV 87863
+:57A:UBSWCHZHXXX
+:59:/BEN51409420015257
+Ferguson Inc
+5458 Hendrix Glen Apt. 778 South Krista, CA 91143
+:70:INV 399B0594F10A Pull phone parent child understand science.
+:71A:OUR
+-}{5:{CHK:d2cae80d6c}}

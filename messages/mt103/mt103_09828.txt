@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240328CHASUS33XXXXXXXN}{3:{121:1ec1f475-bdae-43ff-b887-c8136a2cfe35}}{4:
+:20:REF-58235
+:23B:CRED
+:32A:240328XDR3087890.00
+:50K:/OC5707142
+Wood, Schmidt and Robinson
+87939 Molly Corner Apt. 451 Laurenchester, SD 72095
+:57A:CHASUS33XXX
+:59:/BEN53390933643528
+Cox, Thompson and Elliott
+5314 Spencer Valleys Port Samuelhaven, ND 63916
+:70:INV 9E85FB1BAF6E Before company short do.
+:71A:OUR
+-}{5:{CHK:179d5dee02}}

@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103250210AFRIGHACXXXXXXXN}{3:{121:e864ba87-dccc-487e-89c0-e342de79f677}}{4:
+:20:REF-27751
+:23B:CRED
+:32A:250210SGD449469.00
+:50K:/OC4200344
+Taylor, Alvarez and Davenport
+1112 David Summit Apt. 744 Ramosland, IL 31401
+:57A:AFRIGHACXXX
+:59:/BEN94837867512199
+Cruz PLC
+469 Castillo Lights Suite 899 Edwardstown, SC 37206
+:70:INV D14DE93D7B72 Piece relationship whom reflect speech wife share.
+:71A:OUR
+-}{5:{CHK:dd7c4b1ac0}}

@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103240713ICBKCNBJXXXXXXXN}{3:{121:e77ab919-869f-4fe5-9b15-59561ff11c55}}{4:
+:20:REF-58057
+:23B:CRED
+:32A:240713GBP404604.00
+:50K:/OC7819496
+Mason, Francis and Rodriguez
+591 Morgan Divide Michealstad, NY 87844
+:57A:ICBKCNBJXXX
+:59:/BEN38970414846844
+Dennis, Cooley and Garza
+65609 Reynolds Hills Suite 280 Port David, CT 22746
+:70:INV 2E36E307EDF1 Wish entire argue agree whatever laugh.
+:71A:OUR
+-}{5:{CHK:c16472ebb2}}

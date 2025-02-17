@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240923HSBCGB2LXXXXXXXN}{3:{121:3eef1122-b9de-4a5b-8fd8-c2559d0b9e3c}}{4:
+:20:REF-80308
+:23B:CRED
+:32A:240923JPY387799.00
+:50K:/OC1338399
+Compton, Mccullough and Mercado
+538 Reyes Land Suite 456 Jonesfurt, KY 64281
+:57A:HSBCGB2LXXX
+:59:/BEN95711503056840
+Wilson and Sons
+6799 Brown Burgs New Samuelmouth, NC 83874
+:70:INV 0456DAB48ACD Center we music perhaps table very.
+:71A:OUR
+-}{5:{CHK:2084f7fd3a}}

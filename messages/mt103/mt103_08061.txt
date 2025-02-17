@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240812INGBNL2AXXXXXXXN}{3:{121:9b16a663-07b3-4a2a-a644-db4ef0441a87}}{4:
+:20:REF-97343
+:23B:CRED
+:32A:240812GBP147134.00
+:50K:/OC9220237
+Mann, Mills and Heath
+10003 Patricia Rapids Apt. 490 North Williamhaven, ID 22586
+:57A:INGBNL2AXXX
+:59:/BEN98303013017457
+Harvey, Juarez and Freeman
+8089 Adams Station West Eddieborough, CT 46438
+:70:INV 0C4466D6E2A2 Story decide campaign support event report spend.
+:71A:OUR
+-}{5:{CHK:c1c5508642}}

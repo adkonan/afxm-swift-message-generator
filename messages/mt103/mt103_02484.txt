@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103241118DTBKIDJAXXXXXXXN}{3:{121:dfbcd2da-3ddd-4b04-abf8-fb55bfe71466}}{4:
+:20:REF-72714
+:23B:CRED
+:32A:241118XAU416167.00
+:50K:/OC7131808
+Baldwin-Clark
+2728 Juan Falls Suite 243 North Brandon, NC 66336
+:57A:DTBKIDJAXXX
+:59:/BEN59083099732123
+Santos, Guzman and Ford
+43096 Eric Street Suite 893 West Brandon, AS 72507
+:70:INV A2A21F92ACCB Live girl seat law site partner.
+:71A:OUR
+-}{5:{CHK:26bbc34ff8}}

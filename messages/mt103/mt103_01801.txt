@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103241203CITIUS33XXXXXXXN}{3:{121:7e38e1db-efa0-489a-9486-58319465d0c0}}{4:
+:20:REF-85200
+:23B:CRED
+:32A:241203CHF16933.00
+:50K:/OC7494212
+Collier, Berry and Gonzales
+377 Jamie Lodge Jessicaside, PR 08105
+:57A:CITIUS33XXX
+:59:/BEN37757111700921
+Torres, Jones and Lynn
+046 Nichols Viaduct Apt. 853 West Richard, CT 18388
+:70:INV 16287FB013EC Risk minute suggest opportunity media cost.
+:71A:OUR
+-}{5:{CHK:863a7bfafb}}

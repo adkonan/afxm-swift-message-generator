@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240914DEUTDEFFXXXXXXXN}{3:{121:2d0c893f-847c-4fa8-8f28-84b3c034df56}}{4:
+:20:REF-91305
+:23B:CRED
+:32A:240914SGD222130.00
+:50K:/OC9305865
+Gonzalez-Jacobs
+45094 Potter Run Lake Wendyside, OK 41485
+:57A:DEUTDEFFXXX
+:59:/BEN88893377467597
+Mitchell, Miller and Miller
+184 Laurie Expressway Valenciaberg, NE 38032
+:70:INV 2A59FCF12742 Important information wonder even admit.
+:71A:OUR
+-}{5:{CHK:cd34991d6f}}

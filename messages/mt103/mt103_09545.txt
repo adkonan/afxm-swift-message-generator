@@ -1,0 +1,14 @@
+{1:F01BNPAFRPPXXX1234567890}{2:O103250106BNPAGB22XXXXXXXN}{3:{121:1e998156-97ac-4053-a999-8c91b44f1e95}}{4:
+:20:REF-42727
+:23B:CRED
+:32A:250106SGD142851.00
+:50K:/OC3065685
+Henderson, Vega and Carter
+46891 Salas Mission Suite 329 Stewarthaven, ND 02127
+:57A:BNPAGB22XXX
+:59:/BEN20246618638899
+Turner, Jackson and Perez
+85494 Ferguson Key Port Kurtstad, WI 50645
+:70:INV 15B8F4A6F1E7 Result newspaper yard care sport radio move.
+:71A:OUR
+-}{5:{CHK:34463fcbb1}}

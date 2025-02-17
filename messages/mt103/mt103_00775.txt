@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240315HSBCGB2LXXXXXXXN}{3:{121:efbcd4de-cbb4-4136-bcbc-0cab7157f5ea}}{4:
+:20:REF-29539
+:23B:CRED
+:32A:240315SGD386072.00
+:50K:/OC6140429
+Ward PLC
+8507 Lee Stravenue Higginsfort, AS 52578
+:57A:HSBCGB2LXXX
+:59:/BEN98451489957758
+Lucas, Lane and Turner
+0453 Mullins Brook Daughertyland, MH 96209
+:70:INV 7FD75CC216D2 Agreement rich site write ability begin individual.
+:71A:OUR
+-}{5:{CHK:642e2ce490}}

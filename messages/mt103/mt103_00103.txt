@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250120BOFAUS3NXXXXXXXN}{3:{121:f87abb65-0cf5-49fa-9ebc-3502e5f115e0}}{4:
+:20:REF-26107
+:23B:CRED
+:32A:250120JPY335243.00
+:50K:/OC7426703
+Hernandez, Cardenas and Johnson
+5183 Stephens Trafficway Alejandraport, PR 47590
+:57A:BOFAUS3NXXX
+:59:/BEN16187586773705
+Stevenson, Cordova and Fuentes
+5364 Brittney Wells Foxhaven, CT 57852
+:70:INV DE7DA1756C95 Crime operation necessary hope according try.
+:71A:OUR
+-}{5:{CHK:6de6b20f69}}

@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103240902BNPAFRPPXXXXXXXN}{3:{121:a709ed3f-cb5d-4a54-9a6b-cc7ad3774f4a}}{4:
+:20:REF-54533
+:23B:CRED
+:32A:240902CHF358281.00
+:50K:/OC3730420
+Chase-Klein
+68319 Rios Locks Christopherbury, NH 40032
+:57A:BNPAFRPPXXX
+:59:/BEN72140853757096
+Reynolds, Conner and Russell
+660 Tiffany Forges North Charles, VT 64043
+:70:INV B5A6708C9992 Worry guess college either southern heavy discover.
+:71A:OUR
+-}{5:{CHK:39a801dc7b}}

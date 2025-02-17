@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240902CIBCCATTXXXXXXXN}{3:{121:f9f45b2a-2f71-4d6f-9f4b-725e98672d59}}{4:
+:20:REF-86645
+:23B:CRED
+:32A:240902USD232645.00
+:50K:/OC5829559
+Watkins, White and Knight
+2604 Fleming Throughway Suite 399 Dianatown, OK 91320
+:57A:CIBCCATTXXX
+:59:/BEN26282993857294
+Evans-Evans
+468 Kenneth Parks Mcleanville, PR 62491
+:70:INV 146B6473AFFC Official go anyone big agree relate head ten.
+:71A:OUR
+-}{5:{CHK:eb40d4794a}}

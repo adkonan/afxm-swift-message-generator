@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103240514CHASUS33XXXXXXXN}{3:{121:76cee00b-58b0-4986-84b7-db10ca1de2f9}}{4:
+:20:REF-66826
+:23B:CRED
+:32A:240514JPY273909.00
+:50K:/OC1186419
+Coffey, Morris and Perez
+17542 Dean Radial Suite 444 Lake Ethanmouth, CO 37537
+:57A:CHASUS33XXX
+:59:/BEN78438130285178
+Harris, Black and Knapp
+696 Williams Ways North Ashleybury, TN 13963
+:70:INV FD22FB41F9BF Customer beat seem some society little.
+:71A:OUR
+-}{5:{CHK:ecbf71cc81}}

@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103241013INGBNL2AXXXXXXXN}{3:{121:aa0060d0-2a87-40ea-a204-347fea53dde1}}{4:
+:20:REF-71005
+:23B:CRED
+:32A:241013USD34797.00
+:50K:/OC6838153
+Hernandez, Ford and Brewer
+814 Butler Meadow Port Briantown, PW 80853
+:57A:INGBNL2AXXX
+:59:/BEN29597185400398
+Delgado, Phelps and Curtis
+2886 Mclaughlin Islands Apt. 756 Lake Jamieport, WI 36784
+:70:INV 453EFD6E28B4 Soon beat design account force shoulder him.
+:71A:OUR
+-}{5:{CHK:e0de279625}}

@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240716BCAOAOAOXXXXXXXN}{3:{121:ce9de10b-0275-4274-b50e-7ed2491c367d}}{4:
+:20:REF-61018
+:23B:CRED
+:32A:240716SGD47308.00
+:50K:/OC1202666
+Jones, Cummings and Watson
+9386 Bradshaw Bridge New Jamesstad, GU 80763
+:57A:BCAOAOAOXXX
+:59:/BEN61669749452189
+Morris, Hansen and Garner
+903 Martinez Ports Suite 919 Hahnchester, OH 87624
+:70:INV 8BFD8FBB71E1 Eat training hit condition stop.
+:71A:OUR
+-}{5:{CHK:3c61d39d0f}}

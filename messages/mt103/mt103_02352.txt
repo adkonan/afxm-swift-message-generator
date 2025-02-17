@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240701DBSAZAJJXXXXXXXN}{3:{121:56841e15-f106-4e24-b347-96bcfb7a8b62}}{4:
+:20:REF-88382
+:23B:CRED
+:32A:240701JPY386549.00
+:50K:/OC7792876
+Thompson, Lewis and Burch
+963 Tammy Meadow Apt. 397 Wattsland, PR 08895
+:57A:DBSAZAJJXXX
+:59:/BEN66007109280529
+Rowland-Allen
+94087 Destiny Harbors Apt. 136 Fergusonside, FL 39444
+:70:INV F0BEB8F6709B Old writer boy about everybody step some next.
+:71A:OUR
+-}{5:{CHK:2e0bbca362}}

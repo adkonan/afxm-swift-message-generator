@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103241109BFSWUS33XXXXXXXN}{3:{121:a464e935-fc08-4e5d-ac5c-b406556a36a0}}{4:
+:20:REF-50757
+:23B:CRED
+:32A:241109GBP4175.00
+:50K:/OC8280249
+Hall-Hayes
+04445 Shannon Plains Suite 899 Port Jayland, NM 13546
+:57A:BFSWUS33XXX
+:59:/BEN98878962024803
+Flores-Garcia
+9139 Andrews Island Apt. 454 Lake Jeffreyville, SD 59334
+:70:INV 39040AE883CA Condition put actually someone plan job out century.
+:71A:OUR
+-}{5:{CHK:e01a2ddbd3}}

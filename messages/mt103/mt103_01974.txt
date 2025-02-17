@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103241007CHASUS33XXXXXXXN}{3:{121:3ff364f5-0de0-4440-ae09-27deb4081553}}{4:
+:20:REF-87394
+:23B:CRED
+:32A:241007USD303790.00
+:50K:/OC2504374
+Scott Inc
+640 Vaughn Lodge Suite 692 North Scottbury, RI 18957
+:57A:CHASUS33XXX
+:59:/BEN75194544248740
+Thompson, Reese and Phillips
+811 Freeman Avenue Suite 814 Stephanieview, GA 77799
+:70:INV 8DD53DFEAFA6 Machine imagine lose human customer without garden.
+:71A:OUR
+-}{5:{CHK:d4cce80c95}}

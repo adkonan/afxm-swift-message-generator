@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240402CITIUS33XXXXXXXN}{3:{121:c05bdb38-3732-4aa6-aa63-126a656de299}}{4:
+:20:REF-27302
+:23B:CRED
+:32A:240402CAD4068790.00
+:50K:/OC8343373
+Rivera Group
+05626 Sarah Plaza North Nicholasborough, MT 81433
+:57A:CITIUS33XXX
+:59:/BEN69050023069039
+Casey-Bradley
+597 Sarah Crossing Suite 625 Williambury, SC 97904
+:70:INV 57A9201219BB Speech writer moment imagine environmental our from practice.
+:71A:OUR
+-}{5:{CHK:fa9f59268b}}

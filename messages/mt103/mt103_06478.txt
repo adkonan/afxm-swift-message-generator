@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241122DTBKIDJAXXXXXXXN}{3:{121:98ef9ded-5ed2-494d-a9f9-70872efd9073}}{4:
+:20:REF-14650
+:23B:CRED
+:32A:241122USD2159.00
+:50K:/OC1017375
+Carter-Kim
+4070 Barber Center Suite 511 Rodriguezton, FM 32349
+:57A:DTBKIDJAXXX
+:59:/BEN74895074616068
+Lara, Watts and Anderson
+08975 Thompson Light Apt. 981 North Angela, NM 14801
+:70:INV C3CC998DC140 Read from community age green development everything.
+:71A:OUR
+-}{5:{CHK:fc44c9959c}}

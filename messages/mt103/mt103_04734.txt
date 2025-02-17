@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103241102BICIBFBFXXXXXXXN}{3:{121:7e9e6be7-9b31-4ebc-8820-a999c32891a6}}{4:
+:20:REF-28556
+:23B:CRED
+:32A:241102GBP394292.00
+:50K:/OC2955485
+Hoover-Graham
+4177 Willie Shores Suite 890 North Patricia, GA 07050
+:57A:BICIBFBFXXX
+:59:/BEN43490495231476
+Rivera PLC
+2517 Barry Valley Suite 238 East Matthewport, AL 24278
+:70:INV AD0983A9EF0A Production hear country our south system water mention.
+:71A:OUR
+-}{5:{CHK:ed153a28d3}}

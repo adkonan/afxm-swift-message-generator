@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241003BBVAESMMXXXXXXXN}{3:{121:b52d3fc3-b0b5-49bb-a635-d165086bde8e}}{4:
+:20:REF-19922
+:23B:CRED
+:32A:241003AUD115208.00
+:50K:/OC6102973
+Nichols and Sons
+7681 Glover Mission Apt. 847 Codyfort, DC 45091
+:57A:BBVAESMMXXX
+:59:/BEN70744556117333
+Washington-Hoover
+6139 Annette Causeway Suite 981 Murphytown, SD 53662
+:70:INV EC802422D60E Challenge community once experience.
+:71A:OUR
+-}{5:{CHK:1b5ccfac1c}}

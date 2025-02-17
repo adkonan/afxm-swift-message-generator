@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240605DEUTDEFFXXXXXXXN}{3:{121:8b963de8-6e83-4e3b-bab8-46d3f0864e4e}}{4:
+:20:REF-30226
+:23B:CRED
+:32A:240605JPY301974.00
+:50K:/OC8351658
+Allison Group
+3650 Crystal Squares Apt. 812 North Jody, DE 13581
+:57A:DEUTDEFFXXX
+:59:/BEN21635271764117
+Freeman, Vega and Hart
+3527 Kelly Square New Casey, DC 24620
+:70:INV A3AD17836942 Soldier according note market see create glass responsibility.
+:71A:OUR
+-}{5:{CHK:265f063a9a}}

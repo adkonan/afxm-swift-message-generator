@@ -1,0 +1,14 @@
+{1:F01UBSWRIT2XXX1234567890}{2:O103241127FCMBNGLAXXXXXXXN}{3:{121:7dfd3b06-3cdc-4efe-9766-5f218915fc06}}{4:
+:20:REF-72818
+:23B:CRED
+:32A:241127XAU89353.00
+:50K:/OC1800712
+Robertson, Smith and Colon
+599 Kenneth Rapids Apt. 636 Castillomouth, UT 56070
+:57A:FCMBNGLAXXX
+:59:/BEN30020534974234
+Mendoza-Rodriguez
+1006 Christopher Brook Suite 992 West Theodorebury, MT 17812
+:70:INV 204C824E76B8 For institution base use back.
+:71A:OUR
+-}{5:{CHK:acd4f5bf1f}}

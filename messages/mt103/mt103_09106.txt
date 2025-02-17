@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103241204BMCECMRXXXXXXXXN}{3:{121:5a92b042-31fc-463b-a909-d9a70cc5c61d}}{4:
+:20:REF-17909
+:23B:CRED
+:32A:241204AUD453054.00
+:50K:/OC9304179
+Walker, Davis and Briggs
+39032 Farmer Mountains Apt. 490 South Davidton, WA 79572
+:57A:BMCECMRXXXX
+:59:/BEN41829243835535
+Parks, Jones and Jimenez
+09592 Camacho Ville East Karen, PA 59225
+:70:INV 461ED9DF07CB Anyone east bag charge less natural who edge.
+:71A:OUR
+-}{5:{CHK:ced6bdc995}}

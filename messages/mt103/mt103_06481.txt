@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103250109DEUTDEFFXXXXXXXN}{3:{121:ca8cb7db-1f7e-46c7-9689-b4b15e2d3f4b}}{4:
+:20:REF-85878
+:23B:CRED
+:32A:250109JPY223885.00
+:50K:/OC4837177
+Campbell Inc
+969 Holmes Cape Suite 340 Lake Markfurt, WA 64823
+:57A:DEUTDEFFXXX
+:59:/BEN28477630142536
+Vincent, Andrews and Huber
+4507 Cameron Gardens Suite 555 New Stephenmouth, PA 20775
+:70:INV B131FAEFB03B Environmental man able social character against.
+:71A:OUR
+-}{5:{CHK:d34375a530}}

@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240512DBSSSGSGXXXXXXXN}{3:{121:8671c0ba-a027-47eb-b001-8aeb60222902}}{4:
+:20:REF-99577
+:23B:CRED
+:32A:240512SGD35037.00
+:50K:/OC2305937
+Oconnor, Mcdaniel and Joseph
+36360 Morris Junctions Suite 341 Loganstad, MT 61206
+:57A:DBSSSGSGXXX
+:59:/BEN88906493891750
+Hart-Tyler
+9921 Charles Village Apt. 383 Port Frank, LA 01626
+:70:INV D01E36B59AF8 Analysis hotel difference clear according.
+:71A:OUR
+-}{5:{CHK:affbbc99c8}}

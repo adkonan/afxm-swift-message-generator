@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103241216CRESIT2LXXXXXXXN}{3:{121:51a46a21-b90e-4a24-9808-fbd98f35ee89}}{4:
+:20:REF-73514
+:23B:CRED
+:32A:241216USD226937.00
+:50K:/OC5004982
+Copeland, Wilson and Smith
+6482 Adkins Club Suite 052 Berryport, PW 96100
+:57A:CRESIT2LXXX
+:59:/BEN84872445856671
+Green, Porter and Wilson
+0562 Valentine River Hunterfort, MH 65116
+:70:INV BA8001D0B980 Maybe nearly west draw bag notice.
+:71A:OUR
+-}{5:{CHK:0c804cab8e}}

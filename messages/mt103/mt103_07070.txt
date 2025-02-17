@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240928GTBINGLAXXXXXXXN}{3:{121:16fee29a-1f88-465c-be9c-cf8e18b6bccf}}{4:
+:20:REF-38863
+:23B:CRED
+:32A:240928SGD3575.21
+:50K:/OC7652045
+Edwards, Page and Bond
+2015 Hernandez Flat Suite 784 Tonyfurt, ME 74699
+:57A:GTBINGLAXXX
+:59:/BEN84853713554578
+Fisher, Miranda and Hicks
+6444 Mary Burgs Suite 620 Nicholsonville, WY 95704
+:70:INV 3EE829117FBE Return kid health side industry.
+:71A:OUR
+-}{5:{CHK:8787457ea0}}

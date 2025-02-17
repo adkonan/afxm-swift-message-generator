@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103241203STANKEKEXXXXXXXN}{3:{121:48fac715-e432-4fdb-ab20-eb5a2801a44f}}{4:
+:20:REF-97902
+:23B:CRED
+:32A:241203CAD2217100.00
+:50K:/OC3024797
+Coleman, Martinez and Hernandez
+611 Steven Corner Suite 351 Lake Brittanyfurt, MI 74060
+:57A:STANKEKEXXX
+:59:/BEN20689366512866
+Mendoza Group
+2967 Keith Ramp West Amandatown, SC 31850
+:70:INV 003EC9DB2385 Art method lot within name them force.
+:71A:OUR
+-}{5:{CHK:c4fb5bcf2f}}

@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240316SOGEFRPPXXXXXXXN}{3:{121:89e28e0a-7a15-472b-8a81-ae9e06ea13a9}}{4:
+:20:REF-35909
+:23B:CRED
+:32A:240316JPY281677.00
+:50K:/OC1571410
+Brown Inc
+41541 Robert Causeway Franklinchester, KS 43900
+:57A:SOGEFRPPXXX
+:59:/BEN47696667285955
+Rodriguez, Carroll and Burton
+5315 Jennifer Viaduct North Elizabethmouth, WV 64928
+:70:INV 611956808800 Bar rather rate bit player throw administration.
+:71A:OUR
+-}{5:{CHK:91738ba8b1}}

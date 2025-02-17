@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240828UBSWRIT2XXXXXXXN}{3:{121:7e8375ea-682c-44cb-adb0-cd2d03097bd4}}{4:
+:20:REF-81521
+:23B:CRED
+:32A:240828CNY1840.65
+:50K:/OC2290143
+Robbins, Schneider and Acosta
+1361 Laura Isle Tammiechester, SC 28117
+:57A:UBSWRIT2XXX
+:59:/BEN50307623604655
+Villegas, Silva and Wilson
+6018 Hall Bridge Patricktown, VI 75853
+:70:INV 5D50BC1BA680 Bag religious pattern measure increase notice.
+:71A:OUR
+-}{5:{CHK:2b7cde3b5c}}

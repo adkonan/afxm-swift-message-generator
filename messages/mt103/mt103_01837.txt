@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241227SMBCJPJTXXXXXXXN}{3:{121:bcb71cdd-f854-43f2-976f-4525614e610d}}{4:
+:20:REF-38064
+:23B:CRED
+:32A:241227GBP343855.00
+:50K:/OC1479811
+Campbell and Sons
+66044 Allen Square Suite 937 South Elizabethstad, MH 44398
+:57A:SMBCJPJTXXX
+:59:/BEN44294737578326
+Yates-Parker
+438 Nicole Streets Lake Kevinport, NJ 74598
+:70:INV D13B284E039E Black billion part area understand must skin degree.
+:71A:OUR
+-}{5:{CHK:3063e004fc}}

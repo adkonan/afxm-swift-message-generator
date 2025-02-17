@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103240830BARCDEFFXXXXXXXN}{3:{121:a86ab064-6aa0-47e4-921b-4cf06627a232}}{4:
+:20:REF-91865
+:23B:CRED
+:32A:240830SGD184072.00
+:50K:/OC8924604
+Lynn, Livingston and Alvarez
+5014 Gabrielle Ford Apt. 497 West Megan, MS 90399
+:57A:BARCDEFFXXX
+:59:/BEN57822354178268
+Oneill, Hernandez and Morrow
+427 Harris Mills Apt. 652 Bethshire, AL 45411
+:70:INV D21A2971353E Personal answer hotel cut chair.
+:71A:OUR
+-}{5:{CHK:2ed7e22abf}}

@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240222ZURICHZCHXXXXXXXN}{3:{121:74fd18df-5811-4f13-9a33-1fc378bec9ed}}{4:
+:20:REF-63157
+:23B:CRED
+:32A:240222JPY128798.00
+:50K:/OC3942859
+Kelly, Richardson and Williams
+10405 Lisa Underpass South Hectorchester, PW 93225
+:57A:ZURICHZCHXXX
+:59:/BEN12247208942813
+Taylor-Moore
+901 Daniel Island Zacharymouth, NC 33439
+:70:INV 0B2CEC084761 Charge side travel sense animal fall television.
+:71A:OUR
+-}{5:{CHK:7204743355}}

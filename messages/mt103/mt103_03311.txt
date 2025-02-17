@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103241115BOFAUS3NXXXXXXXN}{3:{121:b95f5baf-f518-46b7-9eb8-7e89324d5be5}}{4:
+:20:REF-87579
+:23B:CRED
+:32A:241115JPY2964460.00
+:50K:/OC4208092
+Acosta-Calderon
+5790 Gallagher Oval Lake Nicholas, PW 40435
+:57A:BOFAUS3NXXX
+:59:/BEN63486198899010
+Watts, Wang and Rhodes
+6291 Rosales Mountains South Patricialand, NM 80845
+:70:INV 6DB2B6D2BC83 Member policy quality American reason door.
+:71A:OUR
+-}{5:{CHK:5c316e8385}}

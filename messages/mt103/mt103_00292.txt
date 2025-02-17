@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240429NATXFRPPXXXXXXXN}{3:{121:f2cfe213-a110-47ed-9d07-629d4fb0bc5a}}{4:
+:20:REF-70344
+:23B:CRED
+:32A:240429XDR245634.00
+:50K:/OC7802433
+Gray, Vasquez and Martin
+36618 Nicole Springs Suite 541 New Mary, IN 46322
+:57A:NATXFRPPXXX
+:59:/BEN56698442195351
+Mullins, Hoffman and Weiss
+USS Davis FPO AE 68934
+:70:INV 68856DEA5DBC Mother traditional long total forget size everyone miss.
+:71A:OUR
+-}{5:{CHK:66a48e1ebb}}

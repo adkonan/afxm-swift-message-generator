@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240605DBSSSGSGXXXXXXXN}{3:{121:dcab703e-bbfd-44bc-846a-bc7d5574c45e}}{4:
+:20:REF-53842
+:23B:CRED
+:32A:240605KPW45684.00
+:50K:/OC7278149
+Flores LLC
+911 Ronald Streets Apt. 950 West Christina, IN 13543
+:57A:DBSSSGSGXXX
+:59:/BEN52341573905952
+Smith, Hall and Spencer
+747 Kennedy Rapids Apt. 012 Blankenshipshire, IL 71349
+:70:INV FFEB1A8EFD87 It network PM lawyer sea deep social role.
+:71A:OUR
+-}{5:{CHK:2c499f2b3c}}

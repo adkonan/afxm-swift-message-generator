@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240703KFWDEFFXXXXXXXN}{3:{121:d5061d2b-4540-4f19-9ed3-572b35b0d007}}{4:
+:20:REF-11114
+:23B:CRED
+:32A:240703EUR350956.00
+:50K:/OC2647061
+Hernandez, Davis and Walker
+6101 Chung Island South Tanyahaven, OK 65983
+:57A:KFWDEFFXXX
+:59:/BEN87493871559346
+Proctor, Dean and Adams
+4190 Fletcher Hills Port Christine, AL 70650
+:70:INV 4D038A2944F5 Herself she past purpose now charge why.
+:71A:OUR
+-}{5:{CHK:3240d2889b}}

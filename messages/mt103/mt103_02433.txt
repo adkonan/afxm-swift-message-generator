@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240304RBCROYTORXXXXXXXN}{3:{121:509a6200-8aec-4453-84a8-4527bf604455}}{4:
+:20:REF-85997
+:23B:CRED
+:32A:240304CAD406516.00
+:50K:/OC6290986
+Franklin, Green and Wright
+4238 Courtney Extension Suite 276 South Mary, PW 30112
+:57A:RBCROYTORXXX
+:59:/BEN46802968206574
+Stephens, Lee and Murphy
+60484 Cook Rapid South Kaylaland, SC 42512
+:70:INV F186C980C137 Result song pick leader play land modern.
+:71A:OUR
+-}{5:{CHK:4b94fc6f8a}}

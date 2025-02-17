@@ -1,0 +1,14 @@
+{1:F01ECOCMLABXXX1234567890}{2:O103240318BOFAUS3NXXXXXXXN}{3:{121:8efa932a-b587-444c-8a35-0d89a984f478}}{4:
+:20:REF-56840
+:23B:CRED
+:32A:240318CHF399036.00
+:50K:/OC9332270
+Williams, Cole and Brown
+07040 Jessica Ford Suite 058 Port Roberttown, IL 22975
+:57A:BOFAUS3NXXX
+:59:/BEN18716843322239
+Miles, Harvey and Mosley
+6037 Fernandez Dam Garciafurt, WA 61869
+:70:INV 9E8E7BC975D3 Institution many off table pass street decision.
+:71A:OUR
+-}{5:{CHK:1d394060e8}}

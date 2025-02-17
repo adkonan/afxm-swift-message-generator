@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240506FBNINGLAXXXXXXXN}{3:{121:2a6a42a4-c35e-454f-b882-e8c57cb5238b}}{4:
+:20:REF-77651
+:23B:CRED
+:32A:240506EUR120052.00
+:50K:/OC6467239
+Braun, Shepherd and Cowan
+6099 Ewing Glen Apt. 755 New Elizabethbury, HI 90542
+:57A:FBNINGLAXXX
+:59:/BEN29080989506562
+Vasquez Group
+66459 Anna Park South Nicoleburgh, LA 43835
+:70:INV 583E2527EDD4 Short model store defense anything agree education.
+:71A:OUR
+-}{5:{CHK:7c32281719}}

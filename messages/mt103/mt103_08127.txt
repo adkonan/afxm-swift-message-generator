@@ -1,0 +1,14 @@
+{1:F01FCMBNGLAXXX1234567890}{2:O103240801DBSAZAJJXXXXXXXN}{3:{121:12db84f5-fd16-4ac7-8dd8-ff8a586494a7}}{4:
+:20:REF-86877
+:23B:CRED
+:32A:240801AUD492744.00
+:50K:/OC1030797
+Cooley, Flores and Clark
+44659 Seth Creek Apt. 346 Lewisborough, KY 76524
+:57A:DBSAZAJJXXX
+:59:/BEN49641060400036
+Sanchez, Williams and Zavala
+423 Warren Orchard Kellybury, KY 56584
+:70:INV 9A8AB4EAA0E9 But poor poor win believe should.
+:71A:OUR
+-}{5:{CHK:4a58b62deb}}

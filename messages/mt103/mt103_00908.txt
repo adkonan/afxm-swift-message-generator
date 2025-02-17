@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103250126ECOCCIBAXXXXXXXN}{3:{121:b45f7c05-67ab-4da9-9660-d4cc525c7070}}{4:
+:20:REF-17457
+:23B:CRED
+:32A:250126CHF134598.00
+:50K:/OC7865415
+Anderson-Barr
+69826 Nicole Mills Apt. 489 Lake Lisa, NV 50241
+:57A:ECOCCIBAXXX
+:59:/BEN41303800364378
+Hansen, Williams and Valencia
+451 Ryan Ranch Steinfort, GU 29121
+:70:INV 7B457B135685 Anything billion thousand east phone sell soldier current.
+:71A:OUR
+-}{5:{CHK:d3cf4c0e64}}

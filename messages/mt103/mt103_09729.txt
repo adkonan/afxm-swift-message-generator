@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103250125UBSWRIT2XXXXXXXN}{3:{121:d04a82f0-75e3-48ea-8857-0fef0f55aabc}}{4:
+:20:REF-76692
+:23B:CRED
+:32A:250125CNY426614.00
+:50K:/OC5863310
+Hill, Wood and Phillips
+759 Hamilton Meadows Port Joshuaborough, KY 05006
+:57A:UBSWRIT2XXX
+:59:/BEN72806226028076
+Bailey, Harrell and Burns
+604 Nelson Avenue Suite 615 Wrightport, NH 45480
+:70:INV 6BECEBAA6B70 Office too easy adult family government.
+:71A:OUR
+-}{5:{CHK:8fa45e6cbd}}

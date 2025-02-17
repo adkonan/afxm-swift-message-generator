@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241210ZURICHZCHXXXXXXXN}{3:{121:666cff2f-c1ca-429b-aaeb-554bc5c07fee}}{4:
+:20:REF-53962
+:23B:CRED
+:32A:241210CNY12478200.00
+:50K:/OC6282547
+Aguirre, Smith and Miller
+236 Ramirez Fords Harrisborough, NM 42591
+:57A:ZURICHZCHXXX
+:59:/BEN71736046610445
+Simmons-Cook
+210 Ellis Terrace Jessicafort, GU 94009
+:70:INV F3EA039AB5FB Time attack six away summer remain.
+:71A:OUR
+-}{5:{CHK:ef9fd9fabb}}

@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103240606BFSWUS33XXXXXXXN}{3:{121:fc40f97a-b733-4261-ba31-a6824dd2ae67}}{4:
+:20:REF-57357
+:23B:CRED
+:32A:240606AUD162563.00
+:50K:/OC9138525
+Manning Group
+829 Thompson Green Sharonshire, HI 71160
+:57A:BFSWUS33XXX
+:59:/BEN16371906767188
+Mcpherson, Miller and Rivera
+14176 Gomez Mountain Suite 395 New Virginia, TN 92663
+:70:INV 5CFE693A4BEC Outside decade family name send whatever check.
+:71A:OUR
+-}{5:{CHK:030b35b5a1}}

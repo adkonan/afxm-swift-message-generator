@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240708DBSSSGSGXXXXXXXN}{3:{121:049b8daf-acac-4fa9-a62b-ad0952382638}}{4:
+:20:REF-39609
+:23B:CRED
+:32A:240708SGD491061.00
+:50K:/OC3568653
+Murphy, Williams and Garcia
+292 Michael Ridges Apt. 341 Jacksonbury, KY 92192
+:57A:DBSSSGSGXXX
+:59:/BEN30422114064699
+Brown, Richards and Marshall
+478 David Cove Pateltown, MO 63396
+:70:INV EC2A9B083C16 Student herself past treat true thousand fact one.
+:71A:OUR
+-}{5:{CHK:3ac44b9784}}

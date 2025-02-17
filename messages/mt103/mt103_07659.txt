@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240616HSBCHKHHXXXXXXXN}{3:{121:013d0f82-9053-42dd-9d28-d9d6d32cade3}}{4:
+:20:REF-25183
+:23B:CRED
+:32A:240616CAD482695.00
+:50K:/OC7009279
+Jenkins Inc
+286 Alvarez Groves East Michaelchester, AS 44665
+:57A:HSBCHKHHXXX
+:59:/BEN11762220264134
+Fuller, Gonzales and Horne
+4485 Mcfarland Field Suite 363 Lake Elizabethville, MD 53441
+:70:INV 6B6F0F954610 Matter arrive between family personal respond edge character.
+:71A:OUR
+-}{5:{CHK:089c72c530}}

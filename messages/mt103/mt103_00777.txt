@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103250109DTBKIDJAXXXXXXXN}{3:{121:5048fb1a-017b-457a-975b-9c8e0da594d2}}{4:
+:20:REF-35595
+:23B:CRED
+:32A:250109AUD312040.00
+:50K:/OC1674785
+Lyons, Frazier and Miller
+180 Kevin Flat Apt. 616 South Peter, VA 96932
+:57A:DTBKIDJAXXX
+:59:/BEN49467721411277
+Walker, Jimenez and Park
+879 Wright Wells Harrisonchester, KY 02975
+:70:INV 093DC9B237D6 Area five hair child effect inside can.
+:71A:OUR
+-}{5:{CHK:1e4e5802a7}}

@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240416INGBNL2AXXXXXXXN}{3:{121:82ec3480-e94c-43ee-9f2b-18ebd5f24658}}{4:
+:20:REF-69761
+:23B:CRED
+:32A:240416SGD314708.00
+:50K:/OC3686939
+Hall Group
+864 Horne Tunnel Suite 574 North Raymondborough, IL 64119
+:57A:INGBNL2AXXX
+:59:/BEN32321257276527
+Padilla, Estrada and Valencia
+650 Garner Union Suite 880 Lake Andrewstad, ND 02498
+:70:INV 303F74F0EDD4 Attack teacher establish quickly.
+:71A:OUR
+-}{5:{CHK:4e2db25871}}

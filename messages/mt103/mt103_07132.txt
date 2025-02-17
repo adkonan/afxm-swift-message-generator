@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103241104FCMBNGLAXXXXXXXN}{3:{121:df3b2036-ecf9-41e3-b9f1-d666848ce7cc}}{4:
+:20:REF-11466
+:23B:CRED
+:32A:241104CHF49158.00
+:50K:/OC7444692
+Rodriguez, Fowler and Nguyen
+8049 Krueger Squares Apt. 221 Gregoryfurt, RI 58130
+:57A:FCMBNGLAXXX
+:59:/BEN41022826007015
+Sheppard and Sons
+38018 Angela Freeway Suite 346 West Alison, MD 52893
+:70:INV D5405C3DC532 Control little score figure lot to fish.
+:71A:OUR
+-}{5:{CHK:eef1e00c72}}

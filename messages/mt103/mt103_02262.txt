@@ -1,0 +1,14 @@
+{1:F01BNPPIT2LXXX1234567890}{2:O103240828BBVAESMMXXXXXXXN}{3:{121:70335f53-7b43-42ee-95af-9be44142a2ef}}{4:
+:20:REF-42945
+:23B:CRED
+:32A:240828CHF792.13
+:50K:/OC2675034
+Wilkinson Group
+2312 Anderson Union Suite 144 Williamsborough, NV 45978
+:57A:BBVAESMMXXX
+:59:/BEN38817804693229
+Snyder, Ruiz and Miller
+55451 Kimberly Corners Davidmouth, TN 68603
+:70:INV 391F731536F6 Outside perhaps available PM he include.
+:71A:OUR
+-}{5:{CHK:00b39f08d7}}

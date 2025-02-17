@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241126BMCECMRXXXXXXXXN}{3:{121:4d730555-eaee-47e7-ad60-e72a16f405b1}}{4:
+:20:REF-42509
+:23B:CRED
+:32A:241126CHF1388140.00
+:50K:/OC6602162
+Jones, Clark and Robinson
+6004 Christopher Extension Suite 573 New Bruceview, AR 93887
+:57A:BMCECMRXXXX
+:59:/BEN55852235401385
+Mitchell-Fleming
+307 Michael Estate Andersonburgh, SC 77574
+:70:INV B78F2350A106 Who who money four international campaign.
+:71A:OUR
+-}{5:{CHK:aea02cf4f7}}

@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240827CITIUS33XXXXXXXN}{3:{121:4f0cb1eb-dfe7-4851-b589-34e77b404eff}}{4:
+:20:REF-81390
+:23B:CRED
+:32A:240827CHF2045.43
+:50K:/OC3613928
+Rodgers, Brooks and Clark
+75079 John Square West Williamborough, SD 17358
+:57A:CITIUS33XXX
+:59:/BEN52213757601473
+Caldwell Inc
+669 Casey Junctions Nathanbury, LA 28312
+:70:INV 4463FBC54F6D Drug young lawyer Republican sit with sport.
+:71A:OUR
+-}{5:{CHK:774b9007ed}}

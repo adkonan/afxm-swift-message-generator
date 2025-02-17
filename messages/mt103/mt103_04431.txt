@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103241106STANKEKEXXXXXXXN}{3:{121:1f41d10d-bd8f-4aa0-9c74-e72daf4f5a7b}}{4:
+:20:REF-59102
+:23B:CRED
+:32A:241106JPY1552320.00
+:50K:/OC1374465
+Hale-Hayes
+148 Cook Trafficway Sheltonchester, MP 17585
+:57A:STANKEKEXXX
+:59:/BEN19599924317993
+Adkins-Wright
+891 David Harbor Suite 802 Gilmorehaven, NH 06000
+:70:INV 881B8B3776B9 Admit realize run price small security.
+:71A:OUR
+-}{5:{CHK:f11eebf5b7}}

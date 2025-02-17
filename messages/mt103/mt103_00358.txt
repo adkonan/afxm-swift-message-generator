@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240424BFSWUS33XXXXXXXN}{3:{121:920fc1cb-4d1c-40d3-895f-8f3a4c0bf1bd}}{4:
+:20:REF-33337
+:23B:CRED
+:32A:240424CNY356480.00
+:50K:/OC1210819
+Brewer, Marquez and Coleman
+18177 Andrew Lane Apt. 542 Carterfort, VI 87908
+:57A:BFSWUS33XXX
+:59:/BEN66412435390224
+Clark, Reyes and Jackson
+20421 Smith Track South Donna, AR 69302
+:70:INV 7C5F5B652EB7 Oil happen approach project billion role story law.
+:71A:OUR
+-}{5:{CHK:0d7eca6bbf}}

@@ -1,0 +1,14 @@
+{1:F01BKBKPHMMXXX1234567890}{2:O103241118BNPAFRPPXXXXXXXN}{3:{121:52d8164f-8de5-4e84-a2a7-62050d58db27}}{4:
+:20:REF-14098
+:23B:CRED
+:32A:241118CHF44813.00
+:50K:/OC2009585
+Bruce, Lewis and Page
+0064 Kimberly Flats Apt. 282 Caseyfurt, RI 85975
+:57A:BNPAFRPPXXX
+:59:/BEN82795996319897
+Gomez, Wilson and Delgado
+9808 Walker Valley Suite 421 Jonesborough, IN 81386
+:70:INV 466C87F22861 Condition line back arrive southern.
+:71A:OUR
+-}{5:{CHK:d6bf3c053c}}

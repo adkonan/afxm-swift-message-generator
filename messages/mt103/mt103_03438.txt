@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103240422DTBKIDJAXXXXXXXN}{3:{121:719b7834-aefa-4119-ae60-ef4c6178eccd}}{4:
+:20:REF-49543
+:23B:CRED
+:32A:240422AUD52601.00
+:50K:/OC5467236
+Buchanan LLC
+010 Tanya Turnpike Floresbury, ID 47273
+:57A:DTBKIDJAXXX
+:59:/BEN81971846824690
+Miles, Carpenter and Hernandez
+3535 Taylor Extensions Vargasmouth, VA 95984
+:70:INV 2971DB8EB4AB Green wide life environmental event animal provide.
+:71A:OUR
+-}{5:{CHK:ea21fb8873}}

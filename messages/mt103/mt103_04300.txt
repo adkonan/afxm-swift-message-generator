@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103240629SMBCJPJTXXXXXXXN}{3:{121:6e37fb67-8bda-4e71-85b7-d70cf3bc96c7}}{4:
+:20:REF-80496
+:23B:CRED
+:32A:240629CHF353347.00
+:50K:/OC4880859
+Luna, White and Ross
+7393 Ray Freeway Anthonyhaven, NV 45710
+:57A:SMBCJPJTXXX
+:59:/BEN48983117018203
+Payne, Garcia and Cook
+44579 Moreno Neck Whitneymouth, NM 60086
+:70:INV E1BC79392019 Across loss smile business happy doctor speak total.
+:71A:OUR
+-}{5:{CHK:c44ee632b7}}

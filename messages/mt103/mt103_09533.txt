@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103240918BKBKPHMMXXXXXXXN}{3:{121:4f553072-ba33-471a-81dd-3526dffd4d19}}{4:
+:20:REF-45013
+:23B:CRED
+:32A:240918CHF175754.00
+:50K:/OC5013959
+Russell, Ramos and Ruiz
+44395 Oneill Oval Williamsfurt, MN 65212
+:57A:BKBKPHMMXXX
+:59:/BEN96833721333929
+Campbell-Branch
+165 Dustin Shoal Austinton, PR 90367
+:70:INV C455C2CFBB5F Eye enough ground entire where why agent individual.
+:71A:OUR
+-}{5:{CHK:c1224bf0da}}

@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103241115BICIBFBFXXXXXXXN}{3:{121:51bf07bf-fdef-4fec-8a84-476ea3d8287e}}{4:
+:20:REF-25691
+:23B:CRED
+:32A:241115AUD152354.00
+:50K:/OC3876559
+Miller, Steele and Bell
+8919 Brian Corner Apt. 127 Barnesview, KS 42121
+:57A:BICIBFBFXXX
+:59:/BEN80789993855182
+Singh-Blake
+901 Bolton Locks Suite 053 North Leonard, MS 53004
+:70:INV 5AB270F83B0B Yourself hold parent rich push growth tell because.
+:71A:OUR
+-}{5:{CHK:aae4113617}}

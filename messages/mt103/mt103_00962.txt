@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103241120CRESCHZZXXXXXXXN}{3:{121:b2efc19e-34af-41e0-a28f-30cddd84a8ab}}{4:
+:20:REF-65661
+:23B:CRED
+:32A:241120CAD350197.00
+:50K:/OC7725566
+Garcia-Santana
+900 Moran Junctions Suite 300 Port Susan, WI 43233
+:57A:CRESCHZZXXX
+:59:/BEN53082972492966
+Barrett, Cooper and Gray
+140 Bridges Cliff Suite 443 East Margaret, WI 29233
+:70:INV 47E76130343D Peace somebody bad effort daughter.
+:71A:OUR
+-}{5:{CHK:f256d4d7f0}}

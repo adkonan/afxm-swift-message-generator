@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103241007ECOCCIBAXXXXXXXN}{3:{121:2f14deea-379c-4a2c-a4ba-a47aff4d0734}}{4:
+:20:REF-74022
+:23B:CRED
+:32A:241007JPY363730.00
+:50K:/OC7047418
+Cameron Inc
+9997 Michael Wall Lopezburgh, IN 52451
+:57A:ECOCCIBAXXX
+:59:/BEN42659903863791
+Johnson-Harris
+54735 Martinez Stravenue West Travismouth, ND 54574
+:70:INV F18EC4D6EABA Late himself attorney game as better clear.
+:71A:OUR
+-}{5:{CHK:6cb4d55552}}

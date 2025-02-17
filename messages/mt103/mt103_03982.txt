@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240923CIBCCATTXXXXXXXN}{3:{121:85c42ce3-9448-41bc-a64c-4a2a561a59eb}}{4:
+:20:REF-81346
+:23B:CRED
+:32A:240923SGD244709.00
+:50K:/OC4625353
+Turner, Walker and Arias
+2011 Manning Island Suite 004 East Jennifer, ME 86003
+:57A:CIBCCATTXXX
+:59:/BEN15490553028298
+Holland and Sons
+75299 Ramsey Ramp Mitchellton, TX 39201
+:70:INV E02492D7341C Write writer important your figure eat wind.
+:71A:OUR
+-}{5:{CHK:584cf0f832}}

@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240503KFWDEFFXXXXXXXN}{3:{121:d4ecb27d-652c-4694-b494-d24db795c12b}}{4:
+:20:REF-76455
+:23B:CRED
+:32A:240503AUD1901150.00
+:50K:/OC9678042
+Haney Group
+837 Vaughan Square Suite 478 Davisberg, UT 01945
+:57A:KFWDEFFXXX
+:59:/BEN70034929784954
+Edwards, Garza and Hawkins
+10881 Kelly Shore South Adamburgh, WY 75315
+:70:INV 2781764204FB Window summer own treatment writer range attorney.
+:71A:OUR
+-}{5:{CHK:68b4ffb4ca}}

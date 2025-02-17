@@ -1,0 +1,14 @@
+{1:F01KFWDEFFXXX1234567890}{2:O103240630AFRIGHACXXXXXXXN}{3:{121:5dde95da-ac47-4af8-a3f4-af00d5cdac12}}{4:
+:20:REF-20753
+:23B:CRED
+:32A:240630AUD2026.72
+:50K:/OC2486212
+Roberts Group
+429 Freeman Walk Apt. 704 South Sharon, NE 03349
+:57A:AFRIGHACXXX
+:59:/BEN50188312244374
+Watkins, Berry and Hall
+6671 Bobby Lakes Samuelbury, MS 10906
+:70:INV 4BDAFF75C100 Consider plant drive front attention student focus.
+:71A:OUR
+-}{5:{CHK:888f34c5b8}}

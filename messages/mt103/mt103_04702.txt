@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103250105HSBCHKHHXXXXXXXN}{3:{121:cb8f00b2-96f2-4c0d-a707-44a6fef05178}}{4:
+:20:REF-56586
+:23B:CRED
+:32A:250105CAD144666.00
+:50K:/OC1651017
+Foster, Gutierrez and Taylor
+984 Jonathan Light Apt. 531 Kingberg, FL 42589
+:57A:HSBCHKHHXXX
+:59:/BEN75376290610080
+Miller, Price and Hester
+866 Chad Squares Lake Jonathonstad, IL 21217
+:70:INV C9E73B0CBB8D First paper hundred behind agree.
+:71A:OUR
+-}{5:{CHK:137bb0f3df}}

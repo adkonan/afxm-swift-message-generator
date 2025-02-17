@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240817ECOCCIBAXXXXXXXN}{3:{121:fb4d640f-6d1b-4257-bb0f-1f0bbaeab8a5}}{4:
+:20:REF-81317
+:23B:CRED
+:32A:240817SGD144462.00
+:50K:/OC6922047
+Shepard, Salas and Cole
+3129 Flores Trafficway Suite 464 East Christineton, MA 77499
+:57A:ECOCCIBAXXX
+:59:/BEN19390280013017
+Davis, Jackson and Hall
+PSC 4403, Box 8170 APO AP 73983
+:70:INV B0F2F0087DE3 Responsibility interesting light cultural wait exist.
+:71A:OUR
+-}{5:{CHK:744ba97796}}

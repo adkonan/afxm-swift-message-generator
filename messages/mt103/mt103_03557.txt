@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103241006ZENITHNGLAXXXXXXXN}{3:{121:9639f897-20d9-4f14-b9bf-ffb989aecbd2}}{4:
+:20:REF-18347
+:23B:CRED
+:32A:241006EUR129530.00
+:50K:/OC2975005
+Kelley-Young
+839 Bethany Mountain Apt. 328 East Bethfurt, MH 56879
+:57A:ZENITHNGLAXXX
+:59:/BEN92765478599085
+Freeman, Howard and Howe
+543 Miller Place Apt. 156 Vazquezmouth, CO 72770
+:70:INV 80AF868984CD Attorney another radio simply of various gun.
+:71A:OUR
+-}{5:{CHK:c31961e968}}

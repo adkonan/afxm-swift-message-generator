@@ -1,0 +1,14 @@
+{1:F01UBSWCHZHXXX1234567890}{2:O103240819DTBKIDJAXXXXXXXN}{3:{121:0d95c276-5361-4bc1-baa8-26eed0d19d10}}{4:
+:20:REF-87296
+:23B:CRED
+:32A:240819AUD98006.00
+:50K:/OC7066476
+Richards, Boone and Williams
+137 Kirsten Viaduct Stevefurt, WA 55159
+:57A:DTBKIDJAXXX
+:59:/BEN22260303608750
+Woodard, Robertson and Phillips
+2679 Monica Stream Suite 566 Stewartshire, AK 12927
+:70:INV A2FF3C96E810 Easy catch project chair.
+:71A:OUR
+-}{5:{CHK:57cd4f7a07}}

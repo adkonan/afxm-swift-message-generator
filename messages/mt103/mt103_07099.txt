@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240626BARCGB22XXXXXXXN}{3:{121:bdb4aad4-498a-4fda-a978-6708321b7e89}}{4:
+:20:REF-45461
+:23B:CRED
+:32A:240626EUR412032.00
+:50K:/OC2716673
+Guzman, Chavez and Baker
+0255 Singh Spur Lake Julieville, AL 50535
+:57A:BARCGB22XXX
+:59:/BEN48543306303829
+Villarreal Inc
+303 Isaac Glen Apt. 058 Port Michael, DE 12714
+:70:INV B95DBD94B0B0 Performance hot experience notice heavy.
+:71A:OUR
+-}{5:{CHK:aacc967ca9}}

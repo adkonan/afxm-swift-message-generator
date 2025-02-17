@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240316ICBKCNBJXXXXXXXN}{3:{121:9be8452e-1cee-4508-9dd7-2406bf2dc4e3}}{4:
+:20:REF-31661
+:23B:CRED
+:32A:240316JPY110768.00
+:50K:/OC8268921
+Harding PLC
+637 Rebecca Port West Amandafurt, FL 09491
+:57A:ICBKCNBJXXX
+:59:/BEN99063599917053
+Crawford, Davis and Green
+34868 Wright Villages Suite 286 South Tinamouth, NE 71663
+:70:INV 9363D2A6D469 Task everybody modern cost democratic author.
+:71A:OUR
+-}{5:{CHK:c6bc8a9f44}}

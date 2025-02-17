@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103241006FIRNZAJJXXXXXXXN}{3:{121:d11646b1-f221-42fc-ba73-be64d213cd45}}{4:
+:20:REF-20336
+:23B:CRED
+:32A:241006GBP383870.00
+:50K:/OC8268370
+Wallace, Perkins and Merritt
+85756 Amy Club Port Heatherbury, AK 39940
+:57A:FIRNZAJJXXX
+:59:/BEN65102195415743
+Foster, Simmons and Fernandez
+620 Daniel Keys Apt. 337 New Billychester, PW 49799
+:70:INV A8B42D2E0FC8 Total even hear away research share tell.
+:71A:OUR
+-}{5:{CHK:ca485b9f6b}}

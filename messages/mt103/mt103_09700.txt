@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241120FIRNZAJJXXXXXXXN}{3:{121:bbabbd44-3088-4fd4-8aec-e02eacf08fba}}{4:
+:20:REF-53435
+:23B:CRED
+:32A:241120JPY27588600.00
+:50K:/OC5732510
+Taylor, Davis and Johnson
+880 Roger Ports Jamesmouth, NM 47219
+:57A:FIRNZAJJXXX
+:59:/BEN15468346655616
+Spencer-Hunter
+56585 Price Stravenue Elizabethside, OK 64302
+:70:INV C9D978D58789 Trouble whether stage me you allow draw vote.
+:71A:OUR
+-}{5:{CHK:4e1f68de14}}

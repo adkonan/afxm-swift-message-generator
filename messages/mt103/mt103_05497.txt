@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103250109DBSAZAJJXXXXXXXN}{3:{121:856e813d-60dd-41ff-8872-0ded61e2171e}}{4:
+:20:REF-38187
+:23B:CRED
+:32A:250109CNY297284.00
+:50K:/OC9986502
+Taylor, Schneider and Paul
+59620 Debra Fork Apt. 146 Patriciaburgh, SD 51915
+:57A:DBSAZAJJXXX
+:59:/BEN13636499916851
+Martinez, Mahoney and Jimenez
+160 Anthony Avenue Apt. 003 East Thomasbury, NJ 27660
+:70:INV B1E4CB63ED74 Local western experience subject follow follow.
+:71A:OUR
+-}{5:{CHK:91b49383c2}}

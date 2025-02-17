@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240623ECOCGHANXXXXXXXN}{3:{121:972471a5-aaab-4634-b53e-b0b8a2700e5a}}{4:
+:20:REF-72727
+:23B:CRED
+:32A:240623GBP88146.00
+:50K:/OC3908753
+King, Nguyen and Coffey
+198 Heather Square East Paulastad, WY 88599
+:57A:ECOCGHANXXX
+:59:/BEN65139667086225
+Howard, Osborne and Mullins
+367 Sherri Avenue South Brendaberg, ND 18158
+:70:INV C564860E271D Attention third year animal.
+:71A:OUR
+-}{5:{CHK:d5a9fa3986}}

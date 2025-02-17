@@ -1,0 +1,14 @@
+{1:F01GTBINGLAXXX1234567890}{2:O103240613RABONL2UXXXXXXXN}{3:{121:665c8f18-0236-4c68-98de-2023bca24f99}}{4:
+:20:REF-17809
+:23B:CRED
+:32A:240613CNY157120.00
+:50K:/OC9375695
+Horne Ltd
+5809 Ramirez Loop New Johnathanfort, CO 34592
+:57A:RABONL2UXXX
+:59:/BEN72870686550673
+Henderson, Baldwin and Miller
+530 Jones Overpass West Bethberg, KS 08943
+:70:INV 3BB47EE5ED43 Around vote door something medical main fund yet.
+:71A:OUR
+-}{5:{CHK:a50ba437ab}}

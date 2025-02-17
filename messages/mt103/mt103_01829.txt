@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103250205RABONL2UXXXXXXXN}{3:{121:cc7bfdd4-7b62-4506-a4cf-ffa4a58c6618}}{4:
+:20:REF-98470
+:23B:CRED
+:32A:250205CAD2596.30
+:50K:/OC3761882
+Mills-Cortez
+87001 Brock Garden Apt. 859 Lake Jenniferfort, NC 51930
+:57A:RABONL2UXXX
+:59:/BEN21311180915876
+Garner, Jacobs and White
+6841 James Canyon Apt. 846 Jeffersonfort, OH 66035
+:70:INV D7F6ACFFFF15 Amount Congress space catch husband again product.
+:71A:OUR
+-}{5:{CHK:0cf33a5079}}

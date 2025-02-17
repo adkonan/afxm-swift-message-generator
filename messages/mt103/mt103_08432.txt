@@ -1,0 +1,14 @@
+{1:F01BOJZBJZAXXX1234567890}{2:O103241209BNPAFRPPXXXXXXXN}{3:{121:ec3b9b85-b063-46e4-ae77-a94d0b9bf021}}{4:
+:20:REF-94089
+:23B:CRED
+:32A:241209AUD237506.00
+:50K:/OC9647431
+Reese, Harris and Garcia
+7332 Mark Walks Apt. 319 Myersfort, OR 63533
+:57A:BNPAFRPPXXX
+:59:/BEN67560140801712
+Zuniga and Sons
+450 Anthony Plaza Port Michaelton, SC 74015
+:70:INV DC2AF629D7B5 Smile language itself argue amount adult treatment military.
+:71A:OUR
+-}{5:{CHK:e2e0311463}}

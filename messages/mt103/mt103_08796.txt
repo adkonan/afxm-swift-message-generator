@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240229DTBKIDJAXXXXXXXN}{3:{121:e8ddfbcc-c30b-4488-ae73-950bc1f25948}}{4:
+:20:REF-71847
+:23B:CRED
+:32A:240229CNY108449.00
+:50K:/OC4776063
+Jackson-Gallagher
+USCGC Martinez FPO AA 31601
+:57A:DTBKIDJAXXX
+:59:/BEN65021809231035
+Tucker, Mccarty and Mitchell
+61909 Ibarra View Suite 088 East Heatherborough, NM 10950
+:70:INV 57193AF0E2CE His anyone may Republican throw too certain.
+:71A:OUR
+-}{5:{CHK:49b3e4fbd5}}

@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240511SOGEFRPPXXXXXXXN}{3:{121:2cbdce1a-ecad-4b91-b8e8-492d971dc45b}}{4:
+:20:REF-36500
+:23B:CRED
+:32A:240511CNY7819.00
+:50K:/OC5449335
+Wright-Garrison
+9808 Bailey Mountain West Sheila, VA 92988
+:57A:SOGEFRPPXXX
+:59:/BEN71570234425680
+Thomas, Carey and Butler
+330 Kimberly Key New Joshuamouth, FM 30298
+:70:INV C0892FD7956E Message compare me attention family scientist.
+:71A:OUR
+-}{5:{CHK:6f2df9da0c}}

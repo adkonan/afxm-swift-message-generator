@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103250124ECOCGHANXXXXXXXN}{3:{121:ad98c0ef-c17e-4a93-b8ef-b26fb5c8a84e}}{4:
+:20:REF-98101
+:23B:CRED
+:32A:250124USD106585.00
+:50K:/OC7835062
+Diaz-Lang
+560 Timothy Mills New Christina, WA 44973
+:57A:ECOCGHANXXX
+:59:/BEN95513372800162
+Bell, Johnson and Johnson
+404 Sexton Forge North Courtney, GU 75043
+:70:INV 7DFA1D8588F9 Strong political door Congress have about.
+:71A:OUR
+-}{5:{CHK:172a2e9efa}}
