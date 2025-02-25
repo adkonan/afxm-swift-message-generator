@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>SOGEFRPPXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BOFAUS3NXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-79488</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.988856</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-79488</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.988857</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="BRL">202902.13</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Sanchez-Morris</Nm>
+               <PstlAdr>
+                   <StrtNm>027 Lucas Mission, Lake Hannah, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Kim, Fisher and Murphy</Nm>
+               <PstlAdr>
+                   <StrtNm>9314 Mckee Ville Apt. 343, Grantville, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

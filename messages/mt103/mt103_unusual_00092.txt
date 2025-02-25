@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103250104ICBKCNBJXXXXXXXN}{3:{121:6a0e0f8b-295b-46f9-8e38-97b9dee94656}}{4:
+:20:REF-59896
+:23B:CRED
+:32A:250104AUD0.01
+:50K:/OC7870283
+Young-Lee
+124 Erica Union Apt. 902, New Nicolefort, South Africa
+:57A:ICBKCNBJXXX
+:59:/BEN56369428488690
+Green PLC
+8122 Fox View, Lake Lindsay, China
+:70:INV 3EF7CDAD2272 Gun keep deal back behavior heart.
+:71A:OUR
+-}{5:{CHK:62ee8de541}} UNUSUAL REASON: Suspicious transaction details: Lack of clear payment purpose.

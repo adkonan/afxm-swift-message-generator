@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103240522FBNINGLAXXXXXXXN}{3:{121:f35d4b9a-27d5-45ec-8f94-9a7fb09a63a3}}{4:
+:20:REF-62612
+:23B:CRED
+:32A:240522KWD71130.49
+:50K:/OC2407051
+Cuevas and Sons
+996 Seth Shoals, Adamsville, France
+:57A:FBNINGLAXXX
+:59:/BEN34947126599531
+White, Andrews and Price
+996 Michael Lodge Suite 859, Lake Karen, Nigeria
+:70:INV A1C6E83E42E9 Travel series first upon.
+:71A:OUR
+-}{5:{CHK:02dcf61b4f}}

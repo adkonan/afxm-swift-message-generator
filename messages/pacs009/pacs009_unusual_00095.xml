@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BFSWUS33XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BNPAGB22XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-37235</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.088909</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-37235</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.088913</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="KWD">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Conley, Schmidt and Hanson</Nm>
+               <PstlAdr>
+                   <StrtNm>10518 Robinson Forge, Port Nicole, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Hernandez Inc</Nm>
+               <PstlAdr>
+                   <StrtNm>6719 Amanda Plains Apt. 377, Christinaville, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Potential shell company: Bank of New York Mellon has been associated with anomalies before. -->

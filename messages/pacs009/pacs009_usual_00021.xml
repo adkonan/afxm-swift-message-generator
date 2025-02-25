@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ICBKCNBJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ZENITHNGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-19306</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.974839</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-19306</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.974841</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="EUR">211182.79</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Johnson, Reynolds and Frazier</Nm>
+               <PstlAdr>
+                   <StrtNm>285 Steven Lakes, New Jamiebury, China</StrtNm>
+                   <Ctry>China</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Washington Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>996 Michael Lodge Suite 859, Lake Karen, Nigeria</StrtNm>
+                   <Ctry>Nigeria</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

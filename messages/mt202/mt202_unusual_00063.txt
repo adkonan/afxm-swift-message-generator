@@ -1,0 +1,10 @@
+{1:F01CRESIT2LXXX1234567890}{2:I202BARCDEFFXXXXXXXN}{3:{121:fec0ea37-ddc8-40cf-bfac-8ddba1bad750}}{4:
+:20:REF-30139
+:21:NONREF
+:32A:240710RUB0.01
+:53B:/783393890
+574 Bruce Spurs, Lake Christina, Italy
+:57A:BARCDEFFXXX
+:58A:/658740698
+853 Raymond Crossing, Lake Jessicachester, Germany
+-}{5:{CHK:2c8e20a3c9}} UNUSUAL REASON: Suspicious activity: Money passes through accounts too quickly.

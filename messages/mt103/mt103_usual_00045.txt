@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240313DEUTDEFFXXXXXXXN}{3:{121:b25e233e-c572-4a39-b4ff-0cfddf06b864}}{4:
+:20:REF-38251
+:23B:CRED
+:32A:240313RUB331060.62
+:50K:/OC4609600
+Clark LLC
+3192 Simpson Rapid Apt. 529, Lake Stanley, United States
+:57A:DEUTDEFFXXX
+:59:/BEN59619866703915
+Coleman Inc
+83665 Daniel Lodge, Davisland, Germany
+:70:INV 18CE393F51EE Example thus pull message situation baby.
+:71A:OUR
+-}{5:{CHK:068843350a}}

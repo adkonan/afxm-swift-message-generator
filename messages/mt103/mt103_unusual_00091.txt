@@ -1,0 +1,14 @@
+{1:F01UOBVSGSGXXX1234567890}{2:O103240807UBSWCHZHXXXXXXXN}{3:{121:0839806c-0d22-49bd-96c5-08a0121edc66}}{4:
+:20:REF-88557
+:23B:CRED
+:32A:240807AED2915537.51
+:50K:/OC5452327
+Hart, Scott and Huang
+52700 Kimberly Grove Apt. 957, North Kristy, Singapore
+:57A:UBSWCHZHXXX
+:59:/BEN59015371093759
+Taylor-Austin
+23233 Horton Fall Suite 771, South Danielle, Switzerland
+:70:INV A9AB4F695C16 Agreement role significant nor concern relationship.
+:71A:OUR
+-}{5:{CHK:c9e4d54ad7}} UNUSUAL REASON: USUAL

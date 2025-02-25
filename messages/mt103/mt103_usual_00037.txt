@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240919BMCECMRXXXXXXXXN}{3:{121:06fe70f8-dbb2-4325-afaa-35edb4d66645}}{4:
+:20:REF-72290
+:23B:CRED
+:32A:240919QAR366449.24
+:50K:/OC4472485
+Berry, Eaton and Cummings
+7672 Davis Meadow Apt. 424, Perkinsborough, Singapore
+:57A:BMCECMRXXXX
+:59:/BEN69341217482967
+Gonzalez, Prince and Franklin
+4336 Ramirez River Suite 967, Gregoryhaven, Morocco
+:70:INV 3F375E561B7C Apply a many area option significant.
+:71A:OUR
+-}{5:{CHK:87d8a8bd07}}

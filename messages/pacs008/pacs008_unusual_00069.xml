@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CIBCCATTXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>NEDSZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-66083</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.041314</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-66083</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.041316</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CNY">2622132.79</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Porter Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>54722 Underwood Springs Suite 661, Cindyton, Canada</StrtNm>
+                   <Ctry>Canada</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Brennan-Ramirez</Nm>
+               <PstlAdr>
+                   <StrtNm>633 Richards Burgs, Hayesside, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

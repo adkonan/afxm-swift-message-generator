@@ -1,0 +1,10 @@
+{1:F01MIZUJPJTXXX1234567890}{2:I202ECOCGHANXXXXXXXN}{3:{121:baad4ede-b59b-4bd0-9362-98877ebb55dc}}{4:
+:20:REF-43560
+:21:NONREF
+:32A:241230MYR0.01
+:53B:/602844955
+37585 Adams Ridges Suite 320, Reedview, Japan
+:57A:ECOCGHANXXX
+:58A:/349270808
+1932 Patrick Brooks Suite 312, Hobbshaven, Ghana
+-}{5:{CHK:62714bf58c}} UNUSUAL REASON: Financial fraud warning: Mizuho Bank Ltd is under review for money laundering risks. | Fast fund transfers detected: Money moving between multiple accounts.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>NATXFRPPXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>FIRNZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-16575</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.948127</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-16575</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.948128</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HKD">145634.62</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Humphrey PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>72778 Bryant Locks, New Robin, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Macias-Weber</Nm>
+               <PstlAdr>
+                   <StrtNm>124 Erica Union Apt. 902, New Nicolefort, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

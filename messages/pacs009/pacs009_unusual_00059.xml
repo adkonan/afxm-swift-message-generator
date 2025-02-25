@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>OCBCSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>SCBLGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-70320</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.028330</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-70320</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.028332</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="KWD">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Miller LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>2375 Mcgee Streets, Lake Jessicaland, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Oliver LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>935 Castro Inlet Suite 366, North Maryberg, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

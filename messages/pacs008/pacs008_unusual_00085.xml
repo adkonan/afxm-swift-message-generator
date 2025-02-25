@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DEUTDEFFXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-90283</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.067741</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-90283</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.067743</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CZK">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Stephens-Walter</Nm>
+               <PstlAdr>
+                   <StrtNm>13876 Jones Burgs, Oneillfurt, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Rich LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>34294 Brian Hollow, South Gregory, Germany</StrtNm>
+                   <Ctry>Germany</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Fast fund transfers detected: Money moving between multiple accounts. -->

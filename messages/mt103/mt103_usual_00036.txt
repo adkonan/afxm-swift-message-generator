@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103241022FCMBNGLAXXXXXXXN}{3:{121:1b464c3e-0cd0-41e2-a30c-ecb6f70b3d3d}}{4:
+:20:REF-84453
+:23B:CRED
+:32A:241022KWD35235.52
+:50K:/OC2171859
+Smith-Crane
+555 Hanson Village, North Samantha, Netherlands
+:57A:FCMBNGLAXXX
+:59:/BEN79723757611027
+Lindsey-Stewart
+03371 Mark Cove, South Edward, Nigeria
+:70:INV 3975BDE0B0D2 Senior them for indicate herself hour security.
+:71A:OUR
+-}{5:{CHK:fa180fa6bd}}

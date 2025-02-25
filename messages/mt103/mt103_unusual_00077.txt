@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240606BNPAGB22XXXXXXXN}{3:{121:2ce8c47e-09c5-453a-b88b-a13aa1ef33fc}}{4:
+:20:REF-43301
+:23B:CRED
+:32A:240606AED2309529.19
+:50K:/OC4669185
+Aguilar Ltd
+35683 Michael Mews Suite 626, South Louismouth, Ghana
+:57A:BNPAGB22XXX
+:59:/BEN27413400281745
+Dalton and Sons
+96766 Williams Dale Suite 141, Port Nicholas, United Kingdom
+:70:INV 6F621A4FC88D Office address quite everybody rule outside model.
+:71A:OUR
+-}{5:{CHK:8f1a501e53}} UNUSUAL REASON: Non-standard payment description detected.

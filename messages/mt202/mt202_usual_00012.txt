@@ -1,0 +1,10 @@
+{1:F01ICBKCNBJXXX1234567890}{2:I202ECOCGHANXXXXXXXN}{3:{121:03430c76-aa2c-4140-9487-96b25021ced2}}{4:
+:20:REF-58274
+:21:NONREF
+:32A:240305NOK250547.28
+:53B:/214068682
+891 Christy Isle, Lake Nichole, China
+:57A:ECOCGHANXXX
+:58A:/984276478
+53759 Philip Skyway, East Anthonymouth, Ghana
+-}{5:{CHK:54157d2990}} UNUSUAL REASON: Fast fund transfers detected: Money moving between multiple accounts.

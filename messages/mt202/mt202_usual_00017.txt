@@ -1,0 +1,10 @@
+{1:F01FBNINGLAXXX1234567890}{2:I202INGBNL2AXXXXXXXN}{3:{121:e4b90f79-b9f9-46f2-9029-6026e0cfaae0}}{4:
+:20:REF-12388
+:21:NONREF
+:32A:240822DKK15707.55
+:53B:/838962440
+647 Davis Via, New Mark, Nigeria
+:57A:INGBNL2AXXX
+:58A:/648219282
+838 Judith Field, Mcguireside, Netherlands
+-}{5:{CHK:153c6dbae0}} UNUSUAL REASON: High-risk activity: Suspicious transaction from an unused account.

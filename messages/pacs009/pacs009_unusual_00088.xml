@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BFSWUS33XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>STANGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-78068</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.074251</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-78068</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.074253</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="MYR">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Castillo-Flores</Nm>
+               <PstlAdr>
+                   <StrtNm>64131 Eric Throughway Suite 950, West Sharon, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Rich LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>96766 Williams Dale Suite 141, Port Nicholas, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: High-risk entity detected: Bank of New York Mellon has been flagged for suspicious transactions. -->

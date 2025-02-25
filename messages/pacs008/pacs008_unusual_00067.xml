@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UOBVSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>HSBCGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-11058</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.037893</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-11058</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.037894</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CHF">1802847.19</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Jones, Shah and Eaton</Nm>
+               <PstlAdr>
+                   <StrtNm>6442 Robert Loop Apt. 047, Dianamouth, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Wood-Grant</Nm>
+               <PstlAdr>
+                   <StrtNm>8552 Fuller Junction, Lake Jamesport, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

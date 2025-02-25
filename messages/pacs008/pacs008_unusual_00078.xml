@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CRESIT2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>MIZUJPJTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-17234</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.056392</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-17234</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.056393</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SGD">1734232.30</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Miller-Graves</Nm>
+               <PstlAdr>
+                   <StrtNm>1272 Dawn Mall Apt. 665, Mariastad, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Jones, Hood and Young</Nm>
+               <PstlAdr>
+                   <StrtNm>53337 Cunningham Greens, Collinsmouth, Japan</StrtNm>
+                   <Ctry>Japan</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

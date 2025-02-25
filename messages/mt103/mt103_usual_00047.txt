@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240513FIRNZAJJXXXXXXXN}{3:{121:91c128ce-7841-4a90-af34-21b32876d085}}{4:
+:20:REF-79272
+:23B:CRED
+:32A:240513MXN418003.49
+:50K:/OC2214569
+Sanchez, Hobbs and Sloan
+647 Davis Via, New Mark, Nigeria
+:57A:FIRNZAJJXXX
+:59:/BEN87590923708814
+Gomez, Hudson and Palmer
+592 John Valleys, Natashatown, South Africa
+:70:INV B346F31346D8 Her structure person save policy industry.
+:71A:OUR
+-}{5:{CHK:829b831522}}

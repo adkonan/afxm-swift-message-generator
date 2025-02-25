@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103240815OCBCSGSGXXXXXXXN}{3:{121:a489eee2-7bba-49c9-89f5-2f5e67445f6a}}{4:
+:20:REF-36033
+:23B:CRED
+:32A:240815NOK477271.32
+:50K:/OC5957757
+Garcia, Peterson and Landry
+Unknown Address
+:57A:OCBCSGSGXXX
+:59:/BEN71575298722582
+Russell-Moore
+486 Hicks Causeway, New Melissa, Singapore
+:70:INV D447AD1054CA Successful just mind spend east.
+:71A:OUR
+-}{5:{CHK:d8cca0478a}}

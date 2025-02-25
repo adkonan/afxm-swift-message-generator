@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>INGBNL2AXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>FIRNZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-75639</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.022424</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-75639</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.022428</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="KWD">2313634.33</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Steele, Jones and Erickson</Nm>
+               <PstlAdr>
+                   <StrtNm>551 Hardy Circle Suite 306, Serranobury, Netherlands</StrtNm>
+                   <Ctry>Netherlands</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Arias-Tran</Nm>
+               <PstlAdr>
+                   <StrtNm>666 Simmons Throughway Suite 946, North Tyrone, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

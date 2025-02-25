@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103241107DBSAZAJJXXXXXXXN}{3:{121:dd1eb8c0-d5fa-49b1-820d-b5b864d35526}}{4:
+:20:REF-86869
+:23B:CRED
+:32A:241107DKK479564.87
+:50K:/OC9811709
+Clark, Thomas and Baker
+2784 Jacqueline Ways, South Danielport, France
+:57A:DBSAZAJJXXX
+:59:/BEN20806778377825
+Taylor PLC
+666 Simmons Throughway Suite 946, North Tyrone, South Africa
+:70:INV A5D142FB9966 Clearly dinner behind base customer game.
+:71A:OUR
+-}{5:{CHK:5afe9bb5de}}

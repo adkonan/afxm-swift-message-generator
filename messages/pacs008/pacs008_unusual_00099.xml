@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>KFWDEFFXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-83495</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.089879</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-83495</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.089881</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CNY">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Sanchez-Hall</Nm>
+               <PstlAdr>
+                   <StrtNm>977 Vicki Landing Suite 040, West Lorraineview, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>White, Cordova and Sawyer</Nm>
+               <PstlAdr>
+                   <StrtNm>34294 Brian Hollow, South Gregory, Germany</StrtNm>
+                   <Ctry>Germany</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Financial fraud warning: Development Bank of South Africa is under review for money laundering risks. -->

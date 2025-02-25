@@ -1,0 +1,10 @@
+{1:F01BOJZBJZAXXX1234567890}{2:I202FIRNZAJJXXXXXXXN}{3:{121:d38bd507-3ab1-4be6-a3c7-b5a4aa52bc21}}{4:
+:20:REF-29082
+:21:NONREF
+:32A:241008BRL2753992.45
+:53B:/483644234
+6204 Moore Path, West Ronaldtown, Japan
+:57A:FIRNZAJJXXX
+:58A:/102082033
+977 Vicki Landing Suite 040, West Lorraineview, South Africa
+-}{5:{CHK:3210c39b84}} UNUSUAL REASON: Compliance review needed: Payment instructions contain vague or misleading terms.

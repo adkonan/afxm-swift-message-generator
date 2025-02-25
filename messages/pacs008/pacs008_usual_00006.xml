@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ECOCGHANXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BARCGB22XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-16099</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.952751</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-16099</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.952753</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="TRY">340032.16</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Martinez Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>88216 Huerta Ports Suite 963, West Annport, Ghana</StrtNm>
+                   <Ctry>Ghana</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Becker LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>41003 Michael Rue Apt. 993, Robertsonberg, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

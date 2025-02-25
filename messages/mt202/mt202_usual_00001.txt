@@ -1,0 +1,10 @@
+{1:F01DBSSSGSGXXX1234567890}{2:I202BOMLMRUXXXXXXXXN}{3:{121:c3bad21c-4fb8-4e45-ba42-ffed8f5d9d92}}{4:
+:20:REF-44861
+:21:NONREF
+:32A:240619IDR356708.89
+:53B:/681013105
+738 Robert Cove Apt. 790, Robertmouth, Singapore
+:57A:BOMLMRUXXXX
+:58A:/759470797
+0538 Kimberly Haven, Reidberg, Mauritius
+-}{5:{CHK:0e4424e82f}} UNUSUAL REASON: New high-risk entity: DBS Bank Ltd added to fraud watchlist.

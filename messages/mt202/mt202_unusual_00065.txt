@@ -1,0 +1,10 @@
+{1:F01HSBCGB2LXXX1234567890}{2:I202CRESCHZZXXXXXXXN}{3:{121:e906c5d5-111f-4336-bd2f-40f381a2a1fd}}{4:
+:20:REF-12917
+:21:NONREF
+:32A:240309CNY4949513.06
+:53B:/337888349
+469 Bowers Divide, Lake Lauren, United Kingdom
+:57A:CRESCHZZXXX
+:58A:/391120363
+042 George Trafficway Apt. 116, Ellenville, Switzerland
+-}{5:{CHK:ff74c28624}} UNUSUAL REASON: Compliance review needed: Payment instructions contain vague or misleading terms.

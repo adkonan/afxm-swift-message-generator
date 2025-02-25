@@ -1,0 +1,10 @@
+{1:F01SCBLGB2LXXX1234567890}{2:I202BNPPIT2LXXXXXXXN}{3:{121:6c04a217-00c2-4e33-a986-3714f128fc3f}}{4:
+:20:REF-65099
+:21:NONREF
+:32A:250215RUB2353586.75
+:53B:/415926524
+41003 Michael Rue Apt. 993, Robertsonberg, United Kingdom
+:57A:BNPPIT2LXXX
+:58A:/495744625
+7280 Deleon Springs Suite 000, Sheliafurt, Italy
+-}{5:{CHK:358c48f571}} UNUSUAL REASON: Potential shell company: Standard Chartered Bank has been associated with anomalies before.

@@ -1,0 +1,14 @@
+{1:F01CIBCCATTXXX1234567890}{2:O103240414BNPAFRPPXXXXXXXN}{3:{121:9f6d5fdc-fb54-4919-92cb-e65fe50886cd}}{4:
+:20:REF-94504
+:23B:CRED
+:32A:240414KRW0.01
+:50K:/OC6691156
+Gillespie Group
+53164 Tracy Locks, Sanchezburgh, Canada
+:57A:BNPAFRPPXXX
+:59:/BEN55392519002113
+Payne-Cook
+832 Brown Trafficway, Doughertyberg, France
+:70:INV 69A072B1DB9B Plant agency world detail apply.
+:71A:OUR
+-}{5:{CHK:1b5d1bc4fe}} UNUSUAL REASON: Financial secrecy risk: Destination country known for weak regulatory oversight.

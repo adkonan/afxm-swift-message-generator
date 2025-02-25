@@ -1,0 +1,10 @@
+{1:F01BFSWUS33XXX1234567890}{2:I202BMCECMRXXXXXXXXN}{3:{121:a58a778b-d3a2-4c14-a821-9d5db78466ad}}{4:
+:20:REF-37981
+:21:NONREF
+:32A:240322ZAR0.01
+:53B:/546213704
+305 Steven Mill Apt. 370, East Rodneyshire, United States
+:57A:BMCECMRXXXX
+:58A:/945919707
+707 Sullivan Manors Suite 121, Baldwinshire, Morocco
+-}{5:{CHK:ea185791ee}} UNUSUAL REASON: High-risk entity detected: Bank of New York Mellon has been flagged for suspicious transactions.

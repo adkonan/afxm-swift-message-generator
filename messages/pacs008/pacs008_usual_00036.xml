@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>DBSAZAJJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UOBVSGSGXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-66128</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.992340</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-66128</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.992341</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HUF">390832.77</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Gonzalez Inc</Nm>
+               <PstlAdr>
+                   <StrtNm>124 Erica Union Apt. 902, New Nicolefort, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Wilson Group</Nm>
+               <PstlAdr>
+                   <StrtNm>28518 Payne Lock Suite 365, West Kennethborough, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

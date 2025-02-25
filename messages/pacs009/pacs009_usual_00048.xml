@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CRESCHZZXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BARCGB22XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-72397</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.009547</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-72397</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.009549</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="NZD">3700.40</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Matthews, Avila and Jackson</Nm>
+               <PstlAdr>
+                   <StrtNm>300 Jones Avenue Apt. 336, Carpenterville, Switzerland</StrtNm>
+                   <Ctry>Switzerland</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Dennis-Macdonald</Nm>
+               <PstlAdr>
+                   <StrtNm>2942 Michelle Plaza Apt. 588, New Julieshire, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

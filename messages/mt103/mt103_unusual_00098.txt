@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241106CRESCHZZXXXXXXXN}{3:{121:b3e026bd-a040-4475-ba53-376b8a7a148a}}{4:
+:20:REF-51709
+:23B:CRED
+:32A:241106SGD0.01
+:50K:/OC2188296
+Bates Group
+66179 Jones Motorway Suite 077, Washingtonborough, Indonesia
+:57A:CRESCHZZXXX
+:59:/BEN10783758930597
+Oneal, Ritter and Burns
+4632 Johnson Inlet Apt. 442, Castroport, Switzerland
+:70:INV 45E415452217 Down court down anyone brother low sport.
+:71A:OUR
+-}{5:{CHK:bf0b6b945d}} UNUSUAL REASON: USUAL

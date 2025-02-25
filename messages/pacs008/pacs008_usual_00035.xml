@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>DBSSSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-83460</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.991389</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-83460</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.991391</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="MXN">339808.58</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Jensen Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>738 Robert Cove Apt. 790, Robertmouth, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Jones Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>9699 Bishop View Suite 386, Lake Markfurt, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

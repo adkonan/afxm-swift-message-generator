@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240509BKBKPHMMXXXXXXXN}{3:{121:439db923-f5ce-403f-827e-97f697dac0c2}}{4:
+:20:REF-47514
+:23B:CRED
+:32A:240509KRW18083.87
+:50K:/OC4606710
+Herrera-Kirk
+63862 Hunter Center Apt. 943, Tiffanyport, Ivory Coast
+:57A:BKBKPHMMXXX
+:59:/BEN27418150529029
+Miller, Gardner and Tucker
+0406 Alexander Camp, Hunterville, Philippines
+:70:INV C8AD86F270A7 Region power leader talk sense final language.
+:71A:OUR
+-}{5:{CHK:021f72d4a0}}

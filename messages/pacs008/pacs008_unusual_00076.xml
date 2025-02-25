@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BKCHHKHXXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>RABONL2UXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-67481</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.052736</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-67481</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.052737</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="KRW">2278772.22</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Hoffman-Roth</Nm>
+               <PstlAdr>
+                   <StrtNm>12301 Henderson Skyway, Port Alisonport, Hong Kong</StrtNm>
+                   <Ctry>Hong Kong</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Miller, Hutchinson and Campos</Nm>
+               <PstlAdr>
+                   <StrtNm>23560 Davis Viaduct, Nicolemouth, Netherlands</StrtNm>
+                   <Ctry>Netherlands</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

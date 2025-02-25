@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BMCECMRXXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>SMBCJPJTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-61868</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.038951</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-61868</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.038953</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HKD">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Gonzalez and Sons</Nm>
+               <PstlAdr>
+                   <StrtNm>681 Jeffrey Divide, North Mark, Morocco</StrtNm>
+                   <Ctry>Morocco</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Mccullough PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>6204 Moore Path, West Ronaldtown, Japan</StrtNm>
+                   <Ctry>Japan</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

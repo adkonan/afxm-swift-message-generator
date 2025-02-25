@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ICBKCNBJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BMCECMRXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-93123</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.985221</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-93123</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.985222</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="MXN">48349.63</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Quinn, Stephens and Kim</Nm>
+               <PstlAdr>
+                   <StrtNm>281 Johnson Port, Lopezton, China</StrtNm>
+                   <Ctry>China</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Wilson-Moreno</Nm>
+               <PstlAdr>
+                   <StrtNm>3081 Anthony Throughway Suite 692, Lopezland, Morocco</StrtNm>
+                   <Ctry>Morocco</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

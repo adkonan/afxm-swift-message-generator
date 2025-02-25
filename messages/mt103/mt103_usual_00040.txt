@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103240405HSBCGB2LXXXXXXXN}{3:{121:6a55d579-ac9f-4c90-9995-6eb903c0d4a5}}{4:
+:20:REF-19273
+:23B:CRED
+:32A:240405NOK412268.37
+:50K:/OC2621510
+Morrow, Barber and Matthews
+799 Deborah Gateway Suite 744, West Erica, United States
+:57A:HSBCGB2LXXX
+:59:/BEN14406573812068
+Monroe PLC
+080 Henry Plaza Apt. 702, New Jasonhaven, United Kingdom
+:70:INV 6922B491C3E7 Research community should stay director everyone available.
+:71A:OUR
+-}{5:{CHK:698bef7535}}

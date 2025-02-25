@@ -1,0 +1,14 @@
+{1:F01SOGEFRPPXXX1234567890}{2:O103241008CHASUS33XXXXXXXN}{3:{121:c2937e20-ed66-4e83-affe-6ae255e140e4}}{4:
+:20:REF-55725
+:23B:CRED
+:32A:241008KRW1624181.26
+:50K:/OC9688364
+Rasmussen, Morris and Smith
+92597 Patrick Center Suite 040, Annefurt, France
+:57A:CHASUS33XXX
+:59:/BEN75259618766591
+Harrison, Hodge and Houston
+29263 David Light, Karenfurt, United States
+:70:INV A3A22848C0B0 Candidate between college point system energy.
+:71A:OUR
+-}{5:{CHK:a3a5561951}} UNUSUAL REASON: USUAL

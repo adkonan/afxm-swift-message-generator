@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240221STANKEKEXXXXXXXN}{3:{121:8ab4dfd2-1608-4ac9-ac9a-f88e83afe95e}}{4:
+:20:REF-62076
+:23B:CRED
+:32A:240221THB0.01
+:50K:/OC5719196
+Brooks, Davis and Waller
+41003 Michael Rue Apt. 993, Robertsonberg, United Kingdom
+:57A:STANKEKEXXX
+:59:/BEN66102554992453
+Powers, Mills and Holmes
+435 Kimberly Rapid, Lake Thomas, Kenya
+:70:INV 1E29D89CDA42 Woman report itself PM grow traditional.
+:71A:OUR
+-}{5:{CHK:bad92ae76b}} UNUSUAL REASON: USUAL

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BBVAESMMXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-71833</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.033739</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-71833</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.033740</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="INR">1202273.86</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Bowen PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>027 Lisa Square Suite 705, Derekview, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Baker-Sloan</Nm>
+               <PstlAdr>
+                   <StrtNm>651 Barry Way, Smithstad, Spain</StrtNm>
+                   <Ctry>Spain</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Duplicate transaction detected: Reference REF-71833 matches a previous transaction. -->

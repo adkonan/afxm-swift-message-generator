@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UBSWRIT2XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>FBNINGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-68573</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.005223</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-68573</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.005224</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="THB">243727.68</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Wilson Group</Nm>
+               <PstlAdr>
+                   <StrtNm>317 Taylor Flats Apt. 402, Wilsonfurt, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Norman, Padilla and Brown</Nm>
+               <PstlAdr>
+                   <StrtNm>943 Hawkins Estates Apt. 644, New Spencerfurt, Nigeria</StrtNm>
+                   <Ctry>Nigeria</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,14 @@
+{1:F01CRESIT2LXXX1234567890}{2:O103250105CITIUS33XXXXXXXN}{3:{121:cf2247d9-5613-46d4-a47c-cf5c605f9755}}{4:
+:20:REF-99812
+:23B:CRED
+:32A:250105PLN2175934.62
+:50K:/OC1789941
+Kidd, Fox and Wright
+7280 Deleon Springs Suite 000, Sheliafurt, Italy
+:57A:CITIUS33XXX
+:59:/BEN88218310583741
+Johnson and Sons
+952 Jonathon Walk Suite 680, West Jasonhaven, United States
+:70:INV DED83D68E228 Support military TV age small threat environmental.
+:71A:OUR
+-}{5:{CHK:ddb9a28db1}} UNUSUAL REASON: USUAL

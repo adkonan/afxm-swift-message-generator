@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>INGBNL2AXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CITIUS33XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-28461</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.949496</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-28461</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.949498</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="NZD">106476.62</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Collins-Lyons</Nm>
+               <PstlAdr>
+                   <StrtNm>43793 Taylor Shore, East Nathan, Netherlands</StrtNm>
+                   <Ctry>Netherlands</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Richards, Davis and Johnson</Nm>
+               <PstlAdr>
+                   <StrtNm>044 Tucker Plaza, Jasonfort, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

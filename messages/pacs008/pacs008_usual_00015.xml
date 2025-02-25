@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>UOBVSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ECOCGHANXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-64797</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.964502</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-64797</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.964505</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HUF">444633.53</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Torres Inc</Nm>
+               <PstlAdr>
+                   <StrtNm>97665 Henson View, Jamesville, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Brown LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>0678 Adams Parkways, East Benjamin, Ghana</StrtNm>
+                   <Ctry>Ghana</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

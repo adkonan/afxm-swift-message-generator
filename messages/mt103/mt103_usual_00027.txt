@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103240510BNPPIT2LXXXXXXXN}{3:{121:8c59b1da-d443-4553-8dd9-3044f3756994}}{4:
+:20:REF-54571
+:23B:CRED
+:32A:240510SAR154672.28
+:50K:/OC7693097
+Young-Collins
+259 Edward Brook, Taylorside, Indonesia
+:57A:BNPPIT2LXXX
+:59:/BEN37836970071579
+Ortiz-Reed
+018 Thomas Bridge Suite 999, Kellyfurt, Italy
+:70:INV CAD7A9B15CC1 Commercial keep senior six choice cell contain thought.
+:71A:OUR
+-}{5:{CHK:00150874ff}}

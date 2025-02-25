@@ -1,0 +1,14 @@
+{1:F01OCBCSGSGXXX1234567890}{2:O103240628SOGEFRPPXXXXXXXN}{3:{121:3ae207c8-90ac-4ef3-88ec-602313a2388c}}{4:
+:20:REF-57018
+:23B:CRED
+:32A:240628THB0.01
+:50K:/OC6894750
+Pena, Mitchell and Nelson
+28518 Payne Lock Suite 365, West Kennethborough, Singapore
+:57A:SOGEFRPPXXX
+:59:/BEN50360421522157
+Soto-Payne
+4946 Terry View, Timothyland, France
+:70:INV 3CC0851DD732 Out focus collection would enjoy operation.
+:71A:OUR
+-}{5:{CHK:dd70e42d4b}} UNUSUAL REASON: USUAL

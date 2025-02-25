@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>INGBNL2AXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ABSAZAJJXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-32496</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.959657</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-32496</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.959659</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">488086.05</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Smith LLC</Nm>
+               <PstlAdr>
+                   <StrtNm>0829 Fox Parks, South Dillonfurt, Netherlands</StrtNm>
+                   <Ctry>Netherlands</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Moore PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>4063 Rowe Fork Apt. 708, Kimberlyhaven, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

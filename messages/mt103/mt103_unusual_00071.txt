@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103240307ECOCMLABXXXXXXXN}{3:{121:0b4a2d6c-8e98-468c-97e1-2daa7cdd4bf0}}{4:
+:20:REF-81374
+:23B:CRED
+:32A:240307MXN3045832.54
+:50K:/OC5915748
+Curtis, Berg and Snyder
+687 Nicholas Points, West Jacquelineberg, South Africa
+:57A:ECOCMLABXXX
+:59:/BEN27946586218366
+Brown-Phillips
+406 James Pike Suite 734, Middletonchester, Mali
+:70:INV 31BA1389CB50 Wide indicate lay way people.
+:71A:OUR
+-}{5:{CHK:65c0100af9}} UNUSUAL REASON: USUAL

@@ -1,0 +1,14 @@
+{1:F01MIZUJPJTXXX1234567890}{2:O103240811ZENITHNGLAXXXXXXXN}{3:{121:ca79e6f3-5b57-4251-8df2-0b4780e0d975}}{4:
+:20:REF-83763
+:23B:CRED
+:32A:240811NOK164281.34
+:50K:/OC8200828
+Smith and Sons
+154 Kevin Glens Suite 384, West Michealstad, Japan
+:57A:ZENITHNGLAXXX
+:59:/BEN61439763265476
+Patterson, Dorsey and Rodriguez
+66823 Ann Manor, New Tiffanybury, Nigeria
+:70:INV B7F3248C5505 Of number suffer learn page never cause.
+:71A:OUR
+-}{5:{CHK:8fef450a40}}

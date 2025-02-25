@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103240425STANKEKEXXXXXXXN}{3:{121:532c5ac4-c30d-4c46-a68b-42f2fdd97bc9}}{4:
+:20:REF-24276
+:23B:CRED
+:32A:240425CNY342176.82
+:50K:/OC2087445
+Hernandez and Sons
+0119 Green Freeway, North Richardfort, Ghana
+:57A:STANKEKEXXX
+:59:/BEN24485540265891
+Adkins, Williams and Snow
+582 Peter Field, Port Jill, Kenya
+:70:INV AEBE30C85821 Improve inside begin identify produce Mr throughout already.
+:71A:OUR
+-}{5:{CHK:3a218bc3d6}}

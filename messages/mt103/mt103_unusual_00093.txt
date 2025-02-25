@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240602BKBKPHMMXXXXXXXN}{3:{121:53f8b5ad-d798-4f0a-95e2-80d6d172dbea}}{4:
+:20:REF-47980
+:23B:CRED
+:32A:240602USD0.01
+:50K:/OC4280767
+Khan LLC
+658 Gutierrez Place Apt. 010, South Brendan, United Kingdom
+:57A:BKBKPHMMXXX
+:59:/BEN69649859898487
+Bird, Barnett and Nunez
+33391 Donaldson Prairie Suite 767, Heatherland, Philippines
+:70:INV 4BE466D35C7F Direction better interview popular.
+:71A:OUR
+-}{5:{CHK:b0576bdaf6}} UNUSUAL REASON: USUAL

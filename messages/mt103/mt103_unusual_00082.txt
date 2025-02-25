@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103241110ECOCMLABXXXXXXXN}{3:{121:c63576b9-db3d-469f-84d0-c3b5ee91ca40}}{4:
+:20:REF-34354
+:23B:CRED
+:32A:241110MXN0.01
+:50K:/OC8864703
+Spencer, Wade and Peterson
+373 Parks Harbors Apt. 312, Patriciastad, South Africa
+:57A:ECOCMLABXXX
+:59:/BEN35937388765512
+Andersen, Baker and Kelley
+6846 Mark Inlet Suite 897, Novakhaven, Mali
+:70:INV FBA050BD6142 Ask whom tonight talk compare.
+:71A:OUR
+-}{5:{CHK:55d8ee73b6}} UNUSUAL REASON: USUAL

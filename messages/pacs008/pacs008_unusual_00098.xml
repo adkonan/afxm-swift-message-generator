@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BFSWUS33XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>FCMBNGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-63639</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.088552</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-63639</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.088554</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="THB">3567865.56</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Bryant-Roberts</Nm>
+               <PstlAdr>
+                   <StrtNm>91568 Oscar Isle, Kimberlyport, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Perry-Cannon</Nm>
+               <PstlAdr>
+                   <StrtNm>363 Charles Islands Suite 577, Davidbury, Nigeria</StrtNm>
+                   <Ctry>Nigeria</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Financial fraud warning: Bank of New York Mellon is under review for money laundering risks. -->

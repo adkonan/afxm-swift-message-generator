@@ -1,0 +1,10 @@
+{1:F01ICBKCNBJXXX1234567890}{2:I202BNPAGB22XXXXXXXN}{3:{121:2c320fd3-83be-4260-acee-b3d5771f3215}}{4:
+:20:REF-69018
+:21:NONREF
+:32A:240623CNY403902.42
+:53B:/719954248
+386 Amanda Extension, West Michaelberg, China
+:57A:BNPAGB22XXX
+:58A:/966230090
+73168 Thornton Loop Suite 595, Port Crystalburgh, United Kingdom
+-}{5:{CHK:f9bc965a84}} UNUSUAL REASON: Red flag: Funds moving rapidly through unrelated entities.

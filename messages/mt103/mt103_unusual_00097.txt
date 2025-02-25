@@ -1,0 +1,14 @@
+{1:F01ECOCCIBAXXX1234567890}{2:O103240409BOFAUS3NXXXXXXXN}{3:{121:e47b6dd4-be93-4369-908f-ba131f5accba}}{4:
+:20:REF-53174
+:23B:CRED
+:32A:240409EUR2683149.91
+:50K:/OC1327826
+Williams-Scott
+8775 Jennifer Club Suite 610, Jasonstad, Ivory Coast
+:57A:BOFAUS3NXXX
+:59:/BEN66440479865410
+Potts LLC
+4540 Brandon Harbor Apt. 216, Alyssaland, United States
+:70:INV BC77F85E9689 Arm easy process create hour entire risk star.
+:71A:OUR
+-}{5:{CHK:eb09cb2342}} UNUSUAL REASON: USUAL

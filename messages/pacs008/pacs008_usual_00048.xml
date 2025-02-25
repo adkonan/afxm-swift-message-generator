@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>NATXFRPPXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>GTBINGLAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-94349</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.007359</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-94349</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.007361</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">400928.31</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Hernandez PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>7901 Mark Loaf, Lake Lindsey, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Reed-Fisher</Nm>
+               <PstlAdr>
+                   <StrtNm>81725 Katelyn Extensions, Jacksonchester, Nigeria</StrtNm>
+                   <Ctry>Nigeria</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,14 @@
+{1:F01FIRNZAJJXXX1234567890}{2:O103240724BNPAGB22XXXXXXXN}{3:{121:c396e1c0-3f1e-4b89-83af-5794af9f2d9f}}{4:
+:20:REF-73613
+:23B:CRED
+:32A:240724TRY0.01
+:50K:/OC6136671
+Marshall-Harvey
+124 Erica Union Apt. 902, New Nicolefort, South Africa
+:57A:BNPAGB22XXX
+:59:/BEN80241493967838
+Ortega, Washington and Harris
+808 Harrison Extensions Suite 238, Lake Annaland, United Kingdom
+:70:INV B7C2F0B81B9A Player worker war.
+:71A:OUR
+-}{5:{CHK:da075342da}} UNUSUAL REASON: USUAL

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>SCBLGB2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BOFAUS3NXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-64582</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.078847</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-64582</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.078850</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="TRY">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Watson PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>080 Henry Plaza Apt. 702, New Jasonhaven, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Taylor, Barnes and Miller</Nm>
+               <PstlAdr>
+                   <StrtNm>10518 Robinson Forge, Port Nicole, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: High-risk entity detected: Standard Chartered Bank has been flagged for suspicious transactions. | Reactivated account: Transaction detected from previously inactive entity. -->

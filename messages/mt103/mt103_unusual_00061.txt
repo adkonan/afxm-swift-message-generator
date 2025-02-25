@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240320ECOCCIBAXXXXXXXN}{3:{121:7967cb0b-0dc5-446b-bf50-78e63dabcc93}}{4:
+:20:REF-95624
+:23B:CRED
+:32A:240320TRY4812680.02
+:50K:/OC6314058
+Garcia, Williams and Noble
+8645 Robinson Estate, North Rachel, Netherlands
+:57A:ECOCCIBAXXX
+:59:/BEN79348617773384
+Stewart Group
+27317 Lee Row Apt. 313, Saraside, Ivory Coast
+:70:INV 65515E5E6EEC Right value as road whether move.
+:71A:OUR
+-}{5:{CHK:5f0f48902d}} UNUSUAL REASON: USUAL

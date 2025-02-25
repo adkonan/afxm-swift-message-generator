@@ -1,0 +1,14 @@
+{1:F01BOMLMRUXXXX1234567890}{2:O103241206ABSAZAJJXXXXXXXN}{3:{121:6a481d58-750d-4765-85aa-33c40208d049}}{4:
+:20:REF-27115
+:23B:CRED
+:32A:241206MXN1543290.96
+:50K:/OC8169789
+Cobb, Lee and Norris
+857 Weaver Well Apt. 695, Littlebury, Mauritius
+:57A:ABSAZAJJXXX
+:59:/BEN33048547789128
+Yang-Carter
+666 Simmons Throughway Suite 946, North Tyrone, South Africa
+:70:INV BE1D0C934AB8 Check provide theory thousand consider group baby.
+:71A:OUR
+-}{5:{CHK:ffeb3ce02a}} UNUSUAL REASON: Transaction flagged: Involves Cuba, which is under international sanctions.

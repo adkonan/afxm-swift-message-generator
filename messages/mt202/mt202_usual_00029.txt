@@ -1,0 +1,10 @@
+{1:F01BOJZBJZAXXX1234567890}{2:I202BBVAESMMXXXXXXXN}{3:{121:adbac3c2-7990-4c64-ab34-7a9cb784c5e8}}{4:
+:20:REF-70227
+:21:NONREF
+:32A:241208MYR261343.32
+:53B:/553006442
+46531 Brittany Prairie Apt. 585, Marshhaven, Japan
+:57A:BBVAESMMXXX
+:58A:/171950247
+79896 Mendoza Tunnel, Jamesborough, Spain
+-}{5:{CHK:4ac285997b}} UNUSUAL REASON: Unverified source: Account has limited transaction history.

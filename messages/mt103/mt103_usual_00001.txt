@@ -1,0 +1,14 @@
+{1:F01BMCECMRXXXX1234567890}{2:O103240404FIRNZAJJXXXXXXXN}{3:{121:a4b774fc-2ad5-43bc-9aca-dcacbe98a50e}}{4:
+:20:REF-63846
+:23B:CRED
+:32A:240404NOK222000.57
+:50K:/OC7032690
+Castaneda, Wells and Woods
+27021 Ryan Valley, Port Linda, Morocco
+:57A:FIRNZAJJXXX
+:59:/BEN10545967384575
+Hensley-Garcia
+4063 Rowe Fork Apt. 708, Kimberlyhaven, South Africa
+:70:INV 38195087FE21 Education million skill yeah.
+:71A:OUR
+-}{5:{CHK:63bc05c1e3}}

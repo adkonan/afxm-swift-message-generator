@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240610BICIBFBFXXXXXXXN}{3:{121:edc8b575-005b-4f32-a590-63f681b3897e}}{4:
+:20:REF-90150
+:23B:CRED
+:32A:240610CZK497834.87
+:50K:/OC9007155
+Watts Ltd
+760 Crystal Lock Suite 795, Sparksmouth, Singapore
+:57A:BICIBFBFXXX
+:59:/BEN13557958287423
+Bush-Holland
+197 Kaitlyn Unions, East Robinberg, Burkina Faso
+:70:INV B6ED29774943 Answer reason suggest yourself hear write.
+:71A:OUR
+-}{5:{CHK:e27918ffd1}}

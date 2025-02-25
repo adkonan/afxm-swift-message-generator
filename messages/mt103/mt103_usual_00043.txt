@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103240925DBSAZAJJXXXXXXXN}{3:{121:99420d06-5731-420f-a299-ff19d99fe87e}}{4:
+:20:REF-43491
+:23B:CRED
+:32A:240925INR267036.00
+:50K:/OC5453445
+Sanders-Douglas
+945 Roth Ville, Lake Edwardburgh, United Kingdom
+:57A:DBSAZAJJXXX
+:59:/BEN53542244122313
+Nelson, Fitzpatrick and Walton
+687 Nicholas Points, West Jacquelineberg, South Africa
+:70:INV A85DDFD7F591 System treatment form mother international away.
+:71A:OUR
+-}{5:{CHK:1d69c5ecb9}}

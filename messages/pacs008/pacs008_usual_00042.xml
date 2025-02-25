@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BOJZBJZAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>HSBCHKHHXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-25979</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.999757</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-25979</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.999759</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="TRY">381522.34</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Weeks Inc</Nm>
+               <PstlAdr>
+                   <StrtNm>601 Anna Fords Suite 460, Port Kevinchester, Japan</StrtNm>
+                   <Ctry>Japan</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Hayes, Key and Stuart</Nm>
+               <PstlAdr>
+                   <StrtNm>842 Brian Burg Apt. 715, Taylorland, Hong Kong</StrtNm>
+                   <Ctry>Hong Kong</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ICBKCNBJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BOJZBJZAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-83357</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.968570</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-83357</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.968571</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="AUD">124861.85</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Nguyen Group</Nm>
+               <PstlAdr>
+                   <StrtNm>65684 Norma Road Apt. 779, Joebury, China</StrtNm>
+                   <Ctry>China</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Scott-Thompson</Nm>
+               <PstlAdr>
+                   <StrtNm>2362 Carolyn Squares, Kellerport, Japan</StrtNm>
+                   <Ctry>Japan</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

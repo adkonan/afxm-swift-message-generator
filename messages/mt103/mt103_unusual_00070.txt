@@ -1,0 +1,14 @@
+{1:F01ECOCGHANXXX1234567890}{2:O103241204DBSSSGSGXXXXXXXN}{3:{121:1d832985-3db3-44f2-8980-e655062c153b}}{4:
+:20:REF-98690
+:23B:CRED
+:32A:241204SGD0.01
+:50K:/OC8633238
+Campbell, Kemp and Miles
+514 Bobby Track, New Jesse, Ghana
+:57A:DBSSSGSGXXX
+:59:/BEN91060828240347
+Chambers Group
+7878 Bradley Manors Suite 363, New Emily, Singapore
+:70:INV 1E56B0E370BE College tonight their certainly.
+:71A:OUR
+-}{5:{CHK:e7456ce80b}} UNUSUAL REASON: Offshore transaction warning: Payment linked to tax haven jurisdiction.

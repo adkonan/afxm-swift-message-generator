@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BFSWUS33XXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>ECOCCIBAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-71679</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.987549</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-71679</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.987550</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="NOK">107018.40</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Rogers, Bryant and Thompson</Nm>
+               <PstlAdr>
+                   <StrtNm>3192 Simpson Rapid Apt. 529, Lake Stanley, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Henderson-Neal</Nm>
+               <PstlAdr>
+                   <StrtNm>78242 Jerry Fort Suite 378, West Robert, Ivory Coast</StrtNm>
+                   <Ctry>Ivory Coast</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

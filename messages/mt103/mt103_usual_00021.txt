@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240328ECOCGHANXXXXXXXN}{3:{121:9ed46517-ba41-46ee-9c31-e66f9486ac5b}}{4:
+:20:REF-83985
+:23B:CRED
+:32A:240328KWD120773.25
+:50K:/OC2884218
+Thompson, Mills and Harris
+1753 Williams Crossing Apt. 554, New Loriburgh, Netherlands
+:57A:ECOCGHANXXX
+:59:/BEN33278343395984
+Jones-Bates
+201 Boyd Forge, Robinsonview, Ghana
+:70:INV 2AD4EFFC4722 Left suddenly source wind mother community.
+:71A:OUR
+-}{5:{CHK:b618ce39d2}}

@@ -1,0 +1,10 @@
+{1:F01DBSSSGSGXXX1234567890}{2:I202BBVAESMMXXXXXXXN}{3:{121:7651c18f-6f85-4ecc-b448-3b60466d3ad2}}{4:
+:20:REF-77746
+:21:NONREF
+:32A:241129KWD454000.92
+:53B:/570084580
+760 Crystal Lock Suite 795, Sparksmouth, Singapore
+:57A:BBVAESMMXXX
+:58A:/955310666
+925 Charles Summit, Mckeetown, Spain
+-}{5:{CHK:823d8b31b5}} UNUSUAL REASON: High-risk entity detected: DBS Bank Ltd has been flagged for suspicious transactions.

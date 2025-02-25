@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>FBNINGLAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BKCHHKHXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-97408</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.004243</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-97408</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.004245</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="ZAR">352802.14</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Lambert-Vaughn</Nm>
+               <PstlAdr>
+                   <StrtNm>217 Barnett Passage Apt. 685, Aguirremouth, Nigeria</StrtNm>
+                   <Ctry>Nigeria</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Young PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>12301 Henderson Skyway, Port Alisonport, Hong Kong</StrtNm>
+                   <Ctry>Hong Kong</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BBVAESMMXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BMCECMRXXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-11155</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.983003</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-11155</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.983005</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="PHP">407932.64</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>White, Carroll and Brewer</Nm>
+               <PstlAdr>
+                   <StrtNm>417 April Ridge, East Tyler, Spain</StrtNm>
+                   <Ctry>Spain</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Brooks PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>4336 Ramirez River Suite 967, Gregoryhaven, Morocco</StrtNm>
+                   <Ctry>Morocco</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

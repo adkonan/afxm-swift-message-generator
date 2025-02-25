@@ -1,0 +1,14 @@
+{1:F01DBSSSGSGXXX1234567890}{2:O103240402ABSAZAJJXXXXXXXN}{3:{121:70f1fee8-eedd-4dd0-b04b-e1f1068c67bb}}{4:
+:20:REF-25890
+:23B:CRED
+:32A:240402THB0.01
+:50K:/OC2239832
+Stephens and Sons
+27065 Mark Haven, East Christopher, Singapore
+:57A:ABSAZAJJXXX
+:59:/BEN54920177376776
+Ayala, Cooper and Jones
+8522 Todd Inlet, Jonesmouth, South Africa
+:70:INV 67C67804269B Listen allow whom majority institution expect successful.
+:71A:OUR
+-}{5:{CHK:6fe4f7b66b}} UNUSUAL REASON: USUAL

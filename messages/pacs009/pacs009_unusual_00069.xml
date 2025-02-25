@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BMCECMRXXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>RABONL2UXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-59105</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.043536</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-59105</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.043538</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SEK">1536000.16</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Reynolds-Shaw</Nm>
+               <PstlAdr>
+                   <StrtNm>1438 Miller Square Suite 590, Millerport, Morocco</StrtNm>
+                   <Ctry>Morocco</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Quinn, Quinn and Phillips</Nm>
+               <PstlAdr>
+                   <StrtNm>8645 Robinson Estate, North Rachel, Netherlands</StrtNm>
+                   <Ctry>Netherlands</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

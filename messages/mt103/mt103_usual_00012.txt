@@ -1,0 +1,14 @@
+{1:F01RABONL2UXXX1234567890}{2:O103240226UBSWRIT2XXXXXXXN}{3:{121:2184e6e0-e0dc-4e00-b97f-3e2d944278b4}}{4:
+:20:REF-23173
+:23B:CRED
+:32A:240226CAD75625.14
+:50K:/OC7282677
+Blankenship-Mccarty
+0829 Fox Parks, South Dillonfurt, Netherlands
+:57A:UBSWRIT2XXX
+:59:/BEN34157506947306
+West and Sons
+9722 Thomas Park Suite 717, East Racheltown, Italy
+:70:INV 8B5D0ECC136D Appear class position think.
+:71A:OUR
+-}{5:{CHK:672e50b6ba}}

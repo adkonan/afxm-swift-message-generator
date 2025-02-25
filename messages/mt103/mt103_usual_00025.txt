@@ -1,0 +1,14 @@
+{1:F01SMBCJPJTXXX1234567890}{2:O103250110BARCGB22XXXXXXXN}{3:{121:25aa4cc6-57e8-4924-a191-a37ecda5cff7}}{4:
+:20:REF-59162
+:23B:CRED
+:32A:250110SGD278807.15
+:50K:/OC5439044
+Ball Ltd
+4815 Stewart Prairie Apt. 295, West Daniel, Japan
+:57A:BARCGB22XXX
+:59:/BEN86691598724715
+Williamson, Bryant and Mason
+73168 Thornton Loop Suite 595, Port Crystalburgh, United Kingdom
+:70:INV 5C6F3159737A Why house along.
+:71A:OUR
+-}{5:{CHK:b2aea3d213}}

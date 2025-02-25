@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>HSBCHKHHXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>SOGEFRPPXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-69305</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.953973</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-69305</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.953975</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HUF">22830.04</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Wilson-Nolan</Nm>
+               <PstlAdr>
+                   <StrtNm>842 Brian Burg Apt. 715, Taylorland, Hong Kong</StrtNm>
+                   <Ctry>Hong Kong</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Hodges Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>8393 Henry Village, Leebury, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

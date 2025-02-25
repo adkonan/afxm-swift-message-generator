@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BNPAFRPPXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>STANKEKEXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-35619</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.991136</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-35619</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.991137</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">244662.36</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Castillo PLC</Nm>
+               <PstlAdr>
+                   <StrtNm>66573 Isabel Divide Apt. 131, East Lisa, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Huffman Group</Nm>
+               <PstlAdr>
+                   <StrtNm>7968 Perez Fields, Carlabury, Kenya</StrtNm>
+                   <Ctry>Kenya</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

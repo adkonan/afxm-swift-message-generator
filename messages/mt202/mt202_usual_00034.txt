@@ -1,0 +1,10 @@
+{1:F01SCBLGB2LXXX1234567890}{2:I202BCAOAOAOXXXXXXXN}{3:{121:f1ca3243-4358-4ebb-bed1-e0d76cb92d16}}{4:
+:20:REF-46453
+:21:NONREF
+:32A:240606AUD151686.11
+:53B:/288687442
+135 Romero Trail Suite 202, Allenbury, United Kingdom
+:57A:BCAOAOAOXXX
+:58A:/415243731
+Unknown Address
+-}{5:{CHK:99c37380e4}} UNUSUAL REASON: New high-risk entity: Standard Chartered Bank added to fraud watchlist.

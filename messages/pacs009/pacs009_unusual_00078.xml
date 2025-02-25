@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>SCBLGB2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>HSBCHKHHXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-37287</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.059063</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-37287</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.059067</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="JPY">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Moody, Ward and Garcia</Nm>
+               <PstlAdr>
+                   <StrtNm>928 Anita Isle Suite 725, East Bruceberg, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Chavez-Snyder</Nm>
+               <PstlAdr>
+                   <StrtNm>039 Rodney View Suite 369, South Michael, Hong Kong</StrtNm>
+                   <Ctry>Hong Kong</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: High-risk entity detected: Standard Chartered Bank has been flagged for suspicious transactions. | Red flag: Funds moving rapidly through unrelated entities. | Suspicious transaction details: Lack of clear payment purpose. -->

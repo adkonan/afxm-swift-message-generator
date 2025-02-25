@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ECOCCIBAXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>UBSWCHZHXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-55556</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.020517</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-55556</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.020519</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="HUF">4159085.98</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Coleman, Benton and Carter</Nm>
+               <PstlAdr>
+                   <StrtNm>929 Villanueva Extensions, Nealfort, Ivory Coast</StrtNm>
+                   <Ctry>Ivory Coast</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Cruz Inc</Nm>
+               <PstlAdr>
+                   <StrtNm>27640 Victoria Neck, Lake Janiceside, Switzerland</StrtNm>
+                   <Ctry>Switzerland</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

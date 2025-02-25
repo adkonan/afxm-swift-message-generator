@@ -1,0 +1,14 @@
+{1:F01RBCROYTORXXX1234567890}{2:O103240221DTBKIDJAXXXXXXXN}{3:{121:38093f93-0af9-4fd3-b384-73ca8dad21df}}{4:
+:20:REF-16645
+:23B:CRED
+:32A:240221SGD161522.47
+:50K:/OC6872391
+Thompson, Joseph and Terry
+7467 Hannah Pines, New Lindseyton, Canada
+:57A:DTBKIDJAXXX
+:59:/BEN29726268514794
+Hayes-Roman
+66179 Jones Motorway Suite 077, Washingtonborough, Indonesia
+:70:INV A6167110F36E Take often garden maybe.
+:71A:OUR
+-}{5:{CHK:26cf8e16d4}}

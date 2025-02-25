@@ -1,0 +1,10 @@
+{1:F01CRESCHZZXXX1234567890}{2:I202UOBVSGSGXXXXXXXN}{3:{121:03503687-6a95-4cd8-9568-34a94bb16a63}}{4:
+:20:REF-91116
+:21:NONREF
+:32A:240416JPY3283212.38
+:53B:/342035722
+2919 Nicole Ridge, East Lydialand, Switzerland
+:57A:UOBVSGSGXXX
+:58A:/150661848
+7878 Bradley Manors Suite 363, New Emily, Singapore
+-}{5:{CHK:15dfa65979}} UNUSUAL REASON: Compliance alert: Payment routed through Cuba, requiring review.

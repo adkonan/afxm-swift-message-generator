@@ -1,0 +1,14 @@
+{1:F01CHASUS33XXX1234567890}{2:O103240816DBSSSGSGXXXXXXXN}{3:{121:9c16878e-bfe0-433f-89d1-4d4a7b46bbde}}{4:
+:20:REF-52510
+:23B:CRED
+:32A:240816DKK462104.50
+:50K:/OC1829484
+Reyes, Williams and Oliver
+36074 Susan Highway Apt. 474, West Dustin, United States
+:57A:DBSSSGSGXXX
+:59:/BEN86312203042007
+Ray, Maddox and Lawrence
+9468 Timothy Drives, East Christopherburgh, Singapore
+:70:INV D86A7CB95B93 Everything want TV responsibility area later.
+:71A:OUR
+-}{5:{CHK:caa3a46b23}}

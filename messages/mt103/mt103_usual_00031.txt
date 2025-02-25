@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103240408BICIBFBFXXXXXXXN}{3:{121:4ce2efa4-557b-4911-bed6-640a54dae317}}{4:
+:20:REF-83289
+:23B:CRED
+:32A:240408KWD164209.46
+:50K:/OC8868980
+Jones, Navarro and Nicholson
+935 Castro Inlet Suite 366, North Maryberg, United Kingdom
+:57A:BICIBFBFXXX
+:59:/BEN74505874443288
+Dorsey PLC
+513 Brian Curve Suite 840, North Jacquelinemouth, Burkina Faso
+:70:INV 5F05335EF124 Agency answer loss step father.
+:71A:OUR
+-}{5:{CHK:04dc21dcd5}}

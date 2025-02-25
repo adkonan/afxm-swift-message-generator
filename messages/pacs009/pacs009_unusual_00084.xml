@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>OCBCSGSGXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CIBCCATTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-23761</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.068068</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-23761</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.068071</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="DKK">2496089.35</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Cook Ltd</Nm>
+               <PstlAdr>
+                   <StrtNm>087 Lauren Walks, Phelpsland, Singapore</StrtNm>
+                   <Ctry>Singapore</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Peterson and Sons</Nm>
+               <PstlAdr>
+                   <StrtNm>380 Brown Road, Jonesshire, Canada</StrtNm>
+                   <Ctry>Canada</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

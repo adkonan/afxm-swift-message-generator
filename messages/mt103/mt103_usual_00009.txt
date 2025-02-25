@@ -1,0 +1,14 @@
+{1:F01INGBNL2AXXX1234567890}{2:O103240805BBVAESMMXXXXXXXN}{3:{121:bb7e2ccd-4eb0-481a-8ea0-0677a493b91a}}{4:
+:20:REF-85374
+:23B:CRED
+:32A:240805NOK44966.93
+:50K:/OC7392284
+Jones-Mclaughlin
+8645 Robinson Estate, North Rachel, Netherlands
+:57A:BBVAESMMXXX
+:59:/BEN85652918567229
+Mccarthy-Johnson
+78778 Patrick Cove, Zhangport, Spain
+:70:INV 90F4B98E6B12 Policy hope class think question yet part.
+:71A:OUR
+-}{5:{CHK:ce97f18839}}

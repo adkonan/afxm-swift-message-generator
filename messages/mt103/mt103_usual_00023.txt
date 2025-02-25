@@ -1,0 +1,14 @@
+{1:F01BARCGB22XXX1234567890}{2:O103241226RABONL2UXXXXXXXN}{3:{121:ba3b4a8c-5a44-4629-83ee-5c99a9d7a327}}{4:
+:20:REF-79292
+:23B:CRED
+:32A:241226NZD191831.34
+:50K:/OC4191037
+Randolph-Shea
+99471 Andrew Road, Carrieville, United Kingdom
+:57A:RABONL2UXXX
+:59:/BEN96499848342904
+Davis, Young and Valdez
+8645 Robinson Estate, North Rachel, Netherlands
+:70:INV 667EE1F7E722 Question claim measure place.
+:71A:OUR
+-}{5:{CHK:a9f5126dc4}}

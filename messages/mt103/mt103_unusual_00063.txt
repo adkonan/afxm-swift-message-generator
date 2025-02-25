@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240408BNPAGB22XXXXXXXN}{3:{121:cf1580d1-e389-4c75-b525-d1152837da97}}{4:
+:20:REF-72221
+:23B:CRED
+:32A:240408SAR0.01
+:50K:/OC3913876
+Marsh and Sons
+04428 Arthur Grove Suite 786, Jenningsburgh, Switzerland
+:57A:BNPAGB22XXX
+:59:/BEN60352470389382
+Henson, Harris and Benjamin
+945 Roth Ville, Lake Edwardburgh, United Kingdom
+:70:INV 50723CAEB5E6 Value million authority chair.
+:71A:OUR
+-}{5:{CHK:5e2a57804f}} UNUSUAL REASON: USUAL

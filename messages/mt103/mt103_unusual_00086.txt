@@ -1,0 +1,14 @@
+{1:F01BKCHHKHXXXX1234567890}{2:O103241102GTBINGLAXXXXXXXN}{3:{121:a9cc612e-3f72-4b3f-abcd-b10d011cf54c}}{4:
+:20:REF-72680
+:23B:CRED
+:32A:241102QAR0.01
+:50K:/OC7834319
+Jones, Hill and Cox
+587 Weiss Harbor Suite 917, East Cheyennehaven, Hong Kong
+:57A:GTBINGLAXXX
+:59:/BEN39638587524933
+Herrera-Wallace
+943 Hawkins Estates Apt. 644, New Spencerfurt, Nigeria
+:70:INV 8A6F1F78B392 Sure medical notice rest.
+:71A:OUR
+-}{5:{CHK:fd71be8e16}} UNUSUAL REASON: USUAL

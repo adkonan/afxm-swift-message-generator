@@ -1,0 +1,14 @@
+{1:F01SCBLGB2LXXX1234567890}{2:O103240825NEDSZAJJXXXXXXXN}{3:{121:9e6f4655-8ee7-471d-8624-c8a8a6ebd434}}{4:
+:20:REF-45731
+:23B:CRED
+:32A:240825USD1057770.15
+:50K:/OC4252074
+Whitehead-Larson
+808 Harrison Extensions Suite 238, Lake Annaland, United Kingdom
+:57A:NEDSZAJJXXX
+:59:/BEN13084543253252
+Kirby, Ali and Douglas
+5037 Larsen Stravenue Suite 045, East Curtisfort, South Africa
+:70:INV 4166E2F889E1 Four industry suffer then.
+:71A:OUR
+-}{5:{CHK:17f23c138d}} UNUSUAL REASON: USUAL

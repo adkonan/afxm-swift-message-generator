@@ -1,0 +1,14 @@
+{1:F01ABSAZAJJXXX1234567890}{2:O103240709UOBVSGSGXXXXXXXN}{3:{121:e80927a5-2f7b-40c1-8569-df4d713253a0}}{4:
+:20:REF-62368
+:23B:CRED
+:32A:240709CHF419115.36
+:50K:/OC6647609
+King-Herring
+592 John Valleys, Natashatown, South Africa
+:57A:UOBVSGSGXXX
+:59:/BEN10930082419312
+Haas, Olson and Watson
+6442 Robert Loop Apt. 047, Dianamouth, Singapore
+:70:INV E6DA0EC3CEFE Industry activity important recent because idea heavy.
+:71A:OUR
+-}{5:{CHK:825d38bf4a}}

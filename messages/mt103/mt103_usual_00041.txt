@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103250109HSBCGB2LXXXXXXXN}{3:{121:09684253-48aa-4d3d-a179-671b0b70786a}}{4:
+:20:REF-64294
+:23B:CRED
+:32A:250109DKK319211.50
+:50K:/OC1206110
+Barnes-Hamilton
+22787 Cynthia Manor, Davisberg, Switzerland
+:57A:HSBCGB2LXXX
+:59:/BEN17463982137473
+Peters-Gonzales
+877 Massey Walk Apt. 255, Allentown, United Kingdom
+:70:INV 8754A4EF7ADF Fast type price less opportunity support.
+:71A:OUR
+-}{5:{CHK:c779644471}}

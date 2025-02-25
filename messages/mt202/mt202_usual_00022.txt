@@ -1,0 +1,10 @@
+{1:F01RABONL2UXXX1234567890}{2:I202NEDSZAJJXXXXXXXN}{3:{121:a1756a96-e6b3-473c-b257-372c2d6e26ec}}{4:
+:20:REF-32120
+:21:NONREF
+:32A:240924THB436042.81
+:53B:/870949823
+3891 Hernandez Ridges, Leefurt, Netherlands
+:57A:NEDSZAJJXXX
+:58A:/412279079
+69771 Justin Vista Suite 646, South Edwardside, South Africa
+-}{5:{CHK:5f6a99642f}} UNUSUAL REASON: High-risk entity detected: Rabobank has been flagged for suspicious transactions.

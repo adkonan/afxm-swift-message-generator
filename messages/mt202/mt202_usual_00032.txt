@@ -1,0 +1,10 @@
+{1:F01UBSWRIT2XXX1234567890}{2:I202NATXFRPPXXXXXXXN}{3:{121:57cb3cc5-fe1e-4c49-9b98-303994fe3713}}{4:
+:20:REF-59054
+:21:NONREF
+:32A:241013CZK101989.43
+:53B:/110624865
+317 Taylor Flats Apt. 402, Wilsonfurt, Italy
+:57A:NATXFRPPXXX
+:58A:/750500667
+027 Lucas Mission, Lake Hannah, France
+-}{5:{CHK:bd12a2b032}} UNUSUAL REASON: Compliance review needed: Payment instructions contain vague or misleading terms.

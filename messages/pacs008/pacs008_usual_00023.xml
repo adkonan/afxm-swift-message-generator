@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CIBCCATTXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CITIUS33XXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-46458</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.974472</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-46458</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.974474</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SGD">148621.43</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Elliott-Massey</Nm>
+               <PstlAdr>
+                   <StrtNm>4607 Evans Trace Apt. 988, South Sierra, Canada</StrtNm>
+                   <Ctry>Canada</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Johnson-Williams</Nm>
+               <PstlAdr>
+                   <StrtNm>209 Keller Estate Apt. 625, Hansonchester, United States</StrtNm>
+                   <Ctry>United States</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>

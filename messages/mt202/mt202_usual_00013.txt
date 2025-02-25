@@ -1,0 +1,10 @@
+{1:F01DBSAZAJJXXX1234567890}{2:I202RABONL2UXXXXXXXN}{3:{121:d8c533a4-6468-4bab-868f-82ece02c1276}}{4:
+:20:REF-48633
+:21:NONREF
+:32A:240730BRL268094.66
+:53B:/134073442
+592 John Valleys, Natashatown, South Africa
+:57A:RABONL2UXXX
+:58A:/780078558
+53967 Heather Highway, Owenston, Netherlands
+-}{5:{CHK:a6f1667516}} UNUSUAL REASON: Potential shell company: Development Bank of South Africa has been associated with anomalies before.

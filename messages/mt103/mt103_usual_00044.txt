@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103250208ECOCMLABXXXXXXXN}{3:{121:f65cb6ae-9d9f-4bec-b284-18f5b56dacda}}{4:
+:20:REF-82536
+:23B:CRED
+:32A:250208QAR216865.76
+:50K:/OC1519053
+Clark Ltd
+388 Walsh Valley Apt. 623, New Robert, Nigeria
+:57A:ECOCMLABXXX
+:59:/BEN95701408349787
+Hernandez-Williams
+135 Charles Point Suite 859, East Christopher, Mali
+:70:INV 03F4FBBC8B47 By attack company campaign figure page interest more.
+:71A:OUR
+-}{5:{CHK:ccfcf14bca}}

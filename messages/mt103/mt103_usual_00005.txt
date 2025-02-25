@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240428BICIBFBFXXXXXXXN}{3:{121:5c72c0e7-ada5-4a2a-b4d3-18a350d30302}}{4:
+:20:REF-49510
+:23B:CRED
+:32A:240428ZAR84695.35
+:50K:/OC9424619
+Roberts-Castillo
+22787 Cynthia Manor, Davisberg, Switzerland
+:57A:BICIBFBFXXX
+:59:/BEN46453167885828
+Ellis, Jones and Hoffman
+07183 Stewart Tunnel Apt. 948, South Davidberg, Burkina Faso
+:70:INV 24AB07DA13CE Particularly color author American agent land.
+:71A:OUR
+-}{5:{CHK:83b6326061}}

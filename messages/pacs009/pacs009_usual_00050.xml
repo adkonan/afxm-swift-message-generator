@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>ECOCGHANXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BARCDEFFXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-61616</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.012146</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-61616</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.012147</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="GBP">321966.50</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Johnson, White and Mcguire</Nm>
+               <PstlAdr>
+                   <StrtNm>30295 Eric Inlet Apt. 849, Lake Stacey, Ghana</StrtNm>
+                   <Ctry>Ghana</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Klein-Gibson</Nm>
+               <PstlAdr>
+                   <StrtNm>423 Garcia View, East Colin, Germany</StrtNm>
+                   <Ctry>Germany</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload>

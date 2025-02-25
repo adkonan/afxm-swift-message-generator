@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>HSBCGB2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CIBCCATTXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-50067</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.021860</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-50067</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.021862</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="PHP">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Murphy, King and Atkinson</Nm>
+               <PstlAdr>
+                   <StrtNm>6719 Amanda Plains Apt. 377, Christinaville, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Wheeler-Walker</Nm>
+               <PstlAdr>
+                   <StrtNm>80774 George Gardens Apt. 699, West Morganland, Canada</StrtNm>
+                   <Ctry>Canada</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Red flag: Funds moving rapidly through unrelated entities. -->

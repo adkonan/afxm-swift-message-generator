@@ -1,0 +1,14 @@
+{1:F01DTBKIDJAXXX1234567890}{2:O103241222BOJZBJZAXXXXXXXN}{3:{121:40e1c342-3ad2-4f37-b754-5ecf1001e71c}}{4:
+:20:REF-86088
+:23B:CRED
+:32A:241222KRW0.01
+:50K:/OC1235954
+Merritt-Sherman
+130 Susan Roads Apt. 336, Comptonton, Indonesia
+:57A:BOJZBJZAXXX
+:59:/BEN48138947398335
+House Group
+9358 Corey Gardens Suite 443, South Elizabethport, Japan
+:70:INV 048C102EB2E5 Consider capital interview would.
+:71A:OUR
+-}{5:{CHK:9b7081e219}} UNUSUAL REASON: High-risk account: Transaction from a newly created financial account.

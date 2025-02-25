@@ -1,0 +1,14 @@
+{1:F01BARCDEFFXXX1234567890}{2:O103240921BICIBFBFXXXXXXXN}{3:{121:433fa5e9-8e9c-4fd7-a852-73bba971556f}}{4:
+:20:REF-12526
+:23B:CRED
+:32A:240921JPY0.01
+:50K:/OC4190886
+Dixon, Gilmore and Sheppard
+737 Christopher Pines Apt. 952, Smallfort, Germany
+:57A:BICIBFBFXXX
+:59:/BEN64742289053345
+Roberts and Sons
+9010 Johnson Union Apt. 805, Wilsonshire, Burkina Faso
+:70:INV A29B07F0F11A Area ask mention audience.
+:71A:OUR
+-}{5:{CHK:38e9efc9aa}} UNUSUAL REASON: USUAL

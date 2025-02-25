@@ -1,0 +1,14 @@
+{1:F01STANKEKEXXX1234567890}{2:O103241130FBNINGLAXXXXXXXN}{3:{121:1ea8173d-2d83-46cf-9a0a-0aa54b8cffef}}{4:
+:20:REF-95303
+:23B:CRED
+:32A:241130HUF1547751.19
+:50K:/OC6259852
+Smith, Brown and Jones
+7773 Jennifer Camp, West Bethany, Kenya
+:57A:FBNINGLAXXX
+:59:/BEN73394251910269
+Valentine LLC
+996 Michael Lodge Suite 859, Lake Karen, Nigeria
+:70:INV A683CF82EE98 Story should type gas animal power seek town.
+:71A:OUR
+-}{5:{CHK:6aa5375fcd}} UNUSUAL REASON: New high-risk entity: Smith, Brown and Jones added to fraud watchlist.

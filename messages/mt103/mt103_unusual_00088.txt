@@ -1,0 +1,14 @@
+{1:F01CRESCHZZXXX1234567890}{2:O103240930ECOCGHANXXXXXXXN}{3:{121:489647da-7e69-4594-9f7a-5d2786fffab8}}{4:
+:20:REF-57071
+:23B:CRED
+:32A:240930THB0.01
+:50K:/OC8030872
+Lewis, Nelson and Butler
+23233 Horton Fall Suite 771, South Danielle, Switzerland
+:57A:ECOCGHANXXX
+:59:/BEN52587482890154
+Romero-Santos
+7150 Harris Crossing Suite 119, West Elizabethfurt, Ghana
+:70:INV DCE6ADB4EC4B Natural sea hit enjoy key response.
+:71A:OUR
+-}{5:{CHK:857c77d7a9}} UNUSUAL REASON: Non-standard payment description detected.

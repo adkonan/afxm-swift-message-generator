@@ -1,0 +1,14 @@
+{1:F01ZENITHNGLAXXX1234567890}{2:O103241221CIBCCATTXXXXXXXN}{3:{121:965d03ff-c3c8-4f55-9fd7-4083353ba71a}}{4:
+:20:REF-19165
+:23B:CRED
+:32A:241221NOK474804.60
+:50K:/OC6472282
+Carr-Stone
+498 Green Alley, East Jane, Nigeria
+:57A:CIBCCATTXXX
+:59:/BEN27727287847500
+Taylor, Kelly and Morales
+11343 Anderson Station Suite 444, North Bill, Canada
+:70:INV 6FB0DE0BD4D2 Great Republican land specific risk claim.
+:71A:OUR
+-}{5:{CHK:cce77e01d7}}

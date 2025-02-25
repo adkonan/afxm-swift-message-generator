@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BICIBFBFXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>CRESCHZZXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-62907</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.059817</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-62907</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.059821</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="CAD">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Miller, Chambers and Jimenez</Nm>
+               <PstlAdr>
+                   <StrtNm>7606 Beltran Spurs, Port James, Burkina Faso</StrtNm>
+                   <Ctry>Burkina Faso</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Nichols-Burns</Nm>
+               <PstlAdr>
+                   <StrtNm>042 George Trafficway Apt. 116, Ellenville, Switzerland</StrtNm>
+                   <Ctry>Switzerland</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

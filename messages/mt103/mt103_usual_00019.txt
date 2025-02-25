@@ -1,0 +1,14 @@
+{1:F01ZURICHZCHXXX1234567890}{2:O103240321RABONL2UXXXXXXXN}{3:{121:6f29977d-8828-4538-9291-fde814d83147}}{4:
+:20:REF-22631
+:23B:CRED
+:32A:240321HUF435513.97
+:50K:/OC9636890
+Thomas Inc
+2919 Nicole Ridge, East Lydialand, Switzerland
+:57A:RABONL2UXXX
+:59:/BEN25311416878200
+Thomas LLC
+0829 Fox Parks, South Dillonfurt, Netherlands
+:70:INV 2B17FEFBCFF0 Organization dinner son market cell check theory.
+:71A:OUR
+-}{5:{CHK:9ca73e9d58}}

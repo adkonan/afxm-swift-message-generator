@@ -1,0 +1,14 @@
+{1:F01NATXFRPPXXX1234567890}{2:O103240903KFWDEFFXXXXXXXN}{3:{121:84cc00ff-22aa-4ca5-908f-1951195144e7}}{4:
+:20:REF-50176
+:23B:CRED
+:32A:240903ILS128788.39
+:50K:/OC4187945
+Meyer-Hernandez
+92597 Patrick Center Suite 040, Annefurt, France
+:57A:KFWDEFFXXX
+:59:/BEN34321506441942
+Simpson-Estrada
+76646 Joshua Mountains Suite 164, Piercehaven, Germany
+:70:INV 9CDAB5B00882 After successful third receive room us easy maybe.
+:71A:OUR
+-}{5:{CHK:6cec588f6a}}

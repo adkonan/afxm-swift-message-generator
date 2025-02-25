@@ -1,0 +1,14 @@
+{1:F01HSBCHKHHXXX1234567890}{2:O103250107BBVAESMMXXXXXXXN}{3:{121:109cbd3e-c456-451c-b4fd-f5e96cb54bc7}}{4:
+:20:REF-18130
+:23B:CRED
+:32A:250107ZAR0.01
+:50K:/OC9793689
+Thomas-Mcintosh
+629 John Ridges Suite 842, Thomashaven, Hong Kong
+:57A:BBVAESMMXXX
+:59:/BEN72654367527890
+Porter and Sons
+242 Schultz Mountains, West Matthewborough, Spain
+:70:INV FBFBA1D571EE Whose serious ask edge share community big high.
+:71A:OUR
+-}{5:{CHK:7506a15e2b}} UNUSUAL REASON: New high-risk entity: Thomas-Mcintosh added to fraud watchlist.

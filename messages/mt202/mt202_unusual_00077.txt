@@ -1,0 +1,10 @@
+{1:F01BICIBFBFXXX1234567890}{2:I202CITIUS33XXXXXXXN}{3:{121:f742d2fa-7919-46b5-bb6c-c209fc381935}}{4:
+:20:REF-13026
+:21:NONREF
+:32A:241125SGD3191735.30
+:53B:/494155419
+07183 Stewart Tunnel Apt. 948, South Davidberg, Burkina Faso
+:57A:CITIUS33XXX
+:58A:/825193667
+08607 Wilson Junction Apt. 939, South Brentland, United States
+-}{5:{CHK:0d1993368b}} UNUSUAL REASON: Compliance review needed: Payment instructions contain vague or misleading terms.

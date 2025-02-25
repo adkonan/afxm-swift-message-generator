@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103240803CRESCHZZXXXXXXXN}{3:{121:085a7900-64fe-4b1c-8306-a99c2734aeba}}{4:
+:20:REF-79946
+:23B:CRED
+:32A:240803ILS40331.38
+:50K:/OC5421970
+Owens, Flores and Lee
+26521 Wood Grove, Garciaton, Burkina Faso
+:57A:CRESCHZZXXX
+:59:/BEN58533244409347
+Shepherd and Sons
+6547 John Harbors Apt. 169, Foxside, Switzerland
+:70:INV 17EC05472B92 Standard new rise maybe face we.
+:71A:OUR
+-}{5:{CHK:f8810c92a8}}

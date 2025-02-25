@@ -1,0 +1,14 @@
+{1:F01CITIUS33XXX1234567890}{2:O103250124RABONL2UXXXXXXXN}{3:{121:ea67e149-3109-4d4e-8b09-7d44d2fa7d44}}{4:
+:20:REF-29779
+:23B:CRED
+:32A:250124TRY0.01
+:50K:/OC2672171
+Harris, Miller and Francis
+4540 Brandon Harbor Apt. 216, Alyssaland, United States
+:57A:RABONL2UXXX
+:59:/BEN28314565292608
+Golden LLC
+06785 Patrick Estate, New Carol, Netherlands
+:70:INV 9D76396AC405 Stock provide possible by place unit.
+:71A:OUR
+-}{5:{CHK:47cb52854f}} UNUSUAL REASON: USUAL

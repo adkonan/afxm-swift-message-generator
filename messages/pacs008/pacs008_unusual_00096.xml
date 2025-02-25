@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>BICIBFBFXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>BOJZBJZAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-43067</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.085285</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-43067</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.085287</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="NZD">0.01</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Moreno, Gordon and Gonzales</Nm>
+               <PstlAdr>
+                   <StrtNm>6692 Tyler Rest Suite 821, Kathyshire, Burkina Faso</StrtNm>
+                   <Ctry>Burkina Faso</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Robinson, Garcia and Mcknight</Nm>
+               <PstlAdr>
+                   <StrtNm>46531 Brittany Prairie Apt. 585, Marshhaven, Japan</StrtNm>
+                   <Ctry>Japan</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Fraud alert: Transaction involves a recently opened or inactive account. -->

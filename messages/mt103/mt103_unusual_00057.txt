@@ -1,0 +1,14 @@
+{1:F01BNPAGB22XXX1234567890}{2:O103241202CIBCCATTXXXXXXXN}{3:{121:bf06053e-f003-4c81-9504-b63b4babb27e}}{4:
+:20:REF-26616
+:23B:CRED
+:32A:241202HKD0.01
+:50K:/OC4918015
+Malone, Barber and Davis
+10998 Jasmin Glens, New Jennifer, United Kingdom
+:57A:CIBCCATTXXX
+:59:/BEN80064866363406
+Thompson-Austin
+3822 Burch Drive Suite 510, West Evelyn, Canada
+:70:INV CC7F4244C184 Resource policy meet order peace.
+:71A:OUR
+-}{5:{CHK:0fde194589}} UNUSUAL REASON: USUAL

@@ -1,0 +1,10 @@
+{1:F01FIRNZAJJXXX1234567890}{2:I202ICBKCNBJXXXXXXXN}{3:{121:1fbeff3b-55be-45cd-afca-0a704b94991f}}{4:
+:20:REF-34598
+:21:NONREF
+:32A:240514THB244028.65
+:53B:/179969210
+687 Nicholas Points, West Jacquelineberg, South Africa
+:57A:ICBKCNBJXXX
+:58A:/415715496
+4106 James Dale Suite 361, South Kevin, China
+-}{5:{CHK:4c526980fa}} UNUSUAL REASON: Compliance alert: Payment routed through Venezuela, requiring review.

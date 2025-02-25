@@ -1,0 +1,14 @@
+{1:F01ICBKCNBJXXX1234567890}{2:O103240530DEUTDEFFXXXXXXXN}{3:{121:735c2052-2b7a-4450-b4c5-2bddcb4aa299}}{4:
+:20:REF-39269
+:23B:CRED
+:32A:240530QAR120079.55
+:50K:/OC9079000
+Bridges and Sons
+386 Amanda Extension, West Michaelberg, China
+:57A:DEUTDEFFXXX
+:59:/BEN15083851800681
+Suarez, Cervantes and Garcia
+488 Jason Station, West Erikamouth, Germany
+:70:INV D8488D80B79B Common step do movement particularly talk strong.
+:71A:OUR
+-}{5:{CHK:77fefeda60}}

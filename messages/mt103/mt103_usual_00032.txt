@@ -1,0 +1,14 @@
+{1:F01BBVAESMMXXX1234567890}{2:O103240706SCBLGB2LXXXXXXXN}{3:{121:4cf28721-1632-46c2-aca8-662129403805}}{4:
+:20:REF-77787
+:23B:CRED
+:32A:240706IDR106890.62
+:50K:/OC7628251
+Mercado-Anderson
+638 Rachel Field Apt. 287, West Amandaville, Spain
+:57A:SCBLGB2LXXX
+:59:/BEN58411528825936
+Jacobs-Hawkins
+59950 Jerry Plains, Riverahaven, United Kingdom
+:70:INV 19B34BBFF8D7 Left discover this final professor modern.
+:71A:OUR
+-}{5:{CHK:9a3bf2c551}}

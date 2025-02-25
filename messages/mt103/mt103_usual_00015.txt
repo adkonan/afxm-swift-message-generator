@@ -1,0 +1,14 @@
+{1:F01AFRIGHACXXX1234567890}{2:O103240710KFWDEFFXXXXXXXN}{3:{121:8b1cdad8-a788-49ab-9e77-e710dc8448d9}}{4:
+:20:REF-58556
+:23B:CRED
+:32A:240710CZK292876.86
+:50K:/OC6942823
+Wilson-Sanchez
+7912 James Corners, Allisonstad, Ghana
+:57A:KFWDEFFXXX
+:59:/BEN77207098829590
+Romero Group
+135 Tucker Parkways, Hernandezmouth, Germany
+:70:INV 20D6AD8E97A4 For exist finally that.
+:71A:OUR
+-}{5:{CHK:fd0edf8e9d}}

@@ -1,0 +1,10 @@
+{1:F01BOJZBJZAXXX1234567890}{2:I202ICBKCNBJXXXXXXXN}{3:{121:098391ab-4b09-463e-9dde-782c2d0a6315}}{4:
+:20:REF-57596
+:21:NONREF
+:32A:240608PHP0.01
+:53B:/614495636
+344 Harris Fords, Lake Luismouth, Japan
+:57A:ICBKCNBJXXX
+:58A:/610734548
+386 Amanda Extension, West Michaelberg, China
+-}{5:{CHK:a8f87c434a}} UNUSUAL REASON: Financial secrecy risk: Destination country known for weak regulatory oversight.

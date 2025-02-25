@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>CRESIT2LXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>NATXFRPPXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-87970</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.012734</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-87970</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.012749</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="IDR">2819836.81</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Willis, Black and Hawkins</Nm>
+               <PstlAdr>
+                   <StrtNm>8295 John Dam Suite 689, Hernandezfurt, Italy</StrtNm>
+                   <Ctry>Italy</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Murphy, Anderson and Jones</Nm>
+               <PstlAdr>
+                   <StrtNm>996 Seth Shoals, Adamsville, France</StrtNm>
+                   <Ctry>France</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: Fraud alert: Transaction involves a recently opened or inactive account. | Fast fund transfers detected: Money moving between multiple accounts. -->

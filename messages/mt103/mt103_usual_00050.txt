@@ -1,0 +1,14 @@
+{1:F01NEDSZAJJXXX1234567890}{2:O103250107INGBNL2AXXXXXXXN}{3:{121:8c51c618-7031-4f81-836a-fc2f59a24227}}{4:
+:20:REF-91434
+:23B:CRED
+:32A:250107EUR71799.64
+:50K:/OC1911291
+Davis, Turner and Ramsey
+373 Parks Harbors Apt. 312, Patriciastad, South Africa
+:57A:INGBNL2AXXX
+:59:/BEN41500051454073
+Mcbride, Garza and Johnson
+3809 Charles Vista Suite 676, Russellmouth, Netherlands
+:70:INV 17B3B26177DC Administration message sport car.
+:71A:OUR
+-}{5:{CHK:86698872f4}}

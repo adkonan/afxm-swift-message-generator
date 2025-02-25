@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>NEDSZAJJXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>STANGB2LXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-79986</BizMsgIdr>
+      <MsgDefIdr>pacs.009.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:19.094203</CreDt>
+   </AppHdr>
+   <Document>
+      <FICdtTrf>
+         <GrpHdr>
+            <MsgId>REF-79986</MsgId>
+            <CreDtTm>2025-02-20T19:06:19.094204</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="PLN">1167401.59</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Pittman and Sons</Nm>
+               <PstlAdr>
+                   <StrtNm>373 Parks Harbors Apt. 312, Patriciastad, South Africa</StrtNm>
+                   <Ctry>South Africa</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Carr Group</Nm>
+               <PstlAdr>
+                   <StrtNm>96766 Williams Dale Suite 141, Port Nicholas, United Kingdom</StrtNm>
+                   <Ctry>United Kingdom</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FICdtTrf>
+   </Document>
+</RequestPayload><!-- UNUSUAL REASON: USUAL -->

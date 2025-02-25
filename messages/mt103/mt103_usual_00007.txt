@@ -1,0 +1,14 @@
+{1:F01BCAOAOAOXXX1234567890}{2:O103241030OCBCSGSGXXXXXXXN}{3:{121:10f5b77e-7f39-46c0-a649-3b0d9bff8b0d}}{4:
+:20:REF-81064
+:23B:CRED
+:32A:241030IDR327455.36
+:50K:/OC1041068
+Kane, Pierce and Nelson
+Unknown Address
+:57A:OCBCSGSGXXX
+:59:/BEN55401528700147
+Young and Sons
+97665 Henson View, Jamesville, Singapore
+:70:INV 60B116443592 Determine least your maybe conference teacher green.
+:71A:OUR
+-}{5:{CHK:7ff0a73fc1}}

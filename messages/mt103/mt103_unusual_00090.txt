@@ -1,0 +1,14 @@
+{1:F01BICIBFBFXXX1234567890}{2:O103241204BNPAGB22XXXXXXXN}{3:{121:e68e9ff3-6af9-4f4e-be50-0ad748344f8d}}{4:
+:20:REF-81357
+:23B:CRED
+:32A:241204IDR1087427.59
+:50K:/OC5609693
+Lee, Little and Adams
+1107 Simmons Stream, West Randallville, Burkina Faso
+:57A:BNPAGB22XXX
+:59:/BEN42344251965601
+White, Villanueva and Harris
+6783 Katherine Fields, Port Michael, United Kingdom
+:70:INV 2F35F712D6E7 Including clearly that tax up rock north.
+:71A:OUR
+-}{5:{CHK:72ad593b07}} UNUSUAL REASON: USUAL

@@ -1,0 +1,10 @@
+{1:F01DBSSSGSGXXX1234567890}{2:I202CRESIT2LXXXXXXXN}{3:{121:c1038ab4-fbcd-486c-ab25-25914fbdb0c5}}{4:
+:20:REF-28479
+:21:NONREF
+:32A:241125CAD375080.61
+:53B:/361637379
+52700 Kimberly Grove Apt. 957, North Kristy, Singapore
+:57A:CRESIT2LXXX
+:58A:/451762365
+322 Sydney Trace Apt. 774, Lake Jose, Italy
+-}{5:{CHK:6492b739ca}} UNUSUAL REASON: Potential shell company: DBS Bank Ltd has been associated with anomalies before. | Fraud alert: Transaction involves a recently opened or inactive account.

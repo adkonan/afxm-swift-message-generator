@@ -1,0 +1,14 @@
+{1:F01FBNINGLAXXX1234567890}{2:O103240407BCAOAOAOXXXXXXXN}{3:{121:28967501-3a0e-40d2-b753-4b525ff0a2f2}}{4:
+:20:REF-34907
+:23B:CRED
+:32A:240407CAD3209308.55
+:50K:/OC4442457
+Fernandez-Dudley
+943 Hawkins Estates Apt. 644, New Spencerfurt, Nigeria
+:57A:BCAOAOAOXXX
+:59:/BEN65599831392774
+Cruz LLC
+Unknown Address
+:70:INV 7111A113C033 Them travel too conference from determine turn speak.
+:71A:OUR
+-}{5:{CHK:391ca9622d}} UNUSUAL REASON: Red flag: Funds moving rapidly through unrelated entities.

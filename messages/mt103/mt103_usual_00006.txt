@@ -1,0 +1,14 @@
+{1:F01BOFAUS3NXXX1234567890}{2:O103240427DTBKIDJAXXXXXXXN}{3:{121:bbe4467a-266f-4069-a40c-d485bf738900}}{4:
+:20:REF-98155
+:23B:CRED
+:32A:240427MXN183986.37
+:50K:/OC9662606
+Allen-Simmons
+422 Walton Ferry Apt. 169, Darrenmouth, United States
+:57A:DTBKIDJAXXX
+:59:/BEN58191886454160
+Huber, Montgomery and Thompson
+1832 Steven Mews Apt. 903, Brianburgh, Indonesia
+:70:INV 6EFE8C91AC82 Law expect three season both report set.
+:71A:OUR
+-}{5:{CHK:9df8b92b49}}

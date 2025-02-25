@@ -1,0 +1,14 @@
+{1:F01DBSAZAJJXXX1234567890}{2:O103241118BARCDEFFXXXXXXXN}{3:{121:f92db44b-8737-4a4f-b6e7-48e321741953}}{4:
+:20:REF-18115
+:23B:CRED
+:32A:241118ZAR2638297.23
+:50K:/OC4968872
+Oconnor, Williams and Harris
+058 Washington Mountain, Starkbury, South Africa
+:57A:BARCDEFFXXX
+:59:/BEN13516020535966
+Johnson-Hardin
+6461 Parker Plains, South Glennchester, Germany
+:70:INV 91734965F0EF Citizen yard actually dinner rate present as institution.
+:71A:OUR
+-}{5:{CHK:1eaa23b691}} UNUSUAL REASON: USUAL

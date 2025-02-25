@@ -1,0 +1,10 @@
+{1:F01DBSSSGSGXXX1234567890}{2:I202STANGB2LXXXXXXXN}{3:{121:44ac1e37-df61-4e47-819e-ab3e52fc4e4c}}{4:
+:20:REF-49483
+:21:NONREF
+:32A:240611CZK307962.27
+:53B:/696463865
+552 Newton Ways Suite 191, East Johnview, Singapore
+:57A:STANGB2LXXX
+:58A:/906965320
+35377 Griffin Stravenue, Mcknighthaven, United Kingdom
+-}{5:{CHK:a5d728769e}} UNUSUAL REASON: High-risk entity detected: DBS Bank Ltd has been flagged for suspicious transactions.

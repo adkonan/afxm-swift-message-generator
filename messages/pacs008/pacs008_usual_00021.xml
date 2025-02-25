@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestPayload>
+   <AppHdr>
+      <Fr><FIId><FinInstnId><BICFI>STANKEKEXXX</BICFI></FinInstnId></FIId></Fr>
+      <To><FIId><FinInstnId><BICFI>DTBKIDJAXXX</BICFI></FinInstnId></FIId></To>
+      <BizMsgIdr>REF-77449</BizMsgIdr>
+      <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+      <CreDt>2025-02-20T19:06:18.972281</CreDt>
+   </AppHdr>
+   <Document>
+      <FIToFICstmrCdtTrf>
+         <GrpHdr>
+            <MsgId>REF-77449</MsgId>
+            <CreDtTm>2025-02-20T19:06:18.972282</CreDtTm>
+            <NbOfTxs>1</NbOfTxs>
+         </GrpHdr>
+         <CdtTrfTxInf>
+            <IntrBkSttlmAmt Ccy="SGD">297399.49</IntrBkSttlmAmt>
+            <Dbtr>
+               <Nm>Morales, Carter and Shelton</Nm>
+               <PstlAdr>
+                   <StrtNm>1429 Green Fort Apt. 938, Jordanhaven, Kenya</StrtNm>
+                   <Ctry>Kenya</Ctry>
+               </PstlAdr>
+            </Dbtr>
+            <Cdtr>
+               <Nm>Norton, Fletcher and Peters</Nm>
+               <PstlAdr>
+                   <StrtNm>077 Brian Oval Suite 519, South Jessica, Indonesia</StrtNm>
+                   <Ctry>Indonesia</Ctry>
+               </PstlAdr>
+            </Cdtr>
+         </CdtTrfTxInf>
+      </FIToFICstmrCdtTrf>
+   </Document>
+</RequestPayload>
